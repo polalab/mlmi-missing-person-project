@@ -1,0 +1,5 @@
+Disappearance via Unplanned Exit, [71148, 19649, 72315, 77696, 69507, 63299, 9398, 45827, 77670, 69846, 62952, 42794, 54828, 50767, 10885, 36382, 35831]  
+Disappearance via Exploration of Isolated Areas, [77696, 69507, 63299, 9398, 45827, 54828, 50767, 10885, 36382]  
+Disappearance via Abduction Suspicion, [9398, 45827, 42794, 69846]  
+Disappearance via Voluntary Absence, [54828, 50767, 10885]  
+Disappearance via Getting Disoriented, [62952, 100638, 100639]

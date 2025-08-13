@@ -1,0 +1,36 @@
+Harry Green,Gary Green,father,6197
+Harry Green,Sally Green,sister,6197
+Harry Green,family,family member,6197
+Harry Green,boy,friend,6197
+Harry Green,family,family member,98479
+Harry Green,paranoia,other,98479
+Harry Green,friend,friend,98479
+Harry Green, Eric Howe,acquaintance,98479
+Harry Green,family,family member,3877
+Harry Green,friend,friend,3877
+Harry Green,mother,mother,3877
+Harry Green,brother,brother,3877
+Harry Green,aunt,aunt,3877
+Harry Green,friend,friend,23520
+Harry Green,friend,friend,23520
+Harry Green,aunt,aunt,23520
+Harry Green,grandmother,grandmother,23520
+Harry Green,friend,friend,72375
+Harry Green,sister,sister,72375
+Harry Green,family,family member,72375
+Harry Green,family,family member,43953
+Harry Green,mother,mother,43953
+Harry Green,family,family member,68556
+Harry Green,mother,mother,68556
+Harry Green,aunt,aunt,68556
+Harry Green,study group,friend,68556
+Harry Green,mother,mother,8807
+Harry Green,sister,sister,8807
+Harry Green,brother,brother,8807
+Harry Green,family,family member,8807
+Harry Green,friend,friend,8807
+Harry Green,friend,friend,8807
+Harry Green,family,family member,100451
+Harry Green,aunt,aunt,100451
+Harry Green,friend,friend,100457
+Harry Green,friend,friend,100457

@@ -1,0 +1,5 @@
+Disappearance near or related to waterways,  [71572, 42305, 50955, 15565]  
+Disappearance near or related to military bases,  [93631, 62781, 23319, 50955, 86621, 61952, 102205, 102208, 102211]  
+Disappearance near or related to construction sites,  [62781, 15565, 86621, 61952]  
+Disappearance near or related to public transportation,  [93631, 62781, 61952]  
+Disappearance near or related to group activities,  [71572, 93631, 62781, 50955, 15565, 61952]

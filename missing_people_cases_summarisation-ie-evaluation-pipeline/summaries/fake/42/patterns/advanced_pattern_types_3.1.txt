@@ -1,0 +1,5 @@
+22703,"MP exhibited noticeable personality changes before disappearance",personality_change_pattern,"She had exhibited noticeable personality changes prior to her disappearance."
+22703,"MP failed to attend scheduled activities",no_show_pattern,"Prior to her disappearance, she was supposed to attend extracurricular activities but never arrived."
+31244,"MP exhibited noticeable personality changes before disappearance",personality_change_pattern,"She had exhibited noticeable personality changes prior to her disappearance."
+31244,"MP was found in a location related to her interests",related_interest_location_pattern,"During an intensive search operation, Kate was finally found at 10 Garden Wood, Inchmarlo, a site known to be frequented for camping activities."
+31244,"MP was located with a group of people with similar interests",group_shared_interest_pattern,"Trace operations by police confirmed Kate had been in the area with a group of friends who were similarly interested in outdoor adventures,"

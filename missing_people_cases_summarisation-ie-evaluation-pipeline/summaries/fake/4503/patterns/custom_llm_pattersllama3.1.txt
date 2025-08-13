@@ -1,0 +1,5 @@
+Disappearance via Unplanned Travel, [78750, 41034, 1401, 82966]  
+Disappearance via Online Contact, [48124, 6431, 71841, 102258]  
+Disappearance via Cult Location Interest, [21071, 71841, 79093, 82966, 102260]  
+Disappearance via Suicidal Ideation, [23212, 3346, 79093]  
+Disappearance via Military Base or Related Location, [41034, 6431, 80880, 102262]

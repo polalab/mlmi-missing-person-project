@@ -1,0 +1,336 @@
+Disappearance Record:
+Report number: 48521
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2020-06-27 00:00:00
+Date Reported Missing: 2020-06-27 15:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1206
+When Traced: 2020-06-27 20:06:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Main Raod,  G84 0AH
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 4763
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2020-08-21 20:06:00
+Date Reported Missing: 2020-08-21 23:06:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8160
+When Traced: 2020-08-27 12:06:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: 63-65 Truce Road, Glasgow, G13 3JB
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 17093
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2020-09-02 12:06:00
+Date Reported Missing: 2020-09-03 11:06:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8778
+When Traced: 2020-09-08 14:24:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 49338
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2020-12-03 14:24:00
+Date Reported Missing: 2020-12-03 23:24:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3348
+When Traced: 2020-12-05 22:12:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Cardross Road,  G82 5DH
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 21859
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2021-03-26 22:12:00
+Date Reported Missing: 2021-03-27 09:12:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4171
+When Traced: 2021-03-29 19:43:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: 63-65 Truce Road, Glasgow, G13 3JB
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 76267
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2021-05-07 19:43:00
+Date Reported Missing: 2021-05-08 13:43:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2364
+When Traced: 2021-05-09 11:07:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Cardross Road,  G82 5DH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 96645
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2021-10-05 11:07:00
+Date Reported Missing: 2021-10-05 17:07:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3643
+When Traced: 2021-10-07 23:50:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Main Raod,  G84 0AH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 8977
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2021-12-16 23:50:00
+Date Reported Missing: 2021-12-17 13:50:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8776
+When Traced: 2021-12-23 02:06:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: 112-117 West Clyde Street, Helensburgh, G84 8ES
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 19473
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2022-06-09 02:06:00
+Date Reported Missing: 2022-06-09 07:06:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2905
+When Traced: 2022-06-11 02:31:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 94357
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2022-07-21 02:31:00
+Date Reported Missing: 2022-07-22 03:31:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2958
+When Traced: 2022-07-23 03:49:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 39954
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2022-12-26 03:49:00
+Date Reported Missing: 2022-12-26 14:49:00
+Day Reported Missing: Monday
+Length Missing (minutes): 1013
+When Traced: 2022-12-26 20:42:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Hall Road, Rhu, G84 8RR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 26301
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2023-02-11 20:42:00
+Date Reported Missing: 2023-02-12 14:42:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3163
+When Traced: 2023-02-14 01:25:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Stirling Road, Dumbarton, G82 3RG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 29053
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2023-06-01 01:25:00
+Date Reported Missing: 2023-06-01 14:25:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8665
+When Traced: 2023-06-07 01:50:00
+Missing From Address: 85 Bassett Avenue, Glasgow, G13 3JP (youth center)
+Traced at Address: 63-65 Truce Road, Glasgow, G13 3JB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 88026
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2023-06-14 01:50:00
+Date Reported Missing: 2023-06-15 05:50:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 6363
+When Traced: 2023-06-18 11:53:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: 52a Sinclair Street, Helensburgh, G84 8TQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 19733
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2023-12-08 11:53:00
+Date Reported Missing: 2023-12-09 08:53:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 8122
+When Traced: 2023-12-14 03:15:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Cardross Road,  G82 5DH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 84834
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2024-03-02 03:15:00
+Date Reported Missing: 2024-03-02 03:15:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9355
+When Traced: 2024-03-08 15:10:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 75545
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2024-05-09 15:10:00
+Date Reported Missing: 2024-05-09 22:10:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8148
+When Traced: 2024-05-15 06:58:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: 52a Sinclair Street, Helensburgh, G84 8TQ
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 4646
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2024-10-16 06:58:00
+Date Reported Missing: 2024-10-16 15:58:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5444
+When Traced: 2024-10-20 01:42:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 64036
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2024-12-11 01:42:00
+Date Reported Missing: 2024-12-10 22:42:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 176
+When Traced: 2024-12-11 04:38:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 27854
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2025-03-13 04:38:00
+Date Reported Missing: 2025-03-13 21:38:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1354
+When Traced: 2025-03-14 03:12:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: Fulton Road,  G62 8PG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 63655
+Name: Gavin Smith
+Date of Birth: 2012-07-26
+Sex: Male
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2025-05-03 03:12:00
+Date Reported Missing: 2025-05-03 06:12:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 7312
+When Traced: 2025-05-08 05:04:00
+Missing From Address: 6 Bard Avenue, Glasgow, G13 3JA (Home)
+Traced at Address: 63-65 Truce Road, Glasgow, G13 3JB
+Traced by: Traced by Police
+

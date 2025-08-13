@@ -1,0 +1,5 @@
+Disappearance near a well or body of water, [31884, 43764, 6010, 69942, 39788]  
+Disappearance near an alleyway, [24995, 30193, 36071, 16551, 36607]  
+Disappearance near a church, [24995, 33589, 36083, 25946, 85050]  
+Disappearance after leaving a job or unexpected departure, [24995, 43764, 30193, 56277, 58813]  
+Disappearance due to disorientation or confusion, [39950, 51468, 88740, 28483, 54136]

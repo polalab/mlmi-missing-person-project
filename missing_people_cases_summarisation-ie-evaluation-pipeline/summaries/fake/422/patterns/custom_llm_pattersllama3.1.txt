@@ -1,0 +1,5 @@
+Rushed Departure, [6197, 3877, 72375, 43953, 68556]  
+Unexpected Departure, [8807, 98479]  
+Paranoia about Surveillance, [98479, 3877, 23520, 8807, 100456]  
+Sleeping Rough, [6197, 43953, 100457]  
+Unplanned Travel, [43953, 8807]

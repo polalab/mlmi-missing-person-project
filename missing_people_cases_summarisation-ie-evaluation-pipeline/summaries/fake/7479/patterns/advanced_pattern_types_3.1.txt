@@ -1,0 +1,6 @@
+22623,"MP attempted to make noose round her neck and hang from same however was quickly assisted.",self_harm_attempt_pattern,"MP attempted to make noose round her neck and hang from same however was quickly assisted."
+99400,"MP sought guidance and reassurance about her health from a professional.",health_concern_guidance_pattern,"When finally traced by police at a medical clinic on Balmuildy Road, G64 3HD, it was discovered she had sought guidance and reassurance about her health from a professional,"
+100507,"MP became disoriented and confused due to her dementia.",dementia_disorientation_pattern,"The colleague promptly assisted, staying with her until she reached her destination safely, ensuring her wellbeing."
+22623,"MP was traveling through an unfamiliar foreign country and lost her way.",unfamiliar_location_disorientation_pattern,"Traveling through an unfamiliar foreign country, Alexandra lost her way."
+99400,"MP was troubled by a recent doctor's recommendation.",doctor_recommendation_trouble_pattern,"A friend reported that Alexandra mentioned being troubled by a recent doctor's recommendation and expressed the need for fresh air."
+100510,"MP left during a storm and was found in an abandoned building.",storm_abandonment_pattern,"Alexandra left during a storm, found in abandoned building in foreign country."

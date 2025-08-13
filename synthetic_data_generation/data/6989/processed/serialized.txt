@@ -1,0 +1,128 @@
+Disappearance Record:
+Report number: 97358
+Name: Danny Hughes
+Date of Birth: 2009-02-08
+Sex: Male
+Place of Birth: Westminster
+Occupation: 
+Missing Since: 2021-10-09 00:00:00
+Date Reported Missing: 2021-10-09 14:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 10069
+When Traced: 2021-10-15 23:49:00
+Missing From Address: 7 Lotland Street, Inverness, IV1 1AD (Home)
+Traced at Address: Great North Road, Muir of Ord, IV6 7XR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 27720
+Name: Danny Hughes
+Date of Birth: 2009-02-08
+Sex: Male
+Place of Birth: Westminster
+Occupation: 
+Missing Since: 2021-11-29 23:49:00
+Date Reported Missing: 2021-12-01 02:49:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5068
+When Traced: 2021-12-03 12:17:00
+Missing From Address: 7 Lotland Street, Inverness, IV1 1AD (Home)
+Traced at Address: Coxton Park, Elgin, IV30 8AZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 25848
+Name: Danny Hughes
+Date of Birth: 2009-02-08
+Sex: Male
+Place of Birth: Westminster
+Occupation: 
+Missing Since: 2022-05-25 12:17:00
+Date Reported Missing: 2022-05-25 17:17:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 4015
+When Traced: 2022-05-28 07:12:00
+Missing From Address: 7 Lotland Street, Inverness, IV1 1AD (Home)
+Traced at Address: Ord Drive, Muir of Ord, IV6 7UH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 13270
+Name: Danny Hughes
+Date of Birth: 2009-02-08
+Sex: Male
+Place of Birth: Westminster
+Occupation: 
+Missing Since: 2022-10-28 07:12:00
+Date Reported Missing: 2022-10-28 08:12:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7942
+When Traced: 2022-11-02 19:34:00
+Missing From Address: 7 Lotland Street, Inverness, IV1 1AD (Home)
+Traced at Address: Coxton Park, Elgin, IV30 8AZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 19262
+Name: Danny Hughes
+Date of Birth: 2009-02-08
+Sex: Male
+Place of Birth: Westminster
+Occupation: 
+Missing Since: 2023-02-15 19:34:00
+Date Reported Missing: 2023-02-16 12:34:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4200
+When Traced: 2023-02-18 17:34:00
+Missing From Address: 7 Lotland Street, Inverness, IV1 1AD (Home)
+Traced at Address: 9 Caroline Street,  IV40 8EH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 49059
+Name: Danny Hughes
+Date of Birth: 2009-02-08
+Sex: Male
+Place of Birth: Westminster
+Occupation: 
+Missing Since: 2023-07-13 17:34:00
+Date Reported Missing: 2023-07-13 17:34:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 7224
+When Traced: 2023-07-18 17:58:00
+Missing From Address: 7 Lotland Street, Inverness, IV1 1AD (Home)
+Traced at Address: Great North Road, Muir of Ord, IV6 7XR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 3219
+Name: Danny Hughes
+Date of Birth: 2009-02-08
+Sex: Male
+Place of Birth: Westminster
+Occupation: 
+Missing Since: 2023-12-23 17:58:00
+Date Reported Missing: 2023-12-24 09:58:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5654
+When Traced: 2023-12-27 16:12:00
+Missing From Address: Longman Drive, Inverness, IV1 1SU (extracurricular activities)
+Traced at Address: Brumley Brae,  IV30 4NR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 46992
+Name: Danny Hughes
+Date of Birth: 2009-02-08
+Sex: Male
+Place of Birth: Westminster
+Occupation: 
+Missing Since: 2024-06-08 16:12:00
+Date Reported Missing: 2024-06-10 01:12:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3908
+When Traced: 2024-06-11 09:20:00
+Missing From Address: 7 Lotland Street, Inverness, IV1 1AD (Home)
+Traced at Address: Hamilton Drive,  IV30 4NN
+Traced by: Traced by Police
+

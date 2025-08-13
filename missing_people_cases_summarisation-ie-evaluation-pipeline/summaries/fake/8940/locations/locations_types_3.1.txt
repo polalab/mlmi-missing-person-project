@@ -1,0 +1,3 @@
+17857,"Pitfour Street fairground, Dundee","Fairground/Amusement Park","Last seen with uncle at fairground before heading towards alleyway","Impulsive/Disconnection from Routine"
+17857,"Lothian Crescent alleyway, Dundee","Alleyway/Narrow Passage","Heading towards alleyway off Lothian Crescent","Impulsive/Disconnection from Routine"
+100117,"Pitfour Street fairground, Dundee","Fairground/Amusement Park","Got lost at the fairground","Impulsive/Disconnection from Routine"

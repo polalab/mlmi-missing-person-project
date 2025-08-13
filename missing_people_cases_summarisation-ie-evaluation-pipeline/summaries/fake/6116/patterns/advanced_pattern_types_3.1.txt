@@ -1,0 +1,6 @@
+64930,"Ricky failed to meet Margaret at their designated spot",unplanned_meeting_abandonment_pattern,"Uncharacteristically, Ricky failed to meet Margaret at their designated spot."
+64930,"Ricky was located at an address on Truce Road, safe but disoriented",sudden_location_change_pattern,"The police located Ricky at an address on Truce Road, safe but disoriented."
+98669,"Ricky was last seen near the youth center's playground after a concert",sudden_location_change_pattern,"He was last seen near the youth center's playground after a concert."
+98669,"Ricky left his job unexpectedly",sudden_job_change_pattern,"Ricky left his job unexpectedly, worrying his foster father."
+100648,"Cash withdrawn",sudden_financial_activity_pattern,"Cash withdrawn."
+100651,"Ricky seen alone near playground with Albert Owen",suspicious_social_interaction_pattern,"Ricky seen alone near playground with Albert Owen."

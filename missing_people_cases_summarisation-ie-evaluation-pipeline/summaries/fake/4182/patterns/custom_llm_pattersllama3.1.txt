@@ -1,0 +1,5 @@
+Disappearance near water bodies, [75267, 93930, 26039]  
+Disappearance after mentioning the idea of disappearing, [26039, 7865]  
+Disappearance after a period of withdrawal or avoidance, [7865]  
+Disappearance in areas with potential for boating or water activities, [75267, 93930, 26039]  
+Disappearance in areas with potential for highway or road access, [26039, 7865]

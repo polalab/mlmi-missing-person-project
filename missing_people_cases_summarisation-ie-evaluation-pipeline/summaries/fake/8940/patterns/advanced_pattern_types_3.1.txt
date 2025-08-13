@@ -1,0 +1,7 @@
+17857,"Leon was last seen heading towards an alleyway off 71 Lothian Crescent",abandoned_by_family_member_pattern,"His absence raised concern until he was found by a member of the public."
+17857,"Leon was last seen heading towards an alleyway off 71 Lothian Crescent",unaccompanied_minor_pattern,"Leon Hancock, who had recently withdrawn from university, was last seen with his uncle, Leigh Hancock, at the fairground near 1 Pitfour Street, Dundee, before heading towards an alleyway off 71 Lothian Crescent."
+100117,"Leon got lost at the fairground",unaccompanied_minor_pattern,"Leon got lost at the fairground, prompting his father to report the incident."
+17857,"Leon was last seen heading towards an alleyway off 71 Lothian Crescent",sudden_change_in_environment_pattern,"before heading towards an alleyway off 71 Lothian Crescent."
+100117,"Leon got lost at the fairground",sudden_change_in_environment_pattern,"Leon got lost at the fairground, prompting his father to report the incident."
+17857,"Leon was last seen heading towards an alleyway off 71 Lothian Crescent",separation_from_family_member_pattern,"His absence raised concern until he was found by a member of the public."
+17857,"Leon was last seen heading towards an alleyway off 71 Lothian Crescent",unattended_by_family_member_pattern,"His absence raised concern until he was found by a member of the public."

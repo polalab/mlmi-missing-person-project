@@ -1,0 +1,5 @@
+Disappearance at or near a Roadhouse, [42847, 83638, 62808, 84032, 66763, 48614, 31826, 101075]  
+Disappearance after a Walk, [42847, 15015, 62808, 84032, 17451, 7606, 53971, 1393]  
+Disappearance at or near a Bar/Nightclub, [15015, 66763, 48614, 38302, 7606, 53971, 89398]  
+Disappearance at or near a Dock/Marina, [15015, 17451, 1393, 101074, 101075]  
+Disappearance after a Planned Visit, [42847, 83638, 15015, 1393, 31826]

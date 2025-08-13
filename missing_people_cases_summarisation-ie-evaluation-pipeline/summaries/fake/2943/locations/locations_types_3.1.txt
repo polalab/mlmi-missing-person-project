@@ -1,0 +1,6 @@
+26855,"Nicolton Avenue",Suburban/Area,"Focused their search around Nicolton Avenue",Isolation Seeking
+89910,"Bruce Street, Alloa",Commercial/Grocery Store,"Surveillance footage later captured her purchasing snacks at a grocery store on Bruce Street",Impulsive/Crisis Location
+89910,"Park Avenue",Residential/Area,"A member of the public recognized her description and reported her location on Park Avenue",Isolation Seeking
+66707,"West Murrayfield",Suburban/Area,"Last seen in West Murrayfield",Impulsive/Crisis Location
+89910,"Airport",Transportation Hub,"It is speculated that she may have headed towards the airport to leave town",Impulsive/Crisis Location
+89910,"Spittal Street",Residential/Area,"Eventually traced by police to a residence on Spittal Street",Isolation Seeking

@@ -1,0 +1,80 @@
+Disappearance Record:
+Report number: 81273
+Name: Ben Carter
+Date of Birth: 2015-04-26
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2024-07-29 00:00:00
+Date Reported Missing: 2024-07-29 07:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3613
+When Traced: 2024-07-31 12:13:00
+Missing From Address: North Lane, Archiestown, AB38 7QL (Home)
+Traced at Address: Golden Knowes Road, Aberdeenshire, AB45 2JE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 66056
+Name: Ben Carter
+Date of Birth: 2015-04-26
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2024-11-03 12:13:00
+Date Reported Missing: 2024-11-03 12:13:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 9087
+When Traced: 2024-11-09 19:40:00
+Missing From Address: North Lane, Archiestown, AB38 7QL (Home)
+Traced at Address: 37 North High Street,  AB45 2PA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 89636
+Name: Ben Carter
+Date of Birth: 2015-04-26
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2025-02-26 19:40:00
+Date Reported Missing: 2025-02-27 08:40:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1412
+When Traced: 2025-02-27 19:12:00
+Missing From Address: Gordon Crescent,  AB34 5HJ (school)
+Traced at Address: Beltie Road,  AB31 4JT
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 95089
+Name: Ben Carter
+Date of Birth: 2015-04-26
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2025-03-04 19:12:00
+Date Reported Missing: 2025-03-05 18:12:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8115
+When Traced: 2025-03-10 10:27:00
+Missing From Address: North Lane, Archiestown, AB38 7QL (Home)
+Traced at Address: 10 East Cathcart Street,  AB56 1PJ
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 62250
+Name: Ben Carter
+Date of Birth: 2015-04-26
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2025-07-09 10:27:00
+Date Reported Missing: 2025-07-09 21:27:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8704
+When Traced: 2025-07-15 11:31:00
+Missing From Address: North Lane, Archiestown, AB38 7QL (Home)
+Traced at Address: Seafield Circle, Buckie, AB56 5AD
+Traced by: Traced by Police
+

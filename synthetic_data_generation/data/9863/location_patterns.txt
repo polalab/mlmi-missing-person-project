@@ -1,0 +1,6 @@
+safe house
+urban
+rural
+desert
+cave
+church

@@ -1,0 +1,4 @@
+father
+sister
+friend
+colleague

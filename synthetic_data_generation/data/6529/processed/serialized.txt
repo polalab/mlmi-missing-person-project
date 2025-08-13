@@ -1,0 +1,432 @@
+Disappearance Record:
+Report number: 69536
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2019-07-10 00:00:00
+Date Reported Missing: 2019-07-10 06:00:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9206
+When Traced: 2019-07-16 09:26:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: 10 Garden Wood, Inchmarlo, AB31 4AW
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 20619
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2019-11-10 09:26:00
+Date Reported Missing: 2019-11-10 20:26:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 8542
+When Traced: 2019-11-16 07:48:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: 10 Garden Wood, Inchmarlo, AB31 4AW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 98719
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2019-12-24 07:48:00
+Date Reported Missing: 2019-12-24 22:48:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7307
+When Traced: 2019-12-29 09:35:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 10354
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2020-01-08 09:35:00
+Date Reported Missing: 2020-01-09 07:35:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8330
+When Traced: 2020-01-14 04:25:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Beltie Road,  AB31 4JT
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 87571
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2020-02-06 04:25:00
+Date Reported Missing: 2020-02-07 20:25:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7770
+When Traced: 2020-02-11 13:55:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: 10 East Cathcart Street,  AB56 1PJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 94311
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2020-02-22 13:55:00
+Date Reported Missing: 2020-02-23 02:55:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3841
+When Traced: 2020-02-25 05:56:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: 3 Kingsford Road, Alford, AB33 8HH
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 82027
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2020-03-05 05:56:00
+Date Reported Missing: 2020-03-06 00:56:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1464
+When Traced: 2020-03-06 06:20:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: 10 Garden Wood, Inchmarlo, AB31 4AW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 62160
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2020-05-21 06:20:00
+Date Reported Missing: 2020-05-22 08:20:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8704
+When Traced: 2020-05-27 07:24:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: 10 Garden Wood, Inchmarlo, AB31 4AW
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 8568
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2020-09-16 07:24:00
+Date Reported Missing: 2020-09-17 00:24:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3732
+When Traced: 2020-09-18 21:36:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: 10 Garden Wood, Inchmarlo, AB31 4AW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 20871
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2021-01-13 21:36:00
+Date Reported Missing: 2021-01-14 05:36:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1938
+When Traced: 2021-01-15 05:54:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Beltie Road,  AB31 4JT
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 46966
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2021-05-01 05:54:00
+Date Reported Missing: 2021-05-01 07:54:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 427
+When Traced: 2021-05-01 13:01:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Beltie Road,  AB31 4JT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 42502
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2021-05-19 13:01:00
+Date Reported Missing: 2021-05-19 21:01:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9461
+When Traced: 2021-05-26 02:42:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: 10 Garden Wood, Inchmarlo, AB31 4AW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 39434
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2021-11-15 02:42:00
+Date Reported Missing: 2021-11-15 02:42:00
+Day Reported Missing: Monday
+Length Missing (minutes): 1529
+When Traced: 2021-11-16 04:11:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Mill Road, Insch, AB52 6JA
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 59874
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2022-01-06 04:11:00
+Date Reported Missing: 2022-01-06 13:11:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8804
+When Traced: 2022-01-12 06:55:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Rannes Street, Insch, AB52 6JJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 33643
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2022-05-01 06:55:00
+Date Reported Missing: 2022-05-02 07:55:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2497
+When Traced: 2022-05-03 00:32:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Beltie Road,  AB31 4JT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 59769
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2022-05-20 00:32:00
+Date Reported Missing: 2022-05-20 00:32:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1154
+When Traced: 2022-05-20 19:46:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Golden Knowes Road, Aberdeenshire, AB45 2JE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 58479
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2022-10-20 19:46:00
+Date Reported Missing: 2022-10-21 08:46:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9938
+When Traced: 2022-10-27 17:24:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Golden Knowes Road, Aberdeenshire, AB45 2JE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 40867
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2023-03-03 17:24:00
+Date Reported Missing: 2023-03-05 02:24:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7654
+When Traced: 2023-03-09 00:58:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: 10 East Cathcart Street,  AB56 1PJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 55595
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2023-06-23 00:58:00
+Date Reported Missing: 2023-06-23 03:58:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9869
+When Traced: 2023-06-29 21:27:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 33555
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2023-08-30 21:27:00
+Date Reported Missing: 2023-08-30 21:27:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 335
+When Traced: 2023-08-31 03:02:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Rannes Street, Insch, AB52 6JJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 55658
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2023-11-29 03:02:00
+Date Reported Missing: 2023-11-29 15:02:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7873
+When Traced: 2023-12-04 14:15:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Beltie Road,  AB31 4JT
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 3468
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2023-12-15 14:15:00
+Date Reported Missing: 2023-12-16 00:15:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1298
+When Traced: 2023-12-16 11:53:00
+Missing From Address: Seafield Circle, Buckie, AB56 5AD (daycare pickup)
+Traced at Address: 3 Kingsford Road, Alford, AB33 8HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 51898
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2024-03-03 11:53:00
+Date Reported Missing: 2024-03-04 02:53:00
+Day Reported Missing: Monday
+Length Missing (minutes): 1236
+When Traced: 2024-03-04 08:29:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: 10 East Cathcart Street,  AB56 1PJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 73834
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2024-03-08 08:29:00
+Date Reported Missing: 2024-03-09 00:29:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9389
+When Traced: 2024-03-14 20:58:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 57532
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2024-09-10 20:58:00
+Date Reported Missing: 2024-09-11 03:58:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 4987
+When Traced: 2024-09-14 08:05:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: North Road, Insch, AB52 6XP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 71255
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2025-02-15 08:05:00
+Date Reported Missing: 2025-02-15 14:05:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2795
+When Traced: 2025-02-17 06:40:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: Beltie Road,  AB31 4JT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 64126
+Name: Marie Davies
+Date of Birth: 1978-10-27
+Sex: F
+Place of Birth: Chichester
+Occupation: Market researcher
+Missing Since: 2025-07-08 06:40:00
+Date Reported Missing: 2025-07-08 21:40:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3342
+When Traced: 2025-07-10 14:22:00
+Missing From Address: Dee Street, Banchory, AB31 5HS (Home)
+Traced at Address: 10 East Cathcart Street,  AB56 1PJ
+Traced by: Traced by Police
+

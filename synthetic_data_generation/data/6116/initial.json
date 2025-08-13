@@ -1,0 +1,74 @@
+{
+    "forenames": "Ricky",
+    "surname": "Barlow",
+    "maidenname": "",
+    "nickname": "Sharon",
+    "misperid": 6116,
+    "nominalid": 2681,
+    "sex": "Male",
+    "date_of_birth": "2007-09-02",
+    "age": 17,
+    "foster care": true,
+    "child_protection": false,
+    "ethnical_appearance": "White Welsh",
+    "person_language": "English",
+    "place_of_birth": "Armagh",
+    "disability_status": "Yes (please specify)",
+    "disability_desc": "Other",
+    "occupation": "",
+    "reports_starting_from": "2025-02-20",
+    "addresses": [
+        {
+            "address": "279 Milngavie Road, Glasgow, G61 3DQ",
+            "type": "Home"
+        },
+        {
+            "address": "63-65 Truce Road, Glasgow, G13 3JB",
+            "type": "gym"
+        },
+        {
+            "address": "6 Bard Avenue, Glasgow, G13 3JA",
+            "type": "playground"
+        },
+        {
+            "address": "Hall Road, Rhu, G84 8RR",
+            "type": "extracurricular activities"
+        },
+        {
+            "address": "Turret Crescent,  G13 2HG",
+            "type": "school"
+        },
+        {
+            "address": "52a Sinclair Street, Helensburgh, G84 8TQ",
+            "type": "youth center"
+        },
+        {
+            "address": "Crow Road, Glasgow, G66 7GX",
+            "type": "shopping mall"
+        },
+        {
+            "address": "112-117 West Clyde Street, Helensburgh, G84 8ES",
+            "type": "university"
+        }
+    ],
+    "traced_locations": [
+        "6 Bard Avenue, Glasgow, G13 3JA",
+        "112-117 West Clyde Street, Helensburgh, G84 8ES",
+        "Turret Crescent,  G13 2HG",
+        "Cardross Road,  G82 5DH",
+        "21 Rampart Avenue, Glasgow, G13 3HT",
+        "279 Milngavie Road, Glasgow, G61 3DQ",
+        "Castlecary Road,  G68 0HD",
+        "63-65 Truce Road, Glasgow, G13 3JB",
+        "224-226 Archerhill Road, Glasgow, G13 3YX",
+        "Crow Road, Glasgow, G66 7GX"
+    ],
+    "people_reporting": [
+        "Janice Graham",
+        "Claire Wallace",
+        "Owen Lambert",
+        "Valerie Taylor",
+        "Leigh Williams",
+        "Bryan Haynes"
+    ]
+}

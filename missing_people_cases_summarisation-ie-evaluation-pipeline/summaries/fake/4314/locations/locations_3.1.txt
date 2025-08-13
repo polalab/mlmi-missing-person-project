@@ -1,0 +1,55 @@
+Edward Street 1 CB30SZ, 96314
+school, 12563
+Harbour Road, 6841
+Strothers Lane, Inverness, 6841
+Leachkin Road, 6841
+25 Harbour Road, Inverness, 33475
+Ness Walk, Inverness, 33475
+Shore Street, 33475
+Great North Road, Muir of Ord, 33475
+Longman Road, Inverness, 38075
+Culduthel Road, Inverness, 38075
+Proby Street, Maryburgh, 43279
+Shore Street, Inverness, 75448
+Blarmore Avenue, 75448
+Harbour Road, Inverness, 19627
+Ord Drive, Muir of Ord, 19627
+167 Culduthel Road, Inverness, 19627
+Duncan Drive, 79156
+Millburn Road, 79156
+48 Orchard Park, Beauly, 79156
+Brumley Brae, 12563
+synagogue, 12563
+hiking trail, 12563
+nursing home, 12563
+Greig Street, 58704
+cult location, 58704
+25 Harbour Road, Inverness, 14034
+dialysis center, 14034
+senior center, 14034
+Sir Walter Scott Drive, Inverness, 14034
+Mayne Road, Elgin, 43821
+Leachkin Road, Inverness, 43821
+Harbour Road, Inverness, 31523
+pharmacy, 31523
+Longman Road, Inverness, 31523
+school, 31523
+Strothers Lane, Inverness, 53883
+mosque, 53883
+Longman Road, Inverness, 91630
+cult location, 91630
+52 Blarmore Avenue, 75448
+senior center, near Strothers Lane, Inverness, 91945
+167 Culduthel Road, Inverness, 91945
+beach, near 167 Culduthel Road, Inverness, 91945
+Leachkin Road, Inverness, 91945
+Strothers Lane, Inverness, 52799
+senior housing facility, 52799
+senior center, Leachkin Road, 52799
+25 Harbour Road, Inverness, 80027
+Smith Drive, 80027
+Millburn Road, Inverness, 67589
+Coxton Park, Elgin, 67589
+167 Culduthel Road, Inverness, 67589
+Proby Street, Maryburgh, 87911
+Sir Walter North Drive, Inverness, 87911

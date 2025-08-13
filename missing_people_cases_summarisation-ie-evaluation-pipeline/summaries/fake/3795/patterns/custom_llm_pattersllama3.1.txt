@@ -1,0 +1,5 @@
+Disappearance at or near a vehicle, [46118, 65528]  
+Disappearance in a public area, [65528, 77267]  
+Disappearance in a location with potential for isolation, [77267]  
+Disappearance in a location with potential for seclusion, [65528]  
+Disappearance in a location with potential for witness observation, [46118, 77267]

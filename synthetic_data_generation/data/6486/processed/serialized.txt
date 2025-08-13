@@ -1,0 +1,48 @@
+Disappearance Record:
+Report number: 31495
+Name: Laura Evans
+Date of Birth: 2014-11-06
+Sex: F
+Place of Birth: Hereford
+Occupation: 
+Missing Since: 2024-08-31 00:00:00
+Date Reported Missing: 2024-08-31 04:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 547
+When Traced: 2024-08-31 09:07:00
+Missing From Address: Well Place, Dunblane, FK15 9BQ (Home)
+Traced at Address: 35 Kerse Road, Grangemouth, FK3 8HY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 29762
+Name: Laura Evans
+Date of Birth: 2014-11-06
+Sex: F
+Place of Birth: Hereford
+Occupation: 
+Missing Since: 2025-01-24 09:07:00
+Date Reported Missing: 2025-01-24 19:07:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9534
+When Traced: 2025-01-31 00:01:00
+Missing From Address: Well Place, Dunblane, FK15 9BQ (Home)
+Traced at Address: Kenilworth Drive,  FK2 9LH
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 61276
+Name: Laura Evans
+Date of Birth: 2014-11-06
+Sex: F
+Place of Birth: Hereford
+Occupation: 
+Missing Since: 2025-05-15 00:01:00
+Date Reported Missing: 2025-05-15 00:01:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 7105
+When Traced: 2025-05-19 22:26:00
+Missing From Address: Well Place, Dunblane, FK15 9BQ (Home)
+Traced at Address: 43 Union Road,  FK1 4PG
+Traced by: Traced by family
+

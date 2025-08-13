@@ -1,0 +1,112 @@
+Disappearance Record:
+Report number: 21193
+Name: Peter Davies
+Date of Birth: 2009-08-08
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2023-05-16 00:00:00
+Date Reported Missing: 2023-05-17 08:00:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7639
+When Traced: 2023-05-21 07:19:00
+Missing From Address: 5 Drysdale Road, Edinburgh, EH11 1FA (Home)
+Traced at Address: Clovenstone Park, Edinburgh, EH14 3BG
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 26604
+Name: Peter Davies
+Date of Birth: 2009-08-08
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2023-09-19 07:19:00
+Date Reported Missing: 2023-09-19 23:19:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7684
+When Traced: 2023-09-24 15:23:00
+Missing From Address: 5 Drysdale Road, Edinburgh, EH11 1FA (Home)
+Traced at Address: 22 Fernbank, Livingston, EH54 6DT
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 25041
+Name: Peter Davies
+Date of Birth: 2009-08-08
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2024-02-24 15:23:00
+Date Reported Missing: 2024-02-24 21:23:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 8136
+When Traced: 2024-03-01 06:59:00
+Missing From Address: 5 Drysdale Road, Edinburgh, EH11 1FA (Home)
+Traced at Address: 26 Parkgrove Avenue, Edinburgh, EH4 7QR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 63086
+Name: Peter Davies
+Date of Birth: 2009-08-08
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2024-07-17 06:59:00
+Date Reported Missing: 2024-07-17 06:59:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1712
+When Traced: 2024-07-18 11:31:00
+Missing From Address: 5 Drysdale Road, Edinburgh, EH11 1FA (Home)
+Traced at Address: 22 Fernbank, Livingston, EH54 6DT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 20567
+Name: Peter Davies
+Date of Birth: 2009-08-08
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2024-12-31 11:31:00
+Date Reported Missing: 2025-01-01 17:31:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7893
+When Traced: 2025-01-05 23:04:00
+Missing From Address: 5 Drysdale Road, Edinburgh, EH11 1FA (Home)
+Traced at Address: 22 Fernbank, Livingston, EH54 6DT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 83385
+Name: Peter Davies
+Date of Birth: 2009-08-08
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2025-03-28 23:04:00
+Date Reported Missing: 2025-03-29 04:04:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 5673
+When Traced: 2025-04-01 21:37:00
+Missing From Address: 5 Drysdale Road, Edinburgh, EH11 1FA (Home)
+Traced at Address: 26 Parkgrove Avenue, Edinburgh, EH4 7QR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 75261
+Name: Peter Davies
+Date of Birth: 2009-08-08
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2025-06-05 21:37:00
+Date Reported Missing: 2025-06-06 14:37:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7299
+When Traced: 2025-06-10 23:16:00
+Missing From Address: 5 Drysdale Road, Edinburgh, EH11 1FA (Home)
+Traced at Address: 26 Parkgrove Avenue, Edinburgh, EH4 7QR
+Traced by: Traced by Police
+

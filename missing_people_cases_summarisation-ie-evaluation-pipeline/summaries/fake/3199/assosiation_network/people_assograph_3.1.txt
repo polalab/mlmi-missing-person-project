@@ -1,0 +1,7 @@
+Colin Hall,Colin Hall,self,3901
+Colin Hall,Raymond Arnold,colleague,3901
+Colin Hall,friend,friend,3901
+Colin Hall,Colin Hall,self,5232
+Colin Hall,Colleague,colleague,5232
+Colin Hall,Colin Hall,self,101556
+Colin Hall,member of the public,member of the public,101556

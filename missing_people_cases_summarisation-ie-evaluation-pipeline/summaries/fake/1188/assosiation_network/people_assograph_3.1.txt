@@ -1,0 +1,19 @@
+Brian Porter,Brian Porter's brother,brother,13921
+Brian Porter,Brian Porter's grandmother,grandmother,13921
+Brian Porter,Brian Porter's brother,brother,97492
+Brian Porter,Brian Porter's grandmother,grandmother,97492
+Brian Porter,Gary Kay,friend,97492
+Brian Porter,unknown family member,other,97492
+Brian Porter,Gary Kay,friend,97302
+Brian Porter,Brian Porter's grandfather,grandfather,97302
+Brian Porter,Kathryn Wallis,friend,97302
+Brian Porter,Brian Porter's brother,brother,15069
+Brian Porter,Lucy Smith,other,15069
+Brian Porter,Brian Porter's brother,brother,41369
+Brian Porter,Brian Porter's mother,mother,41369
+Brian Porter,Brian Porter's brother,brother,41369
+Brian Porter,Brian Porter's brother,brother,41369
+Brian Porter,Brian Porter's mother,mother,101657
+Brian Porter,Carol Porter,other,101657
+Brian Porter,Brian Porter,other,101663
+Brian Porter,Brian Porter,other,101663

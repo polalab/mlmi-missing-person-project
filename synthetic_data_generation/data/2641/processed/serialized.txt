@@ -1,0 +1,160 @@
+Disappearance Record:
+Report number: 36198
+Name: Dennis Burns
+Date of Birth: 2011-10-25
+Sex: Male
+Place of Birth: York
+Occupation: 
+Missing Since: 2023-02-10 00:00:00
+Date Reported Missing: 2023-02-11 00:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3250
+When Traced: 2023-02-12 06:10:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: Longman Drive, Inverness, IV1 1SU
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 56754
+Name: Dennis Burns
+Date of Birth: 2011-10-25
+Sex: Male
+Place of Birth: York
+Occupation: 
+Missing Since: 2023-03-24 06:10:00
+Date Reported Missing: 2023-03-24 10:10:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7578
+When Traced: 2023-03-29 12:28:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: Longman Road, Inverness, IV1 1RY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 82071
+Name: Dennis Burns
+Date of Birth: 2011-10-25
+Sex: Male
+Place of Birth: York
+Occupation: 
+Missing Since: 2023-05-30 12:28:00
+Date Reported Missing: 2023-05-31 07:28:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3162
+When Traced: 2023-06-01 17:10:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 16 Forbes Road, Forres, IV36 1HP
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 43434
+Name: Dennis Burns
+Date of Birth: 2011-10-25
+Sex: Male
+Place of Birth: York
+Occupation: 
+Missing Since: 2023-10-25 17:10:00
+Date Reported Missing: 2023-10-25 23:10:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 670
+When Traced: 2023-10-26 04:20:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: Longman Drive, Inverness, IV1 1SU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 15805
+Name: Dennis Burns
+Date of Birth: 2011-10-25
+Sex: Male
+Place of Birth: York
+Occupation: 
+Missing Since: 2024-02-26 04:20:00
+Date Reported Missing: 2024-02-26 16:20:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9639
+When Traced: 2024-03-03 20:59:00
+Missing From Address: Shore Street, Inverness, IV1 1NT (university)
+Traced at Address: Black Isle Road, Muir of Ord, IV6 7RR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 83346
+Name: Dennis Burns
+Date of Birth: 2011-10-25
+Sex: Male
+Place of Birth: York
+Occupation: 
+Missing Since: 2024-04-09 20:59:00
+Date Reported Missing: 2024-04-10 01:59:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 2554
+When Traced: 2024-04-11 15:33:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: Longman Drive, Inverness, IV1 1SU
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 18217
+Name: Dennis Burns
+Date of Birth: 2011-10-25
+Sex: Male
+Place of Birth: York
+Occupation: 
+Missing Since: 2024-06-08 15:33:00
+Date Reported Missing: 2024-06-09 05:33:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6477
+When Traced: 2024-06-13 03:30:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 16 Forbes Road, Forres, IV36 1HP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 5029
+Name: Dennis Burns
+Date of Birth: 2011-10-25
+Sex: Male
+Place of Birth: York
+Occupation: 
+Missing Since: 2024-12-04 03:30:00
+Date Reported Missing: 2024-12-04 12:30:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 2699
+When Traced: 2024-12-06 00:29:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 9 Caroline Street,  IV40 8EH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 60737
+Name: Dennis Burns
+Date of Birth: 2011-10-25
+Sex: Male
+Place of Birth: York
+Occupation: 
+Missing Since: 2025-01-07 00:29:00
+Date Reported Missing: 2025-01-07 15:29:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4819
+When Traced: 2025-01-10 08:48:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 1-14 Rosedene Court, Inverness, IV2 4RT
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 86033
+Name: Dennis Burns
+Date of Birth: 2011-10-25
+Sex: Male
+Place of Birth: York
+Occupation: 
+Missing Since: 2025-03-08 08:48:00
+Date Reported Missing: 2025-03-08 19:48:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9528
+When Traced: 2025-03-14 23:36:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 9 Caroline Street,  IV40 8EH
+Traced by: Traced by Police
+

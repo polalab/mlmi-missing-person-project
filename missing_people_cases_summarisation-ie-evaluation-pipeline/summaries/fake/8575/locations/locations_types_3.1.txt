@@ -1,0 +1,7 @@
+92949,"2 Alex King Way, Arbroath","Residential/Home","Colleague Colin Middleton noted his absence at 2 Alex King Way, Arbroath, DD","Impulsive/Escape Location"
+92949,"Zoo","Public/Recreational Facility","possibly visiting the zoo","Impulsive/Escape Location"
+71768,"2 Dalgleish Road, Dundee","Residential/Home","following an argument with his foster mother","Impulsive/Crisis Location"
+71768,"Coastal Beach Area","Public/Recreational Facility","boarded a ferry from the coastal beach area","Impulsive/Escape Location"
+71768,"Mountain Trail","Rural/Wilderness Area","near the entrance of a nearby mountain trail","Isolation Seeking"
+71768,"Findcastle Street, Dundee","Urban/Street","storm drains off Findcastle Street, Dundee","Impulsive/Escape Location"
+100240,"School","Public/Educational Facility","wandering near the school in an agitated state","Impulsive/Crisis Location"

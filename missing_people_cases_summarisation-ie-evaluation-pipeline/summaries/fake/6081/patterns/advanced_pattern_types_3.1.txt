@@ -1,0 +1,23 @@
+2196,"Jemma was last seen near a gang territory and suspected of squatting in abandoned structures",squatting_in_gang_territory_pattern,"She was later found by a member of the public at Gallanach Road, PA34 4PE, unharmed but disoriented, and returned safely home."
+
+42954,"Jemma was suspected of squatting while visiting a remote island",squatting_on_remote_island_pattern,"She was later suspected of squatting while visiting a remote island, leading to concerns amongst friends and family."
+
+17674,"Jemma was suspected of squatting in a gang territory",squatting_in_gang_territory_pattern,"Her daughter reported her missing after she was suspected of squatting in a gang territory. Jemma was traced visiting a remote island before her safe return home."
+
+45578,"Jemma was suspected of squatting on a cruise ship",squatting_on_cruise_ship_pattern,"It was reported that she enjoyed frequent rides in various vehicles and had been spotted loitering near a cruise ship, leading to suspicions of squatting on board."
+
+48737,"MP was suspected of squatting in gang territory on a cruise ship",squatting_in_gang_territory_on_cruise_ship_pattern,"MP, suspected to be squatting, vanished from gang territory on a cruise ship near 1 Newark Street after visiting a remote island with a colleague."
+
+47631,"Jemma took an unexpected detour to visit an old friend",unexpected_detour_pattern,"Jemma was eventually found at Larkfield Road, Inverclyde, PA16 0XN, having taken an unexpected detour to the nursing home to visit an old friend."
+
+47915,"Jemma inadvertently took a bus towards Inverclyde",inadvertent_bus_trip_pattern,"Police later discovered that Jemma had inadvertently taken a bus towards Inverclyde, recalling fond memories of the area from past visits."
+
+13907,"Jemma inadvertently wandered into gang territory",inadvertent_entry_into_gang_territory_pattern,"It was speculated she inadvertently wandered into gang territory during her walk, as she was later found in the locker room of a cruise ship docked at Gallanach Road, PA34 4PE."
+
+101494,"Jemma was found disoriented in the locker room",disorientation_in_locker_room_pattern,"Jemma was found disoriented in the locker room. Her sister, Lauren Stevenson, was informed to ensure her wellbeing as she receives ongoing support from her family."
+
+101495,"Jemma was seen in gang territory before visiting a remote island",gang_territory_to_remote_island_pattern,"Jemma was seen in gang territory before later visiting a remote island after leaving the locker room."
+
+101498,"Jemma suspected squatting on a cruise ship",squatting_on_cruise_ship_pattern,"Jemma, at 95, is suspected to be squatting, raising concerns about her living situation. Although thriving with support, uncommon behavior noted. Colleague Beverley Hunt may offer insight into her situation."
+
+101499,"Jemma wandered into gang area",inadvertent_entry_into_gang_territory_pattern,"Jemma wandered into gang area."

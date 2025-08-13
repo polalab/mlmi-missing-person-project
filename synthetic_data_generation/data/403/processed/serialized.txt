@@ -1,0 +1,144 @@
+Disappearance Record:
+Report number: 71572
+Name: Eric Haynes
+Date of Birth: 2013-12-07
+Sex: Male
+Place of Birth: Newport
+Occupation: 
+Missing Since: 2023-04-08 00:00:00
+Date Reported Missing: 2023-04-08 14:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 8187
+When Traced: 2023-04-13 16:27:00
+Missing From Address: 22 Marine Parade Walk, Dundee, DD1 3AU (Home)
+Traced at Address: 23 City Road, Dundee, DD2 2BL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 93631
+Name: Eric Haynes
+Date of Birth: 2013-12-07
+Sex: Male
+Place of Birth: Newport
+Occupation: 
+Missing Since: 2023-09-02 16:27:00
+Date Reported Missing: 2023-09-03 00:27:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 8735
+When Traced: 2023-09-08 18:02:00
+Missing From Address: 22 Marine Parade Walk, Dundee, DD1 3AU (Home)
+Traced at Address: New Road, Forfar, DD8 2AE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 62781
+Name: Eric Haynes
+Date of Birth: 2013-12-07
+Sex: Male
+Place of Birth: Newport
+Occupation: 
+Missing Since: 2024-02-24 18:02:00
+Date Reported Missing: 2024-02-25 04:02:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1168
+When Traced: 2024-02-25 13:30:00
+Missing From Address: 22 Marine Parade Walk, Dundee, DD1 3AU (Home)
+Traced at Address: 23 City Road, Dundee, DD2 2BL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 23319
+Name: Eric Haynes
+Date of Birth: 2013-12-07
+Sex: Male
+Place of Birth: Newport
+Occupation: 
+Missing Since: 2024-04-03 13:30:00
+Date Reported Missing: 2024-04-03 21:30:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 2995
+When Traced: 2024-04-05 15:25:00
+Missing From Address: 22 Marine Parade Walk, Dundee, DD1 3AU (Home)
+Traced at Address: 39 Arthurstone Terrace, Dundee, DD4 6QY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 50955
+Name: Eric Haynes
+Date of Birth: 2013-12-07
+Sex: Male
+Place of Birth: Newport
+Occupation: 
+Missing Since: 2024-09-11 15:25:00
+Date Reported Missing: 2024-09-12 03:25:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 6173
+When Traced: 2024-09-15 22:18:00
+Missing From Address: 22 Marine Parade Walk, Dundee, DD1 3AU (Home)
+Traced at Address: Hyndford Street, Dundee, DD2 1HQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 15565
+Name: Eric Haynes
+Date of Birth: 2013-12-07
+Sex: Male
+Place of Birth: Newport
+Occupation: 
+Missing Since: 2024-10-02 22:18:00
+Date Reported Missing: 2024-10-03 01:18:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5026
+When Traced: 2024-10-06 10:04:00
+Missing From Address: 22 Marine Parade Walk, Dundee, DD1 3AU (Home)
+Traced at Address: 6 Lownie Road, Forfar, DD8 2RT
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 86621
+Name: Eric Haynes
+Date of Birth: 2013-12-07
+Sex: Male
+Place of Birth: Newport
+Occupation: 
+Missing Since: 2025-01-03 10:04:00
+Date Reported Missing: 2025-01-04 13:04:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4148
+When Traced: 2025-01-06 07:12:00
+Missing From Address: 22 Marine Parade Walk, Dundee, DD1 3AU (Home)
+Traced at Address: 2 Herod Hill Brae, Dundee, DD4 8FG
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 61952
+Name: Eric Haynes
+Date of Birth: 2013-12-07
+Sex: Male
+Place of Birth: Newport
+Occupation: 
+Missing Since: 2025-05-09 07:12:00
+Date Reported Missing: 2025-05-10 10:12:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 8262
+When Traced: 2025-05-15 00:54:00
+Missing From Address: 22 Marine Parade Walk, Dundee, DD1 3AU (Home)
+Traced at Address: Hyndford Street, Dundee, DD2 1HQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 42305
+Name: Eric Haynes
+Date of Birth: 2013-12-07
+Sex: Male
+Place of Birth: Newport
+Occupation: 
+Missing Since: 2025-06-08 00:54:00
+Date Reported Missing: 2025-06-08 06:54:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5581
+When Traced: 2025-06-11 21:55:00
+Missing From Address: 22 Marine Parade Walk, Dundee, DD1 3AU (Home)
+Traced at Address: 6 Lownie Road, Forfar, DD8 2RT
+Traced by: Traced by Police
+

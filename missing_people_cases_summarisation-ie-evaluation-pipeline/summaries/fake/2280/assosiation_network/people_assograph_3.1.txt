@@ -1,0 +1,36 @@
+Anna Oliver,Tracey Walker,friend,13208
+Anna Oliver,Rebecca Davies,colleague,13208
+Anna Oliver,Tracey Walker,friend,22827
+Anna Oliver,Tracey,friend,22827
+Anna Oliver,Joyce Birch,colleague,22827
+Anna Oliver,Rebecca Davies,colleague,65450
+Anna Oliver,Karen Howe,friend,65450
+Anna Oliver,Anna Oliver,grandmother,2221
+Anna Oliver,Kathleen Jones,grandmother,2221
+Anna Oliver,Anna Oliver,brother,2138
+Anna Oliver,Anthony Ward,brother,2138
+Anna Oliver,Anna Oliver,colleague,2138
+Anna Oliver,Anna Oliver,friend,25562
+Anna Oliver,Tracey Walker,friend,25562
+Anna Oliver,Anna Oliver,sister,80488
+Anna Oliver,Kathleen Jones,grandmother,80488
+Anna Oliver,Anna Oliver,friend,80488
+Anna Oliver,Anna Oliver,friend,29359
+Anna Oliver,Anna Oliver,sister,44702
+Anna Oliver,Anna Oliver,friend,20276
+Anna Oliver,Anthony Ward,brother,20276
+Anna Oliver,Anna Oliver,friend,44473
+Anna Oliver,Tracey Walker,friend,44473
+Anna Oliver,Anna Oliver,sister,39369
+Anna Oliver,Anna Oliver,friend,39369
+Anna Oliver,Anna Oliver,sister,31844
+Anna Oliver,Tracey Walker,friend,31844
+Anna Oliver,Anna Oliver,friend,26439
+Anna Oliver,Kathleen Jones,grandmother,26439
+Anna Oliver,Anna Oliver,friend,21394
+Anna Oliver,Chloe,friend,21394
+Anna Oliver,Anna Oliver,friend,26327
+Anna Oliver,Tracey Walker,friend,26327
+Anna Oliver,Anna Oliver,friend,14820
+Anna Oliver,Anna Oliver,friend,48475
+Anna Oliver,Anna Oliver,friend,48475

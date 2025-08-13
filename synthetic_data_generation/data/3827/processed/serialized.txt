@@ -1,0 +1,544 @@
+Disappearance Record:
+Report number: 5893
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2016-11-04 00:00:00
+Date Reported Missing: 2016-11-04 22:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6905
+When Traced: 2016-11-08 19:05:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 135 Rosebank Street, Dundee, DD3 6PP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 61792
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2016-12-31 19:05:00
+Date Reported Missing: 2017-01-01 14:05:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 10061
+When Traced: 2017-01-07 18:46:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 1 Alloway Place, Dundee, DD4 8UA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 56913
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2017-06-19 18:46:00
+Date Reported Missing: 2017-06-19 22:46:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9550
+When Traced: 2017-06-26 09:56:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: St Mary's Lane, Newport-on-Tay, DD6 8AH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 83892
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2017-09-06 09:56:00
+Date Reported Missing: 2017-09-06 23:56:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7043
+When Traced: 2017-09-11 07:19:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 135 Rosebank Street, Dundee, DD3 6PP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 68601
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2018-01-06 07:19:00
+Date Reported Missing: 2018-01-07 17:19:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5429
+When Traced: 2018-01-10 01:48:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 484 Perth Road, Dundee, DD2 1LR
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 91479
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2018-05-26 01:48:00
+Date Reported Missing: 2018-05-26 05:48:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1184
+When Traced: 2018-05-26 21:32:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 135 Rosebank Street, Dundee, DD3 6PP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 69743
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2018-05-29 21:32:00
+Date Reported Missing: 2018-05-30 00:32:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9961
+When Traced: 2018-06-05 19:33:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 41 Dock Street, Dundee, DD1 3DR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 93185
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2018-08-29 19:33:00
+Date Reported Missing: 2018-08-31 03:33:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7364
+When Traced: 2018-09-03 22:17:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: St Mary's Lane, Newport-on-Tay, DD6 8AH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 98480
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2018-12-25 22:17:00
+Date Reported Missing: 2018-12-26 01:17:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 519
+When Traced: 2018-12-26 06:56:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 135 Rosebank Street, Dundee, DD3 6PP
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 72869
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2019-01-19 06:56:00
+Date Reported Missing: 2019-01-19 18:56:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 6718
+When Traced: 2019-01-23 22:54:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: Discovery Quay, Dundee, DD1 4XA
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 71117
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2019-02-13 22:54:00
+Date Reported Missing: 2019-02-14 08:54:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8033
+When Traced: 2019-02-19 12:47:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: Discovery Quay, Dundee, DD1 4XA
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 41847
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2019-05-09 12:47:00
+Date Reported Missing: 2019-05-10 05:47:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1337
+When Traced: 2019-05-10 11:04:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 135 Rosebank Street, Dundee, DD3 6PP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 91015
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2019-10-17 11:04:00
+Date Reported Missing: 2019-10-18 05:04:00
+Day Reported Missing: Friday
+Length Missing (minutes): 3959
+When Traced: 2019-10-20 05:03:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 541 South Road, Dundee, DD2 4FP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 31167
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2019-10-29 05:03:00
+Date Reported Missing: 2019-10-29 15:03:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8561
+When Traced: 2019-11-04 03:44:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (mosque)
+Traced at Address: St Mary's Lane, Newport-on-Tay, DD6 8AH
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 17543
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2020-01-15 03:44:00
+Date Reported Missing: 2020-01-15 14:44:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 4177
+When Traced: 2020-01-18 01:21:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 41 Dock Street, Dundee, DD1 3DR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 58225
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2020-01-30 01:21:00
+Date Reported Missing: 2020-01-31 05:21:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9042
+When Traced: 2020-02-05 08:03:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 135 Rosebank Street, Dundee, DD3 6PP
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 34875
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2020-07-19 08:03:00
+Date Reported Missing: 2020-07-19 23:03:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2319
+When Traced: 2020-07-20 22:42:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 1 Alloway Place, Dundee, DD4 8UA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 90971
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2020-10-09 22:42:00
+Date Reported Missing: 2020-10-10 16:42:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3057
+When Traced: 2020-10-12 01:39:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 1 Alloway Place, Dundee, DD4 8UA
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 48642
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2020-11-04 01:39:00
+Date Reported Missing: 2020-11-04 20:39:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7175
+When Traced: 2020-11-09 01:14:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 541 South Road, Dundee, DD2 4FP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 32403
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2021-01-10 01:14:00
+Date Reported Missing: 2021-01-10 08:14:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6578
+When Traced: 2021-01-14 14:52:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 41 Dock Street, Dundee, DD1 3DR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 21755
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2021-01-23 14:52:00
+Date Reported Missing: 2021-01-24 03:52:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7409
+When Traced: 2021-01-28 18:21:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: Stannergate Road, Dundee, DD1 3NA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 70020
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2021-03-13 18:21:00
+Date Reported Missing: 2021-03-15 07:21:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9651
+When Traced: 2021-03-20 11:12:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 2 Alex King Way, Arbroath, DD11 2AS
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 86615
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2021-04-29 11:12:00
+Date Reported Missing: 2021-04-29 21:12:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 941
+When Traced: 2021-04-30 02:53:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 22 Marine Parade Walk, Dundee, DD1 3AU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 35043
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2021-08-23 02:53:00
+Date Reported Missing: 2021-08-23 02:53:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6479
+When Traced: 2021-08-27 14:52:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 541 South Road, Dundee, DD2 4FP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 58615
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2021-09-26 14:52:00
+Date Reported Missing: 2021-09-27 21:52:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3344
+When Traced: 2021-09-28 22:36:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: Discovery Quay, Dundee, DD1 4XA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 92590
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2022-02-19 22:36:00
+Date Reported Missing: 2022-02-20 22:36:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6457
+When Traced: 2022-02-24 10:13:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 1 Alloway Place, Dundee, DD4 8UA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 28564
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2022-05-01 10:13:00
+Date Reported Missing: 2022-05-01 19:13:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6868
+When Traced: 2022-05-06 04:41:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 135 Rosebank Street, Dundee, DD3 6PP
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 71477
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2022-09-27 04:41:00
+Date Reported Missing: 2022-09-27 08:41:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 1262
+When Traced: 2022-09-28 01:43:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: St Mary's Lane, Newport-on-Tay, DD6 8AH
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 54399
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2023-02-18 01:43:00
+Date Reported Missing: 2023-02-18 12:43:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 8293
+When Traced: 2023-02-23 19:56:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: St Mary's Lane, Newport-on-Tay, DD6 8AH
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 94877
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2023-04-10 19:56:00
+Date Reported Missing: 2023-04-11 07:56:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 6761
+When Traced: 2023-04-15 12:37:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: Discovery Quay, Dundee, DD1 4XA
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 96302
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2023-05-14 12:37:00
+Date Reported Missing: 2023-05-14 20:37:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2257
+When Traced: 2023-05-16 02:14:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 135 Rosebank Street, Dundee, DD3 6PP
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 19878
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2023-10-10 02:14:00
+Date Reported Missing: 2023-10-10 21:14:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 6883
+When Traced: 2023-10-14 20:57:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: St Mary's Lane, Newport-on-Tay, DD6 8AH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 88987
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2023-12-29 20:57:00
+Date Reported Missing: 2023-12-30 04:57:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1428
+When Traced: 2023-12-30 20:45:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 1 Alloway Place, Dundee, DD4 8UA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 60816
+Name: Nathan Price
+Date of Birth: 1942-04-24
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Hydrographic surveyor
+Missing Since: 2024-02-22 20:45:00
+Date Reported Missing: 2024-02-23 11:45:00
+Day Reported Missing: Friday
+Length Missing (minutes): 4769
+When Traced: 2024-02-26 04:14:00
+Missing From Address: New Road, Forfar, DD8 2AE (Home)
+Traced at Address: 484 Perth Road, Dundee, DD2 1LR
+Traced by: Traced by Police
+

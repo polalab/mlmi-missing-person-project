@@ -1,0 +1,32 @@
+Disappearance Record:
+Report number: 22703
+Name: Kate Connolly
+Date of Birth: 2014-11-09
+Sex: F
+Place of Birth: Chester
+Occupation: 
+Missing Since: 2025-01-30 00:00:00
+Date Reported Missing: 2025-01-30 00:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8872
+When Traced: 2025-02-05 03:52:00
+Missing From Address: Craigour Road, Torphins, AB31 4UE (Home)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 31244
+Name: Kate Connolly
+Date of Birth: 2014-11-09
+Sex: F
+Place of Birth: Chester
+Occupation: 
+Missing Since: 2025-04-17 03:52:00
+Date Reported Missing: 2025-04-17 03:52:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 9152
+When Traced: 2025-04-23 12:24:00
+Missing From Address: Craigour Road, Torphins, AB31 4UE (Home)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by Police
+

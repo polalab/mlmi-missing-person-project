@@ -1,0 +1,23 @@
+Amanda Martin,Callum Richardson,friend,79712
+Amanda Martin,Anthony Evans,friend,86385
+Amanda Martin,Martin Bailey,friend,99636
+Amanda Martin,Carole Oliver,neighbor,51054
+Amanda Martin,Gareth Read,brother,84733
+Amanda Martin,Shannon Phillips,family friend,84733
+Amanda Martin,Anthony Evans,friend,98155
+Amanda Martin,Lisa Osborne,friend,1031
+Amanda Martin,Abigail Randall,friend,43788
+Amanda Martin,Lynn,colleague,94075
+Amanda Martin,Gareth Read,brother,2628
+Amanda Martin,Stuart,friend,26240
+Amanda Martin,Anthony Evans,friend,26240
+Amanda Martin,friend,other,86215
+Amanda Martin,friend,other,46689
+Amanda Martin,friend,other,87439
+Amanda Martin,Lisa Osborne,friend,56081
+Amanda Martin,Martin Bailey,colleague,56081
+Amanda Martin,family,other,38114
+Amanda Martin,sister,other,38114
+Amanda Martin,sister,other,85100
+Amanda Martin,family,other,100793
+Amanda Martin,family,other,100794

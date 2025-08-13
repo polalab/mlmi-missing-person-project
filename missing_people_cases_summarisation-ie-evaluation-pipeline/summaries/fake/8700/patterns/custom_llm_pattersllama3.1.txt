@@ -1,0 +1,5 @@
+Disappearance during Inclement Weather, [34369]  
+Unaccompanied Wilderness Exploration, [101037, 101038]  
+Late-Night Disappearance, []  
+Disappearance from a Residential Area, []  
+Disappearance during a Social Activity, []

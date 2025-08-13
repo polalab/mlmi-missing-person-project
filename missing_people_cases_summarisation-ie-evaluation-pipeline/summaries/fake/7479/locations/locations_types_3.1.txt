@@ -1,0 +1,7 @@
+64254,"Crow Road bridge, Glasgow","Bridge/Elevated Structure","Witnesses reported seeing her at 224-226 Archerhill Road before she attempted to find a familiar path home","Impulsive/Crisis Location"
+64254,"Archerhill Road","Street/Area","Witnesses reported seeing her at 224-226 Archerhill Road before she attempted to find a familiar path home","Impulsive/Crisis Location"
+64254,"Belsyde Avenue","Street/Area","Later found safe after inquiries led family members to Belsyde Avenue","Impulsive/Crisis Location"
+99400,"Crow Road bridge, Glasgow","Bridge/Elevated Structure","A search revealed she might have headed towards a nearby bridge, a known quiet spot she frequented for contemplation","Isolation Seeking"
+99400,"Main Road, G84 0AH","Street/Area","Alexandra Thomas, a retired health visitor with a physical disability, was last seen near the Main Road, G84 0AH, her home","Impulsive/Crisis Location"
+99400,"Balmuildy Road, G64 3HD","Street/Area","When finally traced by police at a medical clinic on Balmuildy Road, G64 3HD","Impulsive/Crisis Location"
+100510,"Abandoned building in foreign country","Building/Structure","Alexandra left during a storm, found in abandoned building in foreign country","Isolation Seeking"

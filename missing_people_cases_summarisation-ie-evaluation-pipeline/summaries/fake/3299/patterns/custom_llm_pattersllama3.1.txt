@@ -1,0 +1,5 @@
+Ferry Boarding, [98894, 11691, 22837, 87979, 70269]  
+Exploring Mountains, [60579, 15113, 70269, 22837, 79016]  
+Traveling to Remote Places, [15113, 79016, 60579, 87979, 70269]  
+Following Maps, [98894, 64444, 88312, 79016, 60579]  
+Living Off-Grid, [87979, 79016, 102153, 102158, 102161]

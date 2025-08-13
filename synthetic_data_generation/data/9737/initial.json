@@ -1,0 +1,87 @@
+{
+    "forenames": "Clive",
+    "surname": "Clarke",
+    "maidenname": "",
+    "nickname": "",
+    "misperid": 9737,
+    "nominalid": 8735,
+    "sex": "Male",
+    "date_of_birth": "1971-01-28",
+    "age": 54,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "White Scottish",
+    "person_language": "English",
+    "place_of_birth": "Manchester",
+    "disability_status": "Not Known",
+    "disability_desc": "",
+    "occupation": "Building surveyor",
+    "reports_starting_from": "2024-12-20",
+    "addresses": [
+        {
+            "address": "85 Bassett Avenue, Glasgow, G13 3JP",
+            "type": "Home"
+        },
+        {
+            "address": "6 Bard Avenue, Glasgow, G13 3JA",
+            "type": "regular restaurant"
+        },
+        {
+            "address": "224-226 Archerhill Road, Glasgow, G13 3YX",
+            "type": "coffee shop"
+        },
+        {
+            "address": "Block 1 Acre Road, Glasgow, G20 0XA",
+            "type": "fitness center"
+        },
+        {
+            "address": "52a Sinclair Street, Helensburgh, G84 8TQ",
+            "type": "yoga class"
+        },
+        {
+            "address": "55 Diana Avenue, Glasgow, G13 3JW",
+            "type": "mosque"
+        },
+        {
+            "address": "Fulton Road,  G62 8PG",
+            "type": "childcare facility"
+        },
+        {
+            "address": "279 Milngavie Road, Glasgow, G61 3DQ",
+            "type": "grocery store"
+        },
+        {
+            "address": "Turret Crescent,  G13 2HG",
+            "type": "carpool group"
+        },
+        {
+            "address": "Belsyde Avenue, Glasgow, G15 6AR",
+            "type": "mosque"
+        },
+        {
+            "address": "Acre Drive, Glasgow, G20 0TR",
+            "type": "synagogue"
+        }
+    ],
+    "traced_locations": [
+        "Belsyde Avenue, Glasgow, G15 6AR",
+        "55 Diana Avenue, Glasgow, G13 3JW",
+        "Main Raod,  G84 0AH",
+        "Hall Road, Rhu, G84 8RR",
+        "1a The Auld Road,  G67 2RF",
+        "Crow Road, Glasgow, G66 7GX",
+        "279 Milngavie Road, Glasgow, G61 3DQ",
+        "Cardross Road,  G82 5DH",
+        "224-226 Archerhill Road, Glasgow, G13 3YX",
+        "Castlecary Road,  G68 0HD"
+    ],
+    "people_reporting": [
+        "Carly Cooper",
+        "Pauline Clarke",
+        "Karl Clarke",
+        "Damien Booth",
+        "Mitchell Barry",
+        "Fiona Clarke",
+        "Liam Clarke"
+    ]
+}

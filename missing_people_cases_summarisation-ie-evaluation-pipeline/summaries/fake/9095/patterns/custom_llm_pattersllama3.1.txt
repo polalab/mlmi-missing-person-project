@@ -1,0 +1,5 @@
+Disappearance near shopping areas or malls, [57256, 84404, 49921, 55979]  
+Disappearance near or after extracurricular activities, [48135, 82269, 49921]  
+Disappearance near or after visiting a friend's house, [22742, 2689, 91125]  
+Disappearance near or after being seen in an alleyway, [61771, 38991, 52396, 76821]  
+Disappearance possibly linked to involvement in a cult or witnessing a crime, [25979, 64361, 52396, 76821]

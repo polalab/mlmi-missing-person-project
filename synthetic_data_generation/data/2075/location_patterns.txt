@@ -1,0 +1,6 @@
+ocean
+resort
+school-related
+highway
+cemetery
+factory

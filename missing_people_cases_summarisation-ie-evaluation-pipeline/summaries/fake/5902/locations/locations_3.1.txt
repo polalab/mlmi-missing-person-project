@@ -1,0 +1,50 @@
+Edward Street 1 CB30SZ, 20222
+St Andrews, 20222
+Selvage Place, 46527
+Rosyth, 46527
+Limekilns Road, 46527
+Dunfermline, 46527
+28 Fairykirk Road, 46527
+1 Burnside Gardens, 50452
+Burntisland, 50452
+42 Mid Shore, 50452
+KY10 2NW, 50452
+16 Albert Street, 65788
+Rosyth, 65788
+KY11 2SA, 65788
+97 Backmarch Road, 65788
+Rosyth, 65788
+KY11 2RP, 65788
+Burntisland Road, 65788
+Kinghorn, 65788
+KY3 9RZ, 65788
+28 Castle Street, 72011
+Crail, 72011
+Marian Adams, 72011
+28 Fairykirk Road, 72011
+School Lane, 83924
+island, 83924
+30 Selvage Place, 98938
+Rosyth, 98938
+Langlands Road, 98938
+St Andrews, 98938
+Castle Road, 4036
+Rosyth, 4036
+10 Rumford, 4036
+Crail, 4036
+41 West Leven Street, 33771
+Burntisland, 33771
+13 Jutland Street, 33771
+Rosyth, 33771
+Abbey Park Avenue, 33771
+St Andrews, 33771
+island, 100817
+illegal site, 100817
+island, 100819
+illegal site, 100819
+remote island, 100821
+restricted military base, 100821
+illegal site, 100821
+military base, 100824
+island, 100824
+military base, 100824

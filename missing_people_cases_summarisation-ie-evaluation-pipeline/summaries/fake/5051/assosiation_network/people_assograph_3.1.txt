@@ -1,0 +1,17 @@
+Hugh Martin,Andrea,friend,22268
+Hugh Martin,Allan Cole,colleague,22268
+Hugh Martin,Andrea,friend,7031
+Hugh Martin,Anne Mason,colleague,7031
+Hugh Martin,Andrea,partner,44148
+Hugh Martin,Andrea,friend,44148
+Hugh Martin,Andrea,sister,45110
+Hugh Martin,Harriet Goodwin,friend,45110
+Hugh Martin,Andrea,sister,29090
+Hugh Martin,Allan Cole,colleague,29090
+Hugh Martin,Andrea,brother,36204
+Hugh Martin,Wayne French,friend,36204
+Hugh Martin,Andrea,brother,15447
+Hugh Martin,Christian Carter,colleague,48458
+Hugh Martin,Andrea,brother,48458
+Hugh Martin,Andrea,brother,100185
+Hugh Martin,Andrea,other,100185

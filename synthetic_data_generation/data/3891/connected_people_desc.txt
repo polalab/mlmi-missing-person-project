@@ -1,0 +1,6 @@
+mother
+friend
+aunt
+sister
+colleague
+grandfather

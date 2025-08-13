@@ -1,0 +1,240 @@
+Disappearance Record:
+Report number: 98700
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2020-04-02 00:00:00
+Date Reported Missing: 2020-04-02 02:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1432
+When Traced: 2020-04-02 23:52:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: Longman Drive, Inverness, IV1 1SU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 69177
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2020-06-21 23:52:00
+Date Reported Missing: 2020-06-22 00:52:00
+Day Reported Missing: Monday
+Length Missing (minutes): 7894
+When Traced: 2020-06-27 11:26:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 48 Orchard Park, Beauly, IV4 7DX
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 62272
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2020-11-28 11:26:00
+Date Reported Missing: 2020-11-29 11:26:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 9720
+When Traced: 2020-12-05 05:26:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 48 Orchard Park, Beauly, IV4 7DX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 84499
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2021-02-11 05:26:00
+Date Reported Missing: 2021-02-11 09:26:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5987
+When Traced: 2021-02-15 09:13:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 11 Eastgate, Inverness, IV2 3PP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 24270
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2021-04-29 09:13:00
+Date Reported Missing: 2021-04-29 15:13:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3657
+When Traced: 2021-05-01 22:10:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: Smith Drive,  IV30 4NE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 59099
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2021-07-19 22:10:00
+Date Reported Missing: 2021-07-19 22:10:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8154
+When Traced: 2021-07-25 14:04:00
+Missing From Address: Hamilton Drive,  IV30 4NN (school)
+Traced at Address: Smith Drive,  IV30 4NE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 11095
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2021-10-06 14:04:00
+Date Reported Missing: 2021-10-07 02:04:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8983
+When Traced: 2021-10-12 19:47:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: Culduthel Park, Inverness, IV2 4UY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 62581
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2022-01-01 19:47:00
+Date Reported Missing: 2022-01-02 17:47:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 9784
+When Traced: 2022-01-08 14:51:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 48 Orchard Park, Beauly, IV4 7DX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 54838
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2022-04-10 14:51:00
+Date Reported Missing: 2022-04-11 16:51:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5340
+When Traced: 2022-04-14 07:51:00
+Missing From Address: 25 Harbour Road, Inverness, IV1 1SY (skate park)
+Traced at Address: 11 Eastgate, Inverness, IV2 3PP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 1803
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2022-09-03 07:51:00
+Date Reported Missing: 2022-09-03 21:51:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4049
+When Traced: 2022-09-06 03:20:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 11 Eastgate, Inverness, IV2 3PP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 24275
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2022-11-18 03:20:00
+Date Reported Missing: 2022-11-18 22:20:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8021
+When Traced: 2022-11-23 17:01:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 48 Orchard Park, Beauly, IV4 7DX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 46910
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2023-05-19 17:01:00
+Date Reported Missing: 2023-05-19 19:01:00
+Day Reported Missing: Friday
+Length Missing (minutes): 3421
+When Traced: 2023-05-22 02:02:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: Longman Drive, Inverness, IV1 1SU
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 36811
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2023-09-05 02:02:00
+Date Reported Missing: 2023-09-05 20:02:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 6488
+When Traced: 2023-09-09 14:10:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 11 Eastgate, Inverness, IV2 3PP
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 29265
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2023-12-26 14:10:00
+Date Reported Missing: 2023-12-27 10:10:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7874
+When Traced: 2024-01-01 01:24:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: Strothers Lane, Inverness, IV1 1AA
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 29088
+Name: Russell Rowley
+Date of Birth: 2014-06-18
+Sex: Male
+Place of Birth: Dundee
+Occupation: 
+Missing Since: 2024-04-29 01:24:00
+Date Reported Missing: 2024-04-29 18:24:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3117
+When Traced: 2024-05-01 05:21:00
+Missing From Address: Seafield Road, Inverness, IV1 1SG (Home)
+Traced at Address: 11 Eastgate, Inverness, IV2 3PP
+Traced by: Traced by Police
+

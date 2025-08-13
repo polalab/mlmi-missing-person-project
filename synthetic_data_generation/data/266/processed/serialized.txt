@@ -1,0 +1,240 @@
+Disappearance Record:
+Report number: 54222
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2020-06-21 00:00:00
+Date Reported Missing: 2020-06-21 09:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2436
+When Traced: 2020-06-22 16:36:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: 17,18 Dundurn Walk,  PH6 2NA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 54737
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2020-11-08 16:36:00
+Date Reported Missing: 2020-11-09 08:36:00
+Day Reported Missing: Monday
+Length Missing (minutes): 4709
+When Traced: 2020-11-11 23:05:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: 10 The Stables, Perth, PH1 2TW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 61975
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2021-04-25 23:05:00
+Date Reported Missing: 2021-04-26 15:05:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9640
+When Traced: 2021-05-02 15:45:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: 17,18 Dundurn Walk,  PH6 2NA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 87935
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2021-07-28 15:45:00
+Date Reported Missing: 2021-07-29 08:45:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4413
+When Traced: 2021-07-31 17:18:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: Argyll Road, Perth, PH1 3BZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 99319
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2021-10-01 17:18:00
+Date Reported Missing: 2021-10-03 00:18:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2869
+When Traced: 2021-10-03 17:07:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: Balavil Brae, Newtonmore, PH20 1DR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 26570
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2022-03-21 17:07:00
+Date Reported Missing: 2022-03-22 04:07:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9341
+When Traced: 2022-03-28 04:48:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: 10 The Stables, Perth, PH1 2TW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 32979
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2022-03-31 04:48:00
+Date Reported Missing: 2022-03-31 17:48:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5207
+When Traced: 2022-04-03 19:35:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: 9-21 Chapel Road,  PH26 3EP
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 96698
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2022-06-10 19:35:00
+Date Reported Missing: 2022-06-11 08:35:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9574
+When Traced: 2022-06-17 11:09:00
+Missing From Address: Saint Mary's Road, Birnam, PH8 0BJ (music lessons)
+Traced at Address: Balavil Brae, Newtonmore, PH20 1DR
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 33723
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2022-10-22 11:09:00
+Date Reported Missing: 2022-10-22 21:09:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 926
+When Traced: 2022-10-23 02:35:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: Balavil Brae, Newtonmore, PH20 1DR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 70651
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2022-10-25 02:35:00
+Date Reported Missing: 2022-10-25 02:35:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5156
+When Traced: 2022-10-28 16:31:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: 10 The Stables, Perth, PH1 2TW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 89689
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2022-11-02 16:31:00
+Date Reported Missing: 2022-11-03 12:31:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3942
+When Traced: 2022-11-05 10:13:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: Argyll Road, Perth, PH1 3BZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 35217
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2022-11-10 10:13:00
+Date Reported Missing: 2022-11-12 04:13:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 8713
+When Traced: 2022-11-16 11:26:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: 9-21 Chapel Road,  PH26 3EP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 29761
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2023-05-14 11:26:00
+Date Reported Missing: 2023-05-14 12:26:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5593
+When Traced: 2023-05-18 08:39:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: 10 The Stables, Perth, PH1 2TW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 13860
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2023-06-27 08:39:00
+Date Reported Missing: 2023-06-27 12:39:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2664
+When Traced: 2023-06-29 05:03:00
+Missing From Address: Balavil Brae, Newtonmore, PH20 1DR (cafe)
+Traced at Address: Glenfinnan Pier Road, Glenfinnan, PH37 4LT
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 43081
+Name: Kelly Farmer
+Date of Birth: 2011-11-01
+Sex: F
+Place of Birth: Preston
+Occupation: 
+Missing Since: 2023-11-14 05:03:00
+Date Reported Missing: 2023-11-15 09:03:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5005
+When Traced: 2023-11-17 16:28:00
+Missing From Address: Muirhall Road, Perth, PH2 7BH (Home)
+Traced at Address: Balavil Brae, Newtonmore, PH20 1DR
+Traced by: Traced by family
+

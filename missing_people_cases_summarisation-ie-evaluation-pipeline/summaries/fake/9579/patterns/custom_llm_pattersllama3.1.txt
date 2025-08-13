@@ -1,0 +1,5 @@
+Disappearance during Foul Weather, [reportid1, reportid2,...]  
+Disappearance due to Chronic Illness Stress, [reportid3, reportid4,...]  
+Disappearance due to Mental Health Struggles, [reportid5, reportid6,...]  
+Disappearance due to Impulsive Behavior, [reportid7, reportid8,...]  
+Disappearance due to Unplanned Deviation from Routine, [reportid9, reportid10,...]

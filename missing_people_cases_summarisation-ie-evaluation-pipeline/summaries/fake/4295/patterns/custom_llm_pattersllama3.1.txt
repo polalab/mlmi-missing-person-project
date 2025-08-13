@@ -1,0 +1,5 @@
+Erratic Behavior, [17220, 30800, 3850, 49157, 91922]  
+Unplanned Detours, [15085, 56872, 22649, 71917, 7814]  
+Disorientation, [15061, 101860, 101862, 29317, 91922]  
+Paranoia, [17220, 7814, 91922, 15061, 49157]  
+Familiar Location Wanderings, [15085, 22649, 71917, 29317, 15061]

@@ -1,0 +1,5 @@
+Disappearance near hiking trails, [31513, 42695, 21388, 70716, 67542]  
+Disappearance near marinas or docks, [55103, 5826, 12034, 93519, 93068]  
+Disappearance near orchards, [18395, 67542, 52993, 100313, 100321]  
+Disappearance after domestic violence-related incidents, [98733, 83988, 39384, 87598, 88171]  
+Disappearance after being outed as LGBTQ+, [18395, 55103, 5826, 12034, 21388, 47043, 70716, 52993, 100313, 100315, 100319, 100321]

@@ -1,0 +1,5 @@
+Disappearance near water bodies, [33163, 80544, 38993, 48139, 80237]  
+Disappearance near industrial areas, [33163, 84748]  
+Disappearance near cemeteries, [80544, 48941]  
+Disappearance near schools or educational institutions, [80237, 48941]  
+Disappearance after social interactions, [80544, 48941, 6745, 35138]

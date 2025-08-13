@@ -1,0 +1,5 @@
+Disappearance Patterns 1, [87408, 17803, 93623, 79457, 34705]  
+Disappearance Patterns 2, [93167, 14400, 7111, 95965, 11503]  
+Disappearance Patterns 3, [9164, 46333, 31860, 32583, 27991]  
+Disappearance Patterns 4, [98564, 60149, 41029, 26368, 80448]  
+Disappearance Patterns 5, [13709, 70448, 76472, 40929, 3938]

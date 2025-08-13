@@ -1,0 +1,73 @@
+Nathan Price,Justin Price,son,83892
+Nathan Price,Justin Price,son,91015
+Nathan Price,Justin Price,son,31167
+Nathan Price,Justin Price,son,17543
+Nathan Price,Justin Price,son,71477
+Nathan Price,Justin Price,son,54399
+Nathan Price,Justin Price,son,96302
+Nathan Price,Justin Price,son,19878
+Nathan Price,Justin Price,son,88987
+Nathan Price,Justin Price,son,100442
+Nathan Price,Justin Price,son,100446
+Nathan Price,Clifford Mason,friend,17543
+Nathan Price,Clifford Mason,friend,71117
+Nathan Price,Clifford Mason,friend,34875
+Nathan Price,Clifford Mason,friend,48642
+Nathan Price,Clifford Mason,friend,32403
+Nathan Price,Clifford Mason,friend,94877
+Nathan Price,Clifford Mason,friend,100442
+Nathan Price,Clifford Mason,friend,100446
+Nathan Price,Stephen Law,acquaintance,69743
+Nathan Price,Stephen Law,acquaintance,100446
+Nathan Price,Stacey Price,sister,61792
+Nathan Price,Stacey Price,sister,72869
+Nathan Price,Stacey Price,sister,70020
+Nathan Price,Stacey Price,sister,100446
+Nathan Price,Joanne Whitehead,daughter,98480
+Nathan Price,Joanne Whitehead,daughter,41847
+Nathan Price,Joanne Whitehead,daughter,31167
+Nathan Price,Joanne Whitehead,daughter,91015
+Nathan Price,Joanne Whitehead,daughter,96302
+Nathan Price,Joanne Whitehead,daughter,100442
+Nathan Price,Joanne Whitehead,daughter,100446
+Nathan Price,Zoe Cook,daughter,91479
+Nathan Price,Zoe Cook,daughter,96302
+Nathan Price,Zoe Cook,daughter,100442
+Nathan Price,Bryan Hudson,son,21755
+Nathan Price,Bryan Hudson,son,34875
+Nathan Price,Bryan Hudson,son,19878
+Nathan Price,Bryan Hudson,son,100442
+Nathan Price,Bryan Hudson,son,100446
+Nathan Price,Jill Thompson,friend,56913
+Nathan Price,Jill Thompson,friend,90971
+Nathan Price,Jill Thompson,friend,48642
+Nathan Price,Jill Thompson,friend,100446
+Nathan Price,Beth,friend,48642
+Nathan Price,Beth,friend,32403
+Nathan Price,Beth,friend,100446
+Nathan Price,Jeremy,colleague,28564
+Nathan Price,Jeremy,colleague,100446
+Nathan Price,friend,friend,5893
+Nathan Price,friend,friend,61792
+Nathan Price,friend,friend,56913
+Nathan Price,friend,friend,83892
+Nathan Price,friend,friend,68601
+Nathan Price,friend,friend,91479
+Nathan Price,friend,friend,69743
+Nathan Price,friend,friend,93185
+Nathan Price,friend,friend,98480
+Nathan Price,friend,friend,72869
+Nathan Price,friend,friend,71117
+Nathan Price,friend,friend,34875
+Nathan Price,friend,friend,90971
+Nathan Price,friend,friend,48642
+Nathan Price,friend,friend,32403
+Nathan Price,friend,friend,100442
+Nathan Price,friend,friend,100446
+Nathan Price,friend,friend,100447
+Nathan Price,friend,friend,100441
+Nathan Price,friend,friend,100443
+Nathan Price,friend,friend,100444
+Nathan Price,friend,friend,100445
+Nathan Price,friend,friend,100446
+Nathan Price,friend,friend,100447

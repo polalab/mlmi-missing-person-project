@@ -1,0 +1,667 @@
+1 Camdean Crescent, Rosyth, 52238
+1 Camdean Crescent, Rosyth, 32826
+1 Camdean Crescent, Rosyth, 66695
+1 Camdean Crescent, Rosyth, 87381
+1 Camdean Crescent, Rosyth, 2370
+1 Camdean Crescent, Rosyth, 11651
+1 Camdean Crescent, Rosyth, 41900
+1 Camdean Crescent, Rosyth, 31104
+61 Harley Street, Rosyth, 32719
+7 Dollar Grove, Burntisland, 76253
+39-42 Alexander Place, Rosyth, 77321
+39-42 Alexander Place, Rosyth, 66695
+137 Admiralty Road, Rosyth, 87381
+9 Lowry Place, Rosyth, 41900
+9 Lowry Place, Rosyth, 2370
+9 Lowry Place, Rosyth, 31104
+24 Car Craig View, Burntisland, 2370
+1 Canmore Street, Kinghorn, 2370
+Kinghorn Road, Burntisland, 76253
+Kinghorn Road, Burntisland, 11651
+Kinghorn Road, Burntisland, 31104
+The Temple, Lower Largo, 82607
+The Temple, Lower Largo, 31104
+St Margaret's Head, North Queensferry, 82607
+Pitreavie Drive, Dunfermline, 5527
+Pitreavie Drive, Dunfermline, 33382
+Pitreavie Court, Dunfermline, 5527
+Jutland Street, Dunfermline, 5527
+Glenrothes, 77539
+Glenrothes, 11651
+Glenrothes, 82607
+Leargan, Leven, 32719
+Leargan, Leven, KY8 5BJ, 32719
+Castle Road, Rosyth, 76253
+Castle Road, Rosyth, KY11 2AU, 76253
+Abbey Park Avenue, St Andrews, 77539
+Mid Shore, 77539
+Pettycur Bay, Kinghorn, 32826
+Pettycur Bay, Kinghorn, 34, 32826
+Castlandhill Road, Rosyth, 87381
+Castlandhill Road, Rosyth, 41900
+Alexander Place, Rosyth, 77321
+Alexander Place, Rosyth, 66695
+Grange House Gardens, Burntisland, 33382
+Grange House Gardens, Burntisland, 1, 33382
+Geds Mill Close, Burntisland, 31104
+Geds Mill Close, Burntisland, 47, 31104
+Carraig View, Burntisland, 2370
+Carraig View, Burntisland, 24, 2370
+Canmore Street, Kinghorn, 2370
+Canmore Street, Kinghorn, 1, 2370
+Lowry Place, Rosyth, 41900
+Lowry Place, Rosyth, 9, 41900
+Lowry Place, Rosyth, 31104
+Lowry Place, Rosyth, 9, 31104
+Lodge Rise, Glenrothes, 82607
+Leargan, Leven, KY8 5BJ, 32719
+Edward Street, 1, CB30SZ, 52238
+library, 5527
+library, 5527
+storm drain, 32826
+storm drain, 32826
+storm drain, 76253
+storm drain, 76253
+storm drain, 77539
+storm drain, 77539
+storm drain, 33382
+storm drain, 33382
+storm drain, 31104
+storm drain, 31104
+storm drain, 41900
+storm drain, 41900
+storm drain, 2370
+storm drain, 2370
+storm drain, 11651
+storm drain, 11651
+storm drain, 82607
+storm drain, 82607
+ocean, 32826
+ocean, 32826
+ocean, 32719
+ocean, 32719
+ocean, 76253
+ocean, 76253
+ocean, 77539
+ocean, 77539
+ocean, 33382
+ocean, 33382
+ocean, 31104
+ocean, 31104
+ocean, 41900
+ocean, 41900
+ocean, 2370
+ocean, 2370
+ocean, 11651
+ocean, 11651
+ocean, 82607
+ocean, 82607
+ocean, 100414
+ocean, 100414
+train station, 77321
+train station, 77321
+train station, 31104
+train station, 31104
+train station, 100409
+train station, 100409
+train station, 100419
+train station, 100419
+train station, 100420
+train station, 100420
+train station, 100414
+train station, 100414
+travel center, 33382
+travel center, 33382
+travel-related site, 87381
+travel-related site, 87381
+derelict boats, 87381
+derelict boats, 87381
+pharmacy, 11651
+pharmacy, 11651
+nursing home, 2370
+nursing home, 2370
+physical therapy clinic, 82607
+physical therapy clinic, 82607
+Bingo hall, 41900
+Bingo hall, 41900
+school, 5527
+school, 5527
+school, 33382
+school, 33382
+school, 31104
+school, 31104
+school, 2370
+school, 2370
+school, 11651
+school, 11651
+school, 82607
+school, 82607
+school, 100414
+school, 100414
+shelter, 77539
+shelter, 77539
+shelter, 77321
+shelter, 77321
+shelter, 66695
+shelter, 66695
+shelter, 87381
+shelter, 87381
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 41900
+shelter, 41900
+shelter, 2370
+shelter, 2370
+shelter, 11651
+shelter, 11651
+shelter, 82607
+shelter, 82607
+shelter, 100409
+shelter, 100409
+shelter, 100419
+shelter, 100419
+shelter, 100420
+shelter, 100420
+shelter, 100414
+shelter, 100414
+shelter, 33382
+shelter, 33382
+shelter, 31104
+shelter, 31104
+shelter, 

@@ -1,0 +1,64 @@
+Disappearance Record:
+Report number: 50352
+Name: Bethany Hope
+Date of Birth: 1984-11-09
+Sex: F
+Place of Birth: Wells
+Occupation: Accommodation manager
+Missing Since: 2024-06-26 00:00:00
+Date Reported Missing: 2024-06-25 20:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 75
+When Traced: 2024-06-26 01:15:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Earl's Road, Grangemouth, FK3 8UZ
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 41471
+Name: Bethany Hope
+Date of Birth: 1984-11-09
+Sex: F
+Place of Birth: Wells
+Occupation: Accommodation manager
+Missing Since: 2024-08-08 01:15:00
+Date Reported Missing: 2024-08-09 01:15:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6918
+When Traced: 2024-08-12 20:33:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Leargan, Leven, KY8 5BJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 49297
+Name: Bethany Hope
+Date of Birth: 1984-11-09
+Sex: F
+Place of Birth: Wells
+Occupation: Accommodation manager
+Missing Since: 2024-10-02 20:33:00
+Date Reported Missing: 2024-10-02 20:33:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 940
+When Traced: 2024-10-03 12:13:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 312 Greengairs Road, Greengairs, ML6 7TQ
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 59924
+Name: Bethany Hope
+Date of Birth: 1984-11-09
+Sex: F
+Place of Birth: Wells
+Occupation: Accommodation manager
+Missing Since: 2025-03-11 12:13:00
+Date Reported Missing: 2025-03-11 19:13:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8320
+When Traced: 2025-03-17 06:53:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (running group)
+Traced at Address: 10 Garden Wood, Inchmarlo, AB31 4AW
+Traced by: Traced by family
+

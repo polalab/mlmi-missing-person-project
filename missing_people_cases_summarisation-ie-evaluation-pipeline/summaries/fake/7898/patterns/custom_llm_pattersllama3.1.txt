@@ -1,0 +1,5 @@
+Disappearance near gang territories, [8822, 94650, 81550, 83034, 23221]  
+Disappearance near fairgrounds, [9735, 59501, 48520, 25317]  
+Disappearance near petting zoos, [26378, 94650, 50685]  
+Disappearance near hospital-related areas, [99197, 59501, 68077]  
+Disappearance during spiritual pilgrimages, [40276, 91476, 9735, 68077, 33340]

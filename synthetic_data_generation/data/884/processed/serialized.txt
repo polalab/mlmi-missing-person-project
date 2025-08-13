@@ -1,0 +1,384 @@
+Disappearance Record:
+Report number: 27847
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2019-02-16 00:00:00
+Date Reported Missing: 2019-02-16 11:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 5595
+When Traced: 2019-02-19 21:15:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: Greenside Street, Alloa, FK10 1EB
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 68993
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2019-05-07 21:15:00
+Date Reported Missing: 2019-05-08 03:15:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5273
+When Traced: 2019-05-11 13:08:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: Bruce Street, Alloa, FK10 1RX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 13426
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2019-10-19 13:08:00
+Date Reported Missing: 2019-10-20 06:08:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2915
+When Traced: 2019-10-21 13:43:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: 1-42 West Lodge Gardens, Alloa, FK10 2HX
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 61791
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2019-12-12 13:43:00
+Date Reported Missing: 2019-12-12 10:43:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 160
+When Traced: 2019-12-12 16:23:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: 17 Whitehouse Road, Stirling, FK7 7XX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 1900
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2020-03-15 16:23:00
+Date Reported Missing: 2020-03-15 20:23:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 8988
+When Traced: 2020-03-21 22:11:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: 33 Spittal Street,  FK8 1DU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 61668
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2020-08-03 22:11:00
+Date Reported Missing: 2020-08-04 15:11:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5635
+When Traced: 2020-08-07 20:06:00
+Missing From Address: 17 Whitehouse Road, Stirling, FK7 7XX (school pickup)
+Traced at Address: 33 Spittal Street,  FK8 1DU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 71076
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2021-01-14 20:06:00
+Date Reported Missing: 2021-01-15 07:06:00
+Day Reported Missing: Friday
+Length Missing (minutes): 5701
+When Traced: 2021-01-18 19:07:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: 33 Spittal Street,  FK8 1DU
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 19613
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2021-05-12 19:07:00
+Date Reported Missing: 2021-05-13 03:07:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 7169
+When Traced: 2021-05-17 18:36:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: 33 Spittal Street,  FK8 1DU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 44482
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2021-09-21 18:36:00
+Date Reported Missing: 2021-09-21 18:36:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9283
+When Traced: 2021-09-28 05:19:00
+Missing From Address: Glensburgh Road,  FK3 8XJ (homeowners association)
+Traced at Address: Greenside Street, Alloa, FK10 1EB
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 85536
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2021-11-23 05:19:00
+Date Reported Missing: 2021-11-23 09:19:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 598
+When Traced: 2021-11-23 15:17:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: Kenilworth Drive,  FK2 9LH
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 54051
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2022-02-14 15:17:00
+Date Reported Missing: 2022-02-15 11:17:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9049
+When Traced: 2022-02-20 22:06:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: 24 Munro Road, Stirling, FK7 7UU
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 49679
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2022-02-27 22:06:00
+Date Reported Missing: 2022-02-28 12:06:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8443
+When Traced: 2022-03-05 18:49:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: Kenilworth Drive,  FK2 9LH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 3157
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2022-06-02 18:49:00
+Date Reported Missing: 2022-06-03 14:49:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9438
+When Traced: 2022-06-09 08:07:00
+Missing From Address: West Murrayfield, Stirling, FK7 8NB (fitness center)
+Traced at Address: Kenilworth Drive,  FK2 9LH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 46516
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2022-11-10 08:07:00
+Date Reported Missing: 2022-11-10 10:07:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 445
+When Traced: 2022-11-10 15:32:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: 33 Spittal Street,  FK8 1DU
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 98946
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2022-12-29 15:32:00
+Date Reported Missing: 2022-12-30 10:32:00
+Day Reported Missing: Friday
+Length Missing (minutes): 5560
+When Traced: 2023-01-02 12:12:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: Kenilworth Drive,  FK2 9LH
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 79027
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2023-03-10 12:12:00
+Date Reported Missing: 2023-03-11 02:12:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 5238
+When Traced: 2023-03-14 03:30:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: Kenilworth Drive,  FK2 9LH
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 65204
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2023-07-23 03:30:00
+Date Reported Missing: 2023-07-24 06:30:00
+Day Reported Missing: Monday
+Length Missing (minutes): 4274
+When Traced: 2023-07-26 02:44:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: 33 Spittal Street,  FK8 1DU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 11208
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2023-10-09 02:44:00
+Date Reported Missing: 2023-10-09 02:44:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8491
+When Traced: 2023-10-15 00:15:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: Bruce Street, Alloa, FK10 1RX
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 71129
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2023-11-10 00:15:00
+Date Reported Missing: 2023-11-10 14:15:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2656
+When Traced: 2023-11-11 20:31:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: Bruce Street, Alloa, FK10 1RX
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 20039
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2024-04-01 20:31:00
+Date Reported Missing: 2024-04-02 14:31:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9064
+When Traced: 2024-04-08 03:35:00
+Missing From Address: 43 Union Road,  FK1 4PG (regular bar)
+Traced at Address: Kenilworth Drive,  FK2 9LH
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 9632
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2024-08-04 03:35:00
+Date Reported Missing: 2024-08-04 03:35:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5894
+When Traced: 2024-08-08 05:49:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: 1-42 West Lodge Gardens, Alloa, FK10 2HX
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 66181
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2025-01-14 05:49:00
+Date Reported Missing: 2025-01-15 04:49:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1711
+When Traced: 2025-01-15 10:20:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: 33 Spittal Street,  FK8 1DU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 21001
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2025-03-04 10:20:00
+Date Reported Missing: 2025-03-04 20:20:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4793
+When Traced: 2025-03-07 18:13:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: 1 Arnothill, Falkirk, FK1 5RY
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 24858
+Name: Rebecca Green
+Date of Birth: 1969-01-31
+Sex: F
+Place of Birth: Lichfield
+Occupation: Site engineer
+Missing Since: 2025-06-19 18:13:00
+Date Reported Missing: 2025-06-20 23:13:00
+Day Reported Missing: Friday
+Length Missing (minutes): 3236
+When Traced: 2025-06-22 00:09:00
+Missing From Address: West Bridge Street, Falkirk, FK1 5AP (Home)
+Traced at Address: Kenilworth Drive,  FK2 9LH
+Traced by: Traced by Police
+

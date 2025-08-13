@@ -1,0 +1,5 @@
+Disappearance near or along water bodies, [100750, 100752]  
+Disappearance near highways, [69908, 100752]  
+Disappearance in isolated or secluded areas, [69908, 100750]  
+Disappearance at night or in low-light conditions, [100752]  
+Disappearance while engaging in solo activities, [100750, 100752]

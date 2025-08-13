@@ -1,0 +1,5 @@
+Disappearance from a Rooftop Location, [55333, 38788, 45781, 4935, 100171]  
+Disappearance from a Resort, [55333, 38788, 45781, 97640]  
+Disappearance from a Public Gathering, [4935, 38788]  
+Disappearance from a Planned Destination, [97640]  
+Disappearance in a Remote or Unfamiliar Area, [97640]

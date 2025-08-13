@@ -1,0 +1,14 @@
+Cardross Road, 23614
+warehouse, 31762
+warehouse bathroom, 23614
+nearby cave, 23614
+1a The Auld Road, 39697
+G82 5DH, 39697
+G67 2RF, 39697
+ocean, 101259
+cave near bathroom, 101259
+warehouse bathroom, 101260
+school, 
+Edward Street 1 CB30SZ, 
+home, 50982
+Cardross Road, 39697

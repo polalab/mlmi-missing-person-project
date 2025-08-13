@@ -1,0 +1,53 @@
+Edward Street 1 CB30SZ, 88550
+mosque, 88550
+150 Strathmartine Road, 88550
+146 Pitkerro Road, 88550
+Derwent Avenue, 73472
+DD3 0AX, 73472
+river, 73472
+Auldbar Road, 94703
+33 Blackness Avenue, 94703
+shopping mall, 94703
+Minto Place, 77341
+national park, 77341
+scenic river, 77341
+Minto Place, 77341
+Auldbar Road, 77124
+river, 77124
+Auldbar Road, 7993
+DD8 2PD, 7993
+disused mine, 7993
+Dura Street, 7993
+Dura Street, 7993
+river, 7993
+King's Cross Road, 74473
+river, 74473
+Unit 3 Fowler Road, 52296
+484 Perth Road, 52296
+Gray Den, 52296
+Gray Den, 52296
+river, 43802
+Auldbar Road, 43802
+Derek Clarke's residence, 43802
+Gray Den, 92488
+unused mine, 92488
+river, 92488
+Auldbar Road, 48592
+mosque, Dundee, 88550
+Strathmartine Road, Dundee, 88550
+Pitkerro Road, Dundee, 88550
+Derwent Avenue, Dundee, DD3 0AX, 73472
+Auldbar Road, Forfar, 94703
+Blackness Avenue, Dundee, 94703
+Minto Place, Dundee, 77341
+national park, 77341
+Perth Road, Dundee, 52296
+Fowler Road, Dundee, 52296
+Gray Den, Dundee, 52296
+Dura Street, Dundee, 7993
+King's Cross Road, Dundee, 74473
+Auldbar Road, Forfar, 7993
+Auldbar Road, Forfar, 48592
+Forfar, 7993
+Dundee, 7993
+Dundee, 48592

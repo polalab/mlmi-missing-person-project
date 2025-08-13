@@ -1,0 +1,7 @@
+81301,"Ben was reported missing after failing to return home from the tutoring center",failure_to_return_pattern,"Ben Whitehead was reported missing after failing to return Home from the tutoring center, where he had been meeting a friend for help with schoolwork."
+81301,"Ben was reported missing after failing to return home from the tutoring center",repeated_missing_person_pattern,"Ben has gone missing before, with Charlie Ward."
+81301,"Ben was reported missing after failing to return home from the tutoring center",history_of_concerning_behavior_pattern,"Ben exhibited concerning behavior on the ferry, prompting the report due to his past as a repeated perpetrator."
+101178,"Ben last seen on ferry; has gone missing before, with Charlie Ward",repeated_missing_person_pattern,"Ben has gone missing before, with Charlie Ward."
+101179,"Ben exhibited concerning behavior on the ferry, prompting the report due to his past as a repeated perpetrator",history_of_concerning_behavior_pattern,"Ben exhibited concerning behavior on the ferry, prompting the report due to his past as a repeated perpetrator."
+101179,"Ben exhibited concerning behavior on the ferry, prompting the report due to his past as a repeated perpetrator",failure_to_return_pattern,"Ben was reported missing after failing to return Home from the tutoring center, where he had been meeting a friend for help with schoolwork."
+101180,"nan",no_report_pattern,"nan"

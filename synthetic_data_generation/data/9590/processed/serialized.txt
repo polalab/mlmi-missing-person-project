@@ -1,0 +1,48 @@
+Disappearance Record:
+Report number: 82267
+Name: Stanley Hawkins
+Date of Birth: 2007-08-24
+Sex: Male
+Place of Birth: Newport
+Occupation: 
+Missing Since: 2024-08-13 00:00:00
+Date Reported Missing: 2024-08-13 00:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9404
+When Traced: 2024-08-19 12:44:00
+Missing From Address: 9 Caroline Street,  IV40 8EH (Home)
+Traced at Address: Black Isle Road, Muir of Ord, IV6 7RR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 94751
+Name: Stanley Hawkins
+Date of Birth: 2007-08-24
+Sex: Male
+Place of Birth: Newport
+Occupation: 
+Missing Since: 2025-01-09 12:44:00
+Date Reported Missing: 2025-01-09 17:44:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 7164
+When Traced: 2025-01-14 12:08:00
+Missing From Address: 9 Caroline Street,  IV40 8EH (Home)
+Traced at Address: 1-14 Rosedene Court, Inverness, IV2 4RT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 5591
+Name: Stanley Hawkins
+Date of Birth: 2007-08-24
+Sex: Male
+Place of Birth: Newport
+Occupation: 
+Missing Since: 2025-05-10 12:08:00
+Date Reported Missing: 2025-05-10 12:08:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 7553
+When Traced: 2025-05-15 18:01:00
+Missing From Address: 9 Caroline Street,  IV40 8EH (Home)
+Traced at Address: 167 Culduthel Road, Inverness, IV2 4BQ
+Traced by: Traced by Police
+

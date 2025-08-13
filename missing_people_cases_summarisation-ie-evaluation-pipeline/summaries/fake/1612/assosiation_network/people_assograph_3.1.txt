@@ -1,0 +1,11 @@
+Hugh Parker,Donald O'Connor,colleague,42873
+Hugh Parker,unknown online group,other,42873
+Hugh Parker,family,other,42873
+Hugh Parker,authorities,other,42873
+Hugh Parker,Jayne Morgan,grandmother,42873
+Hugh Parker,Clare,friend,101138
+Hugh Parker,Clare,colleague,101138
+Hugh Parker,Clare,other,101138
+Hugh Parker,Clare,other,101138
+Hugh Parker,Clare,other,101138
+Hugh Parker,Clare,other,101138

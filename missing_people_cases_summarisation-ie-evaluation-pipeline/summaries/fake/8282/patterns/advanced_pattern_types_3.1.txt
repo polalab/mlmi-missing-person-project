@@ -1,0 +1,93 @@
+22623,"MP attempted to hang herself",self_harm_attempt_pattern,"MP attempted to make noose round her neck and hang from same however was quickly assisted."
+
+50534,"MP exhibited erratic behavior, particularly exacerbated by stress of her chronic illness",erratic_behavior_pattern,"Kimberley often exhibited erratic behavior, particularly exacerbated by the stress of her chronic illness."
+
+92415,"MP expressed a yearning for solitude and spent significant time at Clovenstone Park",solitude_seeking_pattern,"Her granddaughter, Christine Barnes, reported that Kimberley had recently expressed a yearning for solitude and spent significant time at Clovenstone Park."
+
+99087,"MP might have attempted to visit family in Hilltown, Dalkeith, or perhaps Kings Cairn",family_visit_pattern,"It was believed she might have attempted to visit family in Hilltown, Dalkeith, or perhaps Kings Cairn."
+
+34718,"MP declined an offer for a ride from Christine, expressing a desire to take a leisurely walk back to Prestonpans",leisurely_walk_pattern,"Her movement was considered typical as she often enjoyed taking solitary strolls, despite her mobility concerns due to a disability."
+
+63025,"MP was seen at a bar/nightclub on 5 New Street, Edinburgh, interacting with her friend Dylan Hamilton",bar_nightclub_visit_pattern,"A day earlier, she had been seen at a bar/nightclub on 5 New Street, Edinburgh, interacting with her friend Dylan Hamilton."
+
+93198,"MP was seen leaving the 7-11 on Chamberlain Road, heading towards 2 Barnshot Road, Edinburgh",highway_rooftop_visit_pattern,"On the day of her disappearance, she was seen leaving the 7-11 on Chamberlain Road, heading towards 2 Barnshot Road, Edinburgh."
+
+80911,"MP's friend Dylan Hamilton expressed concern over her chronic illness stress",chronic_illness_stress_pattern,"Friend Dylan Hamilton expressed concern over her chronic illness stress."
+
+69451,"MP was last seen near Hilltown, Dalkeith, along the highway",highway_rooftop_visit_pattern,"Kimberley Burton, living in a converted van, was last seen near Hilltown, Dalkeith, EH22 1SG, along the highway."
+
+7507,"MP was reported missing after an evening out at the bingo hall located at 140 Crewe Road South, Edinburgh",bingo_hall_visit_pattern,"Kimberley Burton, referred to as MP, was reported missing after an evening out at the bingo hall located at 140 Crewe Road South, Edinburgh."
+
+56037,"MP was last seen after a night out with her friend near 79 Lauriston Place, Edinburgh",night_out_pattern,"Kimberley Burton was last seen after a night out with her friend near 79 Lauriston Place, Edinburgh."
+
+94659,"MP was last seen with her colleague, Diane Grant, at a restaurant on 5 Buccleuch Place Lane, Edinburgh",restaurant_visit_pattern,"Kimberley Burton, a retired administrator, went missing after an appointment at the dialysis center on Walker Drive, South Queensferry."
+
+27803,"MP was last seen at a restaurant near 140 Crewe Road South, Edinburgh",restaurant_visit_pattern,"Kimberley Burton, known for living in a converted van, disappeared after a night out with her colleague at a restaurant near 140 Crewe Road South, Edinburgh."
+
+5548,"MP was last seen leaving a medical clinic located near Houston Mains, Livingston",medical_clinic_visit_pattern,"Kimberley Burton, an 82-year-old retired administrator, was last seen leaving a medical clinic located near Houston Mains, Livingston."
+
+51743,"MP was last seen acting erratically in a nightclub on 7-11 Chamberlain Road, Edinburgh",nightclub_visit_pattern,"Kimberley Burton was last seen by her friend Dennis Hayward at a nightclub on 7-11 Chamberlain Road, Edinburgh."
+
+99013,"MP was last seen leaving her residence on Mid Road, Prestonpans",residence_departure_pattern,"Kimberley Burton, known by her family as a devoted grandmother, was last seen leaving her residence on Mid Road, Prestonpans."
+
+43849,"MP was last seen by a colleague at Mid Road, Prestonpans, before heading out for a meal at a restaurant on Hilltown, Dalkeith",restaurant_visit_pattern,"Kimberley Burton, suffering from chronic illness stress, was last seen by a colleague at Mid Road, Prestonpans, before heading out for a meal at a restaurant on Hilltown, Dalkeith."
+
+63800,"MP was last seen at a bar on Torphichen Road, Bathgate",bar_visit_pattern,"Kimberley Burton, known to frequent a bingo hall in her leisure time, was last seen at a bar on Torphichen Road, Bathgate."
+
+72438,"MP was last seen departing from her home on Mid Road, Prestonpans",residence_departure_pattern,"Kimberley Burton, known to her family as MP, was last seen departing from her home on Mid Road, Prestonpans."
+
+28992,"MP was last seen leaving a restaurant on Mid Road, Prestonpans",restaurant_visit_pattern,"Kimberley's friend last saw her leaving a restaurant on Mid Road, Prestonpans."
+
+67632,"MP was last seen leaving a bar in the vicinity of 2 Barnshot Road, Edinburgh",bar_visit_pattern,"Kimberley Burton was last seen leaving a bar in the vicinity of 2 Barnshot Road, Edinburgh."
+
+10716,"MP was last seen at a restaurant at 79 Lauriston Place, Edinburgh",restaurant_visit_pattern,"Kimberley Burton, an 84-year-old retired administrator, was reported missing after she failed to return from an outing in Edinburgh."
+
+3804,"MP left abruptly from a rooftop party with her friend Dylan Hamilton",rooftop_party_pattern,"While at a rooftop party with her friend Dylan Hamilton, Kimberley Burton left abruptly, last seen heading towards a nearby bar/nightclub."
+
+74547,"MP was last seen acting erratically in Clovenstone Park, Edinburgh",erratic_behavior_pattern,"Kimberley Burton was last seen acting erratically in Clovenstone Park, Edinburgh."
+
+2401,"MP was reported missing under worrisome circumstances",worrisome_circumstances_pattern,"Kimberley's friend last saw her leaving a restaurant on Mid Road, Prestonpans."
+
+77260,"MP was last seen near 40 Maritime St after chronic illness stress",chronic_illness_stress_pattern,"Kimberley was last seen near 40 Maritime St after chronic illness stress."
+
+85730,"MP was last seen having lunch with her grandmother at a restaurant near 115-125 Walker Drive, South Queensferry",restaurant_visit_pattern,"Kimberley Burton was last seen having lunch with her grandmother at a restaurant near 115-125 Walker Drive, South Queensferry."
+
+12169,"MP was reported missing after failing to attend her routine book club meeting at 19 West Port, Dunbar",book_club_meeting_pattern,"Kimberley Burton, known to act erratically under chronic illness stress, was reported missing after failing to attend her routine book club meeting at 19 West Port, Dunbar."
+
+26505,"MP was last seen by her colleague at a rooftop of a medical clinic located at 79 Lauriston Place, Edinburgh",rooftop_visit_pattern,"Kimberley Burton was last seen by her colleague at a rooftop of a medical clinic located at 79 Lauriston Place, Edinburgh."
+
+85034,"MP was last spotted near the mosque along the highway by 90 Haymarket Terrace, Edinburgh",highway_rooftop_visit_pattern,"Kimberley Burton, known as MP, was last spotted near the mosque along the highway by 90 Haymarket Terrace, Edinburgh."
+
+53240,"MP was last spotted near a highway close to a local motel",highway_rooftop_visit_pattern,"Kimberley Burton, an elderly woman with a known disability, went missing under concerning circumstances."
+
+59177,"MP was believed to have ventured towards a hotel at 7-11 Chamberlain Road, Edinburgh",hotel_visit_pattern,"Kimberley Burton went missing from her home on Mid Road, Prestonpans. It was believed that she might have ventured towards a hotel at 7-11 Chamberlain Road, Edinburgh."
+
+36151,"MP was reported missing from her home on Mid Road, Prestonpans",residence_departure_pattern,"Kimberley Burton, an 86-year-old retired administrator, was reported missing from her home on Mid Road, Prestonpans."
+
+93739,"MP was last seen at her residence on Mid Road, Prestonpans",residence_departure_pattern,"Kimberley Burton was last seen at her residence on Mid Road, Prestonpans."
+
+79713,"MP was last seen at 5 Buccleuch Place Lane, Edinburgh, EH8 9NT",residence_departure_pattern,"Kimberley Burton, a retired administrator with a disability, was last seen at 5 Buccleuch Place Lane, Edinburgh, EH8 9NT."
+
+1861,"MP was last seen by her colleague, Matthew Goddard, near Torphichen Road, Bathgate",colleague_visit_pattern,"Kimberley Burton was last seen by her colleague, Matthew Goddard, near Torphichen Road, Bathgate."
+
+2460,"MP went missing after visiting a bar on Mid Road, Prestonpans",bar_visit_pattern,"Kimberley Burton, known for social gatherings, went missing after visiting a bar on Mid Road, Prestonpans."
+
+98605,"MP went missing after a night out with her friend Dennis Hayward",night_out_pattern,"Kimberley Burton, known for her routine nights out despite her age, went missing after a night out with her friend Dennis Hayward."
+
+93238,"MP was last spotted at 14 Links Road, EH39 4LU",residence_departure_pattern,"Kimberley Burton, noted to act erratically, was last spotted at 14 Links Road, EH39 4LU."
+
+22171,"MP was reported missing after a night out with friends",night_out_pattern,"Kimberley Burton was reported missing after a night out with friends."
+
+66431,"MP was last seen at a restaurant on the bustling Mid Road before taking a taxi towards the nearby Houston Mains in Livingston",restaurant_visit_pattern,"Kimberley Burton, an elderly woman with known disabilities, was last seen at a restaurant on the bustling Mid Road before taking a taxi towards the nearby Houston Mains in Livingston."
+
+68684,"MP was last seen leaving a restaurant near her home on Mid Road, Prestonpans",restaurant_visit_pattern,"Kimberley Burton was last seen leaving a restaurant near her home on Mid Road, Prestonpans."
+
+70321,"MP went missing after a night out with her friend, Dennis Hayward",night_out_pattern,"Kimberley Burton, known to enjoy social outings despite her advancing age, went missing after a night out with her friend, Dennis Hayward."
+
+21528,"MP was last seen at a restaurant near Houston Mains, Livingston after a night out with a colleague",restaurant_visit_pattern,"Kimberley Burton, who resided in a converted van, was last seen at a restaurant near Houston Mains, Livingston after a night out with a colleague."
+
+29813,"MP was last seen at a bar on 40 Maritime Street, Edinburgh",bar_visit_pattern,"Kimberley Burton was last seen at a bar on 40 Maritime Street, Edinburgh."
+
+102007,"MP left the rooftop restaurant",rooftop_party_pattern,"Kimberley left the rooftop restaurant."
+
+102009,"MP was found disoriented in a bar/nightclub",disoriented_in_bar_pattern,"Kimberley, aged 89 with dementia, was found disoriented in a bar/nightclub but is now receiving appropriate support."

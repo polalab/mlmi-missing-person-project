@@ -1,0 +1,5 @@
+Disappearance at Train Stations, [42398, 55703, 46442, 98682, 83838, 43931, 6631, 68098, 77562, 12522, 47939]  
+Disappearance near Truck Stops, [55703, 98682, 83838, 43931, 6631, 53641, 12522, 55110]  
+Disappearance near Alleys, [83838, 77562, 12522, 55110, 50491, 45228]  
+Disappearance near Wilderness Areas, [68098, 53641, 100747]  
+Disappearance after Leaving Study Groups or Friend's Houses, [94267, 46442, 50491]

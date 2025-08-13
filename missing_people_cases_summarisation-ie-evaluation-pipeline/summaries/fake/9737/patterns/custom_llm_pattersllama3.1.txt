@@ -1,0 +1,5 @@
+solo travel, [46309]  
+extended stay in unfamiliar locations, [46309, 100647]  
+unplanned changes in travel plans, [46309]  
+distress in unfamiliar environments, [100647]  
+lack of communication with family or friends, []

@@ -1,0 +1,208 @@
+Disappearance Record:
+Report number: 65014
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2021-09-04 00:00:00
+Date Reported Missing: 2021-09-04 19:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1516
+When Traced: 2021-09-05 01:16:00
+Missing From Address: Kings Cairn,  EH39 5HQ (hospital)
+Traced at Address: 150 Commercial Street, Edinburgh, EH6 6LB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 5409
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2022-02-19 01:16:00
+Date Reported Missing: 2022-02-20 03:16:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1917
+When Traced: 2022-02-20 09:13:00
+Missing From Address: Wester Millerhill, Dalkeith, EH22 1RY (Home)
+Traced at Address: 150 Commercial Street, Edinburgh, EH6 6LB
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 24329
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2022-07-19 09:13:00
+Date Reported Missing: 2022-07-20 08:13:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 4244
+When Traced: 2022-07-22 07:57:00
+Missing From Address: Wester Millerhill, Dalkeith, EH22 1RY (Home)
+Traced at Address: 150 Commercial Street, Edinburgh, EH6 6LB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 44349
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2022-12-29 07:57:00
+Date Reported Missing: 2022-12-29 14:57:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1590
+When Traced: 2022-12-30 10:27:00
+Missing From Address: Wester Millerhill, Dalkeith, EH22 1RY (Home)
+Traced at Address: 150 Commercial Street, Edinburgh, EH6 6LB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 45226
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2023-02-09 10:27:00
+Date Reported Missing: 2023-02-09 10:27:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4355
+When Traced: 2023-02-12 11:02:00
+Missing From Address: Wester Millerhill, Dalkeith, EH22 1RY (Home)
+Traced at Address: 19 West Port, Dunbar, EH42 1BT
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 26295
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2023-04-24 11:02:00
+Date Reported Missing: 2023-04-25 02:02:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8303
+When Traced: 2023-04-30 05:25:00
+Missing From Address: Wester Millerhill, Dalkeith, EH22 1RY (Home)
+Traced at Address: 19 West Port, Dunbar, EH42 1BT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 35509
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2023-06-13 05:25:00
+Date Reported Missing: 2023-06-14 10:25:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9194
+When Traced: 2023-06-19 14:39:00
+Missing From Address: 2 Barnshot Road, Edinburgh, EH13 0DH (nursing home)
+Traced at Address: 101 Ingliston Road, Edinburgh, EH28 8AU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 45757
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2023-08-27 14:39:00
+Date Reported Missing: 2023-08-28 09:39:00
+Day Reported Missing: Monday
+Length Missing (minutes): 1459
+When Traced: 2023-08-28 14:58:00
+Missing From Address: Wester Millerhill, Dalkeith, EH22 1RY (Home)
+Traced at Address: 19 West Port, Dunbar, EH42 1BT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 91126
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2023-10-13 14:58:00
+Date Reported Missing: 2023-10-13 23:58:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8297
+When Traced: 2023-10-19 09:15:00
+Missing From Address: Wester Millerhill, Dalkeith, EH22 1RY (Home)
+Traced at Address: 101 Ingliston Road, Edinburgh, EH28 8AU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 98903
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2024-02-12 09:15:00
+Date Reported Missing: 2024-02-13 21:15:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3683
+When Traced: 2024-02-14 22:38:00
+Missing From Address: Wester Millerhill, Dalkeith, EH22 1RY (Home)
+Traced at Address: 19 West Port, Dunbar, EH42 1BT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 17990
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2024-07-21 22:38:00
+Date Reported Missing: 2024-07-22 05:38:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6185
+When Traced: 2024-07-26 05:43:00
+Missing From Address: Wester Millerhill, Dalkeith, EH22 1RY (Home)
+Traced at Address: 150 Commercial Street, Edinburgh, EH6 6LB
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 16316
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2025-01-10 05:43:00
+Date Reported Missing: 2025-01-10 05:43:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2491
+When Traced: 2025-01-11 23:14:00
+Missing From Address: Wester Millerhill, Dalkeith, EH22 1RY (Home)
+Traced at Address: 50 Howden Hall Road, Edinburgh, EH16 6PJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 85460
+Name: Nathan Read
+Date of Birth: 1926-03-06
+Sex: Male
+Place of Birth: Carlisle
+Occupation: Retired Therapist, art
+Missing Since: 2025-05-29 23:14:00
+Date Reported Missing: 2025-05-31 00:14:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3122
+When Traced: 2025-06-01 03:16:00
+Missing From Address: Wester Millerhill, Dalkeith, EH22 1RY (Home)
+Traced at Address: 50 Howden Hall Road, Edinburgh, EH16 6PJ
+Traced by: Traced by Police
+

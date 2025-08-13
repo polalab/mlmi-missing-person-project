@@ -1,0 +1,128 @@
+Disappearance Record:
+Report number: 72922
+Name: Jayne Baker
+Date of Birth: 2014-04-19
+Sex: F
+Place of Birth: Sheffield
+Occupation: 
+Missing Since: 2023-06-20 00:00:00
+Date Reported Missing: 2023-06-20 23:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5473
+When Traced: 2023-06-23 19:13:00
+Missing From Address: 10 East Cathcart Street,  AB56 1PJ (Home)
+Traced at Address: Rannes Street, Insch, AB52 6JJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 78086
+Name: Jayne Baker
+Date of Birth: 2014-04-19
+Sex: F
+Place of Birth: Sheffield
+Occupation: 
+Missing Since: 2023-11-02 19:13:00
+Date Reported Missing: 2023-11-02 19:13:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4962
+When Traced: 2023-11-06 05:55:00
+Missing From Address: 10 East Cathcart Street,  AB56 1PJ (Home)
+Traced at Address: Rannes Street, Insch, AB52 6JJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 38937
+Name: Jayne Baker
+Date of Birth: 2014-04-19
+Sex: F
+Place of Birth: Sheffield
+Occupation: 
+Missing Since: 2024-02-05 05:55:00
+Date Reported Missing: 2024-02-05 03:55:00
+Day Reported Missing: Monday
+Length Missing (minutes): 202
+When Traced: 2024-02-05 09:17:00
+Missing From Address: 10 East Cathcart Street,  AB56 1PJ (Home)
+Traced at Address: North Lane, Archiestown, AB38 7QL
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 76056
+Name: Jayne Baker
+Date of Birth: 2014-04-19
+Sex: F
+Place of Birth: Sheffield
+Occupation: 
+Missing Since: 2024-05-22 09:17:00
+Date Reported Missing: 2024-05-22 15:17:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1299
+When Traced: 2024-05-23 06:56:00
+Missing From Address: 10 East Cathcart Street,  AB56 1PJ (Home)
+Traced at Address: Carmelite Street, Banff, AB45 1GF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 4936
+Name: Jayne Baker
+Date of Birth: 2014-04-19
+Sex: F
+Place of Birth: Sheffield
+Occupation: 
+Missing Since: 2024-10-30 06:56:00
+Date Reported Missing: 2024-10-30 06:56:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 2131
+When Traced: 2024-10-31 18:27:00
+Missing From Address: 10 East Cathcart Street,  AB56 1PJ (Home)
+Traced at Address: March Road, Buckie, AB56 1ER
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 48576
+Name: Jayne Baker
+Date of Birth: 2014-04-19
+Sex: F
+Place of Birth: Sheffield
+Occupation: 
+Missing Since: 2025-03-05 18:27:00
+Date Reported Missing: 2025-03-05 20:27:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5188
+When Traced: 2025-03-09 08:55:00
+Missing From Address: 10 East Cathcart Street,  AB56 1PJ (Home)
+Traced at Address: Carmelite Street, Banff, AB45 1GF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 86748
+Name: Jayne Baker
+Date of Birth: 2014-04-19
+Sex: F
+Place of Birth: Sheffield
+Occupation: 
+Missing Since: 2025-05-03 08:55:00
+Date Reported Missing: 2025-05-03 18:55:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2525
+When Traced: 2025-05-05 03:00:00
+Missing From Address: 10 East Cathcart Street,  AB56 1PJ (Home)
+Traced at Address: Carmelite Street, Banff, AB45 1GF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 32010
+Name: Jayne Baker
+Date of Birth: 2014-04-19
+Sex: F
+Place of Birth: Sheffield
+Occupation: 
+Missing Since: 2025-07-03 03:00:00
+Date Reported Missing: 2025-07-03 09:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3484
+When Traced: 2025-07-05 13:04:00
+Missing From Address: 10 East Cathcart Street,  AB56 1PJ (Home)
+Traced at Address: 10 Garden Wood, Inchmarlo, AB31 4AW
+Traced by: Traced by Police
+

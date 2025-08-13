@@ -1,0 +1,5 @@
+Disappearance by Unplanned Detour, [54453, 13208, 22827, 31844, 21394]  
+Disappearance from a Familiar Location, [2221, 2138, 25562, 80488, 29359]  
+Disappearance to Explore a Specific Location, [20276, 44473, 39369, 26439, 26327]  
+Disappearance to Visit a Familiar Place, [44702, 20276, 48475, 14820, 48475]  
+Disappearance to Revisit a Past Location, [2138, 22827, 31844, 26327, 14820]

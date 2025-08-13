@@ -1,0 +1,5 @@
+Disappearance Near Familiar Locations, [44943, 37322, 52531, 17290, 97432, 75557, 79675, 76416, 79112, 47632, 164, 50916, 82283, 6902, 22366]  
+Disappearance After Visiting a Friend or Family Member, [6912, 55864, 47632, 50916, 6902, 22366]  
+Disappearance After Leaving a Public Place, [6902, 22366]  
+Disappearance After a Routine Check-up or Support Session, [79675, 50916]  
+Disappearance After a Period of Erratic Behavior, [37322, 52531, 75557, 76416, 82283, 101763]

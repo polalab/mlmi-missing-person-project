@@ -1,0 +1,58 @@
+Edward Street 1 CB30SZ, 1234
+school, 12345
+Mayne Road, 25472
+Elgin, 80662
+school bus stop, 100241
+Sir Walter Scott Drive, 80662
+military base, 80662
+shed, 80662
+Millburn Road, 80662
+Inverness, 80662
+Proby Street, 25472
+Maryburgh, 25472
+Great North Road, 25472
+Muir of Ord, 25472
+2 Linkwood Lane, 81130
+river, 81130
+Ness Walk, 39111
+IV3 5SF, 39111
+Greig Street, 39111
+25 Harbour Road, 39111
+vacation spot, 36338
+river, 36338
+military base, 36338
+Ness Walk, 68838
+river, 68838
+Mayne Road, 77479
+university, 77479
+movie theater, 77479
+Black Isle Road, 77479
+Muir of Ord, 77479
+Great North Road, 77479
+Coxton Park, 69931
+river, 69931
+Elgin, 69931
+Black Isle Road, 69931
+Muir of Ord, 69931
+IV6 7RR, 69931
+Glenurquhart Road, 96729
+Inverness, 96729
+abandoned shed, 96729
+Millburn Road, 96729
+Shore Street, 26085
+river, 26085
+shed, 26085
+Inverness, 26085
+Brumley Brae, 76774
+IV30 4NR, 76774
+Hamilton Drive, 52703
+IV30 4NN, 52703
+school bus stop, 100242
+vacation spot, 100242
+closet, 100242
+river, 100243
+military base, 100243
+military base, 100244
+grandfather, 100244
+military base, 100247
+school bus stop, 100247

@@ -1,0 +1,400 @@
+Disappearance Record:
+Report number: 3495
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2017-12-08 00:00:00
+Date Reported Missing: 2017-12-08 16:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6605
+When Traced: 2017-12-12 14:05:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: 71 King's Crescent, Rosyth, KY11 2RT
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 80123
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2018-05-28 14:05:00
+Date Reported Missing: 2018-05-28 14:05:00
+Day Reported Missing: Monday
+Length Missing (minutes): 4757
+When Traced: 2018-05-31 21:22:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: Lochies Road, Burntisland, KY3 9JX
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 9156
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2018-10-04 21:22:00
+Date Reported Missing: 2018-10-04 23:22:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 9533
+When Traced: 2018-10-11 12:15:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: Wood Road, Rosyth, KY11 2EA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 27827
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2018-10-23 12:15:00
+Date Reported Missing: 2018-10-24 00:15:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9243
+When Traced: 2018-10-29 22:18:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: Abbey Walk, St Andrews, KY16 9LB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 73173
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2019-04-14 22:18:00
+Date Reported Missing: 2019-04-14 22:18:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 319
+When Traced: 2019-04-15 03:37:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: Wood Road, Rosyth, KY11 2EA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 83501
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2019-07-20 03:37:00
+Date Reported Missing: 2019-07-20 06:37:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 483
+When Traced: 2019-07-20 11:40:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: 2-33 Calum Macdonald Court, Rosyth, KY11 2BU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 28933
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2019-12-04 11:40:00
+Date Reported Missing: 2019-12-04 11:40:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8962
+When Traced: 2019-12-10 17:02:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: Wood Road, Rosyth, KY11 2EA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 92091
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2020-02-17 17:02:00
+Date Reported Missing: 2020-02-18 00:02:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4937
+When Traced: 2020-02-21 03:19:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: 7 Aithernie Drive, Upper Largo, KY8 6EX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 28462
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2020-08-07 03:19:00
+Date Reported Missing: 2020-08-07 07:19:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7431
+When Traced: 2020-08-12 07:10:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: 1 Fidra Avenue, Burntisland, KY3 0BE
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 92297
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2021-01-25 07:10:00
+Date Reported Missing: 2021-01-25 18:10:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3379
+When Traced: 2021-01-27 15:29:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: 9-20 John Woods Houses, Upper Largo, KY8 6HB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 67279
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2021-02-17 15:29:00
+Date Reported Missing: 2021-02-18 02:29:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8470
+When Traced: 2021-02-23 12:39:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: 71 King's Crescent, Rosyth, KY11 2RT
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 46433
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2021-07-30 12:39:00
+Date Reported Missing: 2021-07-31 07:39:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1933
+When Traced: 2021-07-31 20:52:00
+Missing From Address: 23 Haddow Grove, Burntisland, KY3 0DA (office)
+Traced at Address: Abbey Walk, St Andrews, KY16 9LB
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 523
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2021-08-15 20:52:00
+Date Reported Missing: 2021-08-17 01:52:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7891
+When Traced: 2021-08-21 08:23:00
+Missing From Address: 15 Woodside Avenue, Rosyth, KY11 2JS (yoga class)
+Traced at Address: 7 Aithernie Drive, Upper Largo, KY8 6EX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 40241
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2021-12-04 08:23:00
+Date Reported Missing: 2021-12-04 18:23:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 7541
+When Traced: 2021-12-09 14:04:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: Wood Road, Rosyth, KY11 2EA
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 276
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2022-04-02 14:04:00
+Date Reported Missing: 2022-04-02 18:04:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 6932
+When Traced: 2022-04-07 09:36:00
+Missing From Address: 1 Dick Place, Rosyth, KY11 2JG (regular bar)
+Traced at Address: 71 King's Crescent, Rosyth, KY11 2RT
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 99220
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2022-06-18 09:36:00
+Date Reported Missing: 2022-06-19 00:36:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 8785
+When Traced: 2022-06-24 12:01:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: 71 King's Crescent, Rosyth, KY11 2RT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 53643
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2022-12-16 12:01:00
+Date Reported Missing: 2022-12-16 21:01:00
+Day Reported Missing: Friday
+Length Missing (minutes): 883
+When Traced: 2022-12-17 02:44:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: 71 King's Crescent, Rosyth, KY11 2RT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 556
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2023-06-13 02:44:00
+Date Reported Missing: 2023-06-14 15:44:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3824
+When Traced: 2023-06-15 18:28:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: Abbey Walk, St Andrews, KY16 9LB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 5256
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2023-07-10 18:28:00
+Date Reported Missing: 2023-07-11 15:28:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 6170
+When Traced: 2023-07-15 01:18:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: 9-20 John Woods Houses, Upper Largo, KY8 6HB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 57369
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2023-11-03 01:18:00
+Date Reported Missing: 2023-11-03 03:18:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1190
+When Traced: 2023-11-03 21:08:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: Wood Road, Rosyth, KY11 2EA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 15990
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2024-02-02 21:08:00
+Date Reported Missing: 2024-02-02 21:08:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1072
+When Traced: 2024-02-03 15:00:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: 9-20 John Woods Houses, Upper Largo, KY8 6HB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 86643
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2024-06-30 15:00:00
+Date Reported Missing: 2024-07-01 07:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5234
+When Traced: 2024-07-04 06:14:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: Abbey Walk, St Andrews, KY16 9LB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 23446
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2024-12-31 06:14:00
+Date Reported Missing: 2025-01-01 14:14:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 6905
+When Traced: 2025-01-05 01:19:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: Abbey Walk, St Andrews, KY16 9LB
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 42068
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2025-03-29 01:19:00
+Date Reported Missing: 2025-03-29 20:19:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 6377
+When Traced: 2025-04-02 11:36:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: 1 Fidra Avenue, Burntisland, KY3 0BE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 75028
+Name: Diana Taylor
+Date of Birth: 1991-01-21
+Sex: F
+Place of Birth: Chester
+Occupation: Counsellor
+Missing Since: 2025-07-10 11:36:00
+Date Reported Missing: 2025-07-11 08:36:00
+Day Reported Missing: Friday
+Length Missing (minutes): 5979
+When Traced: 2025-07-14 15:15:00
+Missing From Address: 34 Kirkton Drive, Burntisland, KY3 0DD (Home)
+Traced at Address: Wood Road, Rosyth, KY11 2EA
+Traced by: Traced by Police
+

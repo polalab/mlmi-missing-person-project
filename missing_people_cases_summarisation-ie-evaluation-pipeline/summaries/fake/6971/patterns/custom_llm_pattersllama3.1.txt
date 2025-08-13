@@ -1,0 +1,5 @@
+Disappearance by Squatting, [74856, 60352, 79179, 88872, 84887, 52562, 7920, 71350, 100990, 100993]  
+Disappearance at or near the Ocean, [37654, 51824, 49825, 24558, 99744, 61855, 80326, 50528, 44063, 100988]  
+Disappearance due to Foreign Travel Suspicions, [14191, 51824, 49825, 99744, 52562, 7920, 25836, 71350]  
+Disappearance after Visiting Arcades or Similar Establishments, [60352, 37654, 51824, 49825, 61855, 50528]  
+Disappearance after Leaving a Friend's House or a Social Gathering, [88901, 61855, 80326, 44063, 50528]

@@ -1,0 +1,5 @@
+Disappearance by Solitary Seeking, [9061, 81137, 52312, 19064, 69728]  
+Disappearance by Unintentional Lock-in, [33621, 36486, 71413, 9372, 35407]  
+Disappearance by Unfamiliar Location, [24539, 71952, 75673, 24660, 85391]  
+Disappearance by Unplanned Travel, [14060, 40731, 85298, 93537, 56331]  
+Disappearance by Unusual Environment, [38409, 44298, 19022, 74484, 9447]

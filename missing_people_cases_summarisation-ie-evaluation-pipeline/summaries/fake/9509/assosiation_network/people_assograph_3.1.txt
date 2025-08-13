@@ -1,0 +1,44 @@
+Russell Rowley,Russell's mother,other,98700
+Russell Rowley,Russell's father,other,98700
+Russell Rowley,a friend,friend,98700
+Russell Rowley,Arthur Fowler,other,69177
+Russell Rowley,Lauren Clark,other,62272
+Russell Rowley,Richard Hall,friend,62272
+Russell Rowley,Kim Chapman,other,84499
+Russell Rowley,a relative,other,84499
+Russell Rowley,Kathryn Francis,other,24270
+Russell Rowley,a foster family member,other,24270
+Russell Rowley,a friend,friend,24270
+Russell Rowley,a relative,other,59099
+Russell Rowley,a friend,friend,59099
+Russell Rowley,another child,other,59099
+Russell Rowley,a friend,friend,59099
+Russell Rowley,Naomi Thorpe,other,11095
+Russell Rowley,a colleague,other,11095
+Russell Rowley,Jasmine Parsons,other,62581
+Russell Rowley,a friend,friend,62581
+Russell Rowley,a relative,other,54838
+Russell Rowley,a friend,friend,54838
+Russell Rowley,a friend,friend,1803
+Russell Rowley,a friend,friend,1803
+Russell Rowley,Karl Moore,other,24275
+Russell Rowley,a friend,friend,24275
+Russell Rowley,Mohammed,other,24275
+Russell Rowley,a relative,other,46910
+Russell Rowley,a colleague,other,46910
+Russell Rowley,a friend,friend,46910
+Russell Rowley,a relative,other,36811
+Russell Rowley,a friend's relative,other,36811
+Russell Rowley,Gerard Foster,other,36811
+Russell Rowley,a colleague,other,36811
+Russell Rowley,a relative,other,29265
+Russell Rowley,a colleague,other,29265
+Russell Rowley,a friend,friend,29088
+Russell Rowley,Naomi Thorpe,other,29088
+Russell Rowley,a colleague,other,29088
+Russell Rowley,a friend,friend,29088
+Russell Rowley,a relative,other,102187
+Russell Rowley,a colleague,other,102187
+Russell Rowley,a relative,other,102187
+Russell Rowley,a relative,other,102188
+Russell Rowley,a relative,other,102188

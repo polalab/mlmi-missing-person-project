@@ -1,0 +1,5 @@
+Squatting Behavior, [30724, 4332, 6532, 50321, 57413]  
+Disappearance Near Public Transportation, [4332, 6532, 57413, 74090, 27911]  
+Voluntary Absence, [74090, 14766, 27911]  
+Disorientation, [27911, 25573]  
+Temporary Refuge Seeking, [30724, 62649]

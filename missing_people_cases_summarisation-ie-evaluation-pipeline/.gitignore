@@ -1,0 +1,25 @@
+# Ignore environment files
+.env
+.env.*
+
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore virtual environments
+venv/
+venv/*
+
+cache/
+cache/*
+
+geo/
+geo/*
+old/*
+output.json
+.DS_Store
+logs/
+logs/*
+
+# do not share real data
+DATA/real

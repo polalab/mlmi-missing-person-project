@@ -1,0 +1,5 @@
+Disappearance near caves, [90144, 44346, 45906, 24743]  
+Disappearance near hiking trails, [11581, 53012, 45630, 24743]  
+Disappearance near waterways, [18670, 54630, 24743, 86613]  
+Disappearance near remote areas, [90144, 11581, 45630, 24743]  
+Disappearance during or after group activities, [11581, 44346, 45906, 86613]

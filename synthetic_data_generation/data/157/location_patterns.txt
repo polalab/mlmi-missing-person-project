@@ -1,0 +1,4 @@
+bar/nightclub
+wilderness
+elevator
+travel-related

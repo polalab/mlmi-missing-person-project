@@ -1,0 +1,128 @@
+Disappearance Record:
+Report number: 78528
+Name: Rhys Martin
+Date of Birth: 2009-01-03
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2022-11-23 00:00:00
+Date Reported Missing: 2022-11-23 18:00:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5572
+When Traced: 2022-11-26 20:52:00
+Missing From Address: 43 Findlay Street, Rosyth, KY11 2RF (Home)
+Traced at Address: 6-9 West Green, Crail, KY10 3RD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 8739
+Name: Rhys Martin
+Date of Birth: 2009-01-03
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2023-02-26 20:52:00
+Date Reported Missing: 2023-02-27 13:52:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8459
+When Traced: 2023-03-04 17:51:00
+Missing From Address: 43 Findlay Street, Rosyth, KY11 2RF (Home)
+Traced at Address: 28 Fairykirk Road, Rosyth, KY11 2QQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 45532
+Name: Rhys Martin
+Date of Birth: 2009-01-03
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2023-08-06 17:51:00
+Date Reported Missing: 2023-08-07 15:51:00
+Day Reported Missing: Monday
+Length Missing (minutes): 1917
+When Traced: 2023-08-08 01:48:00
+Missing From Address: 43 Findlay Street, Rosyth, KY11 2RF (Home)
+Traced at Address: 6-9 West Green, Crail, KY10 3RD
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 16910
+Name: Rhys Martin
+Date of Birth: 2009-01-03
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2023-12-05 01:48:00
+Date Reported Missing: 2023-12-05 00:48:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 284
+When Traced: 2023-12-05 06:32:00
+Missing From Address: 43 Findlay Street, Rosyth, KY11 2RF (Home)
+Traced at Address: 23 Norval Place, Rosyth, KY11 2RJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 3699
+Name: Rhys Martin
+Date of Birth: 2009-01-03
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2024-02-02 06:32:00
+Date Reported Missing: 2024-02-02 14:32:00
+Day Reported Missing: Friday
+Length Missing (minutes): 813
+When Traced: 2024-02-02 20:05:00
+Missing From Address: 43 Findlay Street, Rosyth, KY11 2RF (Home)
+Traced at Address: 6-9 West Green, Crail, KY10 3RD
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 56253
+Name: Rhys Martin
+Date of Birth: 2009-01-03
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2024-07-08 20:05:00
+Date Reported Missing: 2024-07-09 12:05:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3248
+When Traced: 2024-07-11 02:13:00
+Missing From Address: 18-21 Mellor Court, Rosyth, KY11 2RB (shopping mall)
+Traced at Address: 38 Backmarch Crescent, Rosyth, KY11 2RW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 75990
+Name: Rhys Martin
+Date of Birth: 2009-01-03
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2024-12-31 02:13:00
+Date Reported Missing: 2024-12-31 13:13:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7773
+When Traced: 2025-01-05 11:46:00
+Missing From Address: 43 Findlay Street, Rosyth, KY11 2RF (Home)
+Traced at Address: 6-9 West Green, Crail, KY10 3RD
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 77519
+Name: Rhys Martin
+Date of Birth: 2009-01-03
+Sex: Male
+Place of Birth: Kingston-upon-Hull
+Occupation: 
+Missing Since: 2025-04-21 11:46:00
+Date Reported Missing: 2025-04-21 14:46:00
+Day Reported Missing: Monday
+Length Missing (minutes): 7890
+When Traced: 2025-04-26 23:16:00
+Missing From Address: 43 Findlay Street, Rosyth, KY11 2RF (Home)
+Traced at Address: Castle Road, Rosyth, KY11 2AU
+Traced by: Traced by family
+

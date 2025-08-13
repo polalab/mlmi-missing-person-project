@@ -1,0 +1,5 @@
+Disorientation and Wander, [53032, 31848, 34655, 64717, 35707]  
+Disappearing from Familiar Locations, [88090, 51504, 10645, 26957, 65005]  
+Involvement with Underground Structures, [53032, 88090, 51504, 10645, 65005]  
+Disconnection from Social Network, [75425, 100578, 26957, 19851, 98389]  
+Accidental Separation, [31848, 10645, 34655, 35707, 26957]

@@ -1,0 +1,37 @@
+Forfar, 88793
+Forfar, 49015
+Forfar, 75346
+Forfar, 74583
+New Road, Forfar, 49015
+King's Cross Road, 88793
+King's Cross Road, 43479
+King's Cross Road, 81277
+Tayside Street, Carnoustie, 43479
+Tayside Street, Carnoustie, 81277
+Tayside Street, Carnoustie, 39380
+Tayside Street, Carnoustie, 96692
+East School Road, Dundee, 49015
+Kirsty Semple Way, Dundee, 39380
+Adelaide Place, Dundee, 81277
+Adelaide Place, Dundee, 74583
+11 Panmure Terrace, Dundee, 74583
+19 Dalgleish Street, Tayport, 14282
+135 Rosebank Street, 75346
+Stannergate Road, 75346
+12 South Esk Road, 75346
+King's Cross, 100340
+school, 49015
+farm, 88793
+farm, 75346
+mountain, 96692
+mountain, 74583
+university grounds, 96692
+movie theater, 75346
+dance studio, 96692
+dance studio, Tayside Street, Carnoustie, 96692
+gym, Tayside Street, Carnoustie, 39380
+resort, 100334
+resort, 100339
+resort, 100346
+university, 96692
+Edward Street 1 CB30SZ, 49015

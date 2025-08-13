@@ -1,0 +1,4 @@
+vehicle-related
+hospital-related
+farm
+hiking trail

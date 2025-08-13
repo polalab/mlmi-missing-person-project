@@ -1,0 +1,5 @@
+Disappearance by Highway, [reportid1, reportid2,...]  
+Disappearance from Familiar Locations, [reportid3, reportid4,...]  
+Disappearance due to Erratic Behavior, [reportid5, reportid6,...]  
+Disappearance after Social Outings, [reportid7, reportid8,...]  
+Disappearance due to Disorientation, [reportid9, reportid10,...]

@@ -1,0 +1,5 @@
+Disappearance from Known Locations, [5538, 20062, 25422, 76684, 30747, 20219, 4203, 12300, 42376, 59845]  
+Disappearance at Gas Stations, [20062, 4203, 12300, 42376, 100133, 100134]  
+Hiding in Closets, [5538, 25422, 76684, 20219, 42376, 59845, 100134, 100139]  
+Disappearance after Leaving Documents, [4203, 12300, 30747, 59845, 100134]  
+Exploratory Behavior, [76684, 12300, 42376]

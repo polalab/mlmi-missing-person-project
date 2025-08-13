@@ -1,0 +1,9 @@
+James Begum,grandmother,grandmother,20066
+James Begum,Brian Allen,colleague,20066
+James Begum,Alan Begum,uncle,72178
+James Begum,Alan Begum,uncle,80012
+James Begum,family,family,20066
+James Begum,family,family,72178
+James Begum,family,family,80012
+James Begum,friends,friends,80012
+James Begum,Nicole Baker,colleague,100083

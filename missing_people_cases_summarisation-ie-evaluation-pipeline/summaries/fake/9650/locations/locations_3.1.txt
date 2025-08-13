@@ -1,0 +1,58 @@
+Edward Street 1 CB30SZ, 1234
+school, 12345
+6 Kirkton Gardens, 21195
+23 Largo Road, 29412
+Burntisland Road, 16290
+Kinghorn, 16290
+1 Findlay Crescent, 30559
+34 Pettycur Bay, 30559
+1 Craig Court, 30559
+31-37 Aberlour Street, 8207
+train station, 8207
+32 Caledonia Court, 63881
+train station, 63881
+2 Dollar Road, 11644
+Rosyth boarding school, 11644
+train station, 15799
+former boarding school, 15799
+Crail, 15799
+54 Nethergate South, 82616
+train station, 82616
+23 Largo Road, 31125
+7 Dorran Square, 31125
+9 Darney Terrace, 31125
+Rosyth, 31125
+13 Charles Logan Place, 59930
+22 Nicol Drive, 59930
+54 Nethergate South, 3440
+local train station, 3440
+Burntisland, 3440
+57 King's Road, 64627
+train station, 64627
+Brighton & Hove, 94216
+Lochies Road, 94216
+54 Nethergate South, 87954
+community center, 87954
+1 Canmore Street, 87954
+34 Pettycur Bay, 38190
+71 King's Crescent, 38190
+22 Nicol Drive, 38190
+Wood Road, 38190
+54 Nethergate South, 93570
+1 Findlay Crescent, 93570
+10-16 Wood Place, 93570
+boarding school, 100196
+boarding school, 100199
+boarding school, 100200
+boarding school, 100201
+train station, 100202
+boarding school, 100206
+train station, 100206
+boarding school, 100208
+train station, 100208
+boarding school, 100209
+train station, 100209
+boarding school, 100210
+train station, 100210
+boarding school, 100211
+train station, 100211

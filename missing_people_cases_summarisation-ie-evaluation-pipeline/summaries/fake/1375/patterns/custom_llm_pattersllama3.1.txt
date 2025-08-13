@@ -1,0 +1,5 @@
+Disappearance via Unplanned Exploration, [46594, 55885, 28099]  
+Disappearance during Solo Activities, [10181, 71967]  
+Disappearance due to Miscommunication, [10120, 29545]  
+Disappearance in Remote or Isolated Areas, [46594, 10120, 71967]  
+Disappearance during Survivalist Exercises, [55885, 28099]

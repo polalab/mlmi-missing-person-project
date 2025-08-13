@@ -1,0 +1,63 @@
+Edward Street 1 CB30SZ, 1234
+school, 12345
+85 Bassett Avenue, Glasgow, 55527
+112-117 West Clyde Street, 55527
+neighbor’s house, 55527
+Cardross Road, 74830
+neighborhood cafe, 74830
+21 Rampart Avenue, Glasgow, 74830
+Milngavie Road, 74830
+63-65 Truce Road, 70578
+Fulton Road, 70578
+224-226 Archerhill Road, 70578
+Milngavie Road, 70578
+85 Bassett Avenue, Glasgow, 16036
+border area, 16036
+6 Bard Avenue, Glasgow, 26869
+Belsyde Avenue, Glasgow, 26869
+21 Rampart Avenue, Glasgow, 71001
+neighborhood cafe, 71001
+cruise ship, 71001
+grandchild's school events, 68842
+Damian Scott, 68842
+Belsyde Avenue, 93764
+85 Bassett Avenue, 93764
+friend's house on Fulton Road, 93764
+Rampart Avenue, Glasgow, 25015
+local café near 63-65 Truce Road, 25015
+Cardross Road, 25015
+park near Fulton Road, 25015
+85 Bassett Avenue, Glasgow, 64688
+medical clinic close to the border area, 64688
+border area, 64688
+21 Rampart Avenue, Glasgow, 17043
+neighbor’s house at 21 Rampart Avenue, 17043
+85 Bassett Avenue, Glasgow, 17043
+Fulton Road, 56422
+cruise ship docked along the Clyde, 56422
+63-65 Truce Road, Glasgow, 56422
+Block 1 Acre Road, 56422
+Turret Crescent, 63075
+21 Rampart Avenue, Glasgow, 73669
+Fulton Road, 73669
+remote border area, 73669
+55 Diana Avenue, Glasgow, 73669
+Auld Road, 47982
+cruise ship, 47982
+Rampart Avenue, Glasgow, 15966
+border area, 15966
+85 Bassett Avenue, 70369
+local medical clinic, 70369
+residence on Auld Road, 70369
+100547, border area
+100549, cruise ship
+55 Diana Avenue, Glasgow, 100549
+100551, border area
+100553, border area
+100554, border area
+100557, cruise ship
+100558, neighbor’s house
+100560, neighbor’s house
+100561, cruise ship
+100563, cruise ship
+100564, border area

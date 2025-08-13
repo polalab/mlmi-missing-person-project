@@ -1,0 +1,25 @@
+34 Pettycur Bay, Kinghorn, 72636
+34 Pettycur Bay, Kinghorn, 56545
+34 Pettycur Bay, Kinghorn, 16692
+15 Woodside Avenue, Rosyth, 56545
+16 Burney Place, Rosyth, 12067
+32 Caledonia Court, Rosyth, 12067
+Carnegie Avenue, Dunfermline, 5775
+9 Kilcruik Road, Kinghorn, 98950
+42 Mid Shore, KY10 2NW, 98950
+Lammerlaws, Burntisland, 14166
+Seaforth Place, Burntisland, 43195
+1 Kerr Court, Burntisland, KY3 0JG, 67102
+1 Crossroads Place, Rosyth, KY11 2LS, 67102
+Lochies Road, Burntisland, 16692
+Kinghorn, 64923
+Pettycur Bay, Kinghorn, 64923
+zoo, 100492
+train, 100492
+fairground, 100492
+train, 100494
+fairground, 100494
+zoo, 100502
+fairground, 100502
+zoo, 100503
+fairground, 100503

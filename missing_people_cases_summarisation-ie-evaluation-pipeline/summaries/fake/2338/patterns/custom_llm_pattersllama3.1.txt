@@ -1,0 +1,5 @@
+Disappearance at or near a fairground, [23088, 11853, 98829, 3293, 53704, 1369, 9694, 96901, 9230, 50471, 50652, 38763, 10636]  
+Disappearance from a friend's house, [77171, 33298, 72735, 55158, 100568, 100574]  
+Disappearance from a home or residence, [7571, 96901, 74689, 33298]  
+Disappearance in an urban area, [23088, 11853, 98829, 9694, 96901, 9230, 50471, 10636, 38763]  
+Disappearance while with a friend or group, [23088, 11853, 98829, 3293, 53704, 1369, 9694, 96901, 9230, 50471, 50652, 38763, 10636]

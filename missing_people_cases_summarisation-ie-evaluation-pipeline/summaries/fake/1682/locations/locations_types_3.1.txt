@@ -1,0 +1,6 @@
+41630,"Resort","Public Place","left home after an argument and was last seen near a resort","Escape/Impulsive Location"
+54735,"Acre Drive, Glasgow, G20 0TR","Residential Address","A friend and colleague reported her missing from Acre Drive, Glasgow, G20 0TR","Safe Haven"
+54735,"Belsyde Avenue, Glasgow, G15 6AR","Residential Address","She was later traced by police at an address on Belsyde Avenue, Glasgow, G15 6AR","Safe Haven"
+54735,"Music Lessons","Public Place","Hazel Fisher was last seen heading towards music lessons","Creative/Therapeutic Location"
+54735,"Acre Drive, Glasgow, G20 0TR","Public Place","A friend and colleague reported her missing from Acre Drive, Glasgow, G20 0TR","Safe Haven"
+101167,"Acre Drive, Glasgow, G20 0TR","Public Place","found at Acre Drive, Glasgow, G20 0TR, needing support after recent incidents","Safe Haven"

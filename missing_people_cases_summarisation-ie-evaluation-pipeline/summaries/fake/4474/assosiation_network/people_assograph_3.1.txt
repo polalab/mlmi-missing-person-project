@@ -1,0 +1,39 @@
+Alice Rogers,Alice's sister,sister,71148
+Alice Rogers,Alice's brother,brother,71148
+Alice Rogers,Alice's grandfather,other,71148
+Alice Rogers,Alice's family,family member,71148
+Alice Rogers,Alice's roommate,other,71148
+Alice Rogers,Alice's friend,friend,71148
+Alice Rogers,Alice's grandfather,other,19649
+Alice Rogers,Alice's uncle,other,72315
+Alice Rogers,Alice's aunt,other,77696
+Alice Rogers,Alice's father,father,69507
+Alice Rogers,Alice's brother,brother,69507
+Alice Rogers,Alice's family,family member,69507
+Alice Rogers,Alice's friend,friend,69507
+Alice Rogers,Alice's brother,brother,63299
+Alice Rogers,Alice's aunt,other,63299
+Alice Rogers,Alice's friend,friend,63299
+Alice Rogers,Alice's daughter,other,9398
+Alice Rogers,Alice's aunt,other,9398
+Alice Rogers,Alice's sister,sister,45827
+Alice Rogers,Alice's uncle,other,45827
+Alice Rogers,Alice's father,father,77670
+Alice Rogers,Alice's sister,sister,77670
+Alice Rogers,Alice's family member,other,77670
+Alice Rogers,Alice's family member,other,69846
+Alice Rogers,Alice's aunt,other,62952
+Alice Rogers,Alice's aunt,other,62952
+Alice Rogers,Alice's sister,sister,42794
+Alice Rogers,Alice's sister,sister,54828
+Alice Rogers,Alice's sister,sister,50767
+Alice Rogers,Alice's grandfather,other,50767
+Alice Rogers,Alice's brother,brother,10885
+Alice Rogers,Alice's aunt,other,10885
+Alice Rogers,Alice's grandfather,other,10885
+Alice Rogers,Alice's sister,sister,36382
+Alice Rogers,Alice's father,father,35831
+Alice Rogers,Alice's family member,other,35831
+Alice Rogers,Alice's friend,other,35831
+Alice Rogers,Alice's family member,other,100635
+Alice Rogers,Alice's grandfather,other,100639

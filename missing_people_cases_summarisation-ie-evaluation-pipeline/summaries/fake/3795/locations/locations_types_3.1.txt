@@ -1,0 +1,7 @@
+46118,"10 East Cathcart Street, AB56 1PJ","Home Address","Iain's home address, where he was last seen",Isolation Seeking
+46118,"Golden Knowes Road, Aberdeenshire","Safe Location","Found safe on Golden Knowes Road",Impulsive/Crisis Location
+65528,"March Road, Buckie","Public Road","Last seen on March Road",Impulsive/Crisis Location
+65528,"Unknown","Crime Scene","Witnessed a crime",Pattern of Escapism
+77267,"Gordon Crescent, AB34 5HJ","Sports Club","Left sports club on foot",Isolation Seeking
+77267,"37 North High Street, AB45 2PA","Public Road","Appeared distraught in parking lot",Impulsive/Crisis Location
+77267,"Beltie Road, AB31 4JT","Motel","Located at a motel",Impulsive/Crisis Location

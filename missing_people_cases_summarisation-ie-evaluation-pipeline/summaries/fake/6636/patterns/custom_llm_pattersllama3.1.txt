@@ -1,0 +1,5 @@
+Disappearance at or near a gas station, [50352, 49297, 102436, 102437, 102440]  
+Disappearance at or near a residence, [41471, 59924]  
+Disappearance at or near a public gathering location, [59924]  
+Disappearance at or near a transportation hub, [41471]  
+Disappearance at or near a location with online activity, [49297, 102437, 102440, 102441]

@@ -1,0 +1,9 @@
+Jodie Smith,Lisa Smith,mother,25693
+Jodie Smith,friend,friend,25693
+Jodie Smith,friend,friend,34100
+Jodie Smith,grandmother,grandmother,34100
+Jodie Smith,family,family,34100
+Jodie Smith,family,family,25693
+Jodie Smith,friend,friend,102469
+Jodie Smith,Robin Green,friend,102469
+Jodie Smith,Robin Green,other,102469

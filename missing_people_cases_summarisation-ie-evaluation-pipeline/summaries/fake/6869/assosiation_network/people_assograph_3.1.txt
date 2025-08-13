@@ -1,0 +1,35 @@
+Katy Bell,sister,reporting,50123
+Katy Bell,sister,concerned,50123
+Katy Bell,sister,unavailable,12923
+Katy Bell,grandchild,attended school events,51137
+Katy Bell,sister,accompanied,51137
+Katy Bell,sister,alerted authorities,51137
+Katy Bell,son,concerned,12923
+Katy Bell,son,unavailable,12923
+Katy Bell,daughter,reported missing,12923
+Katy Bell,son,concerned,35259
+Katy Bell,sisters,hiking,35259
+Katy Bell,friend,reported,35259
+Katy Bell,son,concerned,53379
+Katy Bell,son,attempted contact,92376
+Katy Bell,son,conversation,92376
+Katy Bell,friend,accompanying,48159
+Katy Bell,son,concerned,48159
+Katy Bell,son,unavailable,48159
+Katy Bell,sister,accompanied,51137
+Katy Bell,sister,alerted authorities,51137
+Katy Bell,son,concerned,71818
+Katy Bell,son,unavailable,71818
+Katy Bell,son,concerned,92376
+Katy Bell,son,conversation,92376
+Katy Bell,daughter,reported missing,92376
+Katy Bell,son,attempted contact,92376
+Katy Bell,son,conversation,92376
+Katy Bell,friend,unexpectedly met,71818
+Katy Bell,son,concerned,101235
+Katy Bell,son,conversation,101235
+Katy Bell,son,concerned,101236
+Katy Bell,son,conversation,101236
+Katy Bell,acquaintance,alerted authorities,101242
+Katy Bell,son,concerned,101245
+Katy Bell,son,conversation,101245

@@ -1,0 +1,119 @@
+Paula Foster,Josh Ball,son,70993
+Paula Foster,Josh Ball,son,72944
+Paula Foster,Josh Ball,son,54535
+Paula Foster,Josh Ball,son,19406
+Paula Foster,Josh Ball,son,81390
+Paula Foster,Josh Ball,son,29964
+Paula Foster,Josh Ball,son,6330
+Paula Foster,Josh Ball,son,5444
+Paula Foster,Josh Ball,son,15769
+Paula Foster,Josh Ball,son,34303
+Paula Foster,Josh Ball,son,77246
+Paula Foster,Josh Ball,son,73334
+Paula Foster,Josh Ball,son,81020
+Paula Foster,Josh Ball,son,49190
+Paula Foster,Josh Ball,son,51995
+Paula Foster,Josh Ball,son,14692
+Paula Foster,Josh Ball,son,67738
+Paula Foster,Josh Ball,son,102566
+Paula Foster,grandmother,mother,70993
+Paula Foster,grandmother,mother,72944
+Paula Foster,grandmother,mother,54535
+Paula Foster,grandmother,mother,19406
+Paula Foster,grandmother,mother,81390
+Paula Foster,grandmother,mother,29964
+Paula Foster,grandmother,mother,6330
+Paula Foster,grandmother,mother,5444
+Paula Foster,grandmother,mother,15769
+Paula Foster,grandmother,mother,34303
+Paula Foster,grandmother,mother,77246
+Paula Foster,grandmother,mother,73334
+Paula Foster,grandmother,mother,81020
+Paula Foster,grandmother,mother,49190
+Paula Foster,grandmother,mother,51995
+Paula Foster,grandmother,mother,14692
+Paula Foster,grandmother,mother,67738
+Paula Foster,grandmother,mother,102566
+Paula Foster,uncle,uncle,70993
+Paula Foster,uncle,uncle,72944
+Paula Foster,uncle,uncle,54535
+Paula Foster,uncle,uncle,81390
+Paula Foster,uncle,uncle,29964
+Paula Foster,uncle,uncle,6330
+Paula Foster,uncle,uncle,5444
+Paula Foster,uncle,uncle,15769
+Paula Foster,uncle,uncle,34303
+Paula Foster,uncle,uncle,77246
+Paula Foster,uncle,uncle,73334
+Paula Foster,uncle,uncle,81020
+Paula Foster,uncle,uncle,49190
+Paula Foster,uncle,uncle,51995
+Paula Foster,uncle,uncle,14692
+Paula Foster,uncle,uncle,67738
+Paula Foster,uncle,uncle,102566
+Paula Foster,sister,sister,70993
+Paula Foster,sister,sister,72944
+Paula Foster,sister,sister,81390
+Paula Foster,sister,sister,29964
+Paula Foster,sister,sister,77246
+Paula Foster,sister,sister,73334
+Paula Foster,sister,sister,81020
+Paula Foster,sister,sister,51995
+Paula Foster,sister,sister,14692
+Paula Foster,sister,sister,102566
+Paula Foster,friend,friend,70993
+Paula Foster,friend,friend,72944
+Paula Foster,friend,friend,54535
+Paula Foster,friend,friend,81390
+Paula Foster,friend,friend,29964
+Paula Foster,friend,friend,6330
+Paula Foster,friend,friend,5444
+Paula Foster,friend,friend,15769
+Paula Foster,friend,friend,34303
+Paula Foster,friend,friend,77246
+Paula Foster,friend,friend,73334
+Paula Foster,friend,friend,81020
+Paula Foster,friend,friend,49190
+Paula Foster,friend,friend,51995
+Paula Foster,friend,friend,14692
+Paula Foster,friend,friend,67738
+Paula Foster,friend,friend,102566
+Paula Foster,grandfather,grandfather,72944
+Paula Foster,grandfather,grandfather,81020
+Paula Foster,neighbor,neighbor,70993
+Paula Foster,neighbor,neighbor,72944
+Paula Foster,neighbor,neighbor,54535
+Paula Foster,neighbor,neighbor,81390
+Paula Foster,neighbor,neighbor,29964
+Paula Foster,neighbor,neighbor,6330
+Paula Foster,neighbor,neighbor,5444
+Paula Foster,neighbor,neighbor,15769
+Paula Foster,neighbor,neighbor,34303
+Paula Foster,neighbor,neighbor,77246
+Paula Foster,neighbor,neighbor,73334
+Paula Foster,neighbor,neighbor,81020
+Paula Foster,neighbor,neighbor,49190
+Paula Foster,neighbor,neighbor,51995
+Paula Foster,neighbor,neighbor,14692
+Paula Foster,neighbor,neighbor,67738
+Paula Foster,neighbor,neighbor,102566
+Paula Foster,roommate,roommate,70993
+Paula Foster,roommate,roommate,72944
+Paula Foster,roommate,roommate,54535
+Paula Foster,roommate,roommate,81390
+Paula Foster,roommate,roommate,29964
+Paula Foster,roommate,roommate,6330
+Paula Foster,roommate,roommate,5444
+Paula Foster,roommate,roommate,15769
+Paula Foster,roommate,roommate,34303
+Paula Foster,roommate,roommate,77246
+Paula Foster,roommate,roommate,73334
+Paula Foster,roommate,roommate,81020
+Paula Foster,roommate,roommate,49190
+Paula Foster,roommate,roommate,51995
+Paula Foster,roommate,roommate,14692
+Paula Foster,roommate,roommate,67738
+Paula Foster,roommate,roommate,102566
+Paula Foster,sister,sister,102565
+Paula Foster,other,other,102565
+Paula Foster,other,other,102566

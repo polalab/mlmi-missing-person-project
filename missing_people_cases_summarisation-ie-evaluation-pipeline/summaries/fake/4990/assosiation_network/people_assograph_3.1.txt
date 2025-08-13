@@ -1,0 +1,73 @@
+Conor Atkinson,Conor's brother,brother,64708
+Conor Atkinson,Conor's brother,brother,38825
+Conor Atkinson,Conor's brother,brother,19898
+Conor Atkinson,Conor's brother,brother,80063
+Conor Atkinson,Conor's brother,brother,41230
+Conor Atkinson,Conor's brother,brother,31201
+Conor Atkinson,Conor's brother,brother,29252
+Conor Atkinson,Conor's brother,brother,94132
+Conor Atkinson,Conor's brother,brother,11063
+Conor Atkinson,Conor's brother,brother,93742
+Conor Atkinson,Conor's brother,brother,3269
+Conor Atkinson,Conor's sister,sister,38825
+Conor Atkinson,Conor's sister,sister,29252
+Conor Atkinson,Conor's sister,sister,93742
+Conor Atkinson,Colleague,friend,64708
+Conor Atkinson,Colleague,friend,38825
+Conor Atkinson,Colleague,friend,19898
+Conor Atkinson,Colleague,friend,80063
+Conor Atkinson,Colleague,friend,41230
+Conor Atkinson,Colleague,friend,31201
+Conor Atkinson,Colleague,friend,94132
+Conor Atkinson,Colleague,friend,11063
+Conor Atkinson,Colleague,friend,3269
+Conor Atkinson,Bernard,neighbor,64708
+Conor Atkinson,Bernard,neighbor,38825
+Conor Atkinson,Bernard,neighbor,19898
+Conor Atkinson,Bernard,neighbor,80063
+Conor Atkinson,Bernard,neighbor,41230
+Conor Atkinson,Bernard,neighbor,31201
+Conor Atkinson,Bernard,neighbor,29252
+Conor Atkinson,Bernard,neighbor,94132
+Conor Atkinson,Bernard,neighbor,11063
+Conor Atkinson,Bernard,neighbor,93742
+Conor Atkinson,Bernard,neighbor,3269
+Conor Atkinson,Yvonne Atkinson,sister,38825
+Conor Atkinson,Yvonne Atkinson,sister,29252
+Conor Atkinson,Yvonne Atkinson,sister,93742
+Conor Atkinson,Guy Andrews,son,93742
+Conor Atkinson,Karl,son,94132
+Conor Atkinson,Family,family member,64708
+Conor Atkinson,Family,family member,38825
+Conor Atkinson,Family,family member,19898
+Conor Atkinson,Family,family member,80063
+Conor Atkinson,Family,family member,41230
+Conor Atkinson,Family,family member,31201
+Conor Atkinson,Family,family member,29252
+Conor Atkinson,Family,family member,94132
+Conor Atkinson,Family,family member,11063
+Conor Atkinson,Family,family member,93742
+Conor Atkinson,Family,family member,3269
+Conor Atkinson,Roommate,roommate,64708
+Conor Atkinson,Roommate,roommate,38825
+Conor Atkinson,Roommate,roommate,19898
+Conor Atkinson,Roommate,roommate,80063
+Conor Atkinson,Roommate,roommate,41230
+Conor Atkinson,Roommate,roommate,31201
+Conor Atkinson,Roommate,roommate,29252
+Conor Atkinson,Roommate,roommate,94132
+Conor Atkinson,Roommate,roommate,11063
+Conor Atkinson,Roommate,roommate,93742
+Conor Atkinson,Roommate,roommate,3269
+Conor Atkinson,Unknown online group,other,64708
+Conor Atkinson,Unknown online group,other,38825
+Conor Atkinson,Unknown online group,other,19898
+Conor Atkinson,Unknown online group,other,80063
+Conor Atkinson,Unknown online group,other,41230
+Conor Atkinson,Unknown online group,other,31201
+Conor Atkinson,Unknown online group,other,29252
+Conor Atkinson,Unknown online group,other,94132
+Conor Atkinson,Unknown online group,other,11063
+Conor Atkinson,Unknown online group,other,93742
+Conor Atkinson,Unknown online group,other,3269
+Conor Atkinson,Old acquaintance,friend,93742

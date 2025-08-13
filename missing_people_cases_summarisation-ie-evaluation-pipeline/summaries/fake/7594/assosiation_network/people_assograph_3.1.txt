@@ -1,0 +1,38 @@
+Pauline Wheeler,her mother,mother,88793
+Pauline Wheeler,her sister,sister,88793
+Pauline Wheeler,her family,family,88793
+Pauline Wheeler,unknown online group,other,88793
+Pauline Wheeler,her family,family,49015
+Pauline Wheeler,her uncle,uncle,49015
+Pauline Wheeler,her mother,mother,49015
+Pauline Wheeler,her family,family,43479
+Pauline Wheeler,Marcus Lees,friend,43479
+Pauline Wheeler,her family,family,81277
+Pauline Wheeler,her brother,brother,81277
+Pauline Wheeler,her family,family,81277
+Pauline Wheeler,her aunt,aunt,81277
+Pauline Wheeler,her online group,other,81277
+Pauline Wheeler,her grandfather,grandfather,81277
+Pauline Wheeler,her brother,brother,39380
+Pauline Wheeler,her brother,brother,39380
+Pauline Wheeler,her sister,sister,96692
+Pauline Wheeler,her sister,sister,96692
+Pauline Wheeler,her family,family,96692
+Pauline Wheeler,her brother,brother,74583
+Pauline Wheeler,her brother,brother,74583
+Pauline Wheeler,her online group,other,74583
+Pauline Wheeler,her grandfather,grandfather,74583
+Pauline Wheeler,her friend,friend,74583
+Pauline Wheeler,her part-time job,colleague,14282
+Pauline Wheeler,Carl Jennings,colleague,14282
+Pauline Wheeler,her family,family,75346
+Pauline Wheeler,her friend,friend,75346
+Pauline Wheeler,her family,farm,100334
+Pauline Wheeler,her friend,friend,100334
+Pauline Wheeler,her uncle,uncle,100335
+Pauline Wheeler,her uncle,uncle,100335
+Pauline Wheeler,her online group,other,100336
+Pauline Wheeler,her online group,other,100338
+Pauline Wheeler,her online group,other,100339
+Pauline Wheeler,Vanessa,friend,100340
+Pauline Wheeler,her sister,sister,100346

@@ -1,0 +1,4 @@
+roadhouse
+resort
+bar/nightclub
+dock/marina

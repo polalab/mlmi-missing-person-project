@@ -1,0 +1,14 @@
+Garry Charlton,Charles Smith,friend,42854
+Garry Charlton,Dorothy,friend,27258
+Garry Charlton,Charles Smith,friend,1397
+Garry Charlton,Charles Smith,friend,12589
+Garry Charlton,Charles Smith,friend,5551
+Garry Charlton,mother,other,5551
+Garry Charlton,friend,other,5551
+Garry Charlton,grandfather,other,42854
+Garry Charlton,family,other,27258
+Garry Charlton,family,other,1397
+Garry Charlton,family,other,42854
+Garry Charlton,local resident,other,27258
+Garry Charlton,friend,other,100755
+Garry Charlton,friend,other,27258

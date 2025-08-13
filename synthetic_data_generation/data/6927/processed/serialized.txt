@@ -1,0 +1,224 @@
+Disappearance Record:
+Report number: 44381
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2021-11-29 00:00:00
+Date Reported Missing: 2021-11-30 10:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5006
+When Traced: 2021-12-02 11:26:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: 1 Newark Street,  PA14 5PE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 23391
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2022-03-01 11:26:00
+Date Reported Missing: 2022-03-02 12:26:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8644
+When Traced: 2022-03-07 11:30:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 80080
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2022-09-02 11:30:00
+Date Reported Missing: 2022-09-02 23:30:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9562
+When Traced: 2022-09-09 02:52:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 53224
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2022-11-06 02:52:00
+Date Reported Missing: 2022-11-07 06:52:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2743
+When Traced: 2022-11-08 00:35:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: Larkfield Road, Inverclyde, PA16 0XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 65358
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2022-12-25 00:35:00
+Date Reported Missing: 2022-12-25 00:35:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4484
+When Traced: 2022-12-28 03:19:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: Larkfield Road, Inverclyde, PA16 0XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 94165
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2023-01-27 03:19:00
+Date Reported Missing: 2023-01-27 19:19:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1282
+When Traced: 2023-01-28 00:41:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: 1 Newark Street,  PA14 5PE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 93837
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2023-02-04 00:41:00
+Date Reported Missing: 2023-02-04 18:41:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 5822
+When Traced: 2023-02-08 01:43:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (senior center)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 70067
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2023-05-17 01:43:00
+Date Reported Missing: 2023-05-17 08:43:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 6640
+When Traced: 2023-05-21 16:23:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 17207
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2023-10-28 16:23:00
+Date Reported Missing: 2023-10-28 23:23:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3666
+When Traced: 2023-10-31 05:29:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 12978
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2024-03-05 05:29:00
+Date Reported Missing: 2024-03-06 07:29:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 6547
+When Traced: 2024-03-09 18:36:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 99373
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2024-06-12 18:36:00
+Date Reported Missing: 2024-06-13 07:36:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5410
+When Traced: 2024-06-16 12:46:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: Gallanach Road,  PA34 4PE
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 44251
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2024-08-02 12:46:00
+Date Reported Missing: 2024-08-02 21:46:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7221
+When Traced: 2024-08-07 13:07:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 93934
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2025-01-23 13:07:00
+Date Reported Missing: 2025-01-23 13:07:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5307
+When Traced: 2025-01-27 05:34:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: Park Mains, Erskine, PA8 7AL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 51721
+Name: Neil Browne
+Date of Birth: 1950-09-22
+Sex: Male
+Place of Birth: Stirling
+Occupation: Retired Logistics and distribution manager
+Missing Since: 2025-03-30 05:34:00
+Date Reported Missing: 2025-03-30 16:34:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7280
+When Traced: 2025-04-04 06:54:00
+Missing From Address: North Pier, Oban, PA34 5QD (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by Police
+

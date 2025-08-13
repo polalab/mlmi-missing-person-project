@@ -1,0 +1,5 @@
+Disappearance near or along water bodies, [80662, 81130, 69931, 96729, 100243]  
+Disappearance near or at a military base, [80662, 36338, 100243, 100244, 100247]  
+Disappearance during or after a family outing or vacation, [39111, 52703, 100241]  
+Disappearance from or near a home or familiar location, [25472, 77479, 76774, 100242]  
+Disappearance after engaging in solo exploration or wandering, [69931, 96729, 100241, 100247]

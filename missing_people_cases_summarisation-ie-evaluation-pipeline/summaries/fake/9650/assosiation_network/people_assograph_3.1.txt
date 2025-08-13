@@ -1,0 +1,35 @@
+Ricky Smith,Sandra Smith,sister,21195
+Ricky Smith,Sandra Smith,sister,29412
+Ricky Smith,Sandra Smith,sister,16290
+Ricky Smith,Sandra Smith,sister,30559
+Ricky Smith,Sandra Smith,sister,8207
+Ricky Smith,Sandra Smith,sister,63881
+Ricky Smith,Sandra Smith,sister,11644
+Ricky Smith,Sandra Smith,sister,15799
+Ricky Smith,Sandra Smith,sister,82616
+Ricky Smith,Sandra Smith,sister,31125
+Ricky Smith,Sandra Smith,sister,59930
+Ricky Smith,Sandra Smith,sister,3440
+Ricky Smith,Sandra Smith,sister,64627
+Ricky Smith,Sandra Smith,sister,94216
+Ricky Smith,Sandra Smith,sister,87954
+Ricky Smith,Sandra Smith,sister,38190
+Ricky Smith,Sandra Smith,sister,93570
+Ricky Smith,Amanda Smith,aunt,93570
+Ricky Smith,Amanda Smith,aunt,82616
+Ricky Smith,Marie,friend,30559
+Ricky Smith,Marie,friend,100208
+Ricky Smith,Rachael,friend,8207
+Ricky Smith,Rachael,friend,31125
+Ricky Smith,Rachael,friend,38190
+Ricky Smith,friend,friend,15799
+Ricky Smith,friend,friend,31125
+Ricky Smith,friend,friend,94216
+Ricky Smith,friend,friend,87954
+Ricky Smith,friend,friend,38190
+Ricky Smith,friend,friend,93570
+Ricky Smith,friend,friend,100202
+Ricky Smith,friend,friend,100209
+Ricky Smith,friend,friend,100210
+Ricky Smith,friend,friend,100211
+Ricky Smith,friend,friend,100213

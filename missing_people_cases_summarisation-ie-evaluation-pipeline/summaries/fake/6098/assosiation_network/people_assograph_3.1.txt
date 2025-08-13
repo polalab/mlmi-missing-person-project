@@ -1,0 +1,6 @@
+Kelly Goodwin,Kelly Goodwin,self,94951
+Kelly Goodwin,Keith Manning,colleague,101160
+Kelly Goodwin,Kelly Goodwin,self,101159
+Kelly Goodwin,Kelly Goodwin,self,101160
+Kelly Goodwin,Keith Manning,other,101160
+Kelly Goodwin,Kelly Goodwin,self,94951

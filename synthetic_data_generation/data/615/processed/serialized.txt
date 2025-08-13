@@ -1,0 +1,48 @@
+Disappearance Record:
+Report number: 34049
+Name: Joe Owen
+Date of Birth: 1941-11-03
+Sex: Male
+Place of Birth: Manchester
+Occupation: Retired Immigration officer
+Missing Since: 2024-12-16 00:00:00
+Date Reported Missing: 2024-12-16 03:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5185
+When Traced: 2024-12-19 14:25:00
+Missing From Address: Belsyde Avenue, Glasgow, G15 6AR (Home)
+Traced at Address: 1a The Auld Road,  G67 2RF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 73776
+Name: Joe Owen
+Date of Birth: 1941-11-03
+Sex: Male
+Place of Birth: Manchester
+Occupation: Retired Immigration officer
+Missing Since: 2025-04-20 14:25:00
+Date Reported Missing: 2025-04-21 06:25:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2168
+When Traced: 2025-04-22 02:33:00
+Missing From Address: Belsyde Avenue, Glasgow, G15 6AR (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 19750
+Name: Joe Owen
+Date of Birth: 1941-11-03
+Sex: Male
+Place of Birth: Manchester
+Occupation: Retired Immigration officer
+Missing Since: 2025-06-18 02:33:00
+Date Reported Missing: 2025-06-18 02:33:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7741
+When Traced: 2025-06-23 11:34:00
+Missing From Address: Belsyde Avenue, Glasgow, G15 6AR (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+

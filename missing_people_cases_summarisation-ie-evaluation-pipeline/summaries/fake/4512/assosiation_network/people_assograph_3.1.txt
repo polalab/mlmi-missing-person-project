@@ -1,0 +1,394 @@
+Clare Lee,June Powell,friend,21451
+Clare Lee,sister,relation,96615
+Clare Lee,sister,relation,94839
+Clare Lee,sister,relation,58348
+Clare Lee,sister,relation,94431
+Clare Lee,sister,relation,85101
+Clare Lee,sister,relation,40453
+Clare Lee,sister,relation,92913
+Clare Lee,sister,relation,84323
+Clare Lee,sister,relation,95687
+Clare Lee,sister,relation,45953
+Clare Lee,sister,relation,55545
+Clare Lee,sister,relation,41380
+Clare Lee,sister,relation,98561
+Clare Lee,sister,relation,78054
+Clare Lee,sister,relation,10987
+Clare Lee,sister,relation,20667
+Clare Lee,sister,relation,6555
+Clare Lee,son,relation,84323
+Clare Lee,son,relation,41380
+Clare Lee,son,relation,10987
+Clare Lee,son,relation,78054
+Clare Lee,Francesca Green,friend,94839
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Louise Knight,friend,95687
+Clare Lee,Louise Knight,friend,98561
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,41380
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,100046
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Kathleen Phillips,friend,92913
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sophie Gardiner,friend,98561
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Sara Stewart,friend,84323
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Wayne Smith,friend,94431
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Alexander Simpson,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Owen Allan,friend,85101
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Stewart Townsend,son,84323
+Clare Lee,Jacob,friend,45953
+Clare Lee,Jacob,friend,45953
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Helen Fox,friend,100044
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Chloe Thomas,relation,100048
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Francesca Green,friend,40453
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,Lucy Atkinson,friend,55545
+Clare Lee,June Powell,friend,100046
+Clare Lee,June Powell,friend,

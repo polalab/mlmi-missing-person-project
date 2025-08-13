@@ -1,0 +1,35 @@
+Gleneagles, 58525
+Gleneagles, 61801
+Gleneagles, 83143
+Gleneagles, 45483
+Gleneagles, 6878
+Gleneagles, 37662
+Gleneagles, Auchterarder, 53124
+military base, 58525
+military base, 83143
+military base, 53124
+military base, 101671
+military base, 101678
+gym on a military base, 58525
+swamp, 61801
+swamp, 45483
+swamp, 53124
+border area, 96970
+border area, 37662
+desert route, 96970
+desert, 37662
+desert, 6878
+desert plant life, 6878
+Newtonmore Road, Kingussie, 83143
+Newtonmore Road, Kingussie, 37662
+Moray Street, Blackford, PH4 1QF, 21224
+Moray Street, Blackford, PH4 1QF, 53124
+Saint Mary's Road, Birnam, PH8 0BJ, 53124
+Saint Mary's Road, Birnam, PH8 0BJ, 101674
+hospital, 6878
+hospital, 53124
+hospital, 101672
+hospital, 101675
+hospital, 101676
+Edward Street 1 CB30SZ, 
+school,

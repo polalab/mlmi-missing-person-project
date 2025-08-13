@@ -1,0 +1,5 @@
+Kate Connolly,Ross Whitehead,friend,22703
+Kate Connolly,Peter Yates,friend,31244
+Kate Connolly,Georgina Yates,friend,31244
+Kate Connolly,Kate Connolly,self,31244
+Kate Connolly,Kate Connolly,self,22703

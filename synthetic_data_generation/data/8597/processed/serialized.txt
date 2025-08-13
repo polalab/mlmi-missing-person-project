@@ -1,0 +1,128 @@
+Disappearance Record:
+Report number: 14834
+Name: Frank Garner
+Date of Birth: 1934-12-22
+Sex: Male
+Place of Birth: Chester
+Occupation: Retired Chemical engineer
+Missing Since: 2022-04-27 00:00:00
+Date Reported Missing: 2022-04-27 11:00:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5316
+When Traced: 2022-04-30 16:36:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 1G Bank Street,  EH39 4NY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 12267
+Name: Frank Garner
+Date of Birth: 1934-12-22
+Sex: Male
+Place of Birth: Chester
+Occupation: Retired Chemical engineer
+Missing Since: 2022-09-09 16:36:00
+Date Reported Missing: 2022-09-10 02:36:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1541
+When Traced: 2022-09-10 18:17:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 83 Burnside Avenue,  PH22 1SE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 26944
+Name: Frank Garner
+Date of Birth: 1934-12-22
+Sex: Male
+Place of Birth: Chester
+Occupation: Retired Chemical engineer
+Missing Since: 2022-10-16 18:17:00
+Date Reported Missing: 2022-10-17 06:17:00
+Day Reported Missing: Monday
+Length Missing (minutes): 7161
+When Traced: 2022-10-21 17:38:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 39-42 Alexander Place, Rosyth, KY11 2DB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 46918
+Name: Frank Garner
+Date of Birth: 1934-12-22
+Sex: Male
+Place of Birth: Chester
+Occupation: Retired Chemical engineer
+Missing Since: 2023-02-10 17:38:00
+Date Reported Missing: 2023-02-10 23:38:00
+Day Reported Missing: Friday
+Length Missing (minutes): 4976
+When Traced: 2023-02-14 04:34:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 39-42 Alexander Place, Rosyth, KY11 2DB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 82272
+Name: Frank Garner
+Date of Birth: 1934-12-22
+Sex: Male
+Place of Birth: Chester
+Occupation: Retired Chemical engineer
+Missing Since: 2023-06-14 04:34:00
+Date Reported Missing: 2023-06-14 10:34:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1756
+When Traced: 2023-06-15 09:50:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 1G Bank Street,  EH39 4NY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 15100
+Name: Frank Garner
+Date of Birth: 1934-12-22
+Sex: Male
+Place of Birth: Chester
+Occupation: Retired Chemical engineer
+Missing Since: 2023-08-29 09:50:00
+Date Reported Missing: 2023-08-30 06:50:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8294
+When Traced: 2023-09-04 04:04:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Strathview Gardens, Pitlochry, PH16 5QR
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 16436
+Name: Frank Garner
+Date of Birth: 1934-12-22
+Sex: Male
+Place of Birth: Chester
+Occupation: Retired Chemical engineer
+Missing Since: 2024-01-22 04:04:00
+Date Reported Missing: 2024-01-22 15:04:00
+Day Reported Missing: Monday
+Length Missing (minutes): 968
+When Traced: 2024-01-22 20:12:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 39-42 Alexander Place, Rosyth, KY11 2DB
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 28161
+Name: Frank Garner
+Date of Birth: 1934-12-22
+Sex: Male
+Place of Birth: Chester
+Occupation: Retired Chemical engineer
+Missing Since: 2024-04-13 20:12:00
+Date Reported Missing: 2024-04-14 14:12:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3166
+When Traced: 2024-04-16 00:58:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 312 Greengairs Road, Greengairs, ML6 7TQ
+Traced by: Traced by Police
+

@@ -1,0 +1,224 @@
+Disappearance Record:
+Report number: 41806
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2014-11-14 00:00:00
+Date Reported Missing: 2014-11-13 22:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 217
+When Traced: 2014-11-14 03:37:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 61 Old Abbey Road,  EH39 4BP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 17690
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2015-02-23 03:37:00
+Date Reported Missing: 2015-02-23 05:37:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9111
+When Traced: 2015-03-01 11:28:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 16 Bernard Terrace, Edinburgh, EH8 9NX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 3870
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2015-03-05 11:28:00
+Date Reported Missing: 2015-03-06 14:28:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8072
+When Traced: 2015-03-11 02:00:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 16 Bernard Terrace, Edinburgh, EH8 9NX
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 25793
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2015-06-19 02:00:00
+Date Reported Missing: 2015-06-19 02:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6847
+When Traced: 2015-06-23 20:07:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 69-71 Whitehill Street, Musselburgh, EH21 8QZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 13361
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2015-09-27 20:07:00
+Date Reported Missing: 2015-09-28 14:07:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6197
+When Traced: 2015-10-02 03:24:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 6 Goldeneye Gait, Edinburgh, EH17 8XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 18923
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2015-12-16 03:24:00
+Date Reported Missing: 2015-12-16 15:24:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7963
+When Traced: 2015-12-21 16:07:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 16 Bernard Terrace, Edinburgh, EH8 9NX
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 76024
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2016-01-07 16:07:00
+Date Reported Missing: 2016-01-09 04:07:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4344
+When Traced: 2016-01-10 16:31:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 6 Goldeneye Gait, Edinburgh, EH17 8XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 94906
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2016-06-07 16:31:00
+Date Reported Missing: 2016-06-08 04:31:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 4108
+When Traced: 2016-06-10 12:59:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 61 Old Abbey Road,  EH39 4BP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 28187
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2016-06-24 12:59:00
+Date Reported Missing: 2016-06-25 01:59:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9400
+When Traced: 2016-07-01 01:39:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 61 Old Abbey Road,  EH39 4BP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 67560
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2016-08-02 01:39:00
+Date Reported Missing: 2016-08-02 07:39:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3964
+When Traced: 2016-08-04 19:43:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 6 Goldeneye Gait, Edinburgh, EH17 8XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 18211
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2016-11-29 19:43:00
+Date Reported Missing: 2016-11-30 09:43:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9316
+When Traced: 2016-12-06 06:59:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 6 Goldeneye Gait, Edinburgh, EH17 8XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 84357
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2017-02-26 06:59:00
+Date Reported Missing: 2017-02-26 09:59:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6065
+When Traced: 2017-03-02 12:04:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 1a Beech Grove, Livingston, EH54 5JL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 85362
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2017-05-27 12:04:00
+Date Reported Missing: 2017-05-27 12:04:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 8455
+When Traced: 2017-06-02 08:59:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 1a Beech Grove, Livingston, EH54 5JL
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 93414
+Name: Arthur Smith
+Date of Birth: 1941-11-26
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Retired Database administrator
+Missing Since: 2017-07-06 08:59:00
+Date Reported Missing: 2017-07-06 08:59:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5092
+When Traced: 2017-07-09 21:51:00
+Missing From Address: 1G Bank Street,  EH39 4NY (Home)
+Traced at Address: 18 Ware Road,  EH39 4BN
+Traced by: Traced by Police
+

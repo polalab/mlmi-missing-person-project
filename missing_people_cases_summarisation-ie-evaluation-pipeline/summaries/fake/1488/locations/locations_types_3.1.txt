@@ -1,0 +1,8 @@
+83504,"Park Avenue casino","Casino/Urban Area","Friend reported her last seen heading to Park Avenue casino","Impulsive/Crisis Location"
+58585,"Rehab center in Falkirk","Rehab Center/Urban Area","Her mother and colleague grew concerned after she missed a dialysis appointment","Isolation Seeking"
+19936,"Community center near Bruce Street, Alloa","Community Center/Rural Area","Concern grew when she failed to return to the rehab center for her scheduled session","Isolation Seeking"
+8740,"Earl's Road, Grangemouth","Street/Rural Area","She reportedly visited Sharon Williams at West Lodge Gardens, Alloa, before going missing","Impulsive/Crisis Location"
+86216,"Ercall Road, Brightons casino","Casino/Urban Area","Her disappearance followed an unsettling encounter on the casino floor, leading her to leave abruptly","Impulsive/Crisis Location"
+72278,"Dunhalin, Rumford","Rural Area","Earlier that day, Sarah had spoken with her colleague about arranging a book club meet in Dunhalin, Rumford","Isolation Seeking"
+91335,"Kemper Avenue, Falkirk","Street/Rural Area","Her disappearance prompted a high-risk search by family and authorities","Impulsive/Crisis Location"
+10197,"88 High Station Road rehab center","Rehab Center/Urban Area","Her friend, Julie Palmer, expressed concern after losing contact post-session","Isolation Seeking"

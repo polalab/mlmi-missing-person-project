@@ -1,0 +1,18 @@
+37572,"Callum was last seen at an internet café near Riggs Road, Perth.",internet_cafe_visit_pattern,"Callum Moore was last seen at an internet café near Riggs Road, Perth."
+51333,"Callum was last seen in a parking lot near the ocean in Inver, Dunkeld.",parking_lot_near_ocean_pattern,"He frequently enjoyed watching the water."
+10509,"Callum was last seen leaving the parking lot at Strathview Gardens, Pitlochry, perhaps distracted or deep in thought.",distracted_walk_pattern,"On what seemed like a routine walk from Newtonmore Road, where he regularly enjoyed brisk walks, Callum was last seen leaving the parking lot at Strathview Gardens, Pitlochry, perhaps distracted or deep in thought."
+99351,"Callum was last seen at Phoines Estate, involved in a legal dispute with sister.",legal_dispute_pattern,"Callum Moore was last seen at Phoines Estate, involved in a legal dispute with sister."
+61834,"Callum went missing from Lundy Gardens, Fort William, and was later found safe in Blackford, unharmed but evasive about his time missing.",voluntary_disappearance_pattern,"The circumstances suggest a voluntary disappearance linked to his creative ventures and online connections."
+102170,"nan",, 
+102171,"nan",, 
+102172,"Callum was found in a snowy parking lot, leaving creative works behind.",snowy_parking_lot_with_creative_works_pattern,"Callum was found in a snowy parking lot, leaving creative works behind."
+102173,"nan",, 
+102174,"Callum, involved in a legal dispute, was last seen in the parking lot near the orchard with Terence.",parking_lot_near_orchard_with_terence_pattern,"Callum, involved in a legal dispute, was last seen in the parking lot near the orchard with Terence."
+102175,"Callum wandered from the orchard to the internet café.",internet_cafe_visit_after_orchard_pattern,"Callum wandered from the orchard to the internet café."
+102176,"Callum was found at an ocean café.",ocean_cafe_visit_pattern,"Callum was found at an ocean café."
+102177,"nan",, 
+102178,"nan",, 
+102179,"nan",, 
+102180,"nan",, 
+102181,"nan",, 
+102182,"Callum was found wandering in a snowy parking lot near water, looking for his mother.",snowy_parking_lot_near_water_with_mother_search_pattern,"Callum was found wandering in a snowy parking lot near water, looking for his mother."

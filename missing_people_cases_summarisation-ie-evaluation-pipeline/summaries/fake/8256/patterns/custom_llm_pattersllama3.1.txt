@@ -1,0 +1,5 @@
+Disappearance through Unfamiliar Environments, [39085, 72313, 30302, 20926, 34836]  
+Disappearance through Withdrawal from Family and Friends, [39085, 24510, 3970, 43926, 42625]  
+Disappearance through Contact with Strangers, [38780, 95293, 9772, 34836, 49260]  
+Disappearance through Exploration of New Places, [24510, 20926, 34836, 49260, 54733]  
+Disappearance through Attraction to Mysterious or Cult-like Settings, [72313, 38780, 95293, 24594, 54733]

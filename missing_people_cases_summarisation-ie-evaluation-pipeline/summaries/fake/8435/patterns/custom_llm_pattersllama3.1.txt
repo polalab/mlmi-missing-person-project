@@ -1,0 +1,5 @@
+Disappearance near cliffs, [34413, 21368]  
+Disappearance near familiar locations, [58076, 62476]  
+Disappearance near residences, [34693, 21368]  
+Disappearance near public gathering places, [58076, 34693]  
+Disappearance near areas of solitude, [62476, 58076]

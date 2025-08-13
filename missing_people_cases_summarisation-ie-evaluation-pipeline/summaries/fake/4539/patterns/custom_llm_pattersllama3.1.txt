@@ -1,0 +1,5 @@
+Disappearance by Unplanned Travel, [58415, 63378, 72567, 9800, 69705, 94783]  
+Disappearance from Work or Volunteer Settings, [74369, 80151, 23513, 70440]  
+Disappearance from Social Gatherings, [54583, 51690]  
+Disappearance from Home or Familiar Locations, [8488, 54591]  
+Disappearance near Train Stations or Routes, [73921, 69705, 94783]

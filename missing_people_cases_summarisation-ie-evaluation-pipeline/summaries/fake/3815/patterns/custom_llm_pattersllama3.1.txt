@@ -1,0 +1,5 @@
+Disappearance by Unplanned Detour, [18826, 36670, 69869, 61142, 47219]  
+Disappearance by Uncharacteristic Behavior, [97264, 8391, 54999, 56324, 75171]  
+Disappearance by Contact with Stranger, [89564, 97264, 8391, 54999, 51731, 85413, 85568, 37870, 32143]  
+Disappearance by Sleep Rough Plan, [97264, 8391, 54999, 56324, 69869, 75171, 56084, 42945, 746, 37870, 32143]  
+Disappearance by Unfamiliar Location, [97264, 8391, 75171, 56084, 42945, 746, 76673]

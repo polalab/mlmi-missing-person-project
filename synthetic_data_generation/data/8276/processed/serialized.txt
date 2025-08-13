@@ -1,0 +1,112 @@
+Disappearance Record:
+Report number: 2601
+Name: Chloe Sanders
+Date of Birth: 2011-06-18
+Sex: F
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2024-02-28 00:00:00
+Date Reported Missing: 2024-02-29 06:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4733
+When Traced: 2024-03-02 06:53:00
+Missing From Address: 52a Sinclair Street, Helensburgh, G84 8TQ (Home)
+Traced at Address: 6 Bard Avenue, Glasgow, G13 3JA
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 1712
+Name: Chloe Sanders
+Date of Birth: 2011-06-18
+Sex: F
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2024-06-22 06:53:00
+Date Reported Missing: 2024-06-22 15:53:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2273
+When Traced: 2024-06-23 20:46:00
+Missing From Address: 52a Sinclair Street, Helensburgh, G84 8TQ (Home)
+Traced at Address: Fulton Road,  G62 8PG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 64194
+Name: Chloe Sanders
+Date of Birth: 2011-06-18
+Sex: F
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2024-11-08 20:46:00
+Date Reported Missing: 2024-11-08 20:46:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8019
+When Traced: 2024-11-14 10:25:00
+Missing From Address: 52a Sinclair Street, Helensburgh, G84 8TQ (Home)
+Traced at Address: 1a The Auld Road,  G67 2RF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 92394
+Name: Chloe Sanders
+Date of Birth: 2011-06-18
+Sex: F
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2025-03-31 10:25:00
+Date Reported Missing: 2025-03-31 12:25:00
+Day Reported Missing: Monday
+Length Missing (minutes): 1664
+When Traced: 2025-04-01 14:09:00
+Missing From Address: 85 Bassett Avenue, Glasgow, G13 3JP (skate park)
+Traced at Address: Crow Road, Glasgow, G66 7GX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 17825
+Name: Chloe Sanders
+Date of Birth: 2011-06-18
+Sex: F
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2025-04-30 14:09:00
+Date Reported Missing: 2025-05-01 21:09:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3552
+When Traced: 2025-05-03 01:21:00
+Missing From Address: 52a Sinclair Street, Helensburgh, G84 8TQ (Home)
+Traced at Address: 6 Bard Avenue, Glasgow, G13 3JA
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 75394
+Name: Chloe Sanders
+Date of Birth: 2011-06-18
+Sex: F
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2025-06-13 01:21:00
+Date Reported Missing: 2025-06-13 01:21:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2159
+When Traced: 2025-06-14 13:20:00
+Missing From Address: 52a Sinclair Street, Helensburgh, G84 8TQ (Home)
+Traced at Address: Fulton Road,  G62 8PG
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 19185
+Name: Chloe Sanders
+Date of Birth: 2011-06-18
+Sex: F
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2025-06-18 13:20:00
+Date Reported Missing: 2025-06-19 12:20:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3907
+When Traced: 2025-06-21 06:27:00
+Missing From Address: 52a Sinclair Street, Helensburgh, G84 8TQ (Home)
+Traced at Address: 85 Bassett Avenue, Glasgow, G13 3JP
+Traced by: Traced by Police
+

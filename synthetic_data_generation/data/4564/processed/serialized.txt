@@ -1,0 +1,112 @@
+Disappearance Record:
+Report number: 54568
+Name: Keith Lee
+Date of Birth: 2014-04-04
+Sex: Male
+Place of Birth: Lichfield
+Occupation: 
+Missing Since: 2022-10-26 00:00:00
+Date Reported Missing: 2022-10-26 13:00:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7372
+When Traced: 2022-10-31 02:52:00
+Missing From Address: 16 Forbes Road, Forres, IV36 1HP (Home)
+Traced at Address: Seafield Road, Inverness, IV1 1SG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 2427
+Name: Keith Lee
+Date of Birth: 2014-04-04
+Sex: Male
+Place of Birth: Lichfield
+Occupation: 
+Missing Since: 2023-01-08 02:52:00
+Date Reported Missing: 2023-01-09 21:52:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3534
+When Traced: 2023-01-10 13:46:00
+Missing From Address: 16 Forbes Road, Forres, IV36 1HP (Home)
+Traced at Address: 25 Harbour Road, Inverness, IV1 1SY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 93486
+Name: Keith Lee
+Date of Birth: 2014-04-04
+Sex: Male
+Place of Birth: Lichfield
+Occupation: 
+Missing Since: 2023-02-05 13:46:00
+Date Reported Missing: 2023-02-05 15:46:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2221
+When Traced: 2023-02-07 02:47:00
+Missing From Address: 16 Forbes Road, Forres, IV36 1HP (Home)
+Traced at Address: Black Isle Road, Muir of Ord, IV6 7RR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 62893
+Name: Keith Lee
+Date of Birth: 2014-04-04
+Sex: Male
+Place of Birth: Lichfield
+Occupation: 
+Missing Since: 2023-05-06 02:47:00
+Date Reported Missing: 2023-05-06 20:47:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1397
+When Traced: 2023-05-07 02:04:00
+Missing From Address: 16 Forbes Road, Forres, IV36 1HP (Home)
+Traced at Address: 9 Caroline Street,  IV40 8EH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 55774
+Name: Keith Lee
+Date of Birth: 2014-04-04
+Sex: Male
+Place of Birth: Lichfield
+Occupation: 
+Missing Since: 2023-10-13 02:04:00
+Date Reported Missing: 2023-10-13 19:04:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9662
+When Traced: 2023-10-19 19:06:00
+Missing From Address: 16 Forbes Road, Forres, IV36 1HP (Home)
+Traced at Address: 9 Caroline Street,  IV40 8EH
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 77470
+Name: Keith Lee
+Date of Birth: 2014-04-04
+Sex: Male
+Place of Birth: Lichfield
+Occupation: 
+Missing Since: 2024-03-20 19:06:00
+Date Reported Missing: 2024-03-22 08:06:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9288
+When Traced: 2024-03-27 05:54:00
+Missing From Address: 16 Forbes Road, Forres, IV36 1HP (Home)
+Traced at Address: Great North Road, Muir of Ord, IV6 7XR
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 98986
+Name: Keith Lee
+Date of Birth: 2014-04-04
+Sex: Male
+Place of Birth: Lichfield
+Occupation: 
+Missing Since: 2024-08-12 05:54:00
+Date Reported Missing: 2024-08-12 18:54:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9711
+When Traced: 2024-08-18 23:45:00
+Missing From Address: 16 Forbes Road, Forres, IV36 1HP (Home)
+Traced at Address: Black Isle Road, Muir of Ord, IV6 7RR
+Traced by: Traced by member of the public
+

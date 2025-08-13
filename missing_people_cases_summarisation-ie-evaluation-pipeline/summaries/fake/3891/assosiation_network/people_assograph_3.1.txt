@@ -1,0 +1,442 @@
+Joanne Turner,her mother,mother,73395
+Joanne Turner,her sister,sister,73395
+Joanne Turner,her sister,sister,69553
+Joanne Turner,her aunt,aunt,67068
+Joanne Turner,her grandmother,grandmother,67068
+Joanne Turner,her grandmother,grandmother,60509
+Joanne Turner,her grandmother,grandmother,18484
+Joanne Turner,her aunt,aunt,18484
+Joanne Turner,her aunt,aunt,11401
+Joanne Turner,her aunt,aunt,76118
+Joanne Turner,her grandfather,grandfather,22126
+Joanne Turner,her grandfather,grandfather,76852
+Joanne Turner,her grandfather,grandfather,18484
+Joanne Turner,her grandfather,grandfather,11401
+Joanne Turner,her grandfather,grandfather,76118
+Joanne Turner,her colleague,colleague,64934
+Joanne Turner,her colleague,colleague,76118
+Joanne Turner,her friend,friend,86295
+Joanne Turner,her friend,friend,18484
+Joanne Turner,her sister,family,64934
+Joanne Turner,her sister,family,69553
+Joanne Turner,her sister,family,73395
+Joanne Turner,her mother,family,73395
+Joanne Turner,her aunt,family,69553
+Joanne Turner,her aunt,family,73395
+Joanne Turner,her grandmother,family,60509
+Joanne Turner,her grandmother,family,18484
+Joanne Turner,her grandmother,family,101948
+Joanne Turner,her sister,family,101948
+Joanne Turner,her grandfather,family,22126
+Joanne Turner,her grandfather,family,76852
+Joanne Turner,her grandfather,family,18484
+Joanne Turner,her grandfather,family,11401
+Joanne Turner,her grandfather,family,76118
+Joanne Turner,her colleague,family,64934
+Joanne Turner,her colleague,family,76118
+Joanne Turner,her friend,family,18484
+Joanne Turner,her friend,family,86295
+Joanne Turner,her roommate,roommate,76852
+Joanne Turner,her roommate,roommate,18484
+Joanne Turner,her roommate,roommate,69553
+Joanne Turner,her roommate,roommate,73395
+Joanne Turner,her roommate,roommate,64934
+Joanne Turner,her roommate,roommate,76118
+Joanne Turner,her roommate,roommate,11401
+Joanne Turner,her roommate,roommate,22126
+Joanne Turner,her roommate,roommate,60509
+Joanne Turner,her roommate,roommate,67068
+Joanne Turner,her roommate,roommate,86295
+Joanne Turner,her roommate,roommate,76852
+Joanne Turner,her roommate,roommate,18484
+Joanne Turner,her roommate,roommate,69553
+Joanne Turner,her roommate,roommate,73395
+Joanne Turner,her roommate,roommate,64934
+Joanne Turner,her roommate,roommate,76118
+Joanne Turner,her roommate,roommate,11401
+Joanne Turner,her roommate,roommate,22126
+Joanne Turner,her roommate,roommate,60509
+Joanne Turner,her roommate,roommate,67068
+Joanne Turner,her roommate,roommate,86295
+Joanne Turner,her roommate,roommate,76852
+Joanne Turner,her roommate,roommate,18484
+Joanne Turner,her roommate,roommate,69553
+Joanne Turner,her roommate,roommate,73395
+Joanne Turner,her roommate,roommate,64934
+Joanne Turner,her roommate,roommate,76118
+Joanne Turner,her roommate,roommate,11401
+Joanne Turner,her roommate,roommate,22126
+Joanne Turner,her roommate,roommate,60509
+Joanne Turner,her roommate,roommate,67068
+Joanne Turner,her roommate,roommate,86295
+Joanne Turner,her roommate,roommate,76852
+Joanne Turner,her roommate,roommate,18484
+Joanne Turner,her roommate,roommate,69553
+Joanne Turner,her roommate,roommate,73395
+Joanne Turner,her roommate,roommate,64934
+Joanne Turner,her roommate,roommate,76118
+Joanne Turner,her roommate,roommate,11401
+Joanne Turner,her roommate,roommate,22126
+Joanne Turner,her roommate,roommate,60509
+Joanne Turner,her roommate,roommate,67068
+Joanne Turner,her roommate,roommate,86295
+Joanne Turner,her roommate,roommate,76852
+Joanne Turner,her roommate,roommate,18484
+Joanne Turner,other,other,73395
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934
+Joanne Turner,other,other,76118
+Joanne Turner,other,other,11401
+Joanne Turner,other,other,22126
+Joanne Turner,other,other,60509
+Joanne Turner,other,other,67068
+Joanne Turner,other,other,86295
+Joanne Turner,other,other,76852
+Joanne Turner,other,other,18484
+Joanne Turner,other,other,69553
+Joanne Turner,other,other,64934

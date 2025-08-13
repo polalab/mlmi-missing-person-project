@@ -1,0 +1,3 @@
+remote cabin
+stairwell
+basement

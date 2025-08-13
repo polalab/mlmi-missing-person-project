@@ -1,0 +1,249 @@
+{
+    "forenames": "Glen",
+    "surname": "Dobson",
+    "maidenname": "",
+    "nickname": "Kathryn",
+    "misperid": 3183,
+    "nominalid": 330,
+    "sex": "Male",
+    "date_of_birth": "1990-06-25",
+    "age": 35,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "White Scottish",
+    "person_language": "English",
+    "place_of_birth": "Plymouth",
+    "disability_status": "Not Known",
+    "disability_desc": "",
+    "occupation": "Community development worker",
+    "reports_starting_from": "2020-09-20",
+    "addresses": [
+        {
+            "address": ". Dunbar Road, East Linton, EH40 3DE",
+            "type": "Home"
+        },
+        {
+            "address": "18 Queen Anne Drive, Edinburgh, EH28 8PL",
+            "type": "regular restaurant"
+        },
+        {
+            "address": "1 Constitution Place, Leith Docks,, Edinburgh (City of), EH6 7DL",
+            "type": "mosque"
+        },
+        {
+            "address": "60 Newcraighall Road, Edinburgh, EH15 3HR",
+            "type": "gym"
+        },
+        {
+            "address": "3 Renaissance View,  EH39 5HL",
+            "type": "workplace"
+        },
+        {
+            "address": "Mid Street,  EH48 1QW",
+            "type": "synagogue"
+        },
+        {
+            "address": "2 South Gyle Crescent, Edinburgh, EH12 9FQ",
+            "type": "grocery store"
+        },
+        {
+            "address": "Strathearn Road,  EH39 5BZ",
+            "type": "lunch meeting"
+        },
+        {
+            "address": "72 Whitecraig Avenue, Whitecraig, EH21 8PB",
+            "type": "dentist office"
+        },
+        {
+            "address": "5-7 Drum Street,  EH17 8QQ",
+            "type": "school pickup"
+        },
+        {
+            "address": "Dirleton Road,  EH39 5DF",
+            "type": "carpool group"
+        },
+        {
+            "address": "4 Redheughs Rigg, Edinburgh, EH12 9DQ",
+            "type": "sports league"
+        },
+        {
+            "address": "7 Woodhall Grove, Edinburgh, EH13 0HR",
+            "type": "childcare facility"
+        },
+        {
+            "address": "2 Highfield Road,  EH39 4BW",
+            "type": "mosque"
+        },
+        {
+            "address": "13 Richardson Crescent,  EH39 5LX",
+            "type": "yoga class"
+        },
+        {
+            "address": "2 Cramond Glebe Road, Edinburgh, EH4 6NS",
+            "type": "childcare facility"
+        },
+        {
+            "address": "13 Moray Way,  EH21 7QY",
+            "type": "dog park"
+        },
+        {
+            "address": "Mid Road, Prestonpans, EH32 9ER",
+            "type": "daycare pickup"
+        },
+        {
+            "address": "Countess Crescent,  EH42 1DX",
+            "type": "synagogue"
+        },
+        {
+            "address": "7-11 Chamberlain Road, Edinburgh, EH10 4DJ",
+            "type": "library"
+        },
+        {
+            "address": "140 Crewe Road South, Edinburgh, EH4 2NY",
+            "type": "running group"
+        },
+        {
+            "address": "15 Beach Road,  EH39 4AL",
+            "type": "gym"
+        },
+        {
+            "address": "101 Ingliston Road, Edinburgh, EH28 8AU",
+            "type": "evening classes"
+        },
+        {
+            "address": "1 Rennie's Isle, Edinburgh, EH6 6QA",
+            "type": "gym"
+        },
+        {
+            "address": "East Mains, Ormiston, EH35 5NG",
+            "type": "hair salon"
+        },
+        {
+            "address": "1 Tanfield, Edinburgh, EH3 5DA",
+            "type": "library"
+        },
+        {
+            "address": "2 Dovecot Park, Pencaitland, EH34 5DD",
+            "type": "doctor's office"
+        },
+        {
+            "address": "8-10 Forth Street, North Berwick, EH39 4HY",
+            "type": "church"
+        },
+        {
+            "address": "Torphichen Road, Bathgate, EH48 4LA",
+            "type": "school pickup"
+        },
+        {
+            "address": "1 Quarrybank,  EH22 2NT",
+            "type": "synagogue"
+        },
+        {
+            "address": "69-71 Whitehill Street, Musselburgh, EH21 8QZ",
+            "type": "regular bar"
+        },
+        {
+            "address": "Golf Course Road, Livingston, EH54 8AB",
+            "type": "church"
+        },
+        {
+            "address": "5-21 Grosvenor Street, Edinburgh, EH12 5EF",
+            "type": "running group"
+        },
+        {
+            "address": "39 Gillespie Road, Edinburgh, EH13 0NW",
+            "type": "hair salon"
+        },
+        {
+            "address": "Dean Road, Bo'ness, EH51 0DH",
+            "type": "medical appointments"
+        },
+        {
+            "address": "Village Green Road, Stenton, EH42 1TE",
+            "type": "homeowners association"
+        },
+        {
+            "address": "3 St Andrew's Way, Livingston, EH54 8DJ",
+            "type": "childcare facility"
+        },
+        {
+            "address": "24A Orwell Terrace, Edinburgh, EH11 2DY",
+            "type": "childcare facility"
+        },
+        {
+            "address": "97 Oxgangs Road, Edinburgh, EH13 9NG",
+            "type": "medical appointments"
+        },
+        {
+            "address": "4 Grange Court, North Berwick, EH39 4LN",
+            "type": "school pickup"
+        },
+        {
+            "address": "Unit 2 Regent Centre, Linlithgow, EH49 7HU",
+            "type": "neighborhood association"
+        },
+        {
+            "address": "1G Bank Street,  EH39 4NY",
+            "type": "book club"
+        },
+        {
+            "address": "69 Dirleton Avenue, North Berwick, EH39 4QL",
+            "type": "fitness center"
+        },
+        {
+            "address": "33 Craighouse Terrace, Edinburgh, EH10 5LH",
+            "type": "community center"
+        },
+        {
+            "address": "Easter Shawfair, Dalkeith, EH22 1FE",
+            "type": "fitness center"
+        },
+        {
+            "address": "30 East Pier Street,  EH51 9AA",
+            "type": "regular bar"
+        },
+        {
+            "address": "24-28 Torphichen Street, Edinburgh, EH3 8JB",
+            "type": "grocery store"
+        },
+        {
+            "address": "26 Parkgrove Avenue, Edinburgh, EH4 7QR",
+            "type": "homeowners association"
+        },
+        {
+            "address": "55 Eastfield, Edinburgh, EH15 2PJ",
+            "type": "mosque"
+        },
+        {
+            "address": "115-125 Walker Drive, South Queensferry, EH30 9XJ",
+            "type": "regular restaurant"
+        },
+        {
+            "address": "Clovenstone Park, Edinburgh, EH14 3BG",
+            "type": "medical appointments"
+        },
+        {
+            "address": "22 Fernbank, Livingston, EH54 6DT",
+            "type": "carpool group"
+        },
+        {
+            "address": "5 The Village,  EH39 5HT",
+            "type": "daycare pickup"
+        }
+    ],
+    "traced_locations": [
+        "Abbotsford Road, North Berwick, EH39 5DB",
+        "2 Barnshot Road, Edinburgh, EH13 0DH",
+        "8 East Mains Holdings, Newbridge, EH28 8NQ",
+        "2 Glass Crescent, Winchburgh, EH52 6SL",
+        "6 May Terrace,  EH39 4BA",
+        "Mid Road, Prestonpans, EH32 9ER",
+        "1 Duff Court, North Berwick, EH39 4RH",
+        "6 Goldeneye Gait, Edinburgh, EH17 8XN",
+        "32 Marmion Road,  EH39 4NZ",
+        "6 Market Street, Edinburgh, EH1 1DE"
+    ],
+    "people_reporting": [
+        "Jack Dobson"
+    ]
+}

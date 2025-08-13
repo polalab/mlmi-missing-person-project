@@ -1,0 +1,5 @@
+Disorientation at Familiar Locations, [46638, 64398, 69811, 33640, 33608]  
+Disorientation at Unfamiliar Locations, [33032, 58491, 21359, 33640, 33608]  
+Engagement with Strangers, [33032, 33640, 33608, 69811, 100267, 100268, 100270, 100271, 100272]  
+Leaving a Known Location, [46638, 75665, 70474, 64398, 33640, 33608, 69811, 33640]  
+Unplanned Travel, [75665, 70474, 64398, 33032, 58491, 69811, 33608, 42404]

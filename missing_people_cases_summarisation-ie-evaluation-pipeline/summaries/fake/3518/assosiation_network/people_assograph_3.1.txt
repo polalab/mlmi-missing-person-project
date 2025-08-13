@@ -1,0 +1,12 @@
+Mohamed Lawrence,Graeme Lawrence,uncle,31762
+Mohamed Lawrence,Marc Miller,brother,23614
+Mohamed Lawrence,Graeme Lawrence,uncle,23614
+Mohamed Lawrence,Graeme Lawrence,uncle,39697
+Mohamed Lawrence,Marc Miller,brother,39697
+Mohamed Lawrence,uncle,other,31762
+Mohamed Lawrence,uncle,other,23614
+Mohamed Lawrence,uncle,other,39697
+Mohamed Lawrence,brother,other,31762
+Mohamed Lawrence,brother,other,39697
+Mohamed Lawrence,friend,other,50982
+Mohamed Lawrence,roommate,other,50982

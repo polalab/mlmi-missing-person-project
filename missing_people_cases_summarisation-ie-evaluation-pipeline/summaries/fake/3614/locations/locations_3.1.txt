@@ -1,0 +1,76 @@
+Dundee Road, Arbroath, DD11 2NQ, 3998
+Dundee Road, Arbroath, DD11 2NQ, 5980
+Dundee Road, Arbroath, DD11 2NQ, 13420
+Dundee Road, Arbroath, DD11 2NQ, 12740
+Dundee Road, Arbroath, DD11 2NQ, 69757
+Dundee Road, Arbroath, DD11 2NQ, 94461
+Dundee Road, Arbroath, DD11 2NQ, 37003
+71 Lothian Crescent, Dundee, 8215
+71 Lothian Crescent, Dundee, 21768
+71 Lothian Crescent, Dundee, 69757
+71 Lothian Crescent, Dundee, 94461
+71 Lothian Crescent, Dundee, DD4 0HU, 21768
+Derwent Avenue, Dundee, 37003
+Derwent Avenue, Dundee, 40505
+Derwent Avenue, Dundee, 29099
+Derwent Avenue, Dundee, 13420
+Derwent Avenue, Dundee, 76930
+Derwent Avenue, Dundee, 18369
+Derwent Avenue, Dundee, 8215
+Derwent Avenue, Dundee, 146 Pitkerro Road, 84311
+Derwent Avenue, Dundee, 146 Pitkerro Road, 18369
+Derwent Avenue, Dundee, 146 Pitkerro Road, 29099
+Derwent Avenue, Dundee, 146 Pitkerro Road, 13420
+31 Step Row, Dundee, 8215
+31 Step Row, Dundee, 45619
+31 Step Row, Dundee, 29099
+Discovery Quay, Dundee, 8215
+Discovery Quay, Dundee, 29099
+Discovery Quay, Dundee, 12740
+Discovery Quay, Dundee, 75670
+Discovery Quay, Dundee, DD1 4XA, 3998
+Fort Street, Dundee, 45619
+Fort Street, Dundee, 76930
+Fort Street, Dundee, 13420
+Pitkerro Road, Dundee, 18369
+Pitkerro Road, Dundee, 29099
+Pitkerro Road, Dundee, 13420
+Panmure Terrace, 69757
+Adelaide Place, 21768
+Carnoustie, 94461
+Carnoustie, 13420
+Brechin, 29099
+church, 37003
+church, 40505
+church, 45619
+church, 13420
+church, 76930
+military base, 8215
+military base, 76930
+military base, 101687
+forest, 37003
+forest, 8215
+forest, 40505
+forest, 29099
+forest, 13420
+forest, 76930
+forest, 18369
+forest, 146 Pitkerro Road, 84311
+forest, 146 Pitkerro Road, 18369
+forest, 146 Pitkerro Road, 29099
+forest, 146 Pitkerro Road, 13420
+attic, 146 Pitkerro Road, 18369
+attic, 146 Pitkerro Road, 29099
+attic, 146 Pitkerro Road, 13420
+attic, 31 Step Row, 45619
+attic, 31 Step Row, 29099
+attic, 146 Pitkerro Road, 84311
+attic, 146 Pitkerro Road, 18369
+attic, 146 Pitkerro Road, 29099
+attic, 146 Pitkerro Road, 13420
+attic, 146 Pitkerro Road, 21768
+attic, 146 Pitkerro Road, 69757
+attic, 146 Pitkerro Road, 94461
+attic, 146 Pitkerro Road, 101689
+storm drain, 29099
+school, 101690

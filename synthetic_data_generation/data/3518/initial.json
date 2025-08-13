@@ -1,0 +1,54 @@
+{
+    "forenames": "Mohamed",
+    "surname": "Lawrence",
+    "maidenname": "",
+    "nickname": "Azure",
+    "misperid": 3518,
+    "nominalid": 7645,
+    "sex": "Male",
+    "date_of_birth": "2003-10-11",
+    "age": 21,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "White English",
+    "person_language": "English",
+    "place_of_birth": "Oxford",
+    "disability_status": "No",
+    "disability_desc": "",
+    "occupation": "Firefighter",
+    "reports_starting_from": "2024-02-15",
+    "addresses": [
+        {
+            "address": "1a The Auld Road,  G67 2RF",
+            "type": "Home"
+        },
+        {
+            "address": "Cardross Road,  G82 5DH",
+            "type": "regular commute"
+        }
+    ],
+    "traced_locations": [
+        "85 Bassett Avenue, Glasgow, G13 3JP",
+        "6 Bard Avenue, Glasgow, G13 3JA",
+        "Turret Crescent,  G13 2HG",
+        "Stirling Road, Dumbarton, G82 3RG",
+        "63-65 Truce Road, Glasgow, G13 3JB",
+        "1a The Auld Road,  G67 2RF",
+        "Belsyde Avenue, Glasgow, G15 6AR",
+        "Crow Road, Glasgow, G66 7GX",
+        "55 Diana Avenue, Glasgow, G13 3JW",
+        "52a Sinclair Street, Helensburgh, G84 8TQ"
+    ],
+    "people_reporting": [
+        "Marc Miller",
+        "Hollie Lawrence",
+        "June Fleming",
+        "Sheila Lawrence",
+        "Danielle Lawrence",
+        "Oliver Hill",
+        "Paul Hyde",
+        "Derek Blake",
+        "Melanie Lawrence",
+        "Sophie Butler"
+    ]
+}

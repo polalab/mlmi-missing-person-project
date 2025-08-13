@@ -1,0 +1,34 @@
+14 Higher Oakfield, 45970
+Higher Oakfield, 45970
+rest area, 44317
+Riggs Road, Perth, 44317
+Grampian Road, Aviemore, 44317
+synagogue, 44317
+Park Road, Ballachulish, 44317
+Riggs Road, Perth, 52519
+hotel, 52519
+Perth rest area, 52519
+synagogue, 52519
+Atholl Street, Dunkeld, 52519
+37-39 York Place, 3404
+Madoch Road, 13824
+rest area, 13824
+service location, 13824
+Newtonmore Road, Kingussie, 13824
+Gleneagles, Auchterarder, 27677
+rest area, 27677
+Grampian Road, Aviemore, 27677
+Glenearn Road, Perth, 50046
+synagogue, 50046
+Riggs Road, Perth, 45077
+37-39 York Place, 45077
+hotel, 45077
+alleyway, 45077
+Newtonmore, 45077
+Riggs Road, Perth, 6989
+37-39 York Place, 6989
+Saint Mary's Road, Birnam, 6989
+Atholl Street, Dunkeld, 6989
+rest area, adjacent to alleyway, 100795
+rest area, 100799
+motel alleyway, 100799

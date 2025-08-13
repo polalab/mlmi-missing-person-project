@@ -1,0 +1,5 @@
+ocean
+boat
+campground
+factory
+urban

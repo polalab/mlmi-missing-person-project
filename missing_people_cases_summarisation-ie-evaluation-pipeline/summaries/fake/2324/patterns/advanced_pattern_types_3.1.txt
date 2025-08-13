@@ -1,0 +1,17 @@
+63352,"Aaron Moran left behind important documents, suggesting a lack of planning for an extended absence.",unplanned_absence_pattern,"Aaron Moran, last seen leaving a tutoring center after experiencing job loss stress at home, was found in the wilderness near Beltie Road, his passport and documents left behind."
+
+31040,"Aaron Moran wandered off on an unplanned adventure, initially focusing on familiar locations.",unplanned_adventure_pattern,"After a coordinated search, Aaron was located by police on North Road, Insch. Thankfully, he was safe and unharmed, having wandered off on an unplanned adventure."
+
+55588,"MP disappeared amidst job loss stress, leaving behind important documents.",job_loss_stress_pattern,"Circumstances: MP disappeared from the vicinity of Gordon Crescent, AB34 5HJ, amidst job loss stress, with important documents left behind."
+
+8338,"Aaron Moran left without taking his passport and necessary documents, hinting at no plan for an extended absence.",unplanned_absence_pattern,"Aaron left without taking his passport and necessary documents, hinting at no plan for an extended absence."
+
+31040,"Aaron Moran's unusual reserved demeanor preceded his disappearance.",change_in_behavior_pattern,"His foster mother reported him missing after noticing his usual playful demeanor had turned unusually reserved."
+
+55588,"MP's disappearance was preceded by a change in behavior.",change_in_behavior_pattern,"Circumstances: MP disappeared from the vicinity of Gordon Crescent, AB34 5HJ, amidst job loss stress, with important documents left behind."
+
+31040,"Aaron Moran's curiosity about visiting a friend led to his disappearance.",curiosity_about_friend_pattern,"Prior to his disappearance, he mentioned a sense of curiosity about visiting his friend who recently moved to Seafield Circle, Buckie."
+
+99854,"Aaron Moran wandered off toward the nearby wilderness, initially with his foster mother.",wandering_off_pattern,"Aaron Moran, aged 9, was last seen at a cafe in an urban area with his foster mother before he wandered off toward the nearby wilderness."
+
+8338,"Aaron Moran wandered off from his foster home, initially focusing on nearby addresses.",wandering_off_pattern,"It was discovered that Aaron left without taking his passport and necessary documents, hinting at no plan for an extended absence."

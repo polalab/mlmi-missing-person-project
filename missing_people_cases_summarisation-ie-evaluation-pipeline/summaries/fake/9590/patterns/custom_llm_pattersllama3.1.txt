@@ -1,0 +1,5 @@
+Disappearance near Forest Areas, [82267, 94751, 5591]  
+Disappearance after Visiting Public Places, [94751, 101905]  
+Disappearance after Seeking Solitude, [94751]  
+Disappearance after Expressing Paranoia, [82267, 5591]  
+Disappearance after Leaving a Friend's House, [82267]

@@ -1,0 +1,18 @@
+Alison Atkins,her mother,other,4368
+Alison Atkins,Jack White,other,4368
+Alison Atkins,Jenna Butler,friend,11518
+Alison Atkins,Alison Atkins,other,1109
+Alison Atkins,friend,other,1109
+Alison Atkins,Alison Atkins,other,86960
+Alison Atkins,her foster mother,mother,86960
+Alison Atkins,Shannon Patel,friend,86960
+Alison Atkins,Hilary Carey,friend,86960
+Alison Atkins,Alison Atkins,other,6914
+Alison Atkins,Alison Atkins,other,1893
+Alison Atkins,her foster mother,mother,1893
+Alison Atkins,Irene Stephens,other,1893
+Alison Atkins,Alison Atkins,other,96675
+Alison Atkins,Alison Atkins,other,101148
+Alison Atkins,Alison Atkins,other,101150
+Alison Atkins,Alison Atkins,other,101151
+Alison Atkins,Alison Atkins,other,101152

@@ -1,0 +1,142 @@
+{
+    "forenames": "Gary",
+    "surname": "O'Donnell",
+    "maidenname": "",
+    "nickname": "",
+    "misperid": 4872,
+    "nominalid": 9828,
+    "sex": "Male",
+    "date_of_birth": "2011-04-23",
+    "age": 14,
+    "foster care": true,
+    "child_protection": true,
+    "ethnical_appearance": "Black British",
+    "person_language": "Polish",
+    "place_of_birth": "Wolverhampton",
+    "disability_status": "Not Known",
+    "disability_desc": "",
+    "occupation": "",
+    "reports_starting_from": "2024-06-30",
+    "addresses": [
+        {
+            "address": "36-42 Watson Avenue, St Andrews, KY16 8JE",
+            "type": "Home"
+        },
+        {
+            "address": "31-37 Aberlour Street, Rosyth, KY11 2SD",
+            "type": "sports club"
+        },
+        {
+            "address": "26 Leslie Road, Rosyth, KY11 2LB",
+            "type": "part-time job"
+        },
+        {
+            "address": "42 Mid Shore,  KY10 2NW",
+            "type": "fast food restaurant"
+        },
+        {
+            "address": "9 Kilcruik Road, Kinghorn, KY3 9XH",
+            "type": "fast food restaurant"
+        },
+        {
+            "address": "1 Fidra Avenue, Burntisland, KY3 0BE",
+            "type": "youth center"
+        },
+        {
+            "address": "Ladybank Road, Pitlessie, KY15 7SP",
+            "type": "summer camp"
+        },
+        {
+            "address": "54 Nethergate South, Crail, KY10 3TZ",
+            "type": "university"
+        },
+        {
+            "address": "15 Woodside Avenue, Rosyth, KY11 2JS",
+            "type": "volunteer organization"
+        },
+        {
+            "address": "3;5 South Feus, Upper Largo, KY8 6EQ",
+            "type": "college"
+        },
+        {
+            "address": "66 Kirkbank Road, Burntisland, KY3 9JA",
+            "type": "arcade"
+        },
+        {
+            "address": "Seaforth Place, Burntisland, KY3 9AX",
+            "type": "volunteer organization"
+        },
+        {
+            "address": "35 Fowler Street, Cellardyke, KY10 3HU",
+            "type": "shopping mall"
+        },
+        {
+            "address": "10 Inch View, Kinghorn, KY3 9SH",
+            "type": "university"
+        },
+        {
+            "address": "137 Park Road West, Rosyth, KY11 2TL",
+            "type": "tutoring center"
+        },
+        {
+            "address": "24 Car Craig View, Burntisland, KY3 0DS",
+            "type": "movie theater"
+        },
+        {
+            "address": "Wood Road, Rosyth, KY11 2EA",
+            "type": "extracurricular activities"
+        },
+        {
+            "address": "Lammerlaws, Burntisland, KY3 9BS",
+            "type": "college"
+        },
+        {
+            "address": "28 Castle Street, Crail, KY10 3SJ",
+            "type": "movie theater"
+        },
+        {
+            "address": "Castlandhill Road, Rosyth, KY11 2PZ",
+            "type": "fast food restaurant"
+        },
+        {
+            "address": "Pitreavie Drive, Dunfermline, KY11 8UH",
+            "type": "volunteer organization"
+        },
+        {
+            "address": "16 Oxcars Avenue, Burntisland, KY3 0AY",
+            "type": "library"
+        },
+        {
+            "address": "26 Bolam Drive, Burntisland, KY3 9HP",
+            "type": "cafe"
+        },
+        {
+            "address": "10-16 Wood Place, Rosyth, KY11 2SU",
+            "type": "skate park"
+        },
+        {
+            "address": "36 Parkgate, Rosyth, KY11 2JW",
+            "type": "after-school program"
+        }
+    ],
+    "traced_locations": [
+        "10-16 Wood Place, Rosyth, KY11 2SU",
+        "12 Selvage Street, Rosyth, KY11 2QA",
+        "Carnegie Avenue, Dunfermline, KY11 8PJ",
+        "63 Parkside Street, Rosyth, KY11 2LU",
+        "1 Burnside Gardens, Burntisland, KY3 0DP",
+        "16 Albert Street, Rosyth, KY11 2SA",
+        "1 Parkside Square, Rosyth, KY11 2LZ",
+        "53 Newton Crescent, Rosyth, KY11 2QW",
+        "32 Hamilton Place, Rosyth, KY11 2PJ",
+        "34 Pettycur Bay, Kinghorn, KY3 9SB"
+    ],
+    "people_reporting": [
+        "Joel Martin",
+        "Lynn Owen",
+        "Aaron Jones",
+        "Oliver Holland",
+        "Claire Morris",
+        "Henry Gibson"
+    ]
+}

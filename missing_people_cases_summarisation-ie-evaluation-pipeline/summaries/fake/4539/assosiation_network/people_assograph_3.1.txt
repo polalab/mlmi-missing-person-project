@@ -1,0 +1,295 @@
+Alan Thomas,Alan's foster mother,foster mother,58415
+Alan Thomas,Alan's foster father,foster father,8488
+Alan Thomas,Alan's foster mother,foster mother,69705
+Alan Thomas,Alan's foster parents,foster parents,70440
+Alan Thomas,Alan's foster mother,foster mother,54583
+Alan Thomas,Alan's foster mother,foster mother,54591
+Alan Thomas,Alan's foster mother,foster mother,51690
+Alan Thomas,Alan's foster mother,foster mother,94783
+Alan Thomas,Alan's foster mother,foster mother,9800
+Alan Thomas,Alan's foster mother,foster mother,74369
+Alan Thomas,Alan's foster mother,foster mother,80151
+Alan Thomas,Alan's foster mother,foster mother,73921
+Alan Thomas,Alan's foster mother,foster mother,23513
+Alan Thomas,Alan's foster mother,foster mother,69705
+Alan Thomas,Alan's foster mother,foster mother,70440
+Alan Thomas,Alan's foster mother,foster mother,94783
+Alan Thomas,Alan's foster mother,foster mother,54591
+Alan Thomas,Alan's foster mother,foster mother,51690
+Alan Thomas,Alan's foster mother,foster mother,101339
+Alan Thomas,Alan's foster mother,foster mother,101340
+Alan Thomas,Alan's foster mother,foster mother,101341
+Alan Thomas,Aaron,friend,63378
+Alan Thomas,Eileen Wall,friend,63378
+Alan Thomas,Alan's friend,friend,58415
+Alan Thomas,Alan's friend,friend,63378
+Alan Thomas,Alan's friend,friend,69705
+Alan Thomas,Alan's friend,friend,70440
+Alan Thomas,Alan's friend,friend,54583
+Alan Thomas,Alan's friend,friend,54591
+Alan Thomas,Alan's friend,friend,51690
+Alan Thomas,Alan's friend,friend,94783
+Alan Thomas,Alan's friend,friend,9800
+Alan Thomas,Alan's friend,friend,74369
+Alan Thomas,Alan's friend,friend,80151
+Alan Thomas,Alan's friend,friend,73921
+Alan Thomas,Alan's friend,friend,23513
+Alan Thomas,Alan's friend,friend,69705
+Alan Thomas,Alan's friend,friend,70440
+Alan Thomas,Alan's friend,friend,94783
+Alan Thomas,Alan's friend,friend,54591
+Alan Thomas,Alan's friend,friend,51690
+Alan Thomas,Alan's friend,friend,101339
+Alan Thomas,Alan's friend,friend,101340
+Alan Thomas,Alan's friend,friend,101341
+Alan Thomas,Alan's colleague,colleague,9800
+Alan Thomas,Alan's colleague,colleague,94783
+Alan Thomas,Alan's colleague,colleague,74369
+Alan Thomas,Alan's colleague,colleague,80151
+Alan Thomas,Alan's colleague,colleague,69705
+Alan Thomas,Alan's colleague,colleague,70440
+Alan Thomas,Alan's colleague,colleague,54583
+Alan Thomas,Alan's colleague,colleague,54591
+Alan Thomas,Alan's colleague,colleague,51690
+Alan Thomas,Alan's colleague,colleague,101339
+Alan Thomas,Alan's colleague,colleague,101340
+Alan Thomas,Alan's colleague,colleague,101341
+Alan Thomas,Alan's school colleague,school colleague,63378
+Alan Thomas,Alan's school colleague,school colleague,51690
+Alan Thomas,Alan's study group member,study group member,54591
+Alan Thomas,Alan's study group member,study group member,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690
+Alan Thomas,Alan's friend at the casino,friend at the casino,101339
+Alan Thomas,Alan's friend at the casino,friend at the casino,101340
+Alan Thomas,Alan's friend at the casino,friend at the casino,101341
+Alan Thomas,Alan's friend at the casino,friend at the casino,9800
+Alan Thomas,Alan's friend at the casino,friend at the casino,94783
+Alan Thomas,Alan's friend at the casino,friend at the casino,74369
+Alan Thomas,Alan's friend at the casino,friend at the casino,80151
+Alan Thomas,Alan's friend at the casino,friend at the casino,69705
+Alan Thomas,Alan's friend at the casino,friend at the casino,70440
+Alan Thomas,Alan's friend at the casino,friend at the casino,54583
+Alan Thomas,Alan's friend at the casino,friend at the casino,54591
+Alan Thomas,Alan's friend at the casino,friend at the casino,51690

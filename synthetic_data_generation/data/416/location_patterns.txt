@@ -1,0 +1,5 @@
+dock/marina
+military base
+restaurant
+playground
+religious site

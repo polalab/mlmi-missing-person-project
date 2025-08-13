@@ -1,0 +1,5 @@
+Erratic Behavior, [46632, 10021, 14516, 6007, 79949, 28611, 75745, 58138, 71168, 46124, 92413, 55832, 52928, 3212, 85018, 92430, 25874, 56505, 59903, 75253, 43650]  
+Unusual Weather Conditions, [28611, 75745, 56505, 59903]  
+Paranoia about Surveillance, [52928, 3212, 25874, 59903, 100487]  
+Disorientation, [75253, 43650]  
+Intentional Distance from Familiar Surroundings, [79949]

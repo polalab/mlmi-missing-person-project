@@ -1,0 +1,7 @@
+31495,"Laura had been talking about a'secret adventure' and was fascinated with living off-grid",off_grid_fantasies_pattern,"Laura had been talking about a'secret adventure.'"
+29762,"Laura was found in a locker room and had been visiting a safe house on a remote island",repeated_locker_room_visits_pattern,"She had been visiting a safe house on a remote island."
+61276,"Laura expressed a fascination with living off-grid and took a trip to a secluded island",off_grid_behavior_pattern,"Laura had expressed a fascination with living off-grid and had been reading about remote islands."
+101375,"Laura was found alone in the locker room, missing her father",repeated_locker_room_visits_pattern,"Laura was found alone in the locker room, missing her father."
+101381,"Laura, recently visiting a remote island, was found in a locker room",repeated_locker_room_visits_pattern,"Laura, recently visiting a remote island, was found in a locker room."
+61276,"Laura had spent time in the locker room there, exploring her curiosity",exploring_locker_rooms_pattern,"She had spent time in the locker room there, exploring her curiosity."
+101375,"She was then safely relocated to a nearby safe house from her home",safe_house_relocation_pattern,"She was then safely relocated to a nearby safe house from her home."

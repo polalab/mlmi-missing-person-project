@@ -1,0 +1,27 @@
+Victor Roberts,Victor Roberts,self,92306
+Victor Roberts,Janice Wilkinson,friend,92306
+Victor Roberts,Victor Roberts,self,18677
+Victor Roberts,Albert Moore,friend,22317
+Victor Roberts,Albert Moore,friend,77334
+Victor Roberts,Victor Roberts,self,49986
+Victor Roberts,foster father,family,49986
+Victor Roberts,foster father,family,68041
+Victor Roberts,friend,friend,68041
+Victor Roberts,foster father,family,57968
+Victor Roberts,Albert Moore,friend,57968
+Victor Roberts,foster father,family,27201
+Victor Roberts,foster father,family,94286
+Victor Roberts,friend,friend,94286
+Victor Roberts,foster father,family,47106
+Victor Roberts,foster father,family,40139
+Victor Roberts,Janice Wilkinson,friend,40139
+Victor Roberts,foster father,family,92060
+Victor Roberts,friend,friend,92060
+Victor Roberts,foster father,family,10541
+Victor Roberts,Joan Baker,friend,10541
+Victor Roberts,foster father,family,20882
+Victor Roberts,Janice Wilkinson,friend,20882
+Victor Roberts,foster father,family,24573
+Victor Roberts,Kelly Jackson,friend,24573
+Victor Roberts,foster father,family,2174
+Victor Roberts,Albert Moore,friend,2174

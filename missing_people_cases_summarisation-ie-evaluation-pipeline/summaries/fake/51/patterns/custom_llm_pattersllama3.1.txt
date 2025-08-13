@@ -1,0 +1,5 @@
+Disappearance by Unplanned Departure, [78303, 25212, 47042, 38698, 53869]  
+Disappearance from a Familiar Location, [13960, 65672, 82338, 63039, 19249]  
+Disappearance with a Known Companion, [25212, 47042, 69413, 72153, 94381]  
+Disappearance with a History of Domestic Violence, [26066, 47042, 53869, 72487, 100214]  
+Disappearance with Unusual Behavior, [25212, 82338, 72153, 100215, 100219]

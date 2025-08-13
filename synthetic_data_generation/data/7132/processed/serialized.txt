@@ -1,0 +1,256 @@
+Disappearance Record:
+Report number: 104
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2020-10-10 00:00:00
+Date Reported Missing: 2020-10-11 09:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5943
+When Traced: 2020-10-14 03:03:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 1a The Auld Road,  G67 2RF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 98982
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2021-03-06 03:03:00
+Date Reported Missing: 2021-03-07 12:03:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3602
+When Traced: 2021-03-08 15:05:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 51113
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2021-04-03 15:05:00
+Date Reported Missing: 2021-04-03 18:05:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 493
+When Traced: 2021-04-03 23:18:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 46052
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2021-07-25 23:18:00
+Date Reported Missing: 2021-07-26 15:18:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3077
+When Traced: 2021-07-28 02:35:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Stirling Road, Dumbarton, G82 3RG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 97721
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2021-11-16 02:35:00
+Date Reported Missing: 2021-11-16 02:35:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5431
+When Traced: 2021-11-19 21:06:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 1a The Auld Road,  G67 2RF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 59578
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2022-02-06 21:06:00
+Date Reported Missing: 2022-02-07 00:06:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6407
+When Traced: 2022-02-11 07:53:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Crow Road, Glasgow, G66 7GX
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 62183
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2022-07-26 07:53:00
+Date Reported Missing: 2022-07-27 10:53:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5283
+When Traced: 2022-07-29 23:56:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 1a The Auld Road,  G67 2RF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 77638
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2022-10-02 23:56:00
+Date Reported Missing: 2022-10-03 08:56:00
+Day Reported Missing: Monday
+Length Missing (minutes): 4434
+When Traced: 2022-10-06 01:50:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 1a The Auld Road,  G67 2RF
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 1574
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2023-03-28 01:50:00
+Date Reported Missing: 2023-03-28 18:50:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 1742
+When Traced: 2023-03-29 06:52:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 1a The Auld Road,  G67 2RF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 52305
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2023-09-14 06:52:00
+Date Reported Missing: 2023-09-15 06:52:00
+Day Reported Missing: Friday
+Length Missing (minutes): 3898
+When Traced: 2023-09-16 23:50:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Crow Road, Glasgow, G66 7GX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 19118
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2024-03-13 23:50:00
+Date Reported Missing: 2024-03-14 23:50:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1823
+When Traced: 2024-03-15 06:13:00
+Missing From Address: Acre Drive, Glasgow, G20 0TR (cafe)
+Traced at Address: Stirling Road, Dumbarton, G82 3RG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 86760
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2024-03-17 06:13:00
+Date Reported Missing: 2024-03-17 23:13:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3139
+When Traced: 2024-03-19 10:32:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 6 Bard Avenue, Glasgow, G13 3JA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 72657
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2024-09-13 10:32:00
+Date Reported Missing: 2024-09-14 22:32:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 7053
+When Traced: 2024-09-18 08:05:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Cardross Road,  G82 5DH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 22833
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2024-10-06 08:05:00
+Date Reported Missing: 2024-10-06 16:05:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 824
+When Traced: 2024-10-06 21:49:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 1a The Auld Road,  G67 2RF
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 25499
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2024-12-22 21:49:00
+Date Reported Missing: 2024-12-23 05:49:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8973
+When Traced: 2024-12-29 03:22:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Stirling Road, Dumbarton, G82 3RG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 26589
+Name: Gerald Wilson
+Date of Birth: 2014-05-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: 
+Missing Since: 2025-06-21 03:22:00
+Date Reported Missing: 2025-06-22 04:22:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1832
+When Traced: 2025-06-22 09:54:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 6 Bard Avenue, Glasgow, G13 3JA
+Traced by: Traced by family
+

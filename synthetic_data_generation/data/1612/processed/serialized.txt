@@ -1,0 +1,32 @@
+Disappearance Record:
+Report number: 42873
+Name: Hugh Parker
+Date of Birth: 1986-02-10
+Sex: Male
+Place of Birth: Westminster
+Occupation: Teacher, music
+Missing Since: 2025-04-29 00:00:00
+Date Reported Missing: 2025-04-29 00:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4329
+When Traced: 2025-05-02 00:09:00
+Missing From Address: Burntisland Road, Kinghorn, KY3 9RZ (Home)
+Traced at Address: 75 Nethergate, Crail, KY10 3TX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 32088
+Name: Hugh Parker
+Date of Birth: 1986-02-10
+Sex: Male
+Place of Birth: Westminster
+Occupation: Teacher, music
+Missing Since: 2025-07-16 00:09:00
+Date Reported Missing: 2025-07-16 04:09:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 571
+When Traced: 2025-07-16 09:40:00
+Missing From Address: Burntisland Road, Kinghorn, KY3 9RZ (Home)
+Traced at Address: 1 Findlay Crescent, Rosyth, KY11 2RE
+Traced by: Traced by Police
+

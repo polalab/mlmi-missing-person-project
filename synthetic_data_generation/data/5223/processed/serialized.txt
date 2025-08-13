@@ -1,0 +1,48 @@
+Disappearance Record:
+Report number: 42334
+Name: Samantha Murphy
+Date of Birth: 2012-12-12
+Sex: F
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2024-06-13 00:00:00
+Date Reported Missing: 2024-06-14 01:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6277
+When Traced: 2024-06-17 08:37:00
+Missing From Address: Craigieknowes Road, Perth, PH2 0DG (Home)
+Traced at Address: 101 Kinchurdy Road, Boat of Garten, PH24 3BP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 32840
+Name: Samantha Murphy
+Date of Birth: 2012-12-12
+Sex: F
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2024-09-25 08:37:00
+Date Reported Missing: 2024-09-26 03:37:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2559
+When Traced: 2024-09-27 03:16:00
+Missing From Address: Craigieknowes Road, Perth, PH2 0DG (Home)
+Traced at Address: Kingussie Road, Newtonmore, PH20 1AY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 72932
+Name: Samantha Murphy
+Date of Birth: 2012-12-12
+Sex: F
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2025-03-23 03:16:00
+Date Reported Missing: 2025-03-24 03:16:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3682
+When Traced: 2025-03-25 16:38:00
+Missing From Address: Craigieknowes Road, Perth, PH2 0DG (Home)
+Traced at Address: Park Road, Ballachulish, PH49 4JS
+Traced by: Traced by Police
+

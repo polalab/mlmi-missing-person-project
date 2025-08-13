@@ -1,0 +1,5 @@
+Disappearance during solo activities, [12528, 97940, 35864]  
+Disappearance from a routine or familiar location, [78300, 98051]  
+Disappearance influenced by personal circumstances, [78300, 97940]  
+Disappearance involving a vehicle, [35864, 98051]  
+Disappearance in a remote or natural area, [12528, 97940]

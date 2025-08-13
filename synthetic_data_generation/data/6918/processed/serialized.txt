@@ -1,0 +1,144 @@
+Disappearance Record:
+Report number: 16192
+Name: Charlotte Ahmed
+Date of Birth: 1990-07-16
+Sex: F
+Place of Birth: Chelmsford
+Occupation: Nature conservation officer
+Missing Since: 2023-09-11 00:00:00
+Date Reported Missing: 2023-09-11 07:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6110
+When Traced: 2023-09-15 05:50:00
+Missing From Address: 13 Browns Place, East Linton, EH40 3BD (Home)
+Traced at Address: St Leonard's Crag, Edinburgh, EH8 9SP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 66000
+Name: Charlotte Ahmed
+Date of Birth: 1990-07-16
+Sex: F
+Place of Birth: Chelmsford
+Occupation: Nature conservation officer
+Missing Since: 2023-11-18 05:50:00
+Date Reported Missing: 2023-11-18 13:50:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 5702
+When Traced: 2023-11-22 04:52:00
+Missing From Address: 13 Browns Place, East Linton, EH40 3BD (Home)
+Traced at Address: St Leonard's Crag, Edinburgh, EH8 9SP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 92022
+Name: Charlotte Ahmed
+Date of Birth: 1990-07-16
+Sex: F
+Place of Birth: Chelmsford
+Occupation: Nature conservation officer
+Missing Since: 2024-03-26 04:52:00
+Date Reported Missing: 2024-03-26 20:52:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7196
+When Traced: 2024-03-31 04:48:00
+Missing From Address: 16 Bernard Terrace, Edinburgh, EH8 9NX (parent-teacher meetings)
+Traced at Address: Wester Millerhill, Dalkeith, EH22 1RY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 28304
+Name: Charlotte Ahmed
+Date of Birth: 1990-07-16
+Sex: F
+Place of Birth: Chelmsford
+Occupation: Nature conservation officer
+Missing Since: 2024-04-01 04:48:00
+Date Reported Missing: 2024-04-02 07:48:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3400
+When Traced: 2024-04-03 13:28:00
+Missing From Address: 13 Browns Place, East Linton, EH40 3BD (Home)
+Traced at Address: 7-11 Chamberlain Road, Edinburgh, EH10 4DJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 45104
+Name: Charlotte Ahmed
+Date of Birth: 1990-07-16
+Sex: F
+Place of Birth: Chelmsford
+Occupation: Nature conservation officer
+Missing Since: 2024-05-29 13:28:00
+Date Reported Missing: 2024-05-30 06:28:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5977
+When Traced: 2024-06-02 17:05:00
+Missing From Address: 13 Browns Place, East Linton, EH40 3BD (Home)
+Traced at Address: Garden Place, Livingston, EH54 6RA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 29281
+Name: Charlotte Ahmed
+Date of Birth: 1990-07-16
+Sex: F
+Place of Birth: Chelmsford
+Occupation: Nature conservation officer
+Missing Since: 2024-07-12 17:05:00
+Date Reported Missing: 2024-07-13 02:05:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 7555
+When Traced: 2024-07-17 23:00:00
+Missing From Address: 13 Browns Place, East Linton, EH40 3BD (Home)
+Traced at Address: 115-125 Walker Drive, South Queensferry, EH30 9XJ
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 88711
+Name: Charlotte Ahmed
+Date of Birth: 1990-07-16
+Sex: F
+Place of Birth: Chelmsford
+Occupation: Nature conservation officer
+Missing Since: 2024-10-02 23:00:00
+Date Reported Missing: 2024-10-03 15:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1316
+When Traced: 2024-10-03 20:56:00
+Missing From Address: 13 Browns Place, East Linton, EH40 3BD (Home)
+Traced at Address: Elizabeth Drive, Bathgate, EH48 1JB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 89673
+Name: Charlotte Ahmed
+Date of Birth: 1990-07-16
+Sex: F
+Place of Birth: Chelmsford
+Occupation: Nature conservation officer
+Missing Since: 2025-01-22 20:56:00
+Date Reported Missing: 2025-01-23 17:56:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5205
+When Traced: 2025-01-26 11:41:00
+Missing From Address: 13 Browns Place, East Linton, EH40 3BD (Home)
+Traced at Address: Golf Course Road, Livingston, EH54 8AB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 78250
+Name: Charlotte Ahmed
+Date of Birth: 1990-07-16
+Sex: F
+Place of Birth: Chelmsford
+Occupation: Nature conservation officer
+Missing Since: 2025-04-23 11:41:00
+Date Reported Missing: 2025-04-24 00:41:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2883
+When Traced: 2025-04-25 11:44:00
+Missing From Address: 1 Duff Court, North Berwick, EH39 4RH (parent-teacher meetings)
+Traced at Address: 17 Houston Mains Holdings, Uphall, EH52 6PA
+Traced by: Traced by Police
+

@@ -1,0 +1,5 @@
+Disappearance via Squatting, [21451, 92913, 98561, 6555, 41380]  
+Disappearance via Tunnel Exploration, [94839, 40453, 55545, 41380, 10987]  
+Disappearance via Remote Cabin, [96615, 94431, 85101, 45953, 41380]  
+Disappearance via Avoiding Social Services, [95687, 45953, 10987, 20667, 6555]  
+Disappearance via Organized Protest, [96615, 84323, 41380, 78054, 10987]

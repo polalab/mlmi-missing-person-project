@@ -1,0 +1,5 @@
+Disorientation in Unfamiliar Areas, [41637, 40315, 5373, 19018, 73024]  
+Disregard for Planned Routes, [63724, 13599, 24682, 56537, 10149]  
+Unsupervised Exploration of High-Risk Locations, [41637, 16, 5373, 19018, 57045]  
+Loss of Communication with Caregivers, [73024, 60030, 60909, 28736, 57045]  
+Inadequate Preparation for Outdoor Activities, [43694, 28736, 73024, 60030, 60909]

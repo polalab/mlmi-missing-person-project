@@ -1,0 +1,267 @@
+{
+    "forenames": "Malcolm",
+    "surname": "Smith",
+    "maidenname": "",
+    "nickname": "",
+    "misperid": 9315,
+    "nominalid": 3719,
+    "sex": "Male",
+    "date_of_birth": "1996-11-03",
+    "age": 28,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "White English",
+    "person_language": "English",
+    "place_of_birth": "Nottingham",
+    "disability_status": "No",
+    "disability_desc": "",
+    "occupation": "Race relations officer",
+    "reports_starting_from": "2016-05-18",
+    "addresses": [
+        {
+            "address": "3 Russell Grove, Burntisland, KY3 9HL",
+            "type": "Home"
+        },
+        {
+            "address": "Limekilns Road, Dunfermline, KY12 7XA",
+            "type": "neighborhood association"
+        },
+        {
+            "address": "5 Seamill Gardens, Burntisland, KY3 0DE",
+            "type": "running group"
+        },
+        {
+            "address": "Chapel Level, Kirkcaldy, KY2 6HF",
+            "type": "running group"
+        },
+        {
+            "address": "66 Kirkbank Road, Burntisland, KY3 9JA",
+            "type": "daycare pickup"
+        },
+        {
+            "address": "16 Albert Street, Rosyth, KY11 2SA",
+            "type": "library"
+        },
+        {
+            "address": "1 Newton Place, Rosyth, KY11 2LX",
+            "type": "volunteer organization"
+        },
+        {
+            "address": "Burntisland Road, Kinghorn, KY3 9RZ",
+            "type": "gym"
+        },
+        {
+            "address": "18-21 Mellor Court, Rosyth, KY11 2RB",
+            "type": "professional networking events"
+        },
+        {
+            "address": "10-16 Wood Place, Rosyth, KY11 2SU",
+            "type": "medical appointments"
+        },
+        {
+            "address": "2 Dollar Road, Burntisland, KY3 0HJ",
+            "type": "office"
+        },
+        {
+            "address": "Kinghorn Road, Burntisland, KY3 9LL",
+            "type": "parent-teacher meetings"
+        },
+        {
+            "address": "23 Haddow Grove, Burntisland, KY3 0DA",
+            "type": "doctor's office"
+        },
+        {
+            "address": "57 King's Road, Rosyth, KY11 2TW",
+            "type": "carpool group"
+        },
+        {
+            "address": "26 Leslie Road, Rosyth, KY11 2LB",
+            "type": "workplace"
+        },
+        {
+            "address": "43 Findlay Street, Rosyth, KY11 2RF",
+            "type": "yoga class"
+        },
+        {
+            "address": "1 Primrose Avenue, Rosyth, KY11 2SX",
+            "type": "daycare pickup"
+        },
+        {
+            "address": "3 Elder Place, Rosyth, KY11 2QU",
+            "type": "doctor's office"
+        },
+        {
+            "address": "26 Bolam Drive, Burntisland, KY3 9HP",
+            "type": "regular bar"
+        },
+        {
+            "address": "9 Darney Terrace, Kinghorn, KY3 9RF",
+            "type": "professional networking events"
+        },
+        {
+            "address": "Castle Road, Rosyth, KY11 2AU",
+            "type": "book club"
+        },
+        {
+            "address": "137 Admiralty Road, Rosyth, KY11 2QL",
+            "type": "grocery store"
+        },
+        {
+            "address": "28 Fairykirk Road, Rosyth, KY11 2QQ",
+            "type": "neighborhood association"
+        },
+        {
+            "address": "36 Parkgate, Rosyth, KY11 2JW",
+            "type": "parent-teacher meetings"
+        },
+        {
+            "address": "1 Parkside Square, Rosyth, KY11 2LZ",
+            "type": "regular bar"
+        },
+        {
+            "address": "53 Newton Crescent, Rosyth, KY11 2QW",
+            "type": "book club"
+        },
+        {
+            "address": "Lammerlaws, Burntisland, KY3 9BS",
+            "type": "church"
+        },
+        {
+            "address": "28 Birch Avenue, Kinghorn, KY3 9YN",
+            "type": "daycare pickup"
+        },
+        {
+            "address": "2-33 Calum Macdonald Court, Rosyth, KY11 2BU",
+            "type": "neighborhood association"
+        },
+        {
+            "address": "1 Canmore Street, Kinghorn, KY3 9RH",
+            "type": "evening classes"
+        },
+        {
+            "address": "5 Bow Butts, Crail, KY10 3UR",
+            "type": "running group"
+        },
+        {
+            "address": "School Lane, Hillend, KY11 9LE",
+            "type": "yoga class"
+        },
+        {
+            "address": "8 King's Place, Rosyth, KY11 2SB",
+            "type": "volunteer organization"
+        },
+        {
+            "address": "1 Fidra Avenue, Burntisland, KY3 0BE",
+            "type": "community center"
+        },
+        {
+            "address": "12 Selvage Street, Rosyth, KY11 2QA",
+            "type": "community center"
+        },
+        {
+            "address": "28 Castle Street, Crail, KY10 3SJ",
+            "type": "lunch meeting"
+        },
+        {
+            "address": "10 Rumford, Crail, KY10 3SS",
+            "type": "dentist office"
+        },
+        {
+            "address": "Leargan, Leven, KY8 5BJ",
+            "type": "coffee shop"
+        },
+        {
+            "address": "St Margaret's Head, North Queensferry, KY11 1HP",
+            "type": "office"
+        },
+        {
+            "address": "32 Hamilton Place, Rosyth, KY11 2PJ",
+            "type": "fitness center"
+        },
+        {
+            "address": "63 Parkside Street, Rosyth, KY11 2LU",
+            "type": "running group"
+        },
+        {
+            "address": "32 Caledonia Court, Rosyth, KY11 2ZJ",
+            "type": "medical appointments"
+        },
+        {
+            "address": "13 Charles Logan Place, Rosyth, KY11 2QP",
+            "type": "workplace"
+        },
+        {
+            "address": "Carnegie Avenue, Dunfermline, KY11 8PJ",
+            "type": "sports league"
+        },
+        {
+            "address": "6 Kirkton Gardens, Burntisland, KY3 0DR",
+            "type": "regular commute"
+        },
+        {
+            "address": "Pitreavie Drive, Dunfermline, KY11 8UH",
+            "type": "evening classes"
+        },
+        {
+            "address": "1 Burnside Gardens, Burntisland, KY3 0DP",
+            "type": "parent-teacher meetings"
+        },
+        {
+            "address": "30 Selvage Place, Rosyth, KY11 2QG",
+            "type": "evening classes"
+        },
+        {
+            "address": "15 Milne Gardens, Crail, KY10 3SG",
+            "type": "regular commute"
+        },
+        {
+            "address": "1 Collinswell Drive, Burntisland, KY3 0AU",
+            "type": "yoga class"
+        },
+        {
+            "address": "Lodge Rise, Glenrothes, KY7 5TG",
+            "type": "library"
+        },
+        {
+            "address": "1 Dick Place, Rosyth, KY11 2JG",
+            "type": "coffee shop"
+        },
+        {
+            "address": "23 Largo Road, St Andrews, KY16 8NH",
+            "type": "yoga class"
+        },
+        {
+            "address": "1 Findlay Crescent, Rosyth, KY11 2RE",
+            "type": "dentist office"
+        },
+        {
+            "address": "54 Nethergate South, Crail, KY10 3TZ",
+            "type": "regular commute"
+        },
+        {
+            "address": "1 Camdean Crescent, Rosyth, KY11 2TJ",
+            "type": "carpool group"
+        },
+        {
+            "address": "23 Norval Place, Rosyth, KY11 2RJ",
+            "type": "coffee shop"
+        }
+    ],
+    "traced_locations": [
+        "9 Darney Terrace, Kinghorn, KY3 9RF",
+        "Burntisland Road, Kinghorn, KY3 9RZ",
+        "137 Park Road West, Rosyth, KY11 2TL",
+        "28 Fairykirk Road, Rosyth, KY11 2QQ",
+        "71 King's Crescent, Rosyth, KY11 2RT",
+        "63 Parkside Street, Rosyth, KY11 2LU",
+        "1 Parkside Square, Rosyth, KY11 2LZ",
+        "2-33 Calum Macdonald Court, Rosyth, KY11 2BU",
+        "23 Tod's Green, Crail, KY10 3UU",
+        "24 Car Craig View, Burntisland, KY3 0DS"
+    ],
+    "people_reporting": [
+        "Brett Hill",
+        "Beverley Smith",
+        "Anna Powell"
+    ]
+}

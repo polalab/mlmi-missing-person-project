@@ -1,0 +1,14 @@
+grandmother
+mother
+grandmother
+father
+grandfather
+sister
+brother
+uncle
+uncle
+aunt
+uncle
+grandfather
+sister
+grandmother

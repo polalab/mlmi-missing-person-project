@@ -1,0 +1,5 @@
+Disappearance near a Resort, [41630]  
+Argument-Related Disappearance, [41630, 54735, 101167]  
+Disappearance near a Location of Interest, [54735]  
+Disappearance at a Known Address, [54735, 101167]  
+Disappearance after a Change in Direction, [54735]

@@ -1,0 +1,5 @@
+Disappearance via Unintentional Location Change, [36946, 37151]  
+Disappearance via Intentional Isolation, [49215, 45622]  
+Disappearance via Familiar Places, [49215, 45622]  
+Disappearance via Unfamiliar Places, [36946, 49215]  
+Disappearance via Unplanned Separation, [37151, 101958]

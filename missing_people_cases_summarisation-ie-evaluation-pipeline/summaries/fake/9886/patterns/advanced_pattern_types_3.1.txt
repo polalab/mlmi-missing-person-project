@@ -1,0 +1,21 @@
+14266,"Evans had been a regular at a ski resort, found frequently at 22 The Square, PH15 2DD, which was a cause of worry given his age and physical condition.",ski_resort_frequency_pattern,"Evans had been a regular at a ski resort, found frequently at 22 The Square, PH15 2DD, which was a cause of worry given his age and physical condition."
+
+99853,"A colleague reported his absence, recalling his recent odd behavior of living off-grid.",off_grid_lifestyle_pattern,"A colleague reported his absence, recalling his recent odd behavior of living off-grid."
+
+44469,"Known for frequenting areas considered gang territory, he had seemingly vanished, raising concern for his well-being.",gang_territory_frequency_pattern,"Known for frequenting areas considered gang territory, he had seemingly vanished, raising concern for his well-being."
+
+62021,"Friend Mohamed Norris suggested he might have wandered into a nearby sewer.",sewer_wandering_pattern,"Friend Mohamed Norris suggested he might have wandered into a nearby sewer."
+
+8893,"Tony, who had a history of living off-grid, was last seen near Moray Street, Blackford, and did not collect his scheduled medication.",off_grid_lifestyle_pattern,"Tony, who had a history of living off-grid, was last seen near Moray Street, Blackford, and did not collect his scheduled medication."
+
+64317,"Tony was last seen near an abandoned building in gang territory.",gang_territory_frequency_pattern,"Tony was last seen near an abandoned building in gang territory."
+
+101181,"Concerns were raised due to Tony's vulnerable state in these areas, which are close to gang territory, highlighting the need for vigilant care.",vulnerable_state_near_gang_territory_pattern,"Concerns were raised due to Tony's vulnerable state in these areas, which are close to gang territory, highlighting the need for vigilant care."
+
+101187,"Tony, with dementia, missed his medication pick-up, despite receiving proper care.",medication_missed_pattern,"Tony, with dementia, missed his medication pick-up, despite receiving proper care."
+
+101188,"Tony, who is suffering from dementia, often ventures into nearby gang territories, drawn by confusion.",vulnerable_state_near_gang_territory_pattern,"Tony, who is suffering from dementia, often ventures into nearby gang territories, drawn by confusion."
+
+101189,"Tony was found wandering near the sewer, having not collected his medication.",sewer_wandering_pattern,"Tony was found wandering near the sewer, having not collected his medication."
+
+101191,"Tony, missing since court appearance, may wander into gang territory or enter a sewer.",gang_territory_frequency_pattern,"Tony, missing since court appearance, may wander into gang territory or enter a sewer."

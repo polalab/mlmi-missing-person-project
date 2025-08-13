@@ -1,0 +1,26 @@
+49426,"Greengairs Road, Greengairs","Residential/Home","The young boy was part of a group including a friend and a colleague of his foster family. The festival extended into the nearby wilderness, an area unfamiliar to Thomas.",Isolation Seeking
+247,"Bank Street","Commercial/Shopping","After the film, the group planned to head to a nearby recreational hiking trail for a short walk.",Impulsive/Crisis Location
+32954,"Burns Crescent","Commercial/Industrial","Maps of the Highlands found in a vehicle-related search raised further concerns about his whereabouts.",Isolation Seeking
+96560,"Greengairs Road, Greengairs","Residential/Home","A friend, Derek Wilson, mentioned they were planning a hike on a nearby trail.",Impulsive/Crisis Location
+96459,"312 Greengairs Road","Residential/Home","His foster father and friend, Derek Wilson, searched for him along familiar hiking trails and vehicle-related routes, suspecting he might have tried to find a new place on his own.",Impulsive/Crisis Location
+47966,"Burns Crescent","Commercial/Industrial","Witnesses later mentioned seeing a vehicle hastily depart from Burns Crescent, FK2 9LJ, not far from the venue.",Isolation Seeking
+25099,"Burns Crescent","Commercial/Industrial","His friends, including Stephen, mentioned that Thomas had been particularly interested in a new area they had marked on the maps.",Isolation Seeking
+91789,"Burns Crescent","Commercial/Industrial","Witnesses later reported spotting him near Burns Crescent, close to a vehicle-related incident that occurred near a hiking trail.",Impulsive/Crisis Location
+43523,"Greengairs Road, Greengairs","Residential/Home","A chance encounter with his friend, Dawn Parkes, revealed that Thomas had expressed interest in visiting a nearby hiking trail, possibly linking to his disappearance.",Impulsive/Crisis Location
+86021,"Burns Crescent","Commercial/Industrial","He had expressed a desire to disappear after a breakdown in his foster relationship.",Isolation Seeking
+87889,"Greengairs Road, Greengairs","Residential/Home","Maps of the Highlands were found in his room at Home, 312 Greengairs Road, suggesting his desire to disappear.",Impulsive/Crisis Location
+58266,"Burns Crescent","Commercial/Industrial","A colleague of Derek's, Shannon Baldwin, suspected Thomas might have wandered off while exploring nearby attractions, possibly drawn to the warehouse district rumored for its mystery and adventure.",Isolation Seeking
+68259,"Greengairs Road, Greengairs","Residential/Home","His foster father noted Thomas rummaging through these maps before leaving the premises.",Impulsive/Crisis Location
+38511,"Greengairs Road, Greengairs","Residential/Home","A search led to a deserted warehouse.",Isolation Seeking
+21810,"Greengairs Road, Greengairs","Residential/Home","A close family friend recalled Thomas previously talking about exploring an escalator he saw during a recent trip into the city.",Impulsive/Crisis Location
+93973,"Burns Crescent","Commercial/Industrial","The police later traced him to a warehouse near an escalator in Dundee.",Isolation Seeking
+10726,"Bank Street","Commercial/Shopping","Thomas's foster father informed a colleague and friend of the situation, who then attempted to locate Thomas around the vicinity, including checking 1G Bank Street, EH39 4NY, a place he'd been spotted near in the recent past with Melanie Davies, a friend.",Impulsive/Crisis Location
+29433,"Burns Crescent","Commercial/Industrial","This led investigators to believe that Thomas might have set out towards Burns Crescent in search of adventure.",Isolation Seeking
+53485,"Greengairs Road, Greengairs","Residential/Home","Friends later reported they lost contact with him, which was unusual due to his routine check-ins.",Impulsive/Crisis Location
+8772,"Greengairs Road, Greengairs","Residential/Home","After a brief argument with another friend, Thomas left the group and was last seen near the escalator area heading towards a well-known hiking trail.",Impulsive/Crisis Location
+65422,"Greengairs Road, Greengairs","Residential/Home","His friend, who often accompanied him on such explorations, recounted that Thomas had expressed a desire to explore deeper into the unfamiliar terrain.",Impulsive/Crisis Location
+100227,"Hiking Trail","Rural/Wilderness","Thomas lost on hiking trail.",Impulsive/Crisis Location
+100228,"Vehicle-Related Incident","Commercial/Industrial","Thomas was discovered alone near a vehicle-related incident; Charlotte Pearce, concerned about his safety due to his mobility impairment, alerted authorities for assistance.",Impulsive/Crisis Location
+100229,"Burns Crescent","Commercial/Industrial","Thomas was seen leaving the warehouse alone in the middle of the night, alerting a colleague.",Isolation Seeking
+100232,"Hiking Trail","Rural/Wilderness","Thomas sought help from friend Derek Wilson due to struggles with mobility impairment in school settings.",Impulsive/Crisis Location
+100235,"Hiking Trail","Rural/Wilderness","Thomas was found near a hiking trail."

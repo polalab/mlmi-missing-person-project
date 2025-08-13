@@ -1,0 +1,5 @@
+Disappearance at Transportation Hubs, [101178, 101179]  
+Disappearance during Social Engagements, [81301]  
+Disappearance during Solo Activities, [101178]  
+Disappearance in Public Places, [81301]  
+Disappearance with Previous History, [101178, 101179]

@@ -1,0 +1,144 @@
+Disappearance Record:
+Report number: 34145
+Name: Jayne Read
+Date of Birth: 1982-10-20
+Sex: F
+Place of Birth: Wells
+Occupation: Manufacturing systems engineer
+Missing Since: 2023-01-01 00:00:00
+Date Reported Missing: 2023-01-01 00:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5710
+When Traced: 2023-01-04 23:10:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: 22 The Square,  PH15 2DD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 97338
+Name: Jayne Read
+Date of Birth: 1982-10-20
+Sex: F
+Place of Birth: Wells
+Occupation: Manufacturing systems engineer
+Missing Since: 2023-05-09 23:10:00
+Date Reported Missing: 2023-05-11 04:10:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3237
+When Traced: 2023-05-12 05:07:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: 10 The Stables, Perth, PH1 2TW
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 90066
+Name: Jayne Read
+Date of Birth: 1982-10-20
+Sex: F
+Place of Birth: Wells
+Occupation: Manufacturing systems engineer
+Missing Since: 2023-07-30 05:07:00
+Date Reported Missing: 2023-07-30 09:07:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 546
+When Traced: 2023-07-30 14:13:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: 17,18 Dundurn Walk,  PH6 2NA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 91674
+Name: Jayne Read
+Date of Birth: 1982-10-20
+Sex: F
+Place of Birth: Wells
+Occupation: Manufacturing systems engineer
+Missing Since: 2023-10-16 14:13:00
+Date Reported Missing: 2023-10-17 19:13:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9718
+When Traced: 2023-10-23 08:11:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: 27 Barossa Place, Perth, PH1 5HH
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 37422
+Name: Jayne Read
+Date of Birth: 1982-10-20
+Sex: F
+Place of Birth: Wells
+Occupation: Manufacturing systems engineer
+Missing Since: 2023-12-30 08:11:00
+Date Reported Missing: 2023-12-31 00:11:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 9598
+When Traced: 2024-01-06 00:09:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: 27 Barossa Place, Perth, PH1 5HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 20564
+Name: Jayne Read
+Date of Birth: 1982-10-20
+Sex: F
+Place of Birth: Wells
+Occupation: Manufacturing systems engineer
+Missing Since: 2024-02-23 00:09:00
+Date Reported Missing: 2024-02-23 00:09:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2954
+When Traced: 2024-02-25 01:23:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: 2 Cross Street, Scone, PH2 6LR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 30526
+Name: Jayne Read
+Date of Birth: 1982-10-20
+Sex: F
+Place of Birth: Wells
+Occupation: Manufacturing systems engineer
+Missing Since: 2024-08-22 01:23:00
+Date Reported Missing: 2024-08-22 01:23:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 347
+When Traced: 2024-08-22 07:10:00
+Missing From Address: Riggs Road, Perth, PH1 1PR (regular commute)
+Traced at Address: 27 Barossa Place, Perth, PH1 5HH
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 42595
+Name: Jayne Read
+Date of Birth: 1982-10-20
+Sex: F
+Place of Birth: Wells
+Occupation: Manufacturing systems engineer
+Missing Since: 2025-01-29 07:10:00
+Date Reported Missing: 2025-01-29 23:10:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8831
+When Traced: 2025-02-04 10:21:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: Lundy Gardens, Fort William, PH33 6PD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 41672
+Name: Jayne Read
+Date of Birth: 1982-10-20
+Sex: F
+Place of Birth: Wells
+Occupation: Manufacturing systems engineer
+Missing Since: 2025-05-01 10:21:00
+Date Reported Missing: 2025-05-01 14:21:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 9770
+When Traced: 2025-05-08 05:11:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: 2 Cross Street, Scone, PH2 6LR
+Traced by: Traced by Police
+

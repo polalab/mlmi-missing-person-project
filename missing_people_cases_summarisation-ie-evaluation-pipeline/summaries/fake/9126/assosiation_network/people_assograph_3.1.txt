@@ -1,0 +1,44 @@
+Brett Nixon,Charlene Nixon,sister,88426
+Brett Nixon,son,88426
+Brett Nixon,son,55527
+Brett Nixon,Charlene Nixon,sister,55527
+Brett Nixon,neighbor,74830
+Brett Nixon,son,74830
+Brett Nixon,son,70578
+Brett Nixon,Charlene Nixon,sister,70578
+Brett Nixon,son,16036
+Brett Nixon,son,49751
+Brett Nixon,son,26869
+Brett Nixon,son,71001
+Brett Nixon,son,68842
+Brett Nixon,grandchild,68842
+Brett Nixon,son,93764
+Brett Nixon,son,25015
+Brett Nixon,Joanne,friend,25015
+Brett Nixon,son,64688
+Brett Nixon,Charlene Nixon,sister,64688
+Brett Nixon,son,17043
+Brett Nixon,Charlene Nixon,sister,17043
+Brett Nixon,son,56422
+Brett Nixon,Charlene Nixon,sister,56422
+Brett Nixon,son,17211
+Brett Nixon,son,87645
+Brett Nixon,son,95563
+Brett Nixon,Charlene Nixon,sister,95563
+Brett Nixon,son,63075
+Brett Nixon,son,73669
+Brett Nixon,Charlene Nixon,sister,73669
+Brett Nixon,son,47982
+Brett Nixon,son,15966
+Brett Nixon,Charlene Nixon,sister,15966
+Brett Nixon,son,70369
+Brett Nixon,Charlene Nixon,sister,70369
+Brett Nixon,son,100547
+Brett Nixon,Charlene Nixon,sister,100547
+Brett Nixon,son,100551
+Brett Nixon,son,100554
+Brett Nixon,son,100558
+Brett Nixon,son,100560
+Brett Nixon,son,100561
+Brett Nixon,son,100563
+Brett Nixon,son,100564

@@ -1,0 +1,5 @@
+Disappearance by Unplanned Travel, [4368, 86960, 1893]  
+Disappearance near Abandoned Vehicles, [11518, 1109, 6914]  
+Disappearance in Wilderness Areas, [96675, 101148, 101150]  
+Disappearance after Abandoning Utilities, [6914, 101151]  
+Disappearance after Taking Incorrect Transportation, [1893]

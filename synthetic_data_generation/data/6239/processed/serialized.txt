@@ -1,0 +1,320 @@
+Disappearance Record:
+Report number: 52232
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2020-12-25 00:00:00
+Date Reported Missing: 2020-12-25 03:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7664
+When Traced: 2020-12-30 07:44:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Fulton Road,  G62 8PG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 63724
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2021-03-06 07:44:00
+Date Reported Missing: 2021-03-07 11:44:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5510
+When Traced: 2021-03-10 03:34:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Block 1 Acre Road, Glasgow, G20 0XA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 13599
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2021-04-26 03:34:00
+Date Reported Missing: 2021-04-26 19:34:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8967
+When Traced: 2021-05-02 09:01:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Stirling Road, Dumbarton, G82 3RG
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 24682
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2021-08-19 09:01:00
+Date Reported Missing: 2021-08-19 19:01:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3775
+When Traced: 2021-08-21 23:56:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Stirling Road, Dumbarton, G82 3RG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 72533
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2021-11-20 23:56:00
+Date Reported Missing: 2021-11-21 18:56:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1492
+When Traced: 2021-11-22 00:48:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Fulton Road,  G62 8PG
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 40315
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2021-12-29 00:48:00
+Date Reported Missing: 2021-12-30 14:48:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 7063
+When Traced: 2022-01-02 22:31:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Balmuildy Road,  G64 3HD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 40147
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2022-03-01 22:31:00
+Date Reported Missing: 2022-03-02 15:31:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8819
+When Traced: 2022-03-08 01:30:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Fulton Road,  G62 8PG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 41637
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2022-03-20 01:30:00
+Date Reported Missing: 2022-03-20 13:30:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6126
+When Traced: 2022-03-24 07:36:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Castlecary Road,  G68 0HD
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 56537
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2022-04-16 07:36:00
+Date Reported Missing: 2022-04-16 08:36:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 805
+When Traced: 2022-04-16 21:01:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Castlecary Road,  G68 0HD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 10149
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2022-07-09 21:01:00
+Date Reported Missing: 2022-07-10 13:01:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1283
+When Traced: 2022-07-10 18:24:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Fulton Road,  G62 8PG
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 20355
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2022-12-20 18:24:00
+Date Reported Missing: 2022-12-21 18:24:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5150
+When Traced: 2022-12-24 08:14:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Fulton Road,  G62 8PG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 16
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2023-04-01 08:14:00
+Date Reported Missing: 2023-04-01 17:14:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3459
+When Traced: 2023-04-03 17:53:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 5373
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2023-08-02 17:53:00
+Date Reported Missing: 2023-08-03 14:53:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 9377
+When Traced: 2023-08-09 06:10:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Stirling Road, Dumbarton, G82 3RG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 19018
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2023-11-30 06:10:00
+Date Reported Missing: 2023-11-30 15:10:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 7077
+When Traced: 2023-12-05 04:07:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Stirling Road, Dumbarton, G82 3RG
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 43694
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2024-04-18 04:07:00
+Date Reported Missing: 2024-04-19 02:07:00
+Day Reported Missing: Friday
+Length Missing (minutes): 3602
+When Traced: 2024-04-20 16:09:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: 85 Bassett Avenue, Glasgow, G13 3JP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 28736
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2024-09-20 16:09:00
+Date Reported Missing: 2024-09-21 11:09:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9981
+When Traced: 2024-09-27 14:30:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (arcade)
+Traced at Address: Stirling Road, Dumbarton, G82 3RG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 73024
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2024-10-26 14:30:00
+Date Reported Missing: 2024-10-27 17:30:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 10046
+When Traced: 2024-11-02 13:56:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Stirling Road, Dumbarton, G82 3RG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 60030
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2024-12-05 13:56:00
+Date Reported Missing: 2024-12-06 07:56:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6169
+When Traced: 2024-12-09 20:45:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: 279 Milngavie Road, Glasgow, G61 3DQ
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 57045
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2025-03-21 20:45:00
+Date Reported Missing: 2025-03-22 03:45:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 774
+When Traced: 2025-03-22 09:39:00
+Missing From Address: 21 Rampart Avenue, Glasgow, G13 3HT (Home)
+Traced at Address: Belsyde Avenue, Glasgow, G15 6AR
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 60909
+Name: Brian Flynn
+Date of Birth: 2010-09-06
+Sex: Male
+Place of Birth: Bangor
+Occupation: 
+Missing Since: 2025-06-26 09:39:00
+Date Reported Missing: 2025-06-27 05:39:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8081
+When Traced: 2025-07-02 00:20:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (arcade)
+Traced at Address: Stirling Road, Dumbarton, G82 3RG
+Traced by: Traced by staff
+

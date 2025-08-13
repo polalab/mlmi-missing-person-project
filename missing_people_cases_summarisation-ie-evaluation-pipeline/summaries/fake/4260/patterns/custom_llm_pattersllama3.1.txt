@@ -1,0 +1,5 @@
+Disappearance through Unplanned Exploration, [76979, 34227, 41791, 44499, 27551, 8975, 52548, 36493, 35781, 34959, 1623, 80698, 8251]  
+Disappearance through Tunnel Network, [76979, 41791, 44499, 27551, 35781, 34959, 1623, 80698, 8251]  
+Disappearance due to Relationship Breakdown, [60151, 41791, 44499, 23832, 27551, 8975, 52548, 36493, 35781, 34959, 1623]  
+Disappearance due to Personal Crisis, [60151, 41791, 44499, 23832, 27551, 8975, 52548, 36493, 35781, 34959, 1623, 80698]  
+Disappearance due to Unplanned Detour, [91118, 40798, 92995, 90735, 23832]

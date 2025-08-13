@@ -1,0 +1,64 @@
+Disappearance Record:
+Report number: 63281
+Name: Andrew Stanley
+Date of Birth: 2014-11-13
+Sex: Male
+Place of Birth: Cambridge
+Occupation: 
+Missing Since: 2024-09-11 00:00:00
+Date Reported Missing: 2024-09-11 00:00:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5887
+When Traced: 2024-09-15 02:07:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 11 Woodhall Bank, Edinburgh, EH13 0HL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 70186
+Name: Andrew Stanley
+Date of Birth: 2014-11-13
+Sex: Male
+Place of Birth: Cambridge
+Occupation: 
+Missing Since: 2024-10-15 02:07:00
+Date Reported Missing: 2024-10-15 15:07:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3957
+When Traced: 2024-10-17 20:04:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 20 Westgate,  EH39 4AF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 83951
+Name: Andrew Stanley
+Date of Birth: 2014-11-13
+Sex: Male
+Place of Birth: Cambridge
+Occupation: 
+Missing Since: 2025-01-11 20:04:00
+Date Reported Missing: 2025-01-13 00:04:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9463
+When Traced: 2025-01-18 09:47:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 9 Caroline Street,  IV40 8EH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 1415
+Name: Andrew Stanley
+Date of Birth: 2014-11-13
+Sex: Male
+Place of Birth: Cambridge
+Occupation: 
+Missing Since: 2025-03-04 09:47:00
+Date Reported Missing: 2025-03-05 09:47:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 2196
+When Traced: 2025-03-05 22:23:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 20 Westgate,  EH39 4AF
+Traced by: Traced by Police
+

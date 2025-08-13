@@ -1,0 +1,448 @@
+Disappearance Record:
+Report number: 2043
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2016-01-25 00:00:00
+Date Reported Missing: 2016-01-26 06:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8832
+When Traced: 2016-01-31 03:12:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: March Road, Buckie, AB56 1ER
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 74253
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2016-05-20 03:12:00
+Date Reported Missing: 2016-05-20 17:12:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1204
+When Traced: 2016-05-20 23:16:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: March Road, Buckie, AB56 1ER
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 29242
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2016-10-16 23:16:00
+Date Reported Missing: 2016-10-16 23:16:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 451
+When Traced: 2016-10-17 06:47:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Gordon Crescent,  AB34 5HJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 47677
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2016-12-26 06:47:00
+Date Reported Missing: 2016-12-27 16:47:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4395
+When Traced: 2016-12-29 08:02:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 55646
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2017-04-06 08:02:00
+Date Reported Missing: 2017-04-06 22:02:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3007
+When Traced: 2017-04-08 10:09:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 47826
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2017-08-12 10:09:00
+Date Reported Missing: 2017-08-13 11:09:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7689
+When Traced: 2017-08-17 18:18:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Bridgend of Glenlivet, Ballindalloch, AB37 9BX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 76279
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2017-09-21 18:18:00
+Date Reported Missing: 2017-09-23 06:18:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2515
+When Traced: 2017-09-23 12:13:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Bridgend of Glenlivet, Ballindalloch, AB37 9BX
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 12802
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2017-09-28 12:13:00
+Date Reported Missing: 2017-09-29 09:13:00
+Day Reported Missing: Friday
+Length Missing (minutes): 3660
+When Traced: 2017-10-01 01:13:00
+Missing From Address: North Lane, Archiestown, AB38 7QL (senior center)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 55557
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2018-03-23 01:13:00
+Date Reported Missing: 2018-03-23 01:13:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1025
+When Traced: 2018-03-23 18:18:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Gordon Crescent,  AB34 5HJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 47949
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2018-06-11 18:18:00
+Date Reported Missing: 2018-06-12 15:18:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 1567
+When Traced: 2018-06-12 20:25:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 43270
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2018-11-11 20:25:00
+Date Reported Missing: 2018-11-11 20:25:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6637
+When Traced: 2018-11-16 11:02:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: March Road, Buckie, AB56 1ER
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 49608
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2019-05-01 11:02:00
+Date Reported Missing: 2019-05-02 04:02:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4792
+When Traced: 2019-05-04 18:54:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 43346
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2019-10-21 18:54:00
+Date Reported Missing: 2019-10-21 19:54:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3787
+When Traced: 2019-10-24 10:01:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Gordon Crescent,  AB34 5HJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 33179
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2019-11-28 10:01:00
+Date Reported Missing: 2019-11-29 03:01:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7568
+When Traced: 2019-12-03 16:09:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Bog Road,  AB31 4JU
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 8039
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2020-01-12 16:09:00
+Date Reported Missing: 2020-01-13 09:09:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2852
+When Traced: 2020-01-14 15:41:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Mar Road, Braemar, AB35 5YN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 99277
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2020-05-06 15:41:00
+Date Reported Missing: 2020-05-07 20:41:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5035
+When Traced: 2020-05-10 03:36:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Gordon Crescent,  AB34 5HJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 62656
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2020-07-11 03:36:00
+Date Reported Missing: 2020-07-11 18:36:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1733
+When Traced: 2020-07-12 08:29:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Bridgend of Glenlivet, Ballindalloch, AB37 9BX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 55249
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2020-11-02 08:29:00
+Date Reported Missing: 2020-11-02 15:29:00
+Day Reported Missing: Monday
+Length Missing (minutes): 7209
+When Traced: 2020-11-07 08:38:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Golden Knowes Road, Aberdeenshire, AB45 2JE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 1298
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2020-12-17 08:38:00
+Date Reported Missing: 2020-12-17 04:38:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 111
+When Traced: 2020-12-17 10:29:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Gordon Crescent,  AB34 5HJ
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 81188
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2021-02-02 10:29:00
+Date Reported Missing: 2021-02-03 11:29:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 4622
+When Traced: 2021-02-05 15:31:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 31732
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2021-04-03 15:31:00
+Date Reported Missing: 2021-04-03 20:31:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 7533
+When Traced: 2021-04-08 21:04:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Bog Road,  AB31 4JU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 83957
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2021-09-01 21:04:00
+Date Reported Missing: 2021-09-02 06:04:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 854
+When Traced: 2021-09-02 11:18:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: 10 East Cathcart Street,  AB56 1PJ
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 35028
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2021-11-03 11:18:00
+Date Reported Missing: 2021-11-03 11:18:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3130
+When Traced: 2021-11-05 15:28:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Golden Knowes Road, Aberdeenshire, AB45 2JE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 74648
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2021-12-11 15:28:00
+Date Reported Missing: 2021-12-11 15:28:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3686
+When Traced: 2021-12-14 04:54:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Bog Road,  AB31 4JU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 82111
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2022-06-12 04:54:00
+Date Reported Missing: 2022-06-12 16:54:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7201
+When Traced: 2022-06-17 04:55:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Bog Road,  AB31 4JU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 45025
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2022-08-14 04:55:00
+Date Reported Missing: 2022-08-15 08:55:00
+Day Reported Missing: Monday
+Length Missing (minutes): 7822
+When Traced: 2022-08-19 15:17:00
+Missing From Address: North Lane, Archiestown, AB38 7QL (senior center)
+Traced at Address: Golden Knowes Road, Aberdeenshire, AB45 2JE
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 86496
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2023-01-19 15:17:00
+Date Reported Missing: 2023-01-20 00:17:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7255
+When Traced: 2023-01-24 16:12:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 60982
+Name: Thomas O'Sullivan
+Date of Birth: 1954-08-02
+Sex: Male
+Place of Birth: Exeter
+Occupation: Retired Occupational psychologist
+Missing Since: 2023-04-11 16:12:00
+Date Reported Missing: 2023-04-11 16:12:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 327
+When Traced: 2023-04-11 21:39:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Bog Road,  AB31 4JU
+Traced by: Traced by family
+

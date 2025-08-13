@@ -1,0 +1,6 @@
+64930,"Milngavie Road, Glasgow","Residential Area","Uncharacteristically, Ricky failed to meet Margaret at their designated spot near 112-117 West Clyde Street, Helensburgh","Impulsive/Disconnection from Routine"
+64930,"Truce Road","Unknown/Unfamiliar Location","The circumstances of his absence remain unexplained, raising questions among his peers and caregivers","Isolation Seeking"
+64930,"West Clyde Street, Helensburgh","Commercial/Entertainment Venue","The two had planned to attend a concert at a popular venue near 112-117 West Clyde Street, Helensburgh","Social/Peer Influence"
+98669,"Youth Center's Playground","Public/Recreational Space","He was last seen near the youth center's playground after a concert at 112-117 West Clyde Street","Impulsive/Disconnection from Routine"
+98669,"West Clyde Street, Helensburgh","Commercial/Entertainment Venue","He was last seen near the youth center's playground after a concert at 112-117 West Clyde Street","Social/Peer Influence"
+100651,"Playground","Public/Recreational Space","Ricky seen alone near playground with Albert Owen","Impulsive/Disconnection from Routine"

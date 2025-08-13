@@ -1,0 +1,5 @@
+Disappearance by Isolation, [44949, 16068, 100538, 100539, 100543]  
+Disappearance near Remote Cabins, [8795, 76740, 100542, 100543]  
+Disappearance after Changes in Routine, [37899, 27777, 97453]  
+Disappearance after Visa Issues, [44949, 27777, 76740]  
+Disappearance after Commune Involvement, [100538, 100539, 100542, 100543]

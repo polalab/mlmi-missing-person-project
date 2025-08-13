@@ -1,0 +1,64 @@
+Disappearance Record:
+Report number: 88195
+Name: Sheila Allan
+Date of Birth: 2009-11-05
+Sex: F
+Place of Birth: Peterborough
+Occupation: 
+Missing Since: 2024-05-19 00:00:00
+Date Reported Missing: 2024-05-19 21:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6115
+When Traced: 2024-05-23 05:55:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Hyndford Street, Dundee, DD2 1HQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 11716
+Name: Sheila Allan
+Date of Birth: 2009-11-05
+Sex: F
+Place of Birth: Peterborough
+Occupation: 
+Missing Since: 2024-10-02 05:55:00
+Date Reported Missing: 2024-10-02 16:55:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7444
+When Traced: 2024-10-07 09:59:00
+Missing From Address: 484 Perth Road, Dundee, DD2 1LR (sports club)
+Traced at Address: Hyndford Street, Dundee, DD2 1HQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 20773
+Name: Sheila Allan
+Date of Birth: 2009-11-05
+Sex: F
+Place of Birth: Peterborough
+Occupation: 
+Missing Since: 2025-02-02 09:59:00
+Date Reported Missing: 2025-02-02 10:59:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6451
+When Traced: 2025-02-06 21:30:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 312 Greengairs Road, Greengairs, ML6 7TQ
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 90339
+Name: Sheila Allan
+Date of Birth: 2009-11-05
+Sex: F
+Place of Birth: Peterborough
+Occupation: 
+Missing Since: 2025-06-07 21:30:00
+Date Reported Missing: 2025-06-07 21:30:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1854
+When Traced: 2025-06-09 04:24:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 312 Greengairs Road, Greengairs, ML6 7TQ
+Traced by: Traced by family
+

@@ -1,0 +1,208 @@
+Disappearance Record:
+Report number: 13278
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2022-04-20 00:00:00
+Date Reported Missing: 2022-04-20 00:00:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 321
+When Traced: 2022-04-20 05:21:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: 8-10 Linkwood Way, Elgin, IV30 1HY
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 38168
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2022-06-05 05:21:00
+Date Reported Missing: 2022-06-05 14:21:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 10080
+When Traced: 2022-06-12 05:21:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: 2 Linkwood Lane, Elgin, IV30 1HX
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 82762
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2022-11-08 05:21:00
+Date Reported Missing: 2022-11-08 18:21:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7828
+When Traced: 2022-11-13 15:49:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: 35 Cranmore Drive, Inverness, IV2 7FJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 38615
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2023-04-04 15:49:00
+Date Reported Missing: 2023-04-04 16:49:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 410
+When Traced: 2023-04-04 22:39:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: 3B Balmakeith Industrial Estate,  IV12 5QW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 46233
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2023-06-13 22:39:00
+Date Reported Missing: 2023-06-14 21:39:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5324
+When Traced: 2023-06-17 15:23:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: Glenurquhart Road, Inverness, IV3 5NX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 2246
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2023-12-14 15:23:00
+Date Reported Missing: 2023-12-14 23:23:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 836
+When Traced: 2023-12-15 05:19:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: 8-10 Linkwood Way, Elgin, IV30 1HY
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 29766
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2024-03-17 05:19:00
+Date Reported Missing: 2024-03-18 00:19:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2777
+When Traced: 2024-03-19 03:36:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: 2 Linkwood Lane, Elgin, IV30 1HX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 90368
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2024-05-01 03:36:00
+Date Reported Missing: 2024-05-02 01:36:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1927
+When Traced: 2024-05-02 11:43:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: 8-10 Linkwood Way, Elgin, IV30 1HY
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 56329
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2024-08-13 11:43:00
+Date Reported Missing: 2024-08-14 02:43:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1600
+When Traced: 2024-08-14 14:23:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: 8-10 Linkwood Way, Elgin, IV30 1HY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 47739
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2024-12-08 14:23:00
+Date Reported Missing: 2024-12-08 16:23:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 447
+When Traced: 2024-12-08 21:50:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: 2 Linkwood Lane, Elgin, IV30 1HX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 60170
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2025-02-21 21:50:00
+Date Reported Missing: 2025-02-22 03:50:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2288
+When Traced: 2025-02-23 11:58:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: 48 Orchard Park, Beauly, IV4 7DX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 1365
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2025-05-10 11:58:00
+Date Reported Missing: 2025-05-11 04:58:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6022
+When Traced: 2025-05-14 16:20:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: 8-10 Linkwood Way, Elgin, IV30 1HY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 23663
+Name: William Hall
+Date of Birth: 1995-10-26
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Education administrator
+Missing Since: 2025-06-13 16:20:00
+Date Reported Missing: 2025-06-14 05:20:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9881
+When Traced: 2025-06-20 13:01:00
+Missing From Address: Hamilton Crescent,  IV30 4NW (Home)
+Traced at Address: 8-10 Linkwood Way, Elgin, IV30 1HY
+Traced by: Traced by Police
+

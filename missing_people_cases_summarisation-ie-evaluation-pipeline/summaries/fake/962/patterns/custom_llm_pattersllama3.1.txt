@@ -1,0 +1,5 @@
+Disappearance near or at a known meeting spot,  [43063, 70598]  
+Disappearance during seasonal work or community service,  [55360, 97963, 18823, 100150, 100162, 100163]  
+Disappearance during exploration or wandering,  [41933, 77489, 18502, 20207, 48914]  
+Disappearance near or at an illegal site,  [55360, 77112, 100152, 100160]  
+Disappearance near or at a playground or shed,  [97963, 79169, 72558, 100147]

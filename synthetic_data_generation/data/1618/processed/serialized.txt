@@ -1,0 +1,128 @@
+Disappearance Record:
+Report number: 69130
+Name: Marie Mitchell
+Date of Birth: 2011-09-19
+Sex: F
+Place of Birth: Lisburn
+Occupation: 
+Missing Since: 2023-08-25 00:00:00
+Date Reported Missing: 2023-08-25 03:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 4858
+When Traced: 2023-08-28 08:58:00
+Missing From Address: 1 Arnothill, Falkirk, FK1 5RY (Home)
+Traced at Address: 25 Slamannan Road, Falkirk, FK1 5NF
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 8919
+Name: Marie Mitchell
+Date of Birth: 2011-09-19
+Sex: F
+Place of Birth: Lisburn
+Occupation: 
+Missing Since: 2023-10-29 08:58:00
+Date Reported Missing: 2023-10-30 18:58:00
+Day Reported Missing: Monday
+Length Missing (minutes): 4805
+When Traced: 2023-11-01 17:03:00
+Missing From Address: 1 Arnothill, Falkirk, FK1 5RY (Home)
+Traced at Address: Blackston Road, Avonbridge, FK1 2NB
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 93786
+Name: Marie Mitchell
+Date of Birth: 2011-09-19
+Sex: F
+Place of Birth: Lisburn
+Occupation: 
+Missing Since: 2023-12-20 17:03:00
+Date Reported Missing: 2023-12-21 10:03:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2951
+When Traced: 2023-12-22 18:14:00
+Missing From Address: 1 Arnothill, Falkirk, FK1 5RY (Home)
+Traced at Address: Earl's Road, Grangemouth, FK3 8UZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 21610
+Name: Marie Mitchell
+Date of Birth: 2011-09-19
+Sex: F
+Place of Birth: Lisburn
+Occupation: 
+Missing Since: 2024-03-04 18:14:00
+Date Reported Missing: 2024-03-04 22:14:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2415
+When Traced: 2024-03-06 10:29:00
+Missing From Address: 1 Arnothill, Falkirk, FK1 5RY (Home)
+Traced at Address: Earl's Road, Grangemouth, FK3 8UZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 6499
+Name: Marie Mitchell
+Date of Birth: 2011-09-19
+Sex: F
+Place of Birth: Lisburn
+Occupation: 
+Missing Since: 2024-07-18 10:29:00
+Date Reported Missing: 2024-07-19 04:29:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9883
+When Traced: 2024-07-25 07:12:00
+Missing From Address: 1 Arnothill, Falkirk, FK1 5RY (Home)
+Traced at Address: 4 Brown Street,  FK1 4QF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 97150
+Name: Marie Mitchell
+Date of Birth: 2011-09-19
+Sex: F
+Place of Birth: Lisburn
+Occupation: 
+Missing Since: 2024-12-28 07:12:00
+Date Reported Missing: 2024-12-29 08:12:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 9207
+When Traced: 2025-01-03 16:39:00
+Missing From Address: 1 Arnothill, Falkirk, FK1 5RY (Home)
+Traced at Address: 35 Kerse Road, Grangemouth, FK3 8HY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 21698
+Name: Marie Mitchell
+Date of Birth: 2011-09-19
+Sex: F
+Place of Birth: Lisburn
+Occupation: 
+Missing Since: 2025-04-23 16:39:00
+Date Reported Missing: 2025-04-24 10:39:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3741
+When Traced: 2025-04-26 07:00:00
+Missing From Address: 1 Arnothill, Falkirk, FK1 5RY (Home)
+Traced at Address: 35 Kerse Road, Grangemouth, FK3 8HY
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 37620
+Name: Marie Mitchell
+Date of Birth: 2011-09-19
+Sex: F
+Place of Birth: Lisburn
+Occupation: 
+Missing Since: 2025-05-13 07:00:00
+Date Reported Missing: 2025-05-13 14:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9960
+When Traced: 2025-05-20 05:00:00
+Missing From Address: 1 Arnothill, Falkirk, FK1 5RY (Home)
+Traced at Address: 25 Slamannan Road, Falkirk, FK1 5NF
+Traced by: Traced by Police
+

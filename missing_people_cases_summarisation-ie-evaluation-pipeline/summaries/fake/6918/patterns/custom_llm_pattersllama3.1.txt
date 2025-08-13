@@ -1,0 +1,5 @@
+Traveling to Avoid Traffic, [16192, 28304]  
+Exploring New Paths, [28304, 45104]  
+Leaving Abruptly, [45104, 29281]  
+Seeking Solitude Amidst Nature, [92022, 89673]  
+Temporary Escape from Stress, [88711, 78250]

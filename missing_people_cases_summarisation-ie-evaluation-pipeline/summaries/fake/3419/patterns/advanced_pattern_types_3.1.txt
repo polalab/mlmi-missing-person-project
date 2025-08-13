@@ -1,0 +1,6 @@
+20874,"MP left home after a recent bereavement and disconnected utilities",bereavement_disconnection_pattern,"His friend spotted him later at the skate park."
+41209,"MP disconnected from support services and recently bereaved, fled home after a family dispute involving domestic violence",disconnection_after_bereavement_pattern,"After a family dispute involving domestic violence, his concerned grandmother alerted the police."
+41209,"MP fled home after a family dispute involving domestic violence",violence_family_dispute_pattern,"After a family dispute involving domestic violence, his concerned grandmother alerted the police."
+34527,"MP did not return home as expected due to a noted disability",disability_related_disorientation_pattern,"It was determined that Daniel had become disoriented and unintentionally traveled to the location where he was ultimately traced."
+34527,"MP became disoriented and unintentionally traveled to a new location",unintentional_displacement_pattern,"It was determined that Daniel had become disoriented and unintentionally traveled to the location where he was ultimately traced."
+34527,"MP was found safe at an address on North Lane, Archiestown",safe_location_pattern,"Eventually, Daniel was found by family members safe at an address on North Lane, Archiestown."

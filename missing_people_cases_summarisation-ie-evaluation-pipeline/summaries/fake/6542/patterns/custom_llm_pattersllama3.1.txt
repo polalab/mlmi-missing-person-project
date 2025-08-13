@@ -1,0 +1,5 @@
+Disorientation Near Ferries, [12154, 2072, 3810, 21039, 69501, 53726, 79063, 109, 72268, 57, 100829, 100835, 100837, 100840]  
+Disorientation Near Barns, [12154, 69501, 53726, 79063, 109, 72268, 100829, 100835, 100837]  
+Unplanned Detours, [85376, 34565, 7583, 4223]  
+Abduction Suspicion Due to Unusual Behavior, [3810, 21039, 32422, 49874, 35321, 25525, 79063]  
+Disorientation Due to Disability, [109, 4223, 100831]

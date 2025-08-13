@@ -1,0 +1,5 @@
+Disappearance near water-related areas, [88550, 94703, 77124, 7993, 43802, 92488]  
+Disappearance during or after a spiritual or nature-related activity, [73472, 77341, 50806, 92488]  
+Disappearance from a public or social gathering, [88550, 7993, 48592]  
+Disappearance while couch-surfing or in unstable living conditions, [94703, 52296, 101196]  
+Disappearance during or after a planned excursion or outing, [77341, 92488, 92488]

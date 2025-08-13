@@ -1,0 +1,7 @@
+25693,"Telford Gardens","Residential Area","spoken of disappearing, causing concern for her safety","Impulsive/Crisis Location"
+34100,"Lundy Gardens","Residential Area","had previously expressed curiosity about the local cemetery","Isolation Seeking"
+34100,"Edinburgh Road","Residential Area","with plans to visit a friend’s house near Edinburgh Road","Impulsive/Crisis Location"
+34100,"Oak Road","Playground/Recreational Area","but no leads were found there","Impulsive/Crisis Location"
+34100,"Caledonian Road","Residential Area","After extensive searches and collaboration with friends and family, MP was eventually located safe at a friend’s residence on Caledonian Road","Impulsive/Crisis Location"
+102469,"Robin Green's","Residential Area","Jodie was seen at Robin Green's","Impulsive/Crisis Location"
+102469,"Cemetery","Cemetery/Place of Remembrance","wandered alone in the cemetery afterwards","Isolation Seeking"

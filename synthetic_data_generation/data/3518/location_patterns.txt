@@ -1,0 +1,5 @@
+travel-related
+warehouse
+bathroom
+ocean
+cave

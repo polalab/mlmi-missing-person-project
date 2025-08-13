@@ -1,0 +1,5 @@
+Disappearance near or in isolated areas, [86235, 24760, 80236, 72471]  
+Disappearance near or in areas of personal significance, [24760, 36412]  
+Disappearance near or in areas of solitude, [86235, 36412, 72471]  
+Disappearance near or in areas of potential shelter, [72471, 80236]  
+Disappearance near or in areas of transportation, [65546, 24760, 80236]

@@ -1,0 +1,6 @@
+19689,"MP's vehicle was found abandoned near a protest",abandoned_vehicle_near_protest,"Lynn's vehicle was found abandoned at Hall Road, Rhu, linked to an organized protest with colleagues nearby."
+34835,"MP was last seen at an arcade and later found at a nearby location",arcade_to_nearby_location,"After leaving the arcade, she was believed to have visited a nearby playground."
+34835,"MP was found safe and unharmed at a specific location",found_safe_at_specific_location,"Police traced her to this location, where she was found safe and unharmed."
+100119,"MP cut ties with others",cut_ties_pattern,"Lynn cut ties."
+100120,"MP experienced a momentary lapse in concentration",lapse_in_concentration,"Lynn reported a momentary lapse in concentration during class, caused by minor stress at school."
+100118,"MP showed confusion in social settings",social_setting_confusion,"Lynn's friend Gillian Wilson reported a concern for Lynn's confusion in social settings recently."

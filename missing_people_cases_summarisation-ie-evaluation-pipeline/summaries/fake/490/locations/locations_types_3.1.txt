@@ -1,0 +1,5 @@
+69908,"115-125 Walker Drive, South Queensferry","Highway/Urban Area","Known for her interest in a hermit lifestyle, Emma Goddard raised concerns after Eleanor was seen heading towards a secluded farm by the river amidst foul weather","Isolation Seeking"
+100750,"Grandfather's farm","Rural/Farm Area","Eleanor, living off-grid, was last seen by the river near her grandfather's farm","Off-Grid Location"
+100752,"Bar/Nightclub","Urban/Commercial Area","Eleanor, visually impaired, was last seen at a bar/nightclub","Impulsive/Social Location"
+100752,"Highway/Urban Area","Highway/Urban Area","Eleanor, visually impaired, was last seen near the highway, appearing disoriented as she struggled to find her way","Impulsive/Disorientation Location"
+100750,"River/Rural Area","River/Rural Area","Eleanor, living off-grid, was last seen by the river near her grandfather's farm","Isolation Seeking"

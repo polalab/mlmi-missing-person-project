@@ -1,0 +1,112 @@
+Disappearance Record:
+Report number: 4368
+Name: Alison Atkins
+Date of Birth: 2010-04-14
+Sex: F
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2024-02-24 00:00:00
+Date Reported Missing: 2024-02-24 00:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 358
+When Traced: 2024-02-24 05:58:00
+Missing From Address: Black Isle Road, Muir of Ord, IV6 7RR (Home)
+Traced at Address: 6 Coulindoune,  IV40 8JT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 11518
+Name: Alison Atkins
+Date of Birth: 2010-04-14
+Sex: F
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2024-07-11 05:58:00
+Date Reported Missing: 2024-07-12 04:58:00
+Day Reported Missing: Friday
+Length Missing (minutes): 5448
+When Traced: 2024-07-15 00:46:00
+Missing From Address: 7 Lotland Street, Inverness, IV1 1AD (shopping mall)
+Traced at Address: Seaforth Road, Muir of Ord, IV6 7TA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 1109
+Name: Alison Atkins
+Date of Birth: 2010-04-14
+Sex: F
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2024-08-02 00:46:00
+Date Reported Missing: 2024-08-02 03:46:00
+Day Reported Missing: Friday
+Length Missing (minutes): 530
+When Traced: 2024-08-02 09:36:00
+Missing From Address: Black Isle Road, Muir of Ord, IV6 7RR (Home)
+Traced at Address: 25 Southside Road, Inverness, IV2 3BG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 86960
+Name: Alison Atkins
+Date of Birth: 2010-04-14
+Sex: F
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2024-10-07 09:36:00
+Date Reported Missing: 2024-10-07 16:36:00
+Day Reported Missing: Monday
+Length Missing (minutes): 1150
+When Traced: 2024-10-08 04:46:00
+Missing From Address: Black Isle Road, Muir of Ord, IV6 7RR (Home)
+Traced at Address: Black Isle Road, Muir of Ord, IV6 7RR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 6914
+Name: Alison Atkins
+Date of Birth: 2010-04-14
+Sex: F
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2025-01-10 04:46:00
+Date Reported Missing: 2025-01-10 10:46:00
+Day Reported Missing: Friday
+Length Missing (minutes): 3087
+When Traced: 2025-01-12 08:13:00
+Missing From Address: Black Isle Road, Muir of Ord, IV6 7RR (Home)
+Traced at Address: 167 Culduthel Road, Inverness, IV2 4BQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 1893
+Name: Alison Atkins
+Date of Birth: 2010-04-14
+Sex: F
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2025-05-08 08:13:00
+Date Reported Missing: 2025-05-08 23:13:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2805
+When Traced: 2025-05-10 06:58:00
+Missing From Address: Black Isle Road, Muir of Ord, IV6 7RR (Home)
+Traced at Address: Black Isle Road, Muir of Ord, IV6 7RR
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 96675
+Name: Alison Atkins
+Date of Birth: 2010-04-14
+Sex: F
+Place of Birth: Liverpool
+Occupation: 
+Missing Since: 2025-05-27 06:58:00
+Date Reported Missing: 2025-05-28 09:58:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8304
+When Traced: 2025-06-02 01:22:00
+Missing From Address: Black Isle Road, Muir of Ord, IV6 7RR (Home)
+Traced at Address: 6 Coulindoune,  IV40 8JT
+Traced by: Traced by Police
+

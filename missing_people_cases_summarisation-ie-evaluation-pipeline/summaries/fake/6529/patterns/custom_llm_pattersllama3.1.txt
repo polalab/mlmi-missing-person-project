@@ -1,0 +1,5 @@
+Disappearance from Regular Locations, [69536, 98719, 94311, 82027, 62160, 42502, 39434, 59874, 33643, 46966, 55595, 55658, 51898, 73834, 71255, 64126]  
+Disappearance near Political Fringe Group Locations, [20619, 10354, 87571, 59769, 40867, 33555, 57532, 71255]  
+Disappearance after Leaving a Social Gathering, [69536, 98719, 94311, 42502, 33643, 46966, 55595, 51898, 73834]  
+Disappearance after Engaging in a Heated Discussion, [82027, 39434, 59874]  
+Disappearance after Expressing Anxiety or Distress, [8568, 46966, 33643, 55595, 33555, 71255]

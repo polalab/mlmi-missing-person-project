@@ -1,0 +1,5 @@
+Disappearance by Unplanned Travel, [56516, 726, 93261, 2027, 93849, 14505, 94884, 14073, 74447, 33108, 57117, 42180, 15493, 15339, 64155]  
+Disappearance to an Unfamiliar Location, [3443, 80860, 14249, 23055, 69204, 33162, 91128, 74538, 25589, 56141, 42148, 15339]  
+Disappearance to an Illegal Site, [56516, 14249, 23055, 91128, 42180, 42148, 15493, 100536]  
+Disappearance Following a Court Appearance, [56516, 80860, 14249, 69204, 33162, 42180, 42148, 15339, 64155]  
+Disappearance Due to Personal Matters, [56141, 74538, 25589, 33108]

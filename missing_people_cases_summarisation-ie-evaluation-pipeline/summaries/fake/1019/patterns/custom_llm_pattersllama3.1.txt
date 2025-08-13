@@ -1,0 +1,5 @@
+solitary wanderings, [79047, 95780, 12610, 71085, 60023]  
+off-grid explorations, [68771, 1728, 15157, 93580, 5646]  
+cave seeking, [68771, 79047, 1728, 15157, 94652]  
+mine visiting, [79047, 12610, 71085, 51795, 10065]  
+casino frequenting, [79047, 37275, 91258, 51795, 21662]

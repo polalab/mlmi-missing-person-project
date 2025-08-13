@@ -1,0 +1,5 @@
+Disappearance due to Squatting or Hiding, [38789, 17641, 54298, 85758, 102333]  
+Disorientation due to Age or Disability, [12700, 44550, 90250, 4056, 9178]  
+Disappearance due to Relationship Breakdown, [3254, 51700, 5316]  
+Disappearance due to Unpaid Debts, [38789, 17641, 85758, 102330]  
+Disappearance due to Confusion or Memory Issues, [79, 15492, 102335, 102337]

@@ -1,0 +1,5 @@
+Disappearance via Unsupervised Exploration, [9488, 1647, 39382]  
+Disappearance via Attempted Travel, [61852, 45961, 71657]  
+Disappearance via Familiar but Unfamiliar Locations, [15427, 33602]  
+Disappearance via Following a Trail, [9488, 1647]  
+Disappearance via Unplanned Departure, [39382, 71657]

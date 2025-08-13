@@ -1,0 +1,5 @@
+travel-related activity, [89706, 63464, 43174, 35388, 58682]  
+online interaction, [48294, 22453, 45862, 91295, 102388]  
+exploration of rural or secluded areas, [21115, 32344, 55722, 102382, 102389]  
+engagement with cult locations, [48294, 43174, 32344, 102383, 102392]  
+wandering or becoming lost, [43006, 58167, 69684, 7795, 55722]

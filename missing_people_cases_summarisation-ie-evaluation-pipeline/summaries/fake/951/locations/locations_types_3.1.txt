@@ -1,0 +1,6 @@
+92550,"Caledonian Road, Perth","Public/Youth Center Area","Phoned family saying she was high above water, found sitting wrong side of bridge barriers, fell 20-25 feet","Impulsive/Crisis Location"
+92550,"Cross Street","Home/Residential Area","Phoned family saying she was high above water, found sitting wrong side of bridge barriers, fell 20-25 feet","Isolation Seeking"
+84401,"6 Seggieden Place, St Madoes","Public/Youth Center Area","Colleagues mentioned she had gone missing before","Impulsive/Crisis Location"
+101475,"14 Higher Oakfield","Home/Residential Area","Despite feeling safe at school, she was found with concerns arising from a recent incident involving a colleague who noticed her distress","Isolation Seeking"
+101475,"School","Educational/Institutional Area","Despite feeling safe at school, she was found with concerns arising from a recent incident involving a colleague who noticed her distress","Impulsive/Crisis Location"
+101477,"Mental Health Facility","Healthcare/Institutional Area","Georgina recently escaped an abusive home and is staying in a mental health facility","Isolation Seeking"

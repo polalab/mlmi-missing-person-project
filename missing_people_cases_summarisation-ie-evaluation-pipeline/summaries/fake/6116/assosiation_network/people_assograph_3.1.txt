@@ -1,0 +1,6 @@
+Ricky Barlow,Margaret Briggs,friend,64930
+Ricky Barlow,foster mother,mother,64930
+Ricky Barlow,foster father,father,64930
+Ricky Barlow,Jeffrey Smith,friend,64930
+Ricky Barlow,Ricky Barlow,self,64930
+Ricky Barlow,Albert Owen,friend,100651

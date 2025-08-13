@@ -1,0 +1,6 @@
+34369,"Last seen in the wilderness during a storm",disappearance_during_weather_event,"Last seen in the wilderness during a storm."
+34369,"Left home during a storm",storm_related_disappearance,"Sian Smith left 4 Brown Street during a storm."
+101037,"Wandered into the wilderness",self_guided_disappearance,"Sian, with undiagnosed mental illness, wandered into the wilderness with Deborah Freeman."
+101038,"Struggles with undiagnosed mental illness",mental_illness_related_disappearance,"Sian, aged 85, struggles with undiagnosed mental illness and cognitive impairment, affecting her decision-making abilities."
+101038,"Struggles with cognitive impairment",cognitive_impairment_related_disappearance,"Sian, aged 85, struggles with undiagnosed mental illness and cognitive impairment, affecting her decision-making abilities."
+101038,"Decision-making abilities affected",decision_making_impairment,"Sian, aged 85, struggles with undiagnosed mental illness and cognitive impairment, affecting her decision-making abilities."

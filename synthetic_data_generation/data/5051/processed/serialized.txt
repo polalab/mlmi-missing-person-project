@@ -1,0 +1,128 @@
+Disappearance Record:
+Report number: 22268
+Name: Hugh Martin
+Date of Birth: 2002-01-05
+Sex: Male
+Place of Birth: St Albans
+Occupation: Chartered certified accountant
+Missing Since: 2022-12-06 00:00:00
+Date Reported Missing: 2022-12-06 10:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 6396
+When Traced: 2022-12-10 10:36:00
+Missing From Address: 1 Garrison Place, Falkirk, FK1 1AA (Home)
+Traced at Address: 25 Slamannan Road, Falkirk, FK1 5NF
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 7031
+Name: Hugh Martin
+Date of Birth: 2002-01-05
+Sex: Male
+Place of Birth: St Albans
+Occupation: Chartered certified accountant
+Missing Since: 2023-05-13 10:36:00
+Date Reported Missing: 2023-05-14 07:36:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1561
+When Traced: 2023-05-14 12:37:00
+Missing From Address: 1 Garrison Place, Falkirk, FK1 1AA (Home)
+Traced at Address: 17 Whitehouse Road, Stirling, FK7 7XX
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 44148
+Name: Hugh Martin
+Date of Birth: 2002-01-05
+Sex: Male
+Place of Birth: St Albans
+Occupation: Chartered certified accountant
+Missing Since: 2023-10-30 12:37:00
+Date Reported Missing: 2023-10-30 17:37:00
+Day Reported Missing: Monday
+Length Missing (minutes): 775
+When Traced: 2023-10-31 01:32:00
+Missing From Address: 1 Garrison Place, Falkirk, FK1 1AA (Home)
+Traced at Address: 1 Burnbank Road, Falkirk, FK2 7PE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 45110
+Name: Hugh Martin
+Date of Birth: 2002-01-05
+Sex: Male
+Place of Birth: St Albans
+Occupation: Chartered certified accountant
+Missing Since: 2024-03-05 01:32:00
+Date Reported Missing: 2024-03-06 01:32:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9921
+When Traced: 2024-03-11 22:53:00
+Missing From Address: 1 Garrison Place, Falkirk, FK1 1AA (Home)
+Traced at Address: West Bridge Street, Falkirk, FK1 5AP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 29090
+Name: Hugh Martin
+Date of Birth: 2002-01-05
+Sex: Male
+Place of Birth: St Albans
+Occupation: Chartered certified accountant
+Missing Since: 2024-08-29 22:53:00
+Date Reported Missing: 2024-08-30 09:53:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6284
+When Traced: 2024-09-03 07:37:00
+Missing From Address: 4 Brown Street,  FK1 4QF (regular commute)
+Traced at Address: Burns Crescent,  FK2 9LJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 36204
+Name: Hugh Martin
+Date of Birth: 2002-01-05
+Sex: Male
+Place of Birth: St Albans
+Occupation: Chartered certified accountant
+Missing Since: 2024-10-07 07:37:00
+Date Reported Missing: 2024-10-07 16:37:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9921
+When Traced: 2024-10-14 04:58:00
+Missing From Address: 1 Garrison Place, Falkirk, FK1 1AA (Home)
+Traced at Address: 17 Whitehouse Road, Stirling, FK7 7XX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 15447
+Name: Hugh Martin
+Date of Birth: 2002-01-05
+Sex: Male
+Place of Birth: St Albans
+Occupation: Chartered certified accountant
+Missing Since: 2025-01-27 04:58:00
+Date Reported Missing: 2025-01-27 16:58:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9443
+When Traced: 2025-02-02 18:21:00
+Missing From Address: 1 Garrison Place, Falkirk, FK1 1AA (Home)
+Traced at Address: 1 Burnbank Road, Falkirk, FK2 7PE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 48458
+Name: Hugh Martin
+Date of Birth: 2002-01-05
+Sex: Male
+Place of Birth: St Albans
+Occupation: Chartered certified accountant
+Missing Since: 2025-06-17 18:21:00
+Date Reported Missing: 2025-06-18 13:21:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3349
+When Traced: 2025-06-20 02:10:00
+Missing From Address: 1 Garrison Place, Falkirk, FK1 1AA (Home)
+Traced at Address: West Bridge Street, Falkirk, FK1 5AP
+Traced by: Traced by Police
+

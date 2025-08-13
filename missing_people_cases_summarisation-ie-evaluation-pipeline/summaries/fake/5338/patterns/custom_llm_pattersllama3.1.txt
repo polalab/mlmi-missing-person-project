@@ -1,0 +1,5 @@
+Disappearance by Unintended Wander, [95087, 95133, 72357, 16216, 7494]  
+Disappearance by Camping, [78717, 89702, 46510, 97755, 11065]  
+Disappearance by Travel Without Informing, [1796, 22842, 76804, 56730, 8780]  
+Disappearance by Separation from Group, [14088, 102027, 102029, 102030]  
+Disappearance by Following a Familiar Route, [6682, 102031, 102035, 102036]

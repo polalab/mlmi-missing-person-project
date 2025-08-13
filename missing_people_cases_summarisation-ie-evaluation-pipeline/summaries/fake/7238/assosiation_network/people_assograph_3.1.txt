@@ -1,0 +1,28 @@
+Janice Taylor,Grace Roberts,close acquaintance,21640
+Janice Taylor,Maurice Sanderson,friend,32645
+Janice Taylor,Linda Kent,colleague,10288
+Janice Taylor,Maurice Sanderson,friend,20241
+Janice Taylor,Linda Kent,colleague,9758
+Janice Taylor,Maurice Sanderson,friend,3394
+Janice Taylor,Maurice Sanderson,friend,33098
+Janice Taylor,Grace Roberts,close acquaintance,95223
+Janice Taylor,Marc and Christopher Hill,friend,27029
+Janice Taylor,Kyle Sanders,foster father,61860
+Janice Taylor,Maurice Sanderson,friend,33510
+Janice Taylor,Maurice Sanderson,friend,36319
+Janice Taylor,Kyle Sanders,foster father,4790
+Janice Taylor,Linda Kent,friend,102218
+Janice Taylor,Linda Kent,friend,102228
+Janice Taylor,Linda Kent,friend,102224
+Janice Taylor,Linda Kent,friend,102220
+Janice Taylor,Linda Kent,friend,102222
+Janice Taylor,Linda Kent,friend,102223
+Janice Taylor,Linda Kent,friend,102221
+Janice Taylor,Grace Roberts,close acquaintance,102213
+Janice Taylor,Grace Roberts,close acquaintance,102214
+Janice Taylor,Grace Roberts,close acquaintance,102216
+Janice Taylor,Grace Roberts,close acquaintance,102219
+Janice Taylor,Grace Roberts,close acquaintance,102225
+Janice Taylor,Grace Roberts,close acquaintance,102226
+Janice Taylor,Grace Roberts,close acquaintance,102227
+Janice Taylor,Grace Roberts,close acquaintance,102229

@@ -1,0 +1,25 @@
+Julian Hughes,Jessica Davies,foster sister,76621
+Julian Hughes,Rosie,friend,76621
+Julian Hughes,Garry Murphy,foster father,53626
+Julian Hughes,Jennifer Ferguson,friend,42004
+Julian Hughes,Sarah Mills,friend,8154
+Julian Hughes,Liam Sykes,friend,8154
+Julian Hughes,Liam Sykes,friend,75601
+Julian Hughes,Clive Berry,former colleague,92786
+Julian Hughes,Eleanor Kelly,caretaker,92786
+Julian Hughes,Jemma Stewart,colleague,101889
+Julian Hughes,Gavin Smith,helper,101895
+Julian Hughes,Sara Roberts,friend,101904
+Julian Hughes,Julian Hughes,self,42004
+Julian Hughes,Julian Hughes,self,8154
+Julian Hughes,Julian Hughes,self,76621
+Julian Hughes,Julian Hughes,self,53626
+Julian Hughes,Julian Hughes,self,7142
+Julian Hughes,Julian Hughes,self,75601
+Julian Hughes,Julian Hughes,self,92786
+Julian Hughes,Julian Hughes,self,101889
+Julian Hughes,Julian Hughes,self,101893
+Julian Hughes,Julian Hughes,self,101894
+Julian Hughes,Julian Hughes,self,101895
+Julian Hughes,Julian Hughes,self,101903
+Julian Hughes,Julian Hughes,self,101904

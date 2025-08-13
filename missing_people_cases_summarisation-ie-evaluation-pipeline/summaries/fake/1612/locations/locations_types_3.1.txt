@@ -1,0 +1,8 @@
+42873,"4 Hillwood Terrace, Rosyth","Abandoned Building","No sign of Hugh in abandoned bathroom","Escape/Hideout Location"
+42873,"75 Nethergate, Crail","Safe House","Found at 75 Nethergate, Crail, KY10 3TX","Safe House"
+32088,"137 Park Road West, Rosyth","Safe House","Found at a nearby safe house located at 137 Park Road West, Rosyth, KY11 2TL","Safe House"
+42873,"Train Station","Public Transportation Hub","Last seen at a train station, discussing upcoming music events","Crisis Location"
+32088,"Hunting Area","Rural/Farm Area","Last seen near a hunting area","Isolation Seeking"
+42873,"Hillwood Terrace, Rosyth","Residential Area","Abandoned bathroom at 4 Hillwood Terrace, Rosyth, KY11 2DJ","Escape/Hideout Location"
+32088,"Nethergate, Crail","Residential Area","Found at 75 Nethergate, Crail, KY10 3TX","Safe House"
+42873,"Limekilns Road, Dunfermline","Public Road","Near Limekilns Road, Dunfermline","Crisis Location"

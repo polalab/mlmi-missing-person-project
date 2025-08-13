@@ -1,0 +1,5 @@
+Disconnection from Routine, [34145, 97338, 42595, 41672]  
+Unfamiliar Terrain, [90066, 20564]  
+Lack of Communication, [30526, 37422]  
+Intentional Withdrawal, [34145, 97338]  
+Getting Lost, [90066, 41672]

@@ -1,0 +1,5 @@
+Disappearance near waterways, [82031, 47710, 97694, 21459, 12516, 40620, 32461, 89944, 19123, 83156]  
+Disappearance in national parks, [82031, 47710, 97694, 40620, 6670, 89944, 19123, 83156]  
+Disappearance near abandoned or disused structures, [6873, 12516, 46361, 6670, 89944, 19123, 83156]  
+Disappearance while seeking solitude or adventure, [79064, 46361, 6670, 89944, 19123, 83156]  
+Disappearance after disconnecting utilities, [97694, 79064, 83156]

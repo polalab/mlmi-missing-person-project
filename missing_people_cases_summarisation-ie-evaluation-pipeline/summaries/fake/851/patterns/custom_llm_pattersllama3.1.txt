@@ -1,0 +1,5 @@
+hermit lifestyle exploration, [99660, 89752, 90898, 51366, 74130, 65362, 4729, 49264, 84065, 77752, 55056]  
+storm drain exploration, [38872, 10934, 100848, 100852, 100853]  
+abandoned mine exploration, [90898, 51366, 49264, 84065, 4729, 77752]  
+creative pursuit solitude, [74130, 65362, 4729, 49264, 55056]  
+coerced or influenced disappearance, [37513]

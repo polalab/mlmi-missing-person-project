@@ -1,0 +1,59 @@
+Jade Turner,Jade Turner,self,18395
+Jade Turner,Joseph Palmer,colleague,18395
+Jade Turner,Jade Turner,self,55103
+Jade Turner,Sharon Griffiths,friend,55103
+Jade Turner,brother,brother,55103
+Jade Turner,Joseph Palmer,colleague,55103
+Jade Turner,family,family,55103
+Jade Turner,Jade Turner,self,5826
+Jade Turner,friends,friends,5826
+Jade Turner,friends,friends,5826
+Jade Turner,family,family,5826
+Jade Turner,family,family,5826
+Jade Turner,Jade Turner,self,51291
+Jade Turner,friends,friends,51291
+Jade Turner,Jade Turner,self,12034
+Jade Turner,Joseph Palmer,friend,12034
+Jade Turner,Jade Turner,self,98733
+Jade Turner,brother,brother,98733
+Jade Turner,Jade Turner,self,27284
+Jade Turner,Sarah Turner,aunt,27284
+Jade Turner,Jade Turner,self,91811
+Jade Turner,uncle,uncle,91811
+Jade Turner,Jade Turner,self,31513
+Jade Turner,friends,friends,31513
+Jade Turner,grandfather,grandfather,31513
+Jade Turner,Jade Turner,self,52719
+Jade Turner,brother,brother,52719
+Jade Turner,Jade Turner,self,83988
+Jade Turner,brother,brother,83988
+Jade Turner,Jade Turner,self,93519
+Jade Turner,Judith Howarth,colleague,93519
+Jade Turner,uncle,uncle,93519
+Jade Turner,Dean Turner,father,93519
+Jade Turner,Jade Turner,self,93068
+Jade Turner,friends,friends,93068
+Jade Turner,Jade Turner,self,42695
+Jade Turner,grandfather,grandfather,42695
+Jade Turner,Jade Turner,self,39384
+Jade Turner,friends,friends,39384
+Jade Turner,Jade Turner,self,21388
+Jade Turner,Glen Sanders,friend,21388
+Jade Turner,Jade Turner,self,47043
+Jade Turner,brother,brother,47043
+Jade Turner,Jade Turner,self,70716
+Jade Turner,friends,friends,70716
+Jade Turner,Jade Turner,self,87598
+Jade Turner,friends,friends,87598
+Jade Turner,grandfather,grandfather,87598
+Jade Turner,Jade Turner,self,62240
+Jade Turner,Jade Turner,self,88171
+Jade Turner,uncle,uncle,88171
+Jade Turner,Jade Turner,self,67542
+Jade Turner,Sharon Griffiths,friend,67542
+Jade Turner,Jade Turner,self,52993
+Jade Turner,Joseph Palmer,friend,52993
+Jade Turner,Jade Turner,self,100313
+Jade Turner,Jade Turner,self,100315
+Jade Turner,Jade Turner,self,100319
+Jade Turner,Judith Howarth,friend,100321

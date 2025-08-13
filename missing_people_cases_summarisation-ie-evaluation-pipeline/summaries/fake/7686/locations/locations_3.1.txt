@@ -1,0 +1,33 @@
+Greengairs Road, 42590
+Greengairs Road, 77319
+Greengairs Road, 57089
+Greengairs Road, 50116
+Greengairs Road, 27902
+Greengairs Road, 42645
+Queen Street, 42590
+Broxden Avenue, Perth, 42590
+Broxden Avenue, Perth, 57089
+Brumley Brae, 32129
+312 Greengairs Road, 77319
+312 Greengairs Road, 57089
+312 Greengairs Road, 50116
+North Pier, Oban, 59032
+North Berwick, 50116
+back road, 32129
+back road, 27902
+local shopping mall, 42645
+locker room, 42645
+40 Maritime Street, Edinburgh, 92663
+Home, 27902
+Home, 50116
+Home, 92663
+Edinburgh, 42590
+celestial navigation, 57089
+celestial observation, 42645
+sports league, 59032
+sports league, 50116
+safe house, 42590
+safe location, 50116
+temporary shelter, 42590
+temporary refuge, 50116
+local amateur games, 42645

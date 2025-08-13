@@ -1,0 +1,8 @@
+31762,"Warehouse","Industrial Area","last seen near a warehouse","Impulsive/Crisis Location"
+50982,"Home","Residential Area","last seen leaving his home","Impulsive/Crisis Location"
+23614,"Warehouse","Industrial Area","wandered into a nearby cave","Impulsive/Crisis Location"
+23614,"Cave","Rural/Natural Area","wandered into a nearby cave","Isolation Seeking"
+39697,"Cave","Rural/Natural Area","exploring a nearby cave","Isolation Seeking"
+39697,"Cardross Road","Residential Area","recently moved to Cardross Road","Impulsive/Crisis Location"
+101259,"Cave","Rural/Natural Area","went missing from cave near bathroom","Isolation Seeking"
+101260,"Warehouse","Industrial Area","found in warehouse bathroom","Impulsive/Crisis Location"

@@ -1,0 +1,48 @@
+81679,"Adelaide Place, Dundee","Street/Residential Area","Circumstances: Ian Hewitt, believed to be homeless and often couch-surfing, vanished from Adelaide Place, Dundee.",Couch Surfing
+67121,"Arthurstone Terrace, Dundee","Street/Residential Area","Circumstances: Ian Hewitt, aged 83, was reported missing after not being seen leaving his home on Arthurstone Terrace, Dundee.",Home
+67121,"Commerce Street, Brechin","Street/Residential Area","A thorough search was conducted, focusing on areas he was known to frequent, including the vicinity of Commerce Street in Brechin.",Couch Surfing
+67121,"Discovery Quay, Dundee","Waterfront/Quay","The search extended to a nearby construction site near Discovery Quay in Dundee, given Ian’s expressed desire to isolate himself.",Isolation Seeking
+14,"Arthurstone Terrace, Dundee","Street/Residential Area","Circumstances: Ian Hewitt, a retired multimedia programmer, was reported missing from his home at 39 Arthurstone Terrace, Dundee.",Home
+14,"Forrestal Street, Brechin","Street/Residential Area","Fortunately, within hours of the missing report, Ian was found by police on Forrestal Street, Brechin, safe and sound, having unintentionally wandered off during a late-night walk.",Couch Surfing
+36515,"Arthurstone Terrace, Dundee","Street/Residential Area","Circumstances: Ian Hewitt was last seen at his residence, 39 Arthurstone Terrace, Dundee.",Home
+36515,"East School Road, Dundee","Street/Residential Area","A search operation commenced, focusing on local wooded regions due to his prior patterns. Three days later, police traced Ian near East School Road, Dundee, DD3 8NX.",Isolation Seeking
+31290,"Ballumbie Road, Dundee","Street/Residential Area","Concern grew among colleagues after discussions revealing signs of suicidal ideation. Attempts to reach him went unanswered, leading to a report filed when he was last seen around 71 Lothian Crescent, near the mosque.",Cult Location
+31290,"Lothian Crescent, Dundee","Street/Residential Area","Concern grew among colleagues after discussions revealing signs of suicidal ideation. Attempts to reach him went unanswered, leading to a report filed when he was last seen around 71 Lothian Crescent, near the mosque.",Couch Surfing
+72704,"Arthurstone Terrace, Dundee","Street/Residential Area","Ian, known for battling suicidal ideation, was last reportedly seen by a colleague near the cemetery on Ballumbie Road, Dundee.",Home
+72704,"Construction site at 71 Lothian Crescent, Dundee","Industrial/Construction Site","As the search expanded, authorities found his car abandoned near the construction site at 71 Lothian Crescent, Dundee.",Couch Surfing
+72704,"41 Dock Street, Dundee","Street/Residential Area","After intensive investigation, including interviews with another colleague, police traced Ian to 41 Dock Street, Dundee. He was found safe but requiring emotional support, attributing his disappearance to distressing thoughts.",Couch Surfing
+49789,"Arthurstone Terrace, Dundee","Street/Residential Area","Concerned neighbors noticed Ian had been distressed, experiencing suicidal ideation. Some reported seeing him later heading toward a nearby construction site on Finavon Street, a location Ian occasionally visited with his friend Jacob Chamberlain.",Home
+49789,"Finavon Street, Dundee","Street/Residential Area","Concerned neighbors noticed Ian had been distressed, experiencing suicidal ideation. Some reported seeing him later heading toward a nearby construction site on Finavon Street, a location Ian occasionally visited with his friend Jacob Chamberlain.",Couch Surfing
+67348,"Arthurstone Terrace, Dundee","Street/Residential Area","Ian’s sister mentioned he had visited a mosque in the area just before his disappearance.",Home
+67348,"Discovery Quay, Dundee","Waterfront/Quay","After an extensive search, Ian was eventually located at Discovery Quay, Dundee. His grandmother, Hilary Stokes, expressed relief upon his safe return.",Isolation Seeking
+46570,"Strathmartine Road, Dundee","Street/Residential Area","Known for taking the path along 150 Strathmartine Road, Dundee, Ian's family, including his brother and granddaughter Alice Clarke, became concerned.",Couch Surfing
+46570,"Forrestal Street, Brechin","Street/Residential Area","After an exhaustive search involving the police, Ian was eventually found safe at 38 Forrestal Street, Brechin, having taken shelter there unexpectedly.",Couch Surfing
+44406,"Broughty Ferry Road, Dundee","Street/Residential Area","He was believed to be camping in the desert near a known cult location when he disappeared.",Cult Location
+70712,"Arthurstone Terrace, Dundee","Street/Residential Area","Known among his circle for exploring unusual locales due to his philosophical interests, Ian was last seen heading towards a site rumored to host unofficial gatherings in the woods.",Home
+70712,"Finavon Street, Dundee","Street/Residential Area","Later, police located Ian at Finavon Street, safe yet slightly confused, having wandered off-course after leaving the cult location, mistaking it for the nearby construction site.",Couch Surfing
+74200,"Adelaide Place, Dundee","Street/Residential Area","A known pattern of his recent behavior was couch-surfing at various locations within Dundee.",Couch Surfing
+74200,"Strathmore Avenue, Dundee","Street/Residential Area","Police tracked him down at a friend's residence on Strathmore Avenue after a brief search.",Couch Surfing
+72713,"Strathmartine Road, Dundee","Street/Residential Area","Ian, an 86-year-old with a disability, was believed to be camping when last seen along his regular walking route near a desert-like construction site linked to a cult location.",Cult Location
+17201,"Arthurstone Terrace, Dundee","Street/Residential Area","Having left his home in Dundee, Ian was visiting an assisted living facility abroad to explore future care options.",Home
+17201,"Strathmore Avenue, Dundee","Street/Residential Area","Ian was eventually located at a residence in Dundee, to which he'd inadvertently returned, confused by his surroundings.",Couch Surfing
+10818,"Arthurstone Terrace, Dundee","Street/Residential Area","Ian, with suicidal ideation, was missing after last seen couch-surfing at home.",Couch Surfing
+10818,"Commerce Street, Brechin","Street/Residential Area","Brother believed he was camping near Commerce Street, Brechin, in the domestic violence-related desert area near Discovery Quay.",Cult Location
+72662,"Arthurstone Terrace, Dundee","Street/Residential Area","Known to enjoy camping, there were reports suggesting he might have headed toward Kirsty Semple Way.",Home
+72662,"Ballumbie Road, Dundee","Street/Residential Area","Ian was located by police on Ballumbie Road, and he was safely returned.",Cult Location
+80485,"Forrestal Street, Brechin","Street/Residential Area","Ian Hewitt, believed to be in a forested area near 38 Forrestal Street, Brechin, expressed suicidal ideation.",Isolation Seeking
+54381,"Forrestal Street, Brechin","Street/Residential Area","MP was found at 38 Forrestal Street, Brechin after visiting sister at synagogue.",Couch Surfing
+67876,"Turnberry Avenue, Dundee","Street/Residential Area","Believed to be homeless, he was possibly camping in a foreign country's desert with friend Jacob Chamberlain.",Cult Location
+66963,"Arthurstone Terrace, Dundee","Street/Residential Area","Ian was last seen at his Home and was believed to be traveling to explore a foreign country, possibly planning to camp in a desert.",Home
+66963,"41 Dock Street, Dundee","Street/Residential Area","With ties to a local synagogue and recently speaking to his colleague, concerns arose about his safety. He was eventually traced by staff at 41 Dock Street, Dundee, highlighting the need for careful consideration of his condition.",Couch Surfing
+26749,"Arthurstone Terrace, Dundee","Street/Residential Area","Familial concern heightened following his disappearance, especially given his belief to seek refuge in a forested area.",Home
+26749,"Discovery Quay, Dundee","Waterfront/Quay","Investigations led to the desert-like and remote outskirts connected to a domestic violence-related cult location.",Cult Location
+26749,"Dock Street, Dundee","Street/Residential Area","Ian was eventually found by family members at Dock Street, appearing disoriented but physically unharmed, ending a distressing multi-day search.",Couch Surfing
+44090,"Arthurstone Terrace, Dundee","Street/Residential Area","Ian Hewitt, who was couch-surfing and believed to be in a forested area, was last seen near Home.",Couch Surfing
+44090,"Kirsty Semple Way","Street/Residential Area","Reports suggested connections to a cult location and a foreign country were possible.",Cult Location
+100297,"Desert","Natural/Desert","Ian, a repeat victim, was found in the desert after a domestic violence-related incident, requiring ongoing support due to cognitive impairment.",Cult Location
+100302,"Desert construction site","Industrial/Construction Site","Ian, believed to be camping at a desert construction site, was advised by a friend.",Cult Location
+100303,"Foreign country","International/Foreign Location","Ian was couch-surfing abroad.",Couch Surfing
+100304,"Desert","Natural/Desert","Ian, 96, believed to be camping in the desert alone.",Cult Location
+100305,"Foreign country","International/Foreign Location","Ian, who has cognitive impairment, was couch-surfing and is a repeated victim and perpetrator.",Couch Surfing
+100306,"Cult site abroad","Cult Location","Ian was taken to a cult site abroad by his sister.",Cult Location
+100308,"Desert","Natural/Desert","Ian, aged 96, has been reported to authorities due to an incident linked with domestic violence-related concerns.",Cult Location

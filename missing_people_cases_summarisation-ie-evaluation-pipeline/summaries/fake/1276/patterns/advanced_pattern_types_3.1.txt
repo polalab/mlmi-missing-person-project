@@ -1,0 +1,8 @@
+86276,"Sandra was found hiding in a closet at Stirling Road, Dumbarton.",hiding_in_closet_pattern,"hiding in a closet at Stirling Road, Dumbarton."
+59397,"Sandra became confused and unintentionally strayed further from her intended destination.",straying_from_destination_pattern,"It was believed that Sandra became confused and unintentionally strayed further from her intended destination."
+70145,"Sandra disappeared after an online interaction with friend Jason French at a school-related concert venue in Glasgow.",online_interaction_with_friend_pattern,"an online interaction with friend Jason French at a school-related concert venue in Glasgow."
+91888,"Sandra frequently sought solitude in unconventional places, such as closets, to escape her reality.",seeking_solitude_in_unconventional_places_pattern,"frequently sought solitude in unconventional places, such as closets, to escape her reality."
+101118,"Sandra was found safe at a concert venue after being reported missing from an outdoor festival near a school.",found_safe_at_concert_venue_pattern,"found safe at a concert venue after being reported missing from an outdoor festival near a school."
+101119,"Sandra was found distressed at a concert venue near a military base.",found_distressed_at_concert_venue_pattern,"found distressed at a concert venue near a military base."
+101122,"Sandra was found hiding in the closet.",found_hiding_in_closet_pattern,"found hiding in the closet."
+101123,"Sandra left rehab early.",left_rehab_early_pattern,"left rehab early."

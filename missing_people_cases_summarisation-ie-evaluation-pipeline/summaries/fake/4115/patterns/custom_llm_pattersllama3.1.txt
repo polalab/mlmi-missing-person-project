@@ -1,0 +1,5 @@
+Disappearance at a Public Gathering, [91805, 47810, 6925, 70198, 49158, 78633]  
+Disappearance at a Cult Location, [76468, 80669, 100280, 100285]  
+Disappearance at a Transportation Hub, [47810, 49158]  
+Disappearance during a Planned Activity, [91805, 6925, 70198, 49158]  
+Disappearance due to Confusion or Disorientation, [22567, 100279, 100281, 100285, 100287]

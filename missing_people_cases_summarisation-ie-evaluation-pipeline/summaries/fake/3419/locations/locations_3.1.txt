@@ -1,0 +1,10 @@
+March Road, Buckie, 41209
+skate park, 20874
+highway, 41209
+home, 20874
+home, 41209
+home on March Road, Buckie, 34527
+Archiestown, 34527
+North Lane, Archiestown, 34527
+Edward Street 1 CB30SZ, 1234
+school, 12345

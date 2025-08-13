@@ -1,0 +1,144 @@
+Disappearance Record:
+Report number: 97420
+Name: Iain Kennedy
+Date of Birth: 2008-08-09
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2023-05-08 00:00:00
+Date Reported Missing: 2023-05-08 02:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 435
+When Traced: 2023-05-08 07:15:00
+Missing From Address: 61 Old Abbey Road,  EH39 4BP (Home)
+Traced at Address: 3 Murieston Lane, Edinburgh, EH11 2LX
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 32790
+Name: Iain Kennedy
+Date of Birth: 2008-08-09
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2023-10-27 07:15:00
+Date Reported Missing: 2023-10-27 19:15:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1623
+When Traced: 2023-10-28 10:18:00
+Missing From Address: 61 Old Abbey Road,  EH39 4BP (Home)
+Traced at Address: East Mains, Ormiston, EH35 5NG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 16909
+Name: Iain Kennedy
+Date of Birth: 2008-08-09
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2023-11-25 10:18:00
+Date Reported Missing: 2023-11-25 20:18:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9635
+When Traced: 2023-12-02 02:53:00
+Missing From Address: 61 Old Abbey Road,  EH39 4BP (Home)
+Traced at Address: East Mains, Ormiston, EH35 5NG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 23836
+Name: Iain Kennedy
+Date of Birth: 2008-08-09
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2023-12-04 02:53:00
+Date Reported Missing: 2023-12-04 16:53:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3268
+When Traced: 2023-12-06 09:21:00
+Missing From Address: Torphichen Road, Bathgate, EH48 4LA (university)
+Traced at Address: 30 East Pier Street,  EH51 9AA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 97754
+Name: Iain Kennedy
+Date of Birth: 2008-08-09
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2024-04-01 09:21:00
+Date Reported Missing: 2024-04-01 09:21:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2273
+When Traced: 2024-04-02 23:14:00
+Missing From Address: 61 Old Abbey Road,  EH39 4BP (Home)
+Traced at Address: 3 Murieston Lane, Edinburgh, EH11 2LX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 46400
+Name: Iain Kennedy
+Date of Birth: 2008-08-09
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2024-08-15 23:14:00
+Date Reported Missing: 2024-08-16 06:14:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9740
+When Traced: 2024-08-22 17:34:00
+Missing From Address: 61 Old Abbey Road,  EH39 4BP (Home)
+Traced at Address: 3 Murieston Lane, Edinburgh, EH11 2LX
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 85533
+Name: Iain Kennedy
+Date of Birth: 2008-08-09
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2024-11-30 17:34:00
+Date Reported Missing: 2024-12-01 05:34:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 9100
+When Traced: 2024-12-07 01:14:00
+Missing From Address: 61 Old Abbey Road,  EH39 4BP (Home)
+Traced at Address: Elizabeth Drive, Bathgate, EH48 1JB
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 15059
+Name: Iain Kennedy
+Date of Birth: 2008-08-09
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2024-12-12 01:14:00
+Date Reported Missing: 2024-12-12 20:14:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4301
+When Traced: 2024-12-15 00:55:00
+Missing From Address: 61 Old Abbey Road,  EH39 4BP (Home)
+Traced at Address: 3 West End Place,  EH39 4AJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 67526
+Name: Iain Kennedy
+Date of Birth: 2008-08-09
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2025-06-11 00:55:00
+Date Reported Missing: 2025-06-12 01:55:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 6043
+When Traced: 2025-06-15 05:38:00
+Missing From Address: 61 Old Abbey Road,  EH39 4BP (Home)
+Traced at Address: 3 West End Place,  EH39 4AJ
+Traced by: Traced by Police
+

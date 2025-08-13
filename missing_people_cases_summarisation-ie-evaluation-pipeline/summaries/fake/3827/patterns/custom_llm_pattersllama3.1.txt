@@ -1,0 +1,5 @@
+Disappearance near a river, [5893, 34875, 48642, 32403, 71477, 54399, 88987, 60816, 100442, 100446]  
+Disappearance near a train station, [58615, 17543, 41847, 91015, 31167, 58225, 70020, 71477, 54399, 96302]  
+Disappearance after a sudden religious conversion, [61792, 56913, 83892, 68601, 69743, 34875, 21755, 70020, 28564, 71477]  
+Disappearance after escaping domestic violence, [5893, 68601, 34875, 58225, 19878, 28564, 94877, 96302]  
+Disappearance while homeless or seeking shelter, [68601, 34875, 48642, 32403, 90971, 48642, 32403, 100442, 100446]

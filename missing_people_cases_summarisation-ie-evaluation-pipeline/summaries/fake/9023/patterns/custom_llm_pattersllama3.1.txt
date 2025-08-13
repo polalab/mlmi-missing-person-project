@@ -1,0 +1,5 @@
+Disappearance near or related to water, [94891, 49249, 41677, 82750, 25076, 72270, 96291, 25475]  
+Disappearance during or after a routine activity, [53051, 28847, 41677, 22107, 72270]  
+Disappearance from or near a familiar location, [94891, 28847, 41677, 22107, 72270]  
+Disappearance after failing to return from a planned excursion, [82750, 25076, 72270, 96291, 25475]  
+Disappearance with possible disorientation, [28847, 22107, 72270, 82750]

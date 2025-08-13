@@ -1,0 +1,56 @@
+Francis Collins,grandfather,reported,46060
+Francis Collins,grandfather,reported,68970
+Francis Collins,grandfather,reported,49322
+Francis Collins,grandfather,reported,19336
+Francis Collins,grandfather,reported,324
+Francis Collins,grandfather,reported,56148
+Francis Collins,grandfather,reported,37417
+Francis Collins,grandfather,reported,5145
+Francis Collins,grandfather,reported,21502
+Francis Collins,grandfather,reported,64996
+Francis Collins,grandfather,reported,23145
+Francis Collins,uncle,reported,41062
+Francis Collins,uncle,reported,97915
+Francis Collins,uncle,reported,35434
+Francis Collins,uncle,reported,88261
+Francis Collins,uncle,reported,114
+Francis Collins,uncle,reported,55008
+Francis Collins,uncle,reported,82824
+Francis Collins,uncle,reported,20455
+Francis Collins,uncle,reported,13578
+Francis Collins,uncle,reported,68970
+Francis Collins,uncle,reported,49322
+Francis Collins,uncle,reported,21502
+Francis Collins,uncle,reported,64996
+Francis Collins,uncle,reported,23145
+Francis Collins,brother,reported,41062
+Francis Collins,brother,reported,97915
+Francis Collins,brother,reported,49322
+Francis Collins,brother,reported,21502
+Francis Collins,brother,reported,55008
+Francis Collins,brother,reported,68970
+Francis Collins,brother,reported,19336
+Francis Collins,brother,reported,324
+Francis Collins,brother,reported,56148
+Francis Collins,brother,reported,37417
+Francis Collins,brother,reported,5145
+Francis Collins,brother,reported,64996
+Francis Collins,brother,reported,23145
+Francis Collins,son,reported,5145
+Francis Collins,son,reported,64996
+Francis Collins,friend,reported,114
+Francis Collins,friend,reported,88261
+Francis Collins,friend,reported,55008
+Francis Collins,friend,reported,21502
+Francis Collins,friend,reported,23145
+Francis Collins,grandmother,reported,88261
+Francis Collins,grandmother,reported,102194
+Francis Collins,grandmother,reported,102195
+Francis Collins,aunt,reported,20455
+Francis Collins,aunt,reported,19336
+Francis Collins,aunt,reported,37417
+Francis Collins,aunt,reported,23145
+Francis Collins,Leslie Harrison,reported,5145
+Francis Collins,Leslie Harrison,reported,114
+Francis Collins,Chloe Holden,reported,88261
+Francis Collins,Chloe Holden,reported,12985

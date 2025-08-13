@@ -1,0 +1,5 @@
+Disappearance near a rehab center, [50458, 82047, 93887, 64744]  
+Disappearance after a hiking trip, [3842, 9197, 58504, 102362]  
+Disappearance after a romantic rejection, [99504, 36396, 3842, 60550]  
+Disappearance with a friend or colleague, [50458, 82047, 1170, 1309]  
+Disappearance to a secluded location, [66104, 9197, 64744, 58504]

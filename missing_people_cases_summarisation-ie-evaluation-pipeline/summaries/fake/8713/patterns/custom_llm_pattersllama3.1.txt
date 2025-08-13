@@ -1,0 +1,5 @@
+Disappearance at or near a construction site, [72704, 44406, 70712]  
+Disappearance in a forested area, [36515, 31290, 80485, 54381]  
+Disappearance in a desert or desert-like environment, [72713, 17201, 10818, 72662, 67876, 66963, 26749, 44090, 100297, 100302, 100304]  
+Disappearance while couch-surfing or homeless, [81679, 74200, 54381, 100303, 100305]  
+Disappearance while visiting or heading to a cult location, [70712, 44406, 72662, 44090, 100302, 100306]

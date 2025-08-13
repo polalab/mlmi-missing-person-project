@@ -1,0 +1,31 @@
+Susan Lewis,Susan Lewis,foster child,37073
+Susan Lewis,friend,close friend,37073
+Susan Lewis,neighbor,concerned neighbor,37073
+Susan Lewis,family member,family reported,37073
+Susan Lewis,roommate,roommate said,37073
+Susan Lewis,friend,couch-surfing,98613
+Susan Lewis,friend,friend,98613
+Susan Lewis,colleague,noticed her online presence,98613
+Susan Lewis,friend,last to see her,38129
+Susan Lewis,friend,failing to meet her,86113
+Susan Lewis,acquaintance,couch-surfing,75355
+Susan Lewis,colleague,seemed particularly withdrawn,75355
+Susan Lewis,friend,visited her home,696
+Susan Lewis,foster father,foster situation,696
+Susan Lewis,friend,posting concerning messages,696
+Susan Lewis,friends,mentioned her struggles,89375
+Susan Lewis,friend,brief encounter,17687
+Susan Lewis,friend,posting on social media,17687
+Susan Lewis,friend,couch-surfing,38590
+Susan Lewis,friend,heading toward a construction site,38590
+Susan Lewis,friend,found at an acquaintance's home,38590
+Susan Lewis,friend,noticed her struggle with mobility,101208
+Susan Lewis,friend,appearing distressed,101210
+Susan Lewis,Carol,found in an alleyway,101207
+Susan Lewis,Norman Iqbal,seen near a lake,101210
+Susan Lewis,Christine Smith,noticed her online presence,75355
+Susan Lewis,Emily Ashton,reported missing,86113
+Susan Lewis,Valerie Campbell,last to see her,38129
+Susan Lewis,Rosemary Hayes,brief encounter,17687
+Susan Lewis,Nicole Wood,visited her home,696
+Susan Lewis,Diana Powell,heading toward a construction site,38590

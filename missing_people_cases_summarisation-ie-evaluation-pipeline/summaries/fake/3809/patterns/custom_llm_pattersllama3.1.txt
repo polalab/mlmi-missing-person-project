@@ -1,0 +1,5 @@
+Wandering Off to Familiar Locations, [44979, 4630, 53763, 5625, 61412]  
+Exploring Abandoned Buildings, [32818, 39939, 42357, 91355, 92173]  
+Squatting in Urban Areas, [39939, 42357, 44979, 4630, 102082]  
+Disorientation and Solitude, [53763, 61412, 67023, 76217, 102080]  
+Loss of Track of Time, [70930, 32818, 88604, 65394, 32274]

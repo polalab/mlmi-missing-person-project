@@ -1,0 +1,6 @@
+20066,"Urban area near a playground","Urban/Playground Area","The circumstances suggest James may have intentionally sought distance without informing others.","Impulsive/Urban Withdrawal"
+72178,"Crossgatehead Road, Brightons","Urban/Residential Area","Known for seeking solitude, he likely withdrew to an urban area.","Solitude Seeking"
+72178,"1 Garrison Place, Falkirk","Urban/Residential Area","James was later found safe at 1 Garrison Place, Falkirk, by the authorities.","Solitude Seeking"
+80012,"Crossgatehead Road, Brightons","Urban/Residential Area","Known to use aliases in the past, James did not return from a walk he had set out on earlier, raising concerns among his family.","Solitude Seeking"
+80012,"35 Kerse Road, Grangemouth","Urban/Commercial Area","Efforts to locate him intensified, with police tracing him to a part-time job at 35 Kerse Road, Grangemouth.","Solitude Seeking"
+100083,"Urban roadhouse","Urban/Commercial Area","James was last seen at an urban roadhouse, seeking solitude.","Solitude Seeking"

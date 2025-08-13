@@ -1,0 +1,5 @@
+Disappearance at Night, [1098, 69847, 5660, 58287, 17534]  
+Disappearance Near Water, [94102, 91891, 1098, 63249, 61587]  
+Disappearance Near Cliff or Precarious Location, [61805, 76350, 60976, 61587, 101451]  
+Disappearance After Withdrawing Cash, [45686, 51592, 63249, 58287, 1098]  
+Disappearance After Leaving Home Without Alerting Others, [61805, 69847, 58287, 1098, 17534]

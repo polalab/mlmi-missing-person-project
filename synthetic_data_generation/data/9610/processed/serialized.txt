@@ -1,0 +1,224 @@
+Disappearance Record:
+Report number: 42847
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2022-01-31 00:00:00
+Date Reported Missing: 2022-01-31 07:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8661
+When Traced: 2022-02-06 00:21:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 28 Fairykirk Road, Rosyth, KY11 2QQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 15015
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2022-06-01 00:21:00
+Date Reported Missing: 2022-06-01 23:21:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8357
+When Traced: 2022-06-06 19:38:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 41 West Leven Street, Burntisland, KY3 9DZ
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 83638
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2022-11-01 19:38:00
+Date Reported Missing: 2022-11-02 07:38:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3803
+When Traced: 2022-11-04 11:01:00
+Missing From Address: 23 Haddow Grove, Burntisland, KY3 0DA (coffee shop)
+Traced at Address: Abbey Park Avenue, St Andrews, KY16 9LQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 38302
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2023-03-28 11:01:00
+Date Reported Missing: 2023-03-28 11:01:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5049
+When Traced: 2023-03-31 23:10:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 3 Russell Grove, Burntisland, KY3 9HL
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 62808
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2023-08-07 23:10:00
+Date Reported Missing: 2023-08-09 01:10:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9636
+When Traced: 2023-08-14 15:46:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 1 Camdean Crescent, Rosyth, KY11 2TJ
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 84032
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2023-09-14 15:46:00
+Date Reported Missing: 2023-09-15 05:46:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6639
+When Traced: 2023-09-19 06:25:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 1 Burnside Gardens, Burntisland, KY3 0DP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 66763
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2024-03-13 06:25:00
+Date Reported Missing: 2024-03-13 20:25:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1577
+When Traced: 2024-03-14 08:42:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 3 Russell Grove, Burntisland, KY3 9HL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 48614
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2024-05-29 08:42:00
+Date Reported Missing: 2024-05-30 03:42:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2927
+When Traced: 2024-05-31 09:29:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 1 Burnside Gardens, Burntisland, KY3 0DP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 17451
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2024-07-31 09:29:00
+Date Reported Missing: 2024-07-31 23:29:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1150
+When Traced: 2024-08-01 04:39:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 1 Burnside Gardens, Burntisland, KY3 0DP
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 7606
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2024-11-26 04:39:00
+Date Reported Missing: 2024-11-26 07:39:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8176
+When Traced: 2024-12-01 20:55:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 28 Fairykirk Road, Rosyth, KY11 2QQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 53971
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2025-01-13 20:55:00
+Date Reported Missing: 2025-01-13 21:55:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5821
+When Traced: 2025-01-17 21:56:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 28 Fairykirk Road, Rosyth, KY11 2QQ
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 89398
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2025-02-12 21:56:00
+Date Reported Missing: 2025-02-12 21:56:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1623
+When Traced: 2025-02-14 00:59:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 41 West Leven Street, Burntisland, KY3 9DZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 1393
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2025-05-19 00:59:00
+Date Reported Missing: 2025-05-20 02:59:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8858
+When Traced: 2025-05-25 04:37:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 1 Camdean Crescent, Rosyth, KY11 2TJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 31826
+Name: Samuel Bishop
+Date of Birth: 1961-12-28
+Sex: Male
+Place of Birth: Chester
+Occupation: Pharmacist, hospital
+Missing Since: 2025-05-30 04:37:00
+Date Reported Missing: 2025-05-31 06:37:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4315
+When Traced: 2025-06-02 04:32:00
+Missing From Address: Chapel Level, Kirkcaldy, KY2 6HF (Home)
+Traced at Address: 28 Fairykirk Road, Rosyth, KY11 2QQ
+Traced by: Traced by Police
+

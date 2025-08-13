@@ -1,0 +1,7 @@
+Karen Smith,Craig Bishop,friend,13314
+Karen Smith,friend,other,13314
+Karen Smith,Mark Murphy,friend,77695
+Karen Smith,Mark Murphy,other,77695
+Karen Smith,family member,other,56728
+Karen Smith,Natasha Hicks,other,100074
+Karen Smith,friend,other,100075

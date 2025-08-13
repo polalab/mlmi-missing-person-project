@@ -1,0 +1,5 @@
+Disappearance at a Social Gathering, [13970]  
+Disappearance During a Solo Activity, [13971]  
+Disappearance Near a Food Establishment, [13972]  
+Disappearance After a Brief Separation, [13973]  
+Disappearance in a Vehicle, [13974]

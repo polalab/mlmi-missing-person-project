@@ -1,0 +1,80 @@
+Disappearance Record:
+Report number: 34413
+Name: Albert Russell
+Date of Birth: 1930-04-27
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Retired Herpetologist
+Missing Since: 2024-07-24 00:00:00
+Date Reported Missing: 2024-07-24 20:00:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8006
+When Traced: 2024-07-29 13:26:00
+Missing From Address: 112-117 West Clyde Street, Helensburgh, G84 8ES (pharmacy)
+Traced at Address: 85 Bassett Avenue, Glasgow, G13 3JP
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 34693
+Name: Albert Russell
+Date of Birth: 1930-04-27
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Retired Herpetologist
+Missing Since: 2024-09-16 13:26:00
+Date Reported Missing: 2024-09-17 03:26:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3850
+When Traced: 2024-09-19 05:36:00
+Missing From Address: Castlecary Road,  G68 0HD (Home)
+Traced at Address: 21 Rampart Avenue, Glasgow, G13 3HT
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 62476
+Name: Albert Russell
+Date of Birth: 1930-04-27
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Retired Herpetologist
+Missing Since: 2025-02-23 05:36:00
+Date Reported Missing: 2025-02-23 05:36:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6240
+When Traced: 2025-02-27 13:36:00
+Missing From Address: Castlecary Road,  G68 0HD (Home)
+Traced at Address: Hall Road, Rhu, G84 8RR
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 58076
+Name: Albert Russell
+Date of Birth: 1930-04-27
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Retired Herpetologist
+Missing Since: 2025-05-19 13:36:00
+Date Reported Missing: 2025-05-20 03:36:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3045
+When Traced: 2025-05-21 16:21:00
+Missing From Address: Castlecary Road,  G68 0HD (Home)
+Traced at Address: 85 Bassett Avenue, Glasgow, G13 3JP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 21368
+Name: Albert Russell
+Date of Birth: 1930-04-27
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Retired Herpetologist
+Missing Since: 2025-06-08 16:21:00
+Date Reported Missing: 2025-06-08 23:21:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5556
+When Traced: 2025-06-12 12:57:00
+Missing From Address: 112-117 West Clyde Street, Helensburgh, G84 8ES (pharmacy)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+

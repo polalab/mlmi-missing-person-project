@@ -1,0 +1,128 @@
+Disappearance Record:
+Report number: 24108
+Name: Eleanor Gilbert
+Date of Birth: 2013-03-31
+Sex: F
+Place of Birth: Cardiff
+Occupation: 
+Missing Since: 2023-01-19 00:00:00
+Date Reported Missing: 2023-01-19 12:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4101
+When Traced: 2023-01-21 20:21:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Glamis Road, Dundee, DD2 2UB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 98518
+Name: Eleanor Gilbert
+Date of Birth: 2013-03-31
+Sex: F
+Place of Birth: Cardiff
+Occupation: 
+Missing Since: 2023-05-29 20:21:00
+Date Reported Missing: 2023-05-30 06:21:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4940
+When Traced: 2023-06-02 06:41:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Dundee Road, Arbroath, DD11 2NQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 14917
+Name: Eleanor Gilbert
+Date of Birth: 2013-03-31
+Sex: F
+Place of Birth: Cardiff
+Occupation: 
+Missing Since: 2023-11-22 06:41:00
+Date Reported Missing: 2023-11-23 10:41:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8019
+When Traced: 2023-11-27 20:20:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Kingussie Road, Newtonmore, PH20 1AY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 2698
+Name: Eleanor Gilbert
+Date of Birth: 2013-03-31
+Sex: F
+Place of Birth: Cardiff
+Occupation: 
+Missing Since: 2024-05-21 20:20:00
+Date Reported Missing: 2024-05-21 20:20:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2437
+When Traced: 2024-05-23 12:57:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: East Mains, Ormiston, EH35 5NG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 82497
+Name: Eleanor Gilbert
+Date of Birth: 2013-03-31
+Sex: F
+Place of Birth: Cardiff
+Occupation: 
+Missing Since: 2024-10-22 12:57:00
+Date Reported Missing: 2024-10-22 15:57:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 505
+When Traced: 2024-10-22 21:22:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 31-37 Aberlour Street, Rosyth, KY11 2SD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 39860
+Name: Eleanor Gilbert
+Date of Birth: 2013-03-31
+Sex: F
+Place of Birth: Cardiff
+Occupation: 
+Missing Since: 2024-12-21 21:22:00
+Date Reported Missing: 2024-12-21 21:22:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2119
+When Traced: 2024-12-23 08:41:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Dunnikier Park, Kirkcaldy, KY1 3LP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 77923
+Name: Eleanor Gilbert
+Date of Birth: 2013-03-31
+Sex: F
+Place of Birth: Cardiff
+Occupation: 
+Missing Since: 2025-02-11 08:41:00
+Date Reported Missing: 2025-02-11 20:41:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9891
+When Traced: 2025-02-18 05:32:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Kingussie Road, Newtonmore, PH20 1AY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 7945
+Name: Eleanor Gilbert
+Date of Birth: 2013-03-31
+Sex: F
+Place of Birth: Cardiff
+Occupation: 
+Missing Since: 2025-07-23 05:32:00
+Date Reported Missing: 2025-07-23 11:32:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 2924
+When Traced: 2025-07-25 06:16:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Minto Place, Dundee, DD2 1BR
+Traced by: Traced by Police
+

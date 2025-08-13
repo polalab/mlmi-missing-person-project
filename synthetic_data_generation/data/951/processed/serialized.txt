@@ -1,0 +1,32 @@
+Disappearance Record:
+Report number: 92550
+Name: Georgina Burke
+Date of Birth: 2010-05-27
+Sex: F
+Place of Birth: London
+Occupation: 
+Missing Since: 2025-02-25 00:00:00
+Date Reported Missing: 2025-02-25 12:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5391
+When Traced: 2025-02-28 17:51:00
+Missing From Address: 2 Cross Street, Scone, PH2 6LR (Home)
+Traced at Address: Inver, Dunkeld, PH8 0JR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 84401
+Name: Georgina Burke
+Date of Birth: 2010-05-27
+Sex: F
+Place of Birth: London
+Occupation: 
+Missing Since: 2025-04-20 17:51:00
+Date Reported Missing: 2025-04-21 05:51:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5323
+When Traced: 2025-04-24 10:34:00
+Missing From Address: 2 Cross Street, Scone, PH2 6LR (Home)
+Traced at Address: Phoines Estate, Newtonmore, PH20 1BE
+Traced by: Traced by family
+

@@ -1,0 +1,5 @@
+Disappearance via Unplanned Exploration, [58525, 6878, 37662, 21224, 53124]  
+Disappearance near Military Bases, [58525, 83143, 45483, 101671, 101678]  
+Disappearance near Swamps, [61801, 45483, 53124, 101671, 101672]  
+Disappearance near Deserts, [96970, 37662, 101675, 101676, 6878]  
+Disappearance near Hospitals, [6878, 101672, 101675, 101676, 53124]

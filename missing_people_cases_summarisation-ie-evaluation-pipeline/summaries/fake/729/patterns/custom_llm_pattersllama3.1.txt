@@ -1,0 +1,5 @@
+Lured Away, [51793, 63908]  
+Stranger Contact Near Escalators, [102555, 102558]  
+Risky Behavior Near Caves, [102558, 102560]  
+Unsupervised Exploration, [102560]  
+Brief Encounter Near Entrances, [51793]

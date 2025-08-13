@@ -1,0 +1,80 @@
+Disappearance Record:
+Report number: 13314
+Name: Karen Smith
+Date of Birth: 2008-01-30
+Sex: F
+Place of Birth: Armagh
+Occupation: 
+Missing Since: 2024-03-17 00:00:00
+Date Reported Missing: 2024-03-17 13:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2720
+When Traced: 2024-03-18 21:20:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 56728
+Name: Karen Smith
+Date of Birth: 2008-01-30
+Sex: F
+Place of Birth: Armagh
+Occupation: 
+Missing Since: 2024-06-18 21:20:00
+Date Reported Missing: 2024-06-19 05:20:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3565
+When Traced: 2024-06-21 08:45:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Railway Pier, Oban, PA34 4LW
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 84554
+Name: Karen Smith
+Date of Birth: 2008-01-30
+Sex: F
+Place of Birth: Armagh
+Occupation: 
+Missing Since: 2024-07-05 08:45:00
+Date Reported Missing: 2024-07-06 00:45:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2313
+When Traced: 2024-07-06 23:18:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Gallanach Road,  PA34 4PE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 77695
+Name: Karen Smith
+Date of Birth: 2008-01-30
+Sex: F
+Place of Birth: Armagh
+Occupation: 
+Missing Since: 2024-09-29 23:18:00
+Date Reported Missing: 2024-10-01 15:18:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2719
+When Traced: 2024-10-01 20:37:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Railway Pier, Oban, PA34 4LW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 2880
+Name: Karen Smith
+Date of Birth: 2008-01-30
+Sex: F
+Place of Birth: Armagh
+Occupation: 
+Missing Since: 2025-02-11 20:37:00
+Date Reported Missing: 2025-02-11 16:37:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 84
+When Traced: 2025-02-11 22:01:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by member of the public
+

@@ -1,0 +1,16 @@
+Allan Taylor,Melanie Nolan,foster mother,33163
+Allan Taylor,teacher,teacher,33163
+Allan Taylor,friend,Malcolm Gibbons,80544
+Allan Taylor,friend,Lesley Patel,40118
+Allan Taylor,friend,friend,84113
+Allan Taylor,friend,Megan Woods,38993
+Allan Taylor,friend,friend,48139
+Allan Taylor,foster father,foster father,13897
+Allan Taylor,friends,friends,13897
+Allan Taylor,Graeme Miller,friend,48941
+Allan Taylor,friend,friend,84748
+Allan Taylor,Frank Howard,colleague,80237
+Allan Taylor,Marcus Wood,friend,6745
+Allan Taylor,friends,friends,35138
+Allan Taylor,Samantha Scott,colleague,35138
+Allan Taylor,friend,friend,101393

@@ -1,0 +1,17 @@
+Jeremy Slater,Nigel Shepherd,foster father,53040
+Jeremy Slater,Louis,friend,3085
+Nigel Shepherd,Jeremy Slater,foster father,53040
+Jeremy Slater,Jeremy Slater,self,3085
+Jeremy Slater,Jeremy Slater,self,53040
+Nigel Shepherd,Jeremy Slater,family member,3085
+Nigel Shepherd,Jeremy Slater,family member,53040
+Nigel Shepherd,Jeremy Slater,other,3085
+Nigel Shepherd,Jeremy Slater,other,53040
+Nigel Shepherd,Nigel Shepherd,self,3085
+Nigel Shepherd,Nigel Shepherd,self,53040
+Nigel Shepherd,Louis,other,3085
+Nigel Shepherd,Louis,other,53040
+Louis,Jeremy Slater,friend,3085
+Louis,Jeremy Slater,other,53040
+Louis,Nigel Shepherd,other,3085
+Louis,Nigel Shepherd,other,53040

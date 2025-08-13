@@ -1,0 +1,427 @@
+Larkfield Road, Inverclyde, 94267
+Gallanach Road station, 42398
+1 Customhouse Way, PA15 1EG, 55703
+train station, 55703
+Larkfield Road, Inverclyde, PA16 0XN, 55703
+1 Newark Street, 46442
+airport, 46442
+Larkfield Road, 46442
+train station near a truck stop, 98682
+train station, 83838
+Railway Pier, Oban, PA34 4LW, 83838
+rest area, 83838
+alleyway, 83838
+Glengallen Road, Oban, PA34 4HH, 83838
+truck stop located on Glengallen Road, Oban, PA34 4HH, 83838
+1 Customhouse Way, 43931
+Railway Pier, Oban, PA34 4LW, 43931
+train station, 6631
+Larkfield Road, Inverclyde, PA16 0XN, 6631
+Glengallen Road, Oban, PA34 4HH, 6631
+train station in Oban, 68098
+music lessons, 68098
+near the airport, 68098
+1 Customhouse Way, PA15 1EG, 77562
+train station, 77562
+wilderness areas, 77562
+truck stop, 77562
+alleyway close to the train station, 77562
+Railway Pier, Oban, PA34 4LW, 77562
+1 Newark Street, PA14 5PE, 53641
+truck stop near 1 Newark Street, PA14 5PE, 53641
+nearby wilderness areas, 53641
+North Pier, Oban, PA34 5QD, 53641
+local train station, 12522
+alleyway near Railway Pier, Oban, PA34 4LW, 12522
+Glengallen Road, Oban, PA34 4HH, 12522
+truck stop, 12522
+train station, 47939
+train station with friend, 47939
+gym near a truck stop, 55110
+alleyway nearby, 55110
+train station on Larkfield Road, Inverclyde, 50491
+airport, 50491
+nearby alleyways, 50491
+North Pier in Oban, 50491
+train station near Larkfield Road, Inverclyde, PA16 0XN, 45228
+Gallanach Road, PA34 4PE, 45228
+train station, 45228
+Glengallen Road, 45228
+wilderness area, 100747
+alleyway, 100747
+call with his foster mother, 100747
+Larkfield Road, Inverclyde, 94267
+Edward Street 1 CB30SZ, 94267
+school, 94267
+Gallanach Road station, 42398
+1 Customhouse Way, PA15 1EG, 55703
+train station, 55703
+Larkfield Road, Inverclyde, PA16 0XN, 55703
+1 Newark Street, 46442
+airport, 46442
+Larkfield Road, 46442
+train station near a truck stop, 98682
+train station, 83838
+Railway Pier, Oban, PA34 4LW, 83838
+rest area, 83838
+alleyway, 83838
+Glengallen Road, Oban, PA34 4HH, 83838
+truck stop located on Glengallen Road, Oban, PA34 4HH, 83838
+1 Customhouse Way, 43931
+Railway Pier, Oban, PA34 4LW, 43931
+train station, 6631
+Larkfield Road, Inverclyde, PA16 0XN, 6631
+Glengallen Road, Oban, PA34 4HH, 6631
+train station in Oban, 68098
+music lessons, 68098
+near the airport, 68098
+1 Customhouse Way, PA15 1EG, 77562
+train station, 77562
+wilderness areas, 77562
+truck stop, 77562
+alleyway close to the train station, 77562
+Railway Pier, Oban, PA34 4LW, 77562
+1 Newark Street, PA14 5PE, 53641
+truck stop near 1 Newark Street, PA14 5PE, 53641
+nearby wilderness areas, 53641
+North Pier, Oban, PA34 5QD, 53641
+local train station, 12522
+alleyway near Railway Pier, Oban, PA34 4LW, 12522
+Glengallen Road, Oban, PA34 4HH, 12522
+truck stop, 12522
+train station, 47939
+train station with friend, 47939
+gym near a truck stop, 55110
+alleyway nearby, 55110
+train station on Larkfield Road, Inverclyde, 50491
+airport, 50491
+nearby alleyways, 50491
+North Pier in Oban, 50491
+train station near Larkfield Road, Inverclyde, PA16 0XN, 45228
+Gallanach Road, PA34 4PE, 45228
+train station, 45228
+Glengallen Road, 45228
+wilderness area, 100747
+alleyway, 100747
+call with his foster mother, 100747
+Larkfield Road, Inverclyde, 94267
+Edward Street 1 CB30SZ, 94267
+school, 94267
+Larkfield Road, Inverclyde, PA16 0XN, 55703
+1 Newark Street, 46442
+airport, 46442
+Larkfield Road, 46442
+train station near a truck stop, 98682
+train station, 83838
+Railway Pier, Oban, PA34 4LW, 83838
+rest area, 83838
+alleyway, 83838
+Glengallen Road, Oban, PA34 4HH, 83838
+truck stop located on Glengallen Road, Oban, PA34 4HH, 83838
+1 Customhouse Way, 43931
+Railway Pier, Oban, PA34 4LW, 43931
+train station, 6631
+Glengallen Road, Oban, PA34 4HH, 6631
+train station in Oban, 68098
+music lessons, 68098
+near the airport, 68098
+1 Customhouse Way, PA15 1EG, 77562
+train station, 77562
+wilderness areas, 77562
+truck stop, 77562
+alleyway close to the train station, 77562
+Railway Pier, Oban, PA34 4LW, 77562
+1 Newark Street, PA14 5PE, 53641
+truck stop near 1 Newark Street, PA14 5PE, 53641
+nearby wilderness areas, 53641
+North Pier, Oban, PA34 5QD, 53641
+local train station, 12522
+Glengallen Road, Oban, PA34 4HH, 12522
+truck stop, 12522
+train station, 47939
+train station with friend, 47939
+gym near a truck stop, 55110
+alleyway nearby, 55110
+train station on Larkfield Road, Inverclyde, 50491
+airport, 50491
+nearby alleyways, 50491
+North Pier in Oban, 50491
+Glengallen Road, 45228
+train station near Larkfield Road, Inverclyde, PA16 0XN, 45228
+Gallanach Road, PA34 4PE, 45228
+train station, 45228
+wilderness area, 100747
+alleyway, 100747
+call with his foster mother, 100747
+Larkfield Road, Inverclyde, PA16 0XN, 55703
+1 Newark Street, 46442
+airport, 46442
+Larkfield Road, 46442
+train station near a truck stop, 98682
+train station, 83838
+Railway Pier, Oban, PA34 4LW, 83838
+rest area, 83838
+alleyway, 83838
+Glengallen Road, Oban, PA34 4HH, 83838
+truck stop located on Glengallen Road, Oban, PA34 4HH, 83838
+1 Customhouse Way, 43931
+Railway Pier, Oban, PA34 4LW, 43931
+train station, 6631
+Glengallen Road, Oban, PA34 4HH, 6631
+train station in Oban, 68098
+music lessons, 68098
+near the airport, 68098
+1 Customhouse Way, PA15 1EG, 77562
+train station, 77562
+wilderness areas, 77562
+truck stop, 77562
+alleyway close to the train station, 77562
+Railway Pier, Oban, PA34 4LW, 77562
+1 Newark Street, PA14 5PE, 53641
+truck stop near 1 Newark Street, PA14 5PE, 53641
+nearby wilderness areas, 53641
+North Pier, Oban, PA34 5QD, 53641
+local train station, 12522
+Glengallen Road, Oban, PA34 4HH, 12522
+truck stop, 12522
+train station, 47939
+train station with friend, 47939
+gym near a truck stop, 55110
+alleyway nearby, 55110
+train station on Larkfield Road, Inverclyde, 50491
+airport, 50491
+nearby alleyways, 50491
+North Pier in Oban, 50491
+Glengallen Road, 45228
+train station near Larkfield Road, Inverclyde, PA16 0XN, 45228
+Gallanach Road, PA34 4PE, 45228
+train station, 45228
+Glengallen Road, Oban, PA34 4HH, 83838
+truck stop located on Glengallen Road, Oban, PA34 4HH, 83838
+1 Customhouse Way, 43931
+Railway Pier, Oban, PA34 4LW, 43931
+train station, 6631
+Glengallen Road, Oban, PA34 4HH, 6631
+train station in Oban, 68098
+music lessons, 68098
+near the airport, 68098
+1 Customhouse Way, PA15 1EG, 77562
+train station, 77562
+wilderness areas, 77562
+truck stop, 77562
+alleyway close to the train station, 77562
+Railway Pier, Oban, PA34 4LW, 77562
+1 Newark Street, PA14 5PE, 53641
+truck stop near 1 Newark Street, PA14 5PE, 53641
+nearby wilderness areas, 53641
+North Pier, Oban, PA34 5QD, 53641
+local train station, 12522
+Glengallen Road, Oban, PA34 4HH, 12522
+truck stop, 12522
+train station, 47939
+train station with friend, 47939
+gym near a truck stop, 55110
+alleyway nearby, 55110
+train station on Larkfield Road, Inverclyde, 50491
+airport, 50491
+nearby alleyways, 50491
+North Pier in Oban, 50491
+Glengallen Road, 45228
+train station near Larkfield Road, Inverclyde, PA16 0XN, 45228
+Gallanach Road, PA34 4PE, 45228
+train station, 45228
+Glengallen Road, Oban, PA34 4HH, 83838
+truck stop located on Glengallen Road, Oban, PA34 4HH, 83838
+1 Customhouse Way, 43931
+Railway Pier, Oban, PA34 4LW, 43931
+train station, 6631
+Glengallen Road, Oban, PA34 4HH, 6631
+train station in Oban, 68098
+music lessons, 68098
+near the airport, 68098
+1 Customhouse Way, PA15 1EG, 77562
+train station, 77562
+wilderness areas, 77562
+truck stop, 77562
+alleyway close to the train station, 77562
+Railway Pier, Oban, PA34 4LW, 77562
+1 Newark Street, PA14 5PE, 53641
+truck stop near 1 Newark Street, PA14 5PE, 53641
+nearby wilderness areas, 53641
+North Pier, Oban, PA34 5QD, 53641
+local train station, 12522
+Glengallen Road, Oban, PA34 4HH, 12522
+truck stop, 12522
+train station, 47939
+train station with friend, 47939
+gym near a truck stop, 55110
+alleyway nearby, 55110
+train station on Larkfield Road, Inverclyde, 50491
+airport, 50491
+nearby alleyways, 50491
+North Pier in Oban, 50491
+Glengallen Road, 45228
+train station near Larkfield Road, Inverclyde, PA16 0XN, 45228
+Gallanach Road, PA34 4PE, 45228
+train station, 45228
+Larkfield Road, Inverclyde, 94267
+Gallanach Road station, 42398
+1 Customhouse Way, PA15 1EG, 55703
+train station, 55703
+Larkfield Road, Inverclyde, PA16 0XN, 55703
+1 Newark Street, 46442
+airport, 46442
+Larkfield Road, 46442
+train station near a truck stop, 98682
+train station, 83838
+Railway Pier, Oban, PA34 4LW, 83838
+rest area, 83838
+alleyway, 83838
+Glengallen Road, Oban, PA34 4HH, 83838
+truck stop located on Glengallen Road, Oban, PA34 4HH, 83838
+1 Customhouse Way, 43931
+Railway Pier, Oban, PA34 4LW, 43931
+train station, 6631
+Glengallen Road, Oban, PA34 4HH, 6631
+train station in Oban, 68098
+music lessons, 68098
+near the airport, 68098
+1 Customhouse Way, PA15 1EG, 77562
+train station, 77562
+wilderness areas, 77562
+truck stop, 77562
+alleyway close to the train station, 77562
+Railway Pier, Oban, PA34 4LW, 77562
+1 Newark Street, PA14 5PE, 53641
+truck stop near 1 Newark Street, PA14 5PE, 53641
+nearby wilderness areas, 53641
+North Pier, Oban, PA34 5QD, 53641
+local train station, 12522
+Glengallen Road, Oban, PA34 4HH, 12522
+truck stop, 12522
+train station, 47939
+train station with friend, 47939
+gym near a truck stop, 55110
+alleyway nearby, 55110
+train station on Larkfield Road, Inverclyde, 50491
+airport, 50491
+nearby alleyways, 50491
+North Pier in Oban, 50491
+Glengallen Road, 45228
+train station near Larkfield Road, Inverclyde, PA16 0XN, 45228
+Gallanach Road, PA34 4PE, 45228
+train station, 45228
+Larkfield Road, Inverclyde, PA16 0XN, 55703
+1 Newark Street, 46442
+airport, 46442
+Larkfield Road, 46442
+train station near a truck stop, 98682
+train station, 83838
+Railway Pier, Oban, PA34 4LW, 83838
+rest area, 83838
+alleyway, 83838
+Glengallen Road, Oban, PA34 4HH, 83838
+truck stop located on Glengallen Road, Oban, PA34 4HH, 83838
+1 Customhouse Way, 43931
+Railway Pier, Oban, PA34 4LW, 43931
+train station, 6631
+Glengallen Road, Oban, PA34 4HH, 6631
+train station in Oban, 68098
+music lessons, 68098
+near the airport, 68098
+1 Customhouse Way, PA15 1EG, 77562
+train station, 77562
+wilderness areas, 77562
+truck stop, 77562
+alleyway close to the train station, 77562
+Railway Pier, Oban, PA34 4LW, 77562
+1 Newark Street, PA14 5PE, 53641
+truck stop near 1 Newark Street, PA14 5PE, 53641
+nearby wilderness areas, 53641
+North Pier, Oban, PA34 5QD, 53641
+local train station, 12522
+Glengallen Road, Oban, PA34 4HH, 12522
+truck stop, 12522
+train station, 47939
+train station with friend, 47939
+gym near a truck stop, 55110
+alleyway nearby, 55110
+train station on Larkfield Road, Inverclyde, 50491
+airport, 50491
+nearby alleyways, 50491
+North Pier in Oban, 50491
+Glengallen Road, 45228
+train station near Larkfield Road, Inverclyde, PA16 0XN, 45228
+Gallanach Road, PA34 4PE, 45228
+train station, 45228
+Larkfield Road, Inverclyde, PA16 0XN, 55703
+1 Newark Street, 46442
+airport, 46442
+Larkfield Road, 46442
+train station near a truck stop, 98682
+train station, 83838
+Railway Pier, Oban, PA34 4LW, 83838
+rest area, 83838
+alleyway, 83838
+Glengallen Road, Oban, PA34 4HH, 83838
+truck stop located on Glengallen Road, Oban, PA34 4HH, 83838
+1 Customhouse Way, 43931
+Railway Pier, Oban, PA34 4LW, 43931
+train station, 6631
+Glengallen Road, Oban, PA34 4HH, 6631
+train station in Oban, 68098
+music lessons, 68098
+near the airport, 68098
+1 Customhouse Way, PA15 1EG, 77562
+train station, 77562
+wilderness areas, 77562
+truck stop, 77562
+alleyway close to the train station, 77562
+Railway Pier, Oban, PA34 4LW, 77562
+1 Newark Street, PA14 5PE, 53641
+truck stop near 1 Newark Street, PA14 5PE, 53641
+nearby wilderness areas, 53641
+North Pier, Oban, PA34 5QD, 53641
+local train station, 12522
+Glengallen Road, Oban, PA34 4HH, 12522
+truck stop, 12522
+train station, 47939
+train station with friend, 47939
+gym near a truck stop, 55110
+alleyway nearby, 55110
+train station on Larkfield Road, Inverclyde, 50491
+airport, 50491
+nearby alleyways, 50491
+North Pier in Oban, 50491
+Glengallen Road, 45228
+train station near Larkfield Road, Inverclyde, PA16 0XN, 45228
+Gallanach Road, PA34 4PE, 45228
+train station, 45228
+Larkfield Road, Inverclyde, PA16 0XN, 55703
+1 Newark Street, 46442
+airport, 46442
+Larkfield Road, 46442
+train station near a truck stop, 98682
+train station, 83838
+Railway Pier, Oban, PA34 4LW, 83838
+rest area, 83838
+alleyway, 83838
+Glengallen Road, Oban, PA34 4HH, 83838
+truck stop located on Glengallen Road, Oban, PA34 4HH, 83838
+1 Customhouse Way, 43931
+Railway Pier, Oban, PA34 4LW, 43931
+train station, 6631
+Glengallen Road, Oban, PA34 4HH, 6631
+train station in Oban, 68098
+music lessons, 68098
+near the airport, 68098
+1 Customhouse Way, PA15 1EG, 77562
+train station, 77562
+wilderness areas, 77562
+truck stop, 77562
+alleyway close to the train station, 77562
+Railway Pier, Oban, PA34 4LW, 77562
+1 Newark Street, PA14 5PE, 53641
+truck stop near 1 Newark Street, PA14 5PE, 53641
+nearby wilderness areas, 53641
+North Pier,

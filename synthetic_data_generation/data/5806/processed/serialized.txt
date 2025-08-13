@@ -1,0 +1,192 @@
+Disappearance Record:
+Report number: 33898
+Name: Ian Clarke
+Date of Birth: 1942-02-22
+Sex: Male
+Place of Birth: Cardiff
+Occupation: Retired Water engineer
+Missing Since: 2022-02-28 00:00:00
+Date Reported Missing: 2022-03-01 06:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9722
+When Traced: 2022-03-06 18:02:00
+Missing From Address: Moray Street, Blackford, PH4 1QF (Home)
+Traced at Address: 1-8 Telford Gardens,  PH8 0QA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 65694
+Name: Ian Clarke
+Date of Birth: 1942-02-22
+Sex: Male
+Place of Birth: Cardiff
+Occupation: Retired Water engineer
+Missing Since: 2022-04-18 18:02:00
+Date Reported Missing: 2022-04-18 23:02:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5726
+When Traced: 2022-04-22 17:28:00
+Missing From Address: Moray Street, Blackford, PH4 1QF (Home)
+Traced at Address: 1 Spittal View,  PH10 7QE
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 81344
+Name: Ian Clarke
+Date of Birth: 1942-02-22
+Sex: Male
+Place of Birth: Cardiff
+Occupation: Retired Water engineer
+Missing Since: 2022-10-06 17:28:00
+Date Reported Missing: 2022-10-06 20:28:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5056
+When Traced: 2022-10-10 05:44:00
+Missing From Address: Moray Street, Blackford, PH4 1QF (Home)
+Traced at Address: 22-24 Whitefriars Street, Perth, PH1 1PP
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 7017
+Name: Ian Clarke
+Date of Birth: 1942-02-22
+Sex: Male
+Place of Birth: Cardiff
+Occupation: Retired Water engineer
+Missing Since: 2022-11-08 05:44:00
+Date Reported Missing: 2022-11-08 12:44:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5290
+When Traced: 2022-11-11 21:54:00
+Missing From Address: Park Road, Ballachulish, PH49 4JS (book club)
+Traced at Address: Lundy Gardens, Fort William, PH33 6PD
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 38616
+Name: Ian Clarke
+Date of Birth: 1942-02-22
+Sex: Male
+Place of Birth: Cardiff
+Occupation: Retired Water engineer
+Missing Since: 2023-04-07 21:54:00
+Date Reported Missing: 2023-04-08 20:54:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2857
+When Traced: 2023-04-09 21:31:00
+Missing From Address: Moray Street, Blackford, PH4 1QF (Home)
+Traced at Address: Phoines Estate, Newtonmore, PH20 1BE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 67580
+Name: Ian Clarke
+Date of Birth: 1942-02-22
+Sex: Male
+Place of Birth: Cardiff
+Occupation: Retired Water engineer
+Missing Since: 2023-07-28 21:31:00
+Date Reported Missing: 2023-07-30 11:31:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5931
+When Traced: 2023-08-02 00:22:00
+Missing From Address: Moray Street, Blackford, PH4 1QF (Home)
+Traced at Address: Moray Street, Blackford, PH4 1QF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 2332
+Name: Ian Clarke
+Date of Birth: 1942-02-22
+Sex: Male
+Place of Birth: Cardiff
+Occupation: Retired Water engineer
+Missing Since: 2023-12-10 00:22:00
+Date Reported Missing: 2023-12-10 04:22:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 636
+When Traced: 2023-12-10 10:58:00
+Missing From Address: Moray Street, Blackford, PH4 1QF (Home)
+Traced at Address: Phoines Estate, Newtonmore, PH20 1BE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 51913
+Name: Ian Clarke
+Date of Birth: 1942-02-22
+Sex: Male
+Place of Birth: Cardiff
+Occupation: Retired Water engineer
+Missing Since: 2024-03-05 10:58:00
+Date Reported Missing: 2024-03-05 22:58:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4123
+When Traced: 2024-03-08 07:41:00
+Missing From Address: Moray Street, Blackford, PH4 1QF (Home)
+Traced at Address: 22-24 Whitefriars Street, Perth, PH1 1PP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 89949
+Name: Ian Clarke
+Date of Birth: 1942-02-22
+Sex: Male
+Place of Birth: Cardiff
+Occupation: Retired Water engineer
+Missing Since: 2024-05-13 07:41:00
+Date Reported Missing: 2024-05-13 16:41:00
+Day Reported Missing: Monday
+Length Missing (minutes): 7192
+When Traced: 2024-05-18 07:33:00
+Missing From Address: Moray Street, Blackford, PH4 1QF (Home)
+Traced at Address: 1 Spittal View,  PH10 7QE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 49807
+Name: Ian Clarke
+Date of Birth: 1942-02-22
+Sex: Male
+Place of Birth: Cardiff
+Occupation: Retired Water engineer
+Missing Since: 2024-09-22 07:33:00
+Date Reported Missing: 2024-09-23 01:33:00
+Day Reported Missing: Monday
+Length Missing (minutes): 1677
+When Traced: 2024-09-23 11:30:00
+Missing From Address: Moray Street, Blackford, PH4 1QF (Home)
+Traced at Address: Craigieknowes Road, Perth, PH2 0DG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 365
+Name: Ian Clarke
+Date of Birth: 1942-02-22
+Sex: Male
+Place of Birth: Cardiff
+Occupation: Retired Water engineer
+Missing Since: 2024-10-06 11:30:00
+Date Reported Missing: 2024-10-06 15:30:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 591
+When Traced: 2024-10-06 21:21:00
+Missing From Address: Moray Street, Blackford, PH4 1QF (Home)
+Traced at Address: 1 Spittal View,  PH10 7QE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 22293
+Name: Ian Clarke
+Date of Birth: 1942-02-22
+Sex: Male
+Place of Birth: Cardiff
+Occupation: Retired Water engineer
+Missing Since: 2024-11-17 21:21:00
+Date Reported Missing: 2024-11-19 03:21:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8528
+When Traced: 2024-11-23 19:29:00
+Missing From Address: Moray Street, Blackford, PH4 1QF (Home)
+Traced at Address: Phoines Estate, Newtonmore, PH20 1BE
+Traced by: Traced by Police
+

@@ -1,0 +1,256 @@
+Disappearance Record:
+Report number: 92306
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2020-10-31 00:00:00
+Date Reported Missing: 2020-10-31 18:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3486
+When Traced: 2020-11-02 10:06:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: 36 & 38 Sydney Crescent, Auchterarder, PH3 1BB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 18677
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2021-01-20 10:06:00
+Date Reported Missing: 2021-01-20 22:06:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5361
+When Traced: 2021-01-24 03:27:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: Edinburgh Road, Perth, PH2 8DX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 22317
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2021-04-26 03:27:00
+Date Reported Missing: 2021-04-26 13:27:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5774
+When Traced: 2021-04-30 03:41:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: Edinburgh Road, Perth, PH2 8DX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 77334
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2021-10-09 03:41:00
+Date Reported Missing: 2021-10-09 01:41:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 225
+When Traced: 2021-10-09 07:26:00
+Missing From Address: Roy Bridge Road, Spean Bridge, PH34 4EU (friend's house)
+Traced at Address: Newtonmore Road, Kingussie, PH21 1HE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 49986
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2022-03-04 07:26:00
+Date Reported Missing: 2022-03-05 00:26:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4574
+When Traced: 2022-03-07 11:40:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: Newtonmore Road, Kingussie, PH21 1HE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 68041
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2022-04-19 11:40:00
+Date Reported Missing: 2022-04-19 16:40:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8985
+When Traced: 2022-04-25 17:25:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: 10 & 12 Southlands Road, Auchterarder, PH3 1BA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 57968
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2022-07-23 17:25:00
+Date Reported Missing: 2022-07-23 22:25:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3411
+When Traced: 2022-07-26 02:16:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: 36 & 38 Sydney Crescent, Auchterarder, PH3 1BB
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 27201
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2022-11-25 02:16:00
+Date Reported Missing: 2022-11-25 21:16:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6300
+When Traced: 2022-11-29 11:16:00
+Missing From Address: Dalfaber Industrial Estate, Aviemore, PH22 1ST (shopping mall)
+Traced at Address: Strathview Gardens, Pitlochry, PH16 5QR
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 94286
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2023-04-20 11:16:00
+Date Reported Missing: 2023-04-21 15:16:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9825
+When Traced: 2023-04-27 07:01:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: Balmoral Road, Blairgowrie, PH10 7HY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 47106
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2023-10-14 07:01:00
+Date Reported Missing: 2023-10-15 11:01:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7033
+When Traced: 2023-10-19 04:14:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: Strathview Gardens, Pitlochry, PH16 5QR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 40139
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2023-12-17 04:14:00
+Date Reported Missing: 2023-12-17 16:14:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7045
+When Traced: 2023-12-22 01:39:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: Newtonmore Road, Kingussie, PH21 1HE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 92060
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2024-06-10 01:39:00
+Date Reported Missing: 2024-06-10 15:39:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8176
+When Traced: 2024-06-15 17:55:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: Craigieknowes Road, Perth, PH2 0DG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 10541
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2024-09-18 17:55:00
+Date Reported Missing: 2024-09-19 12:55:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 6611
+When Traced: 2024-09-23 08:06:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: 1 Leonard Street, Perth, PH2 8HE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 20882
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2024-10-18 08:06:00
+Date Reported Missing: 2024-10-19 03:06:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2808
+When Traced: 2024-10-20 06:54:00
+Missing From Address: Dalfaber Industrial Estate, Aviemore, PH22 1ST (shopping mall)
+Traced at Address: Strathview Gardens, Pitlochry, PH16 5QR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 24573
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2025-02-14 06:54:00
+Date Reported Missing: 2025-02-15 03:54:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 6086
+When Traced: 2025-02-18 12:20:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: Park Road, Ballachulish, PH49 4JS
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 2174
+Name: Victor Roberts
+Date of Birth: 2014-05-27
+Sex: Male
+Place of Birth: Derby
+Occupation: 
+Missing Since: 2025-07-19 12:20:00
+Date Reported Missing: 2025-07-20 11:20:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 8506
+When Traced: 2025-07-25 10:06:00
+Missing From Address: 1-8 Telford Gardens,  PH8 0QA (Home)
+Traced at Address: Craigieknowes Road, Perth, PH2 0DG
+Traced by: Traced by Police
+

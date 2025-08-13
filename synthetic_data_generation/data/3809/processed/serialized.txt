@@ -1,0 +1,368 @@
+Disappearance Record:
+Report number: 82423
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2020-04-04 00:00:00
+Date Reported Missing: 2020-04-04 00:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9914
+When Traced: 2020-04-10 21:14:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: 55 Diana Avenue, Glasgow, G13 3JW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 89147
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2020-08-14 21:14:00
+Date Reported Missing: 2020-08-15 20:14:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2017
+When Traced: 2020-08-16 06:51:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Hall Road, Rhu, G84 8RR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 32818
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2020-08-27 06:51:00
+Date Reported Missing: 2020-08-27 22:51:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1303
+When Traced: 2020-08-28 04:34:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Crow Road, Glasgow, G66 7GX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 88604
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2020-11-27 04:34:00
+Date Reported Missing: 2020-11-27 17:34:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7977
+When Traced: 2020-12-02 17:31:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: 55 Diana Avenue, Glasgow, G13 3JW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 65394
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2021-01-19 17:31:00
+Date Reported Missing: 2021-01-19 13:31:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 78
+When Traced: 2021-01-19 18:49:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: 55 Diana Avenue, Glasgow, G13 3JW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 70930
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2021-06-11 18:49:00
+Date Reported Missing: 2021-06-12 02:49:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 8936
+When Traced: 2021-06-17 23:45:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: 21 Rampart Avenue, Glasgow, G13 3HT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 39939
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2021-11-18 23:45:00
+Date Reported Missing: 2021-11-19 01:45:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9670
+When Traced: 2021-11-25 16:55:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: 224-226 Archerhill Road, Glasgow, G13 3YX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 22152
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2022-01-19 16:55:00
+Date Reported Missing: 2022-01-19 23:55:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 4069
+When Traced: 2022-01-22 12:44:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: 55 Diana Avenue, Glasgow, G13 3JW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 28366
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2022-06-28 12:44:00
+Date Reported Missing: 2022-06-28 09:44:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 132
+When Traced: 2022-06-28 14:56:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Main Raod,  G84 0AH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 33893
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2022-11-23 14:56:00
+Date Reported Missing: 2022-11-24 19:56:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2368
+When Traced: 2022-11-25 06:24:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Hall Road, Rhu, G84 8RR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 53763
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2023-01-10 06:24:00
+Date Reported Missing: 2023-01-10 10:24:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 1632
+When Traced: 2023-01-11 09:36:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: 21 Rampart Avenue, Glasgow, G13 3HT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 42357
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2023-04-30 09:36:00
+Date Reported Missing: 2023-04-30 06:36:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 154
+When Traced: 2023-04-30 12:10:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Balmuildy Road,  G64 3HD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 91355
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2023-10-25 12:10:00
+Date Reported Missing: 2023-10-25 12:10:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3871
+When Traced: 2023-10-28 04:41:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Block 1 Acre Road, Glasgow, G20 0XA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 44979
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2024-01-18 04:41:00
+Date Reported Missing: 2024-01-18 01:41:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 126
+When Traced: 2024-01-18 06:47:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Main Raod,  G84 0AH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 4630
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2024-02-29 06:47:00
+Date Reported Missing: 2024-02-29 15:47:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3466
+When Traced: 2024-03-02 16:33:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: 55 Diana Avenue, Glasgow, G13 3JW
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 32274
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2024-05-07 16:33:00
+Date Reported Missing: 2024-05-08 13:33:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5112
+When Traced: 2024-05-11 05:45:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Hall Road, Rhu, G84 8RR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 5625
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2024-06-05 05:45:00
+Date Reported Missing: 2024-06-05 05:45:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1474
+When Traced: 2024-06-06 06:19:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Block 1 Acre Road, Glasgow, G20 0XA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 41817
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2024-06-25 06:19:00
+Date Reported Missing: 2024-06-26 02:19:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3897
+When Traced: 2024-06-27 23:16:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Block 1 Acre Road, Glasgow, G20 0XA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 61261
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2024-07-21 23:16:00
+Date Reported Missing: 2024-07-22 02:16:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9672
+When Traced: 2024-07-28 16:28:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 92173
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2024-08-08 16:28:00
+Date Reported Missing: 2024-08-09 07:28:00
+Day Reported Missing: Friday
+Length Missing (minutes): 4320
+When Traced: 2024-08-11 16:28:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: 21 Rampart Avenue, Glasgow, G13 3HT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 61412
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2024-11-28 16:28:00
+Date Reported Missing: 2024-11-29 03:28:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8571
+When Traced: 2024-12-04 15:19:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: 21 Rampart Avenue, Glasgow, G13 3HT
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 67023
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2025-01-27 15:19:00
+Date Reported Missing: 2025-01-27 22:19:00
+Day Reported Missing: Monday
+Length Missing (minutes): 7114
+When Traced: 2025-02-01 13:53:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Main Raod,  G84 0AH
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 76217
+Name: Bryan Jones
+Date of Birth: 1948-10-11
+Sex: Male
+Place of Birth: Wolverhampton
+Occupation: Retired Special effects artist
+Missing Since: 2025-04-24 13:53:00
+Date Reported Missing: 2025-04-24 14:53:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 374
+When Traced: 2025-04-24 20:07:00
+Missing From Address: 55 Diana Avenue, Glasgow, G13 3JW (Home)
+Traced at Address: Block 1 Acre Road, Glasgow, G20 0XA
+Traced by: Traced by Police
+

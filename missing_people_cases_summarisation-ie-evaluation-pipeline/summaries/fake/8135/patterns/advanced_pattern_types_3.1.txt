@@ -1,0 +1,87 @@
+22623,"MP attempted to hang himself",self_harm_attempt_pattern,"MP attempted to make noose round his neck and hang from same however was quickly assisted."
+
+10815,"MP decided to venture out alone despite needing assistance",disability_disregard_pattern,"Craig, despite needing assistance due to his disability, decided to venture out alone after discussing plans with his sister, Melissa Turnbull, who had recommended joining her at her book club at 137 Admiralty Road, Rosyth."
+
+12118,"MP wandered off from his daughter",disorientation_pattern,"Lydia noticed Craig wandering off towards the exit. Believing he was heading to the restroom, she didn't immediately follow."
+
+23528,"MP deviated from his intended plans",deviation_pattern,"Concerned about his whereabouts, they checked the usual places he'd frequent. Craig's aunt recalled his fondness for strolling around Seaforth Place, Burntisland."
+
+19360,"MP deviated from his usual route",disorientation_pattern,"However, he did not arrive at the planned destination. Concerned, Eleanor reported his absence, prompting a search. It was later discovered that Craig had deviated from his usual route and was seen near the mosque in Rosyth."
+
+24451,"MP became overwhelmed by a legal dispute",legal_dispute_stress_pattern,"Craig, who experiences mobility challenges, decided to rest at a shaded bench while Carl toured with the others. Upon returning, Carl found Craig missing."
+
+8191,"MP took time alone to gather his thoughts",time_for_reflection_pattern,"Craig was unharmed and explained he needed time alone to gather his thoughts amid the ongoing family issues."
+
+62241,"MP was found safe after three days",safe_recovery_pattern,"Traced later at 13 Jutland Street in Rosyth, he was found safe after three days."
+
+97283,"MP left an assisted living facility without notifying staff",facility_departure_pattern,"A subsequent investigation revealed he had left the facility without notifying staff, leading them to trace his movements."
+
+52753,"MP was found disoriented but safe",disorientation_pattern,"Upon discovery, he appeared disoriented but safe. Craig’s penchant for exploring and his disability possibly contributed to his inability to relocate home, leading to his temporary disappearance."
+
+46982,"MP was found safe at a relative's house",safe_recovery_pattern,"Later, Lydia Williams found him at 13 Jutland Street, Rosyth, resolving concerns."
+
+14112,"MP was found safe at Park Road West",safe_recovery_pattern,"He was later found by police, safely residing at Park Road West."
+
+84627,"MP inadvertently avoided contact due to stress",stress_avoidance_pattern,"Despite their efforts, there were no signs of Craig until a lead took them to 1 Canmore Street, Kinghorn. Upon thorough investigation, it was determined that Craig had been at home the entire time, inadvertently avoiding contact due to the stress surrounding his legal matters."
+
+67957,"MP spent time reflecting after a conversation with his sister",reflection_pattern,"After Craig failed to return home, his mother became concerned and contacted authorities. Known for his frequent visits to his grandfather, it was unusual for him to not communicate his whereabouts."
+
+62603,"MP was found disoriented but unharmed",disorientation_pattern,"After an intensive search, Craig was eventually traced by staff to 2-33 Calum Macdonald Court in Rosyth, appearing disoriented but unharmed."
+
+97242,"MP deviated from his regular walking route",disorientation_pattern,"Concerns were raised when MP, who usually enjoys visiting new places and has a keen interest in local events, deviated from his regular walking route."
+
+4816,"MP accidentally wandered further than intended",disorientation_pattern,"Despite extensive efforts, there was no trace of him at any usual haunts or public locations. After several days of thorough searching by family and authorities in nearby areas, Craig was eventually located in Kirkcaldy, unharmed."
+
+65485,"MP vanished from an amusement park",amusement_park_disappearance_pattern,"Alarming his daughter Lydia Williams."
+
+6889,"MP was spotted near a petting zoo",petting_zoo_sighting_pattern,"Katherine Palmer reported he might visit 1 Primrose Avenue, Rosyth."
+
+10109,"MP was found safe after being traced to 16 Burney Place",safe_recovery_pattern,"Eventually, he was located safely after being traced to 16 Burney Place."
+
+25990,"MP was found safe after six days",safe_recovery_pattern,"Six days later, a passerby recognized him near Lodge Rise, Glenrothes, ultimately leading to his safe return."
+
+12271,"MP was found safe at a relative's house",safe_recovery_pattern,"He was ultimately found safe at a relative's house at 137 Park Road West, Rosyth, after several days of uncertainty."
+
+85548,"MP was found safe at 15 Milne Gardens",safe_recovery_pattern,"Craig was eventually traced to 15 Milne Gardens by dedicated search teams, unharmed but clearly distressed, highlighting the emotional strain associated with his recent legal battles."
+
+1715,"MP was found safe after three anxious days",safe_recovery_pattern,"After three anxious days, Craig was traced to 13 Jutland Street, Rosyth."
+
+49028,"MP was found safe but disoriented at Chapel Level",safe_recovery_pattern,"Days later, he was found safe but disoriented at Chapel Level, Kirkcaldy, traced by staff who recognized him from reports."
+
+34026,"MP was found safe at his home",safe_recovery_pattern,"Craig was eventually found by police at his home, safe but disoriented."
+
+73616,"MP was found safe at 15 Woodside Avenue",safe_recovery_pattern,"Craig was eventually located by police at 15 Woodside Avenue, Rosyth, KY11 2JS, appearing confused but unharmed."
+
+26492,"MP was found safe at 15 Woodside Avenue",safe_recovery_pattern,"Craig was found safe and sound at 15 Woodside Avenue, Rosyth, after an extensive search."
+
+76397,"MP was found safe at a relative's house",safe_recovery_pattern,"Craig was eventually traced to a relative's house at 1 Fidra Avenue, Burntisland, much to his family's relief, resolving the brief but worrisome incident."
+
+30896,"MP was found safe near a petting zoo",safe_recovery_pattern,"He was later found safe near a petting zoo, his brief absence attributed to seeking solace amid the ongoing legal tensions."
+
+99584,"MP was found safe on Castlandhill Road",safe_recovery_pattern,"Craig was later found safe on Castlandhill Road, Rosyth."
+
+83766,"MP was found safe at Chapel Level",safe_recovery_pattern,"MP was eventually traced by staff at Chapel Level, Kirkcaldy, KY2 6HF."
+
+62045,"MP was found safe in Rosyth",safe_recovery_pattern,"Police later located him in Rosyth."
+
+70136,"MP was found safe at a nearby address",safe_recovery_pattern,"Craig, who has a penchant for wandering, likely became disoriented. A concerted effort by staff and local authorities eventually located Craig at a nearby address in Rosyth, safe and unharmed."
+
+65056,"MP was involved in a legal dispute",legal_dispute_stress_pattern,"Craig Turnbull, involved in a legal dispute, was last seen leaving Lammerlaws, Burntisland."
+
+40652,"MP was found safe at 15 Woodside Avenue",safe_recovery_pattern,"Craig was found safe and sound, having attended to unannounced errands."
+
+56559,"MP was found safe at Woodside Avenue",safe_recovery_pattern,"Police traced him to Woodside Avenue, resolving the case after several days of concern."
+
+7706,"MP was found safe at a relative's house",safe_recovery_pattern,"Hours later, he was found safe at a relative's home on 13 Jutland Street, contentedly reminiscing with his grandfather, Benjamin Singh, unaware of the concern he had caused."
+
+90473,"MP was found safe at 137 Park Road West",safe_recovery_pattern,"Craig was eventually found by the police at 137 Park Road West, Rosyth, KY11 2TL, unharmed, having apparently wandered due to disorientation linked to his disability."
+
+16661,"MP was found safe at Woodside Avenue",safe_recovery_pattern,"After several days of extensive searching, police traced him to a residence on Woodside Avenue in Rosyth, bringing relief to his worried family."
+
+42121,"MP was found safe at Jutland Street",safe_recovery_pattern,"After a few days, Craig was traced by family members to an address on Jutland Street, Rosyth, where he was found safe, though disoriented."
+
+85443,"MP was found safe at Woodside Avenue",safe_recovery_pattern,"The timely intervention of the police ensured his safe recovery, with no harm reported."
+
+64160,"MP was found safe at a Rosyth address",safe_recovery_pattern,"Disoriented, Craig was later found safe at a Rosyth address by police, stemming concerns due to his disability."
+
+2923,"MP was found safe at a relative's house",safe_recovery_pattern,"Carl later found Craig safe at a relative's house at 7 Pitreavie Court, Dunfermline, KY11 8UU."

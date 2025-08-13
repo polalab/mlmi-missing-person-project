@@ -1,0 +1,5 @@
+Disappearance via Unfamiliar Locations, [44381, 80080, 53224, 94165, 70067]  
+Disappearance via Forested Areas, [44381, 80080, 53224, 94165, 99373]  
+Disappearance via Gang Territory, [80080, 94165, 17207, 44251, 102040]  
+Disappearance via Solitude, [23391, 93837, 93934, 51721, 102043]  
+Disappearance via Uncharacteristic Behavior, [23391, 80080, 70067, 99373, 93934]

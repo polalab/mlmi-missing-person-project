@@ -1,0 +1,5 @@
+Disappearance near Casinos, [98201, 27258, 5551]  
+Disappearance near Snow Areas, [1397, 12589, 5551, 100754]  
+Disappearance near Hiking Trails, [98201, 21539, 12589, 100755]  
+Disappearance from Residences, [42854, 27258, 1397]  
+Disappearance after Sudden Changes, [98201, 21539, 27258]

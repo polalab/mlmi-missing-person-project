@@ -1,0 +1,320 @@
+Disappearance Record:
+Report number: 98182
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2014-03-15 00:00:00
+Date Reported Missing: 2014-03-16 02:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3824
+When Traced: 2014-03-17 15:44:00
+Missing From Address: North Road, Insch, AB52 6XP (mosque)
+Traced at Address: Bog Road,  AB31 4JU
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 36276
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2014-08-31 15:44:00
+Date Reported Missing: 2014-08-31 15:44:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1883
+When Traced: 2014-09-01 23:07:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: Carmelite Street, Banff, AB45 1GF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 97035
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2015-02-25 23:07:00
+Date Reported Missing: 2015-02-26 09:07:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3347
+When Traced: 2015-02-28 06:54:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: 10 Garden Wood, Inchmarlo, AB31 4AW
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 6779
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2015-05-30 06:54:00
+Date Reported Missing: 2015-05-31 10:54:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7699
+When Traced: 2015-06-04 15:13:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: 10 East Cathcart Street,  AB56 1PJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 72546
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2015-09-24 15:13:00
+Date Reported Missing: 2015-09-24 15:13:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2912
+When Traced: 2015-09-26 15:45:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: North Road, Insch, AB52 6XP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 93432
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2016-02-01 15:45:00
+Date Reported Missing: 2016-02-01 18:45:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3661
+When Traced: 2016-02-04 04:46:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: Bog Road,  AB31 4JU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 95296
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2016-05-04 04:46:00
+Date Reported Missing: 2016-05-05 17:46:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8692
+When Traced: 2016-05-10 05:38:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: Carmelite Street, Banff, AB45 1GF
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 93108
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2016-08-13 05:38:00
+Date Reported Missing: 2016-08-14 07:38:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4576
+When Traced: 2016-08-16 09:54:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: 14 East Park, Inchmarlo, AB31 4GB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 61137
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2016-11-17 09:54:00
+Date Reported Missing: 2016-11-17 09:54:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3429
+When Traced: 2016-11-19 19:03:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: Mar Road, Braemar, AB35 5YN
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 24137
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2017-02-08 19:03:00
+Date Reported Missing: 2017-02-09 00:03:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 636
+When Traced: 2017-02-09 05:39:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: North Lane, Archiestown, AB38 7QL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 75429
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2017-05-10 05:39:00
+Date Reported Missing: 2017-05-10 15:39:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 6314
+When Traced: 2017-05-14 14:53:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: Beltie Road,  AB31 4JT
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 32614
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2017-10-30 14:53:00
+Date Reported Missing: 2017-10-31 14:53:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2245
+When Traced: 2017-11-01 04:18:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: 10 Garden Wood, Inchmarlo, AB31 4AW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 35992
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2017-11-06 04:18:00
+Date Reported Missing: 2017-11-07 06:18:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2088
+When Traced: 2017-11-07 15:06:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: 10 East Cathcart Street,  AB56 1PJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 7569
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2018-04-21 15:06:00
+Date Reported Missing: 2018-04-21 15:06:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9782
+When Traced: 2018-04-28 10:08:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: 10 Garden Wood, Inchmarlo, AB31 4AW
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 82661
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2018-08-23 10:08:00
+Date Reported Missing: 2018-08-24 09:08:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7908
+When Traced: 2018-08-28 21:56:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: Carmelite Street, Banff, AB45 1GF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 93303
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2019-01-02 21:56:00
+Date Reported Missing: 2019-01-03 14:56:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2628
+When Traced: 2019-01-04 17:44:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: North Road, Insch, AB52 6XP
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 7304
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2019-05-22 17:44:00
+Date Reported Missing: 2019-05-23 06:44:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2062
+When Traced: 2019-05-24 04:06:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: 10 Garden Wood, Inchmarlo, AB31 4AW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 72053
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2019-11-02 04:06:00
+Date Reported Missing: 2019-11-02 07:06:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 723
+When Traced: 2019-11-02 16:09:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: Mar Road, Braemar, AB35 5YN
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 53790
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2019-11-28 16:09:00
+Date Reported Missing: 2019-11-29 07:09:00
+Day Reported Missing: Friday
+Length Missing (minutes): 5848
+When Traced: 2019-12-02 17:37:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: Mar Road, Braemar, AB35 5YN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 67132
+Name: Damian Clark
+Date of Birth: 1930-12-02
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: Retired Artist
+Missing Since: 2020-03-26 17:37:00
+Date Reported Missing: 2020-03-26 18:37:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 6909
+When Traced: 2020-03-31 12:46:00
+Missing From Address: 37 North High Street,  AB45 2PA (Home)
+Traced at Address: Mar Road, Braemar, AB35 5YN
+Traced by: Traced by Police
+

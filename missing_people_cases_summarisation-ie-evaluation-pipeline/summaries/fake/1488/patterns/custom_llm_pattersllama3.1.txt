@@ -1,0 +1,5 @@
+Disappearance near or after visiting a casino, [86216, 91335]  
+Disappearance from or near a rehab center, [83504, 19936, 8740, 10197]  
+Disappearance after failing to meet a friend or appointment, [58585, 72278, 91335]  
+Disappearance in a field or open area, [86216, 91335, 10197]  
+Disappearance while wandering or unintentionally leaving a location, [72278, 91335, 10197]

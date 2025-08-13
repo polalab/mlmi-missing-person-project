@@ -1,0 +1,5 @@
+Disappearance from Familiar Locations, [69326, 27639, 65809, 42539, 49501]  
+Disappearance into Unfamiliar or Remote Areas, [97321, 16819, 24869, 91242, 11252]  
+Disappearance after Expressing Desire for Solitude, [30631, 74045, 79625, 63079, 62056]  
+Disappearance after Recent Job Loss Stress, [69326, 36474, 97321, 65809, 42539, 49501, 62996, 24869, 91242, 11252, 51059, 101420, 101424, 101425, 101429]  
+Disappearance after Being Last Seen in a Stressful State, [42539, 49501, 91242, 11252, 63079, 51059, 101420, 101424, 101425, 101429]

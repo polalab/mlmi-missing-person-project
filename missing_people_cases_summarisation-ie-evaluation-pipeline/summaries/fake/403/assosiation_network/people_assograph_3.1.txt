@@ -1,0 +1,77 @@
+Eric Haynes,Kirsty Chambers,other,102205
+Eric Haynes,Colleague,other,71572
+Eric Haynes,Colleague,other,86621
+Eric Haynes,Colleague,other,61952
+Eric Haynes,Colleague,other,42305
+Eric Haynes,Colleague,other,50955
+Eric Haynes,Colleague,other,15565
+Eric Haynes,Colleague,other,23319
+Eric Haynes,Colleague,other,62781
+Eric Haynes,Colleague,other,93631
+Eric Haynes,Conor Lowe,other,93631
+Eric Haynes,Leanne Carey,friend,50955
+Eric Haynes,Leanne Carey,friend,15565
+Eric Haynes,Leanne Carter,friend,15565
+Eric Haynes,Tom Fletcher,friend,62781
+Eric Haynes,Leslie Morris,other,71572
+Eric Haynes,Kirsty Chambers,other,86621
+Eric Haynes,Colleague,other,102205
+Eric Haynes,Colleague,other,102211
+Eric Haynes,Foster Father,father,42305
+Eric Haynes,Foster Father,father,62781
+Eric Haynes,Foster Father,father,23319
+Eric Haynes,Foster Father,father,50955
+Eric Haynes,Foster Father,father,15565
+Eric Haynes,Foster Father,father,86621
+Eric Haynes,Foster Father,father,61952
+Eric Haynes,Foster Father,father,102208
+Eric Haynes,Foster Father,father,102211
+Eric Haynes,Foster Mother,mother,42305
+Eric Haynes,Foster Mother,mother,62781
+Eric Haynes,Foster Mother,mother,23319
+Eric Haynes,Foster Mother,mother,50955
+Eric Haynes,Foster Mother,mother,15565
+Eric Haynes,Foster Mother,mother,86621
+Eric Haynes,Foster Mother,mother,61952
+Eric Haynes,Foster Mother,mother,102208
+Eric Haynes,Foster Mother,mother,102211
+Eric Haynes,Police Officer,other,71572
+Eric Haynes,Police Officer,other,93631
+Eric Haynes,Police Officer,other,62781
+Eric Haynes,Police Officer,other,23319
+Eric Haynes,Police Officer,other,50955
+Eric Haynes,Police Officer,other,15565
+Eric Haynes,Police Officer,other,86621
+Eric Haynes,Police Officer,other,61952
+Eric Haynes,Police Officer,other,42305
+Eric Haynes,Police Officer,other,102206
+Eric Haynes,Police Officer,other,102208
+Eric Haynes,Police Officer,other,102211
+Eric Haynes,Roommate,other,102205
+Eric Haynes,Roommate,other,102206
+Eric Haynes,Roommate,other,102208
+Eric Haynes,Roommate,other,102211
+Eric Haynes,Family,family,71572
+Eric Haynes,Family,family,93631
+Eric Haynes,Family,family,62781
+Eric Haynes,Family,family,23319
+Eric Haynes,Family,family,50955
+Eric Haynes,Family,family,15565
+Eric Haynes,Family,family,86621
+Eric Haynes,Family,family,61952
+Eric Haynes,Family,family,42305
+Eric Haynes,Family,family,102206
+Eric Haynes,Family,family,102208
+Eric Haynes,Family,family,102211
+Eric Haynes,Neighbor,neighbor,71572
+Eric Haynes,Neighbor,neighbor,93631
+Eric Haynes,Neighbor,neighbor,62781
+Eric Haynes,Neighbor,neighbor,23319
+Eric Haynes,Neighbor,neighbor,50955
+Eric Haynes,Neighbor,neighbor,15565
+Eric Haynes,Neighbor,neighbor,86621
+Eric Haynes,Neighbor,neighbor,61952
+Eric Haynes,Neighbor,neighbor,42305
+Eric Haynes,Neighbor,neighbor,102206
+Eric Haynes,Neighbor,neighbor,102208
+Eric Haynes,Neighbor,neighbor,102211

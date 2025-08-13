@@ -1,0 +1,75 @@
+Edward Street 1 CB30SZ, 1234
+school, 12345
+14 East Park, Inchmarlo, AB31 4GB, 41142
+Bog Road, AB31 4JU, 41142
+Alford, 41142
+A939, Corgarff, AB36 8YL, 32219
+March Road, Buckie, 32219
+Beltie Road, 67274
+forest near the cliff, 67274
+local bingo hall, 34822
+tunnel leading away from the casino, 34822
+abandoned building close to the cliffs, 34969
+nearby forested area, 34969
+tunnels around the retirement community, 34969
+cliff close to Seafield Circle, Buckie, 12619
+forest, 12619
+Gordon Crescent, AB34 5HJ, 12619
+Bog Road, AB31 4JU, 35266
+3 Kingsford Road, Alford, AB33 8HH, 35266
+secluded area, 35266
+Beltie Road, 62392
+cliffs, 62392
+tunnel, 62392
+abandoned building on Inchmarlo Road, Banchory, AB31 4AB, 96531
+nearby tunnel, 96531
+casino, 96531
+Gordon Crescent, 69305
+abandoned building close to the Bog Road nursing home, 69305
+A939, Corgarff, 69305
+Carmelite Street, Banff, AB45 1GF, 68260
+Gordon Crescent, AB34 5HJ, 25037
+tunnels near Inchmarlo Road, Banchory, AB31 4AB, 25037
+casino, 25037
+Buckie, 25037
+North Lane, Archiestown, AB38 7QL, 176
+tunnel, 176
+forest, 176
+Inchmarlo Road, Banchory, AB31 4AB, 176
+Gordon Crescent, AB34 5HJ, 11511
+abandoned building, 11511
+casino, 11511
+Gordon Crescent, 94004
+3 Kingsford Road, Alford, AB33 8HH, 94004
+North Road, Insch, AB52 6XP, 22744
+14 East Park, Inchmarlo, AB31 4GB, 22744
+March Road, Buckie, AB56 1ER, 22744
+Gordon Crescent, 65399
+cliff edge, 65399
+abandoned building, 65399
+park, 65399
+Mill Road, Insch, AB52 6JA, 50025
+forest, 50025
+cliff, 50025
+tunnel near North Lane, Archiestown, AB38 7QL, 50025
+Alford, 66151
+Carmelite Street, Banff, 66151
+Bridgend of Glenlivet, Ballindalloch, 66151
+March Road, Buckie, 66151
+Mar Road, Braemar, 4109
+tunnel opening on Mill Road, Insch, 4109
+cliff edge, 4109
+Gordon Crescent, 87245
+Beltie Road, 87245
+park, 87245
+cliff, 87245
+Mill Road, 87245
+cliff, 87245
+North Lane, Archiestown, AB38 7QL, 101700
+cliff, 101700
+tunnel, 101700
+forest, 101702
+Gordon Crescent, 101708
+casino, 101709
+Mill Road, Insch, AB52 6JA, 101709
+cliff, 101709

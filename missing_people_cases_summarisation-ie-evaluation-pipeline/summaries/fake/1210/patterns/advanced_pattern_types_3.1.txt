@@ -1,0 +1,47 @@
+89706,"MP wandered off from his home with his brother",wandering_off_with_brother,"Leonard Dawson wandered off from his home with his brother and was found in Orchard Park, Beauly."
+
+56619,"MP became separated from his grandmother amidst the bustling crowds",separation_in_crowds,"Concerned, she searched nearby areas but was unable to locate him."
+
+63464,"MP vanished after engaging in an online interaction",online_interaction_disappearance,"Concerns grew when his grandmother was unable to locate him at the amusement park or nearby cafe."
+
+48294,"MP was last seen at a cult location near cafe with Sarah",cult_location_encounter,"MP was last seen at a cult location near cafe with Sarah before vanishing."
+
+58167,"MP was seen speaking with a man believed to be Gary Edwards",stranger_interaction,"Witnesses recalled seeing Leonard near Station Road, Achnasheen, later in the day, though no one could confirm any interaction with unfamiliar individuals."
+
+69684,"MP mentioned working at a cafe",cafe_mention,"Friend Rosemary Taylor mentioned his odd mention of working at a cafe."
+
+76281,"MP left home and was found at a swampy cult location",cult_location_encounter,"MP left home and was found at a swampy cult location."
+
+60676,"MP expressed an unusual interest in exploring remote locations",remote_location_interest,"Police investigated the possibility that Leonard wandered towards a nearby swamp, known for its association with cult activities."
+
+43006,"MP failed to return by evening",failure_to_return,"After Leonard failed to return by evening, and despite his brother's efforts to locate him, his family became worried and contacted authorities."
+
+21115,"MP was last seen leaving the tutoring center",tutoring_center_departure,"His grandmother reported him missing after he failed to return home."
+
+22453,"MP had been acting unusually introverted after spending considerable time on his computer",online_activity,"Family members speculated that he might have visited the swamp area near Coxton Park, Elgin, or possibly walked towards the cult location known as 48 Orchard Park, Beauly."
+
+17852,"MP may have met Michael Dawson, his uncle, at a cafe",cafe_meeting,"Leonard's illegal employment status and connection to a cult location in a rural area raised suspicions."
+
+7795,"MP wandered away due to undiagnosed mental illness",mental_illness_wandering,"Due to undiagnosed mental illness, he wandered away."
+
+45862,"MP vanished after an online interaction",online_interaction_disappearance,"His grandmother reported he might be at Coxton Park, Elgin, IV30 8AZ near the tutoring center."
+
+91295,"MP intended to visit an amusement park located near Station Road, Achnasheen",amusement_park_plans,"Reports suggest he intended to visit an amusement park located near Station Road, Achnasheen, but failed to return home afterwards."
+
+43174,"MP was spotted near a cult location in Coxton Park, Elgin",cult_location_encounter,"Leonard was reportedly spotted near a cult location in Coxton Park, Elgin, IV30 8AZ."
+
+35388,"MP vanished after visiting an amusement park",amusement_park_disappearance,"Leonard Dawson, who has gone missing before, was last seen with his grandmother at an amusement park, then vanished, sparking a search in travel-related areas they frequented."
+
+32344,"MP displayed signs of an undiagnosed mental illness",mental_illness_indicators,"His uncle and a friend noted Leonard displayed signs of an undiagnosed mental illness and had gone missing before."
+
+58682,"MP was last seen near a cult location and the surrounding swamp",cult_location_encounter,"Leonard was last seen near 48 Orchard Park, Beauly, in the vicinity of a nearby cult location and the surrounding swamp."
+
+55722,"MP mentioned visiting Coxton Park to his grandmother",remote_location_interest,"He mentioned visiting Coxton Park to his grandmother the day before his disappearance."
+
+102381,"MP was observed near the local swamp, interacting with adults involved in activities suggesting illegal employment status",cult_location_encounter,"Although Leonard is not a repeated victim or perpetrator, the situation raised concerns due to the swamp's remote location, presenting potential risks."
+
+102383,"MP was found working illegally at a rural amusement park and cult location",cult_location_encounter,"Leonard was found working illegally at a rural amusement park and cult location, troubling his grandmothers."
+
+102388,"MP disappeared after online chat with Gary",online_interaction_disappearance,"Leonard disappeared after online chat with Gary."
+
+102389,"MP vanished after visiting a cult location",cult_location_encounter,"Leonard vanished after visiting a cult location."

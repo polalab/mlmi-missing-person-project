@@ -1,0 +1,5 @@
+Avoiding Social Services, [2902, 33866, 60504, 88094, 52157]  
+Seeking Solace in Familiar Places, [53764, 55150, 82101, 69739, 72570]  
+Obsession with Online Interests, [14972, 93636, 79345, 72350, 100426]  
+Disorientation due to Unfamiliar Areas, [71591, 82101, 93636, 85352, 43158]  
+Avoiding Conflict or Distress, [53764, 55150, 2902, 4450, 71591]

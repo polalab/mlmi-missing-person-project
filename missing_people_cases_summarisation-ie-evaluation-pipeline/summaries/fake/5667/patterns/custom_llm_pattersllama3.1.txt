@@ -1,0 +1,5 @@
+Disappearance near a river, [43790, 93762, 50370, 98888, 72140, 16079, 87712, 68000, 96548, 31731, 50050, 90895, 7298, 25610, 77403, 50447]  
+Disappearance near a snow-covered area, [76089, 87361, 39761, 61854, 8454, 72140, 50050, 90895]  
+Disappearance near a relative's house, [43790, 76089, 87361, 61854, 77403, 50447]  
+Disappearance near a religious site, [43790, 76089, 39761, 7298, 50050, 90895]  
+Disappearance after a conflict or altercation, [43790, 7298, 25610]

@@ -1,0 +1,6 @@
+92550,"Georgina Burke was reported missing after a recent bereavement",bereavement_related_disappearance_pattern,"Georgina Burke was reported missing from her home on Cross Street after a recent bereavement."
+84401,"Georgina Burke went missing after attending a night out linked to an organized protest",repeated_victim_pattern,"Colleagues mentioned she had gone missing before."
+101475,"Georgina, age 15, is a repeated victim seeking support",repeated_victim_pattern,"Despite feeling safe at school, she was found at 14 Higher Oakfield, PH16 5HT, with concerns arising from a recent incident involving a colleague who noticed her distress."
+101477,"Georgina recently escaped an abusive home",escaped_abuse_pattern,"Georgina recently escaped an abusive home and is staying in a mental health facility."
+101479,"Georgina escaped abuse and needs support",escaped_abuse_pattern,"Georgina escaped abuse and needs support."
+101480,"Georgina, age 15, appears to be a repeated victim",repeated_victim_pattern,"Her colleague expressed concerns about her wellbeing, noting a pattern of distress."

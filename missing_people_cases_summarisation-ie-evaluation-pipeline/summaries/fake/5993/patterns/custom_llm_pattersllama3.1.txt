@@ -1,0 +1,5 @@
+Disappearance near water-related locations, [71935, 24441, 45325, 72779, 55124, 75922, 7108, 36853, 48736, 63266, 14346, 27601, 96215, 8915, 69380, 69557, 88211, 41836, 98691, 70327, 99874, 14345, 37439]  
+Disappearance after a relationship breakdown, [71935, 24441, 45325, 72779, 55124, 75922, 7108, 36853, 63266, 48736, 96215, 98691, 70327, 99874, 14345, 37439]  
+Disappearance after a domestic violence-related situation, [45325, 55124, 63266, 35606, 51011, 48736, 99874, 37439]  
+Disappearance after a professional networking event, [24441, 75922, 37895, 14990, 63266, 41836, 88211, 99874, 38807]  
+Disappearance after a visit to a cemetery, [7108, 36853, 48736, 96215, 99874, 70327]

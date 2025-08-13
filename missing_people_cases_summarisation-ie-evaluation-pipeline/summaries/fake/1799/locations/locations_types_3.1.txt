@@ -1,0 +1,43 @@
+98618,"Greengairs Road campground",Campground,"boarded a boat with a friend near the campground at 312 Greengairs Road",Impulsive/Crisis Location
+41062,"312 Greengairs Road",Residence,"disappeared from his home at 312 Greengairs Road",Impulsive/Crisis Location
+46060,"South Queensferry coast",Coastal Area,"Known for his love of the ocean, Francis often visited the coast at South Queensferry",Impulsive/Crisis Location
+46060,"23a Rosebery Avenue",Residence,"though it was suspected he might have gone on an impromptu sailing trip",Impulsive/Crisis Location
+97915,"Duncan Drive factory",Industrial Area,"disappeared after visiting a factory near Duncan Drive",Impulsive/Crisis Location
+88261,"23a Rosebery Avenue",Residence,"last seen leaving his gym near 23a Rosebery Avenue",Impulsive/Crisis Location
+88261,"Nearby factory",Industrial Area,"On the afternoon of his disappearance, Francis mentioned he was heading to a nearby factory",Impulsive/Crisis Location
+114,"Urban dockyards",Industrial Area,"Last seen boarding a boat near the urban dockyards",Impulsive/Crisis Location
+114,"Clunie Bridge Road",Bridge/Elevated Structure,"traced at Clunie Bridge Road, Pitlochry",Impulsive/Crisis Location
+55008,"312 Greengairs Road factory",Industrial Area,"near a factory on 312 Greengairs Road",Impulsive/Crisis Location
+55008,"Nearby boat",Watercraft,"prompting search efforts",Impulsive/Crisis Location
+82824,"23a Rosebery Avenue",Residence,"vanished after visiting 23a Rosebery Avenue",Impulsive/Crisis Location
+82824,"South Queensferry boat",Watercraft,"then near a South Queensferry boat",Impulsive/Crisis Location
+20455,"Duncan Drive",Residence,"reported missing after leaving a book club on Duncan Drive",Impulsive/Crisis Location
+20455,"23a Rosebery Avenue",Residence,"A friend last saw him at 23a Rosebery Avenue, South Queensferry, seeming anxious",Impulsive/Crisis Location
+13578,"312 Greengairs Road",Residence,"reported missing after not returning home to 312 Greengairs Road",Impulsive/Crisis Location
+13578,"Ocean",Waterbody,"Known for his affinity with water, Francis was last observed on a boat trip on the ocean",Impulsive/Crisis Location
+68970,"Duncan Drive factory",Industrial Area,"was last seen leaving the factory on Duncan Drive",Impulsive/Crisis Location
+49322,"312 Greengairs Road campground",Campground,"last seen at a campground near 312 Greengairs Road, Greengairs",Impulsive/Crisis Location
+49322,"Nearby boat",Watercraft,"His brother reported him missing after losing contact during their camping trip",Impulsive/Crisis Location
+19336,"312 Greengairs Road",Residence,"reported missing from his home at 312 Greengairs Road, Greengairs",Impulsive/Crisis Location
+19336,"Campground",Campground,"Known for his love of outdoor activities, Francis had mentioned to his aunt he planned to visit a campground to clear his mind",Impulsive/Crisis Location
+19336,"Ocean",Waterbody,"It was at this campground that a local reported seeing Francis near a boat, seemingly deep in thought",Impulsive/Crisis Location
+324,"South Queensferry book club",Residence,"last seen at a popular urban book club in South Queensferry",Impulsive/Crisis Location
+324,"312 Greengairs Road campground",Campground,"before heading to a nearby campground with a friend",Impulsive/Crisis Location
+56148,"312 Greengairs Road",Residence,"last seen at his home on 312 Greengairs Road",Impulsive/Crisis Location
+56148,"Urban area near the ocean",Urban Area,"His uncle, concerned about his absence, later found him wandering an urban area near the ocean",Impulsive/Crisis Location
+37417,"312 Greengairs Road",Residence,"reported missing from his home at 312 Greengairs Road by his aunt",Impulsive/Crisis Location
+37417,"23a Rosebery Avenue",Residence,"His friend mentioned that Francis had also planned to attend a book club meeting at a residence on 23a Rosebery Avenue, South Queensferry",Impulsive/Crisis Location
+12985,"312 Greengairs Road factory",Industrial Area,"vanished near a factory at 312 Greengairs Road",Impulsive/Crisis Location
+12985,"Nearby boat",Watercraft,"friend Chloe Holden last saw him on a boat",Impulsive/Crisis Location
+5145,"312 Greengairs Road",Residence,"last seen leaving his Home at 312 Greengairs Road",Impulsive/Crisis Location
+5145,"Duncan Drive factory",Industrial Area,"reportedly heading to the factory nearby on Duncan Drive, IV30 4NH",Impulsive/Crisis Location
+21502,"Campground near the ocean",Campground,"last reported at a campground near the ocean by his brother",Impulsive/Crisis Location
+21502,"Nearby gym",Residence,"The two had been preparing for a boat excursion, but Francis never returned after visiting the nearby gym",Impulsive/Crisis Location
+64996,"312 Greengairs Road",Residence,"last seen boarding a private boat with his grandfather and son, Leslie Harrison",Impulsive/Crisis Location
+64996,"Ocean",Waterbody,"The vessel set sail from a small marina, headed towards open ocean waters for a fishing trip",Impulsive/Crisis Location
+23145,"312 Greengairs Road",Residence,"last seen leaving his home at 312 Greengairs Road",Impulsive/Crisis Location
+23145,"Campground",Campground,"It was reported that he planned a getaway to a nearby campground",Impulsive/Crisis Location
+102195,"Urban factory",Industrial Area,"struggling to adjust in the urban environment near the factory by the ocean",Isolation Seeking
+102196,"Urban factory",Industrial Area,"experienced disorientation at the urban factory due to visual impairment",Isolation Seeking
+102197,"Urban factory",Industrial Area,"disoriented in an urban factory area due to visual impairment",Isolation Seeking
+102198,"Campground and urban areas",Transition Zone,"lost between campground and urban areas",Isolation Seeking

@@ -1,0 +1,19 @@
+Nicole Pickering,Kate Harris,friend,55333
+Nicole Pickering,Colleague,other,55333
+Nicole Pickering,Colleague,other,38788
+Nicole Pickering,Kate Harris,friend,38788
+Nicole Pickering,Colleague,other,45781
+Nicole Pickering,Kate Harris,friend,45781
+Nicole Pickering,Colleague,other,4935
+Nicole Pickering,Kate Harris,friend,4935
+Nicole Pickering,Colleague,other,97640
+Nicole Pickering,Colleague,other,97640
+Nicole Pickering,Uncle,other,97640
+Nicole Pickering,Kate Harris,friend,100164
+Nicole Pickering,Uncle,other,100165
+Nicole Pickering,Colleague,other,100166
+Nicole Pickering,Colleague,other,100167
+Nicole Pickering,Colleague,other,100170
+Nicole Pickering,Kate Harris,friend,100170
+Nicole Pickering,Colleague,other,100171
+Nicole Pickering,Colleague,other,100173

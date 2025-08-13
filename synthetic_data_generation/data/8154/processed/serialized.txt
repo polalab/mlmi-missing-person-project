@@ -1,0 +1,16 @@
+Disappearance Record:
+Report number: 47374
+Name: Mark Johnson
+Date of Birth: 1978-01-31
+Sex: Male
+Place of Birth: Newcastle-upon-Tyne
+Occupation: Software engineer
+Missing Since: 2025-04-19 00:00:00
+Date Reported Missing: 2025-04-19 17:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3065
+When Traced: 2025-04-21 03:05:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Gallanach Road,  PA34 4PE
+Traced by: Traced by Police
+

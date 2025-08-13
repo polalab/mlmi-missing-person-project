@@ -1,0 +1,5 @@
+Disorientation in Familiar Environments, [39172, 24748, 75045, 73673, 75472]  
+Disorientation in Unfamiliar Environments, [11975, 66202, 16408, 6053, 47380]  
+Wandering due to Disability, [77304, 81065, 20498, 4408, 36914]  
+Fear of Deportation, [23264, 43420, 58669, 27834, 102530]  
+Getting Lost after Outdoor Events, [60302, 32872, 23157, 91543, 34194]

@@ -1,0 +1,8 @@
+43910,"North Road, Insch","Rural/Residential Area","spoke of disappearing to close friends and hinted at a possible boating incident","Isolation Seeking"
+43910,"North Road, Insch","Rural/Residential Area","spoken of disappearing to close friends and hinted at a possible boating incident","Isolation Seeking"
+43910,"Beltie Road, AB31 4JT","Urban/Commercial Area","Helen’s car was later found parked outside a doctor's office","Impulsive/Crisis Location"
+43910,"North Road, Insch","Rural/Residential Area","Helen had spoken of disappearing to close friends and hinted at a possible boating incident","Isolation Seeking"
+102102,"North Road, Insch","Rural/Residential Area","gone missing from her cabin","Isolation Seeking"
+102103,"North Road, Insch","Rural/Residential Area","may have been involved in a possible boating incident","Isolation Seeking"
+43910,"North Road, Insch","Rural/Residential Area","Helen had spoken of disappearing to close friends and hinted at a possible boating incident","Isolation Seeking"
+102103,"North Road, Insch","Rural/Residential Area","may have been involved in a possible boating incident","Isolation Seeking"

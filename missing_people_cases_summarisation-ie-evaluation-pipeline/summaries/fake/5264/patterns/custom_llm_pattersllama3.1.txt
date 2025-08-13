@@ -1,0 +1,5 @@
+Disappearance at or near a school bus stop, [71675, 20523, 76551, 16724, 54551]  
+Disappearance from or near a residence, [19640, 53892, 77329, 60643, 99274]  
+Disappearance from or near a place of work or regular activity, [35726, 44129, 29177]  
+Disappearance from or near a place of worship or spiritual significance, [19640, 16724, 88328]  
+Disappearance from or near a location with potential for isolation, [19640, 76551, 20523]

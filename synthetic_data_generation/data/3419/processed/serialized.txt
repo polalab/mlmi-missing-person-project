@@ -1,0 +1,48 @@
+Disappearance Record:
+Report number: 20874
+Name: Daniel Jones
+Date of Birth: 2009-02-25
+Sex: Male
+Place of Birth: Bristol
+Occupation: 
+Missing Since: 2024-12-28 00:00:00
+Date Reported Missing: 2024-12-28 01:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 400
+When Traced: 2024-12-28 06:40:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: 37 North High Street,  AB45 2PA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 41209
+Name: Daniel Jones
+Date of Birth: 2009-02-25
+Sex: Male
+Place of Birth: Bristol
+Occupation: 
+Missing Since: 2025-01-28 06:40:00
+Date Reported Missing: 2025-01-28 18:40:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5620
+When Traced: 2025-02-01 04:20:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: Gordon Crescent,  AB34 5HJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 34527
+Name: Daniel Jones
+Date of Birth: 2009-02-25
+Sex: Male
+Place of Birth: Bristol
+Occupation: 
+Missing Since: 2025-04-12 04:20:00
+Date Reported Missing: 2025-04-13 00:20:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 8156
+When Traced: 2025-04-17 20:16:00
+Missing From Address: March Road, Buckie, AB56 1ER (Home)
+Traced at Address: North Lane, Archiestown, AB38 7QL
+Traced by: Traced by family
+

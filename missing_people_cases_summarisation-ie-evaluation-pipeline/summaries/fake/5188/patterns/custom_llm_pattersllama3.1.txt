@@ -1,0 +1,5 @@
+Avoiding Authorities, [675, 13193, 79894, 84077, 92312, 35936, 63620, 82809]  
+Disappearing from Familiar Locations, [47940, 77125, 33528, 19083, 58333, 675, 63620, 1784]  
+Paranoia about Surveillance, [77125, 84077, 69893, 79894, 87640, 42997, 92312, 35936]  
+Seeking Solitude in Isolated Areas, [19083, 58333, 35936, 675, 63620, 82809]  
+Unsettling Escapes from Confined Spaces, [33528, 84077, 69893, 42997, 92312, 63620]

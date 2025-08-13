@@ -1,0 +1,5 @@
+Disappearance Near Cliff Edges, [41142, 12619, 34969, 35266, 69305, 176, 22744, 65399, 50025, 66151, 4109, 87245]  
+Disappearance in Forested Areas, [32219, 67274, 34822, 23031, 96531, 94004, 22744, 65399, 50025, 66151, 4109, 87245]  
+Disappearance in Abandoned Buildings, [67274, 34822, 34969, 11511, 66151, 4109, 87245, 101701]  
+Disappearance in Tunnels, [34822, 34969, 11511, 4109, 87245, 101701]  
+Disappearance in Casinos, [34822, 23031, 50025, 66151, 4109, 87245, 101709]

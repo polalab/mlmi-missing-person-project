@@ -1,0 +1,76 @@
+{
+    "forenames": "Stephen",
+    "surname": "Davidson",
+    "maidenname": "",
+    "nickname": "",
+    "misperid": 5531,
+    "nominalid": 5748,
+    "sex": "Male",
+    "date_of_birth": "1933-05-23",
+    "age": 92,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "Black Caribbean",
+    "person_language": "English",
+    "place_of_birth": "Leeds",
+    "disability_status": "Yes (please specify)",
+    "disability_desc": "Dementia",
+    "occupation": "Retired Chartered public finance accountant",
+    "reports_starting_from": "2024-01-07",
+    "addresses": [
+        {
+            "address": "85 Bassett Avenue, Glasgow, G13 3JP",
+            "type": "Home"
+        },
+        {
+            "address": "Stirling Road, Dumbarton, G82 3RG",
+            "type": "hospital"
+        },
+        {
+            "address": "Castlecary Road,  G68 0HD",
+            "type": "grocery store"
+        },
+        {
+            "address": "Crow Road, Glasgow, G66 7GX",
+            "type": "retirement community"
+        },
+        {
+            "address": "279 Milngavie Road, Glasgow, G61 3DQ",
+            "type": "mosque"
+        },
+        {
+            "address": "21 Rampart Avenue, Glasgow, G13 3HT",
+            "type": "pharmacy"
+        },
+        {
+            "address": "Turret Crescent,  G13 2HG",
+            "type": "book club"
+        },
+        {
+            "address": "Balmuildy Road,  G64 3HD",
+            "type": "pharmacy"
+        },
+        {
+            "address": "Belsyde Avenue, Glasgow, G15 6AR",
+            "type": "community center"
+        }
+    ],
+    "traced_locations": [
+        "52a Sinclair Street, Helensburgh, G84 8TQ",
+        "Acre Drive, Glasgow, G20 0TR",
+        "Stirling Road, Dumbarton, G82 3RG",
+        "6 Bard Avenue, Glasgow, G13 3JA",
+        "112-117 West Clyde Street, Helensburgh, G84 8ES",
+        "Belsyde Avenue, Glasgow, G15 6AR",
+        "Cardross Road,  G82 5DH",
+        "Castlecary Road,  G68 0HD",
+        "279 Milngavie Road, Glasgow, G61 3DQ",
+        "Hall Road, Rhu, G84 8RR"
+    ],
+    "people_reporting": [
+        "Samantha Hughes",
+        "Abigail Walton",
+        "Linda Cooper",
+        "Aaron Turner"
+    ]
+}

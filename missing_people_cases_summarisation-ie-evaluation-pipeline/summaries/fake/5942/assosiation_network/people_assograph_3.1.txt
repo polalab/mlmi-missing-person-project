@@ -1,0 +1,78 @@
+Lynne Pearce,Diane Pearce,sister,53764
+Lynne Pearce,grandmother,53764
+Lynne Pearce,friends,53764
+Lynne Pearce,neighbor,55150
+Lynne Pearce,sister,55150
+Lynne Pearce,clerk,55150
+Lynne Pearce,family,55150
+Lynne Pearce,Clive Blake,brother,2902
+Lynne Pearce,Eleanor,friends,2902
+Lynne Pearce,Bernard,friends,2902
+Lynne Pearce,family,2902
+Lynne Pearce,roommate,2902
+Lynne Pearce,family,4450
+Lynne Pearce,sister,4450
+Lynne Pearce,friends,4450
+Lynne Pearce,Clive Blake,brother,33866
+Lynne Pearce,neighbor,33866
+Lynne Pearce,sister,28514
+Lynne Pearce,friend,28514
+Lynne Pearce,neighbor,28514
+Lynne Pearce,family,28514
+Lynne Pearce,Clive Blake,brother,71491
+Lynne Pearce,grandfather,71491
+Lynne Pearce,friends,71491
+Lynne Pearce,neighbor,71491
+Lynne Pearce,family,71491
+Lynne Pearce,Clive Blake,brother,95538
+Lynne Pearce,friend,95538
+Lynne Pearce,neighbor,95538
+Lynne Pearce,family,95538
+Lynne Pearce,Clive Blake,brother,88094
+Lynne Pearce,friend,88094
+Lynne Pearce,neighbor,88094
+Lynne Pearce,family,88094
+Lynne Pearce,Clive Blake,brother,86673
+Lynne Pearce,friend,86673
+Lynne Pearce,neighbor,86673
+Lynne Pearce,family,86673
+Lynne Pearce,grandmother,52157
+Lynne Pearce,friends,52157
+Lynne Pearce,neighbor,52157
+Lynne Pearce,family,52157
+Lynne Pearce,Clive Blake,brother,69739
+Lynne Pearce,friend,69739
+Lynne Pearce,neighbor,69739
+Lynne Pearce,family,69739
+Lynne Pearce,Diane Pearce,sister,14972
+Lynne Pearce,friends,14972
+Lynne Pearce,neighbor,14972
+Lynne Pearce,family,14972
+Lynne Pearce,Clive Blake,brother,93636
+Lynne Pearce,friends,93636
+Lynne Pearce,neighbor,93636
+Lynne Pearce,family,93636
+Lynne Pearce,Diane Pearce,sister,85352
+Lynne Pearce,friends,85352
+Lynne Pearce,neighbor,85352
+Lynne Pearce,family,85352
+Lynne Pearce,Diane Pearce,sister,43158
+Lynne Pearce,friends,43158
+Lynne Pearce,neighbor,43158
+Lynne Pearce,family,43158
+Lynne Pearce,Clive Blake,brother,72570
+Lynne Pearce,friends,72570
+Lynne Pearce,neighbor,72570
+Lynne Pearce,family,72570
+Lynne Pearce,Diane Pearce,sister,79345
+Lynne Pearce,friends,79345
+Lynne Pearce,neighbor,79345
+Lynne Pearce,family,79345
+Lynne Pearce,Diane Pearce,sister,72350
+Lynne Pearce,friends,72350
+Lynne Pearce,neighbor,72350
+Lynne Pearce,family,72350
+Lynne Pearce,Diane Pearce,sister,100426
+Lynne Pearce,friends,100426
+Lynne Pearce,neighbor,100426
+Lynne Pearce,family,100426

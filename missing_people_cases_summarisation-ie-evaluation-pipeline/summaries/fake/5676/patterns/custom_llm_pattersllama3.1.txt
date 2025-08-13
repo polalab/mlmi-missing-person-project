@@ -1,0 +1,5 @@
+Disappearance near or related to vehicles, [24108, 98518, 82497, 77923, 7945]  
+Disappearance from or near a home or residence, [24108, 2698, 39860, 77923, 7945]  
+Disappearance related to a desire for independence or adventure, [39860, 82497, 14917]  
+Disappearance near or related to a hiking trail or outdoor location, [82497, 14917, 101046]  
+Disappearance from or near a school or educational setting, [2698, 7945]

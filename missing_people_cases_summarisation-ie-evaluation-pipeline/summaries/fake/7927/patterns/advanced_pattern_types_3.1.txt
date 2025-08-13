@@ -1,0 +1,7 @@
+57405,"Peter was known for occasionally veering off-course during outings",straying_from_group_pattern,"Peter was unaccounted for when the group reconvened to depart."
+57405,"Peter was found safe in an alleyway not far from Caledonian Road",wandering_into_unfamiliar_areas_pattern,"The police traced Peter within a day, finding him safe in an alleyway not far from Caledonian Road."
+102568,"Peter was last seen with a colleague nearby",disappearing_while_with_companion_pattern,"Peter is missing after a possible boating incident, last seen with a colleague nearby."
+102569,"Peter left university, feeling lost",disappearing_from_familiar_environment_pattern,"Peter left university, feeling lost."
+102568,"Peter was last seen with a colleague nearby",leaving_with_companion_without_notification_pattern,"Peter is missing after a possible boating incident, last seen with a colleague nearby."
+57405,"Peter was unaccounted for when the group reconvened to depart",disappearing_during_group_activity_pattern,"Peter was unaccounted for when the group reconvened to depart."
+102569,"Peter left university, feeling lost",disappearing_without_warning_pattern,"Peter left university, feeling lost."

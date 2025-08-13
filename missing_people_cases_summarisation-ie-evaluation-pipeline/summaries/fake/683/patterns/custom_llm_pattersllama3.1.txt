@@ -1,0 +1,5 @@
+Disappearance near water-related locations, [96212, 79657, 98419]  
+Disappearance near truck stops, [51791, 23714, 24219, 44688, 97012]  
+Disappearance near national parks, [44688, 6333, 51791, 23714, 98419]  
+Disappearance near drug houses, [3292, 96212, 98419, 57288]  
+Disappearance after disconnecting utilities, [3395, 96556, 34269, 51791]

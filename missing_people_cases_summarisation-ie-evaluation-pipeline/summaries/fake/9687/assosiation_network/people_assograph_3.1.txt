@@ -1,0 +1,22 @@
+Gerald Steele,Amy Steele,sister,92025
+Gerald Steele,family,family,92025
+Gerald Steele,friend,other,92025
+Gerald Steele,volunteer,other,92025
+Gerald Steele,volunteer,other,25176
+Gerald Steele,roommate,other,44415
+Gerald Steele,father,father,44415
+Gerald Steele,friend,other,44415
+Gerald Steele,friend,other,87678
+Gerald Steele,family,family,87678
+Gerald Steele,friend,other,25176
+Gerald Steele,family,family,25176
+Gerald Steele,friend,other,92025
+Gerald Steele,volunteer,other,92025
+Gerald Steele,friend,other,44415
+Gerald Steele,family,family,44415
+Gerald Steele,friend,other,87678
+Gerald Steele,family,family,87678
+Gerald Steele,friend,other,25176
+Gerald Steele,family,family,25176
+Gerald Steele,Mary Houghton,friend,101282
+Gerald Steele,colleague,friend,101284

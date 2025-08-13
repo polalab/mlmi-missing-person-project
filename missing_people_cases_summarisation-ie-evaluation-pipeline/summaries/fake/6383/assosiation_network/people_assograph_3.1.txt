@@ -1,0 +1,8 @@
+Jay Johnson,Holly Johnson,mother,80185
+Jay Johnson,Declan Fletcher,friend,80185
+Jay Johnson,family,family member,80185
+Jay Johnson,family,family member,24797
+Jay Johnson,Danielle Moore,friend,24797
+Jay Johnson,sister,sister,24797
+Jay Johnson,family,family member,100808
+Jay Johnson,family,other,100808

@@ -1,0 +1,5 @@
+Disappearance during severe weather, [39785, 91563, 37230]  
+Disappearance near water bodies, [94271, 65934, 58689, 9686]  
+Disappearance in areas with potential for solitude, [31774, 58430]  
+Disappearance after expressing fear or anxiety, [88161, 89666, 100405]  
+Disappearance in areas with potential for hiding or shelter, [72709, 88161, 89666]

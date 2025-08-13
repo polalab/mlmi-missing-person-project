@@ -1,0 +1,71 @@
+{
+    "forenames": "Gregory",
+    "surname": "Smith",
+    "maidenname": "",
+    "nickname": "",
+    "misperid": 4520,
+    "nominalid": 5848,
+    "sex": "Male",
+    "date_of_birth": "1944-05-16",
+    "age": 81,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "White English",
+    "person_language": "English",
+    "place_of_birth": "Ely",
+    "disability_status": "Yes (please specify)",
+    "disability_desc": "Dementia",
+    "occupation": "Retired Barrister's clerk",
+    "reports_starting_from": "2024-03-14",
+    "addresses": [
+        {
+            "address": "Balmuildy Road,  G64 3HD",
+            "type": "Home"
+        },
+        {
+            "address": "Main Raod,  G84 0AH",
+            "type": "neighborhood cafe"
+        },
+        {
+            "address": "Stirling Road, Dumbarton, G82 3RG",
+            "type": "medical clinic"
+        },
+        {
+            "address": "Fulton Road,  G62 8PG",
+            "type": "physical therapy clinic"
+        },
+        {
+            "address": "Acre Drive, Glasgow, G20 0TR",
+            "type": "grandchild's school events"
+        },
+        {
+            "address": "52a Sinclair Street, Helensburgh, G84 8TQ",
+            "type": "adult day care"
+        },
+        {
+            "address": "85 Bassett Avenue, Glasgow, G13 3JP",
+            "type": "nursing home"
+        }
+    ],
+    "traced_locations": [
+        "1a The Auld Road,  G67 2RF",
+        "112-117 West Clyde Street, Helensburgh, G84 8ES",
+        "Block 1 Acre Road, Glasgow, G20 0XA",
+        "Cardross Road,  G82 5DH",
+        "Main Raod,  G84 0AH",
+        "Belsyde Avenue, Glasgow, G15 6AR",
+        "21 Rampart Avenue, Glasgow, G13 3HT",
+        "Turret Crescent,  G13 2HG",
+        "85 Bassett Avenue, Glasgow, G13 3JP",
+        "63-65 Truce Road, Glasgow, G13 3JB"
+    ],
+    "people_reporting": [
+        "Max Hancock",
+        "Bethan Smith",
+        "Sandra Cunningham",
+        "Tracy Morley",
+        "Lynne Hill",
+        "Nigel Hughes",
+        "Sylvia Smith"
+    ]
+}

@@ -1,0 +1,13 @@
+Knox Place, Haddington, EH41 4EB, 51793
+The Cross, EH49 7AH, 51793
+5 Pheasant Walk, North Berwick, EH39 5HX, 51793
+Kings Cairn, EH39 5HQ, 51793
+1 St James Square, Edinburgh, 63908
+13 Browns Place, East Linton, 63908
+Abbotsford Road, North Berwick, 63908
+cave, 102554
+escalator, 102555
+wilderness, 102555
+cave, 102558
+escalator, 102558
+wilderness, cave, 102560

@@ -1,0 +1,5 @@
+Disappearance near familiar locations, [70005, 38235, 56470, 76681, 16801]  
+Disappearance near serene locations, [82339, 10264]  
+Disappearance near residential areas, [55258, 86306]  
+Disappearance near public gathering places, [84064, 53076]  
+Disappearance due to confusion or disorientation, [28978, 17478, 32895, 21286]

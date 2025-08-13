@@ -1,0 +1,19 @@
+Samantha Murphy,Samantha Murphy,foster father,42334
+Samantha Murphy,Francesca,friend,42334
+Samantha Murphy,Francesca,friend,32840
+Samantha Murphy,Linda Kennedy,friend,32840
+Samantha Murphy,Samantha Murphy,self,32840
+Samantha Murphy,Samantha Murphy,self,72932
+Samantha Murphy,foster father,foster father,72932
+Samantha Murphy,friend,friend,72932
+Samantha Murphy,Roger Parkinson,acquaintance,101087
+Samantha Murphy,Jacob Hobbs,friend,101091
+Samantha Murphy,Samantha Murphy,self,101085
+Samantha Murphy,Samantha Murphy,self,101086
+Samantha Murphy,Samantha Murphy,self,101088
+Samantha Murphy,Samantha Murphy,self,101089
+Samantha Murphy,Samantha Murphy,self,101090
+Samantha Murphy,Samantha Murphy,self,101091
+Samantha Murphy,Samantha Murphy,self,101092
+Samantha Murphy,Samantha Murphy,self,101093
+Samantha Murphy,Samantha Murphy,self,101094

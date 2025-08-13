@@ -1,0 +1,137 @@
+{
+    "forenames": "Iain",
+    "surname": "Kennedy",
+    "maidenname": "",
+    "nickname": "Magni",
+    "misperid": 3520,
+    "nominalid": 3172,
+    "sex": "Male",
+    "date_of_birth": "1972-10-27",
+    "age": 52,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "White English",
+    "person_language": "English",
+    "place_of_birth": "Doncaster",
+    "disability_status": "No",
+    "disability_desc": "",
+    "occupation": "Buyer, retail",
+    "reports_starting_from": "2019-09-15",
+    "addresses": [
+        {
+            "address": "Limekilns Road, Dunfermline, KY12 7XA",
+            "type": "Home"
+        },
+        {
+            "address": "137 Admiralty Road, Rosyth, KY11 2QL",
+            "type": "professional networking events"
+        },
+        {
+            "address": "1 Parkside Square, Rosyth, KY11 2LZ",
+            "type": "volunteer organization"
+        },
+        {
+            "address": "7 Pitreavie Court, Dunfermline, KY11 8UU",
+            "type": "medical appointments"
+        },
+        {
+            "address": "Pitreavie Drive, Dunfermline, KY11 8UH",
+            "type": "school pickup"
+        },
+        {
+            "address": "97 Backmarch Road, Rosyth, KY11 2RP",
+            "type": "regular commute"
+        },
+        {
+            "address": "Kinghorn Road, Burntisland, KY3 9LL",
+            "type": "dog park"
+        },
+        {
+            "address": "9-20 John Woods Houses, Upper Largo, KY8 6HB",
+            "type": "running group"
+        },
+        {
+            "address": "36-42 Watson Avenue, St Andrews, KY16 8JE",
+            "type": "sports league"
+        },
+        {
+            "address": "1 Primrose Avenue, Rosyth, KY11 2SX",
+            "type": "lunch meeting"
+        },
+        {
+            "address": "1 Kerr Court, Burntisland, KY3 0JG",
+            "type": "doctor's office"
+        },
+        {
+            "address": "Hawkcraig Road, Aberdour, KY3 0TZ",
+            "type": "fitness center"
+        },
+        {
+            "address": "26 Leslie Road, Rosyth, KY11 2LB",
+            "type": "fitness center"
+        },
+        {
+            "address": "Lochies Road, Burntisland, KY3 9JX",
+            "type": "hobby group"
+        },
+        {
+            "address": "8 King's Place, Rosyth, KY11 2SB",
+            "type": "yoga class"
+        },
+        {
+            "address": "39;41;43 The Temple, Lower Largo, KY8 6JH",
+            "type": "daycare pickup"
+        },
+        {
+            "address": "38 Backmarch Crescent, Rosyth, KY11 2RW",
+            "type": "church"
+        },
+        {
+            "address": "10-16 Wood Place, Rosyth, KY11 2SU",
+            "type": "running group"
+        },
+        {
+            "address": "23 Haddow Grove, Burntisland, KY3 0DA",
+            "type": "community center"
+        },
+        {
+            "address": "42 Mid Shore,  KY10 2NW",
+            "type": "mosque"
+        },
+        {
+            "address": "12 Fyne Brae,  KY11 8XG",
+            "type": "school pickup"
+        },
+        {
+            "address": "61 Harley Street, Rosyth, KY11 2NE",
+            "type": "grocery store"
+        },
+        {
+            "address": "34 Pettycur Bay, Kinghorn, KY3 9SB",
+            "type": "lunch meeting"
+        },
+        {
+            "address": "Burntisland Road, Kinghorn, KY3 9RZ",
+            "type": "professional networking events"
+        }
+    ],
+    "traced_locations": [
+        "137 Park Road West, Rosyth, KY11 2TL",
+        "1 Kerr Court, Burntisland, KY3 0JG",
+        "5 Seamill Gardens, Burntisland, KY3 0DE",
+        "71 King's Crescent, Rosyth, KY11 2RT",
+        "75 Nethergate, Crail, KY10 3TX",
+        "6-9 West Green, Crail, KY10 3RD",
+        "3 Dove Street, Cellardyke, KY10 3AN",
+        "Lodge Rise, Glenrothes, KY7 5TG",
+        "53 Newton Crescent, Rosyth, KY11 2QW",
+        "39;41;43 The Temple, Lower Largo, KY8 6JH"
+    ],
+    "people_reporting": [
+        "Heather Simpson",
+        "Georgia Turner",
+        "Anthony Kennedy",
+        "Nicola Kennedy",
+        "Hayley Scott"
+    ]
+}

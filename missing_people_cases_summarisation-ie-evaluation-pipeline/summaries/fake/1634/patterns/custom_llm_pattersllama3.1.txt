@@ -1,0 +1,5 @@
+Disappearance via Remote Areas, [74017, 94032, 65451, 81678]  
+Disappearance during or after an Argument, [10502, 74046, 39824]  
+Disappearance while Engaging in Solitary Activities, [51986, 49020]  
+Disappearance while Traveling, [54787, 22593]  
+Disappearance with Suspicion of Abduction, [74017, 39824, 101508, 101511]

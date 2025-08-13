@@ -1,0 +1,5 @@
+Disappearance by Unplanned Travel, [3495, 80123, 27827, 92091, 28462]  
+Disappearance at Outdoor Festivals, [9156, 73173, 83501, 28933, 67279]  
+Disappearance after Socializing, [523, 40241, 276, 99220, 53643]  
+Disappearance after Withdrawal of Cash, [3495, 9156, 27827, 67279, 42068]  
+Disappearance after Withdrawal of Cash and Socializing, [3495, 9156, 27827, 67279, 92091]

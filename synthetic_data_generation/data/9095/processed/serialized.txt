@@ -1,0 +1,288 @@
+Disappearance Record:
+Report number: 61771
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2020-06-16 00:00:00
+Date Reported Missing: 2020-06-16 12:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8376
+When Traced: 2020-06-21 19:36:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: School Lane, Hillend, KY11 9LE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 25979
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2020-09-27 19:36:00
+Date Reported Missing: 2020-09-29 12:36:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5689
+When Traced: 2020-10-01 18:25:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: 23 Tod's Green, Crail, KY10 3UU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 82835
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2020-12-05 18:25:00
+Date Reported Missing: 2020-12-05 18:25:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 6040
+When Traced: 2020-12-09 23:05:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: School Lane, Hillend, KY11 9LE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 55979
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2021-04-02 23:05:00
+Date Reported Missing: 2021-04-03 08:05:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3758
+When Traced: 2021-04-05 13:43:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: 5 Bow Butts, Crail, KY10 3UR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 84404
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2021-07-28 13:43:00
+Date Reported Missing: 2021-07-29 03:43:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 6716
+When Traced: 2021-08-02 05:39:00
+Missing From Address: 31-37 Aberlour Street, Rosyth, KY11 2SD (tutoring center)
+Traced at Address: 21 David the First Street, Kinghorn, KY3 9SR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 64361
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2021-08-26 05:39:00
+Date Reported Missing: 2021-08-26 11:39:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 7084
+When Traced: 2021-08-31 03:43:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: 23 Tod's Green, Crail, KY10 3UU
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 57256
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2021-12-25 03:43:00
+Date Reported Missing: 2021-12-25 07:43:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9720
+When Traced: 2021-12-31 21:43:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: 23 Tod's Green, Crail, KY10 3UU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 82269
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2022-01-21 21:43:00
+Date Reported Missing: 2022-01-22 20:43:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4219
+When Traced: 2022-01-24 20:02:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: School Lane, Hillend, KY11 9LE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 93487
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2022-03-02 20:02:00
+Date Reported Missing: 2022-03-03 20:02:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4579
+When Traced: 2022-03-06 00:21:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: 5 Bow Butts, Crail, KY10 3UR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 35502
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2022-05-08 00:21:00
+Date Reported Missing: 2022-05-08 15:21:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4294
+When Traced: 2022-05-10 23:55:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: School Lane, Hillend, KY11 9LE
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 22742
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2022-10-28 23:55:00
+Date Reported Missing: 2022-10-29 01:55:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4649
+When Traced: 2022-11-01 05:24:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: 39-42 Alexander Place, Rosyth, KY11 2DB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 48135
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2023-01-16 05:24:00
+Date Reported Missing: 2023-01-17 14:24:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7233
+When Traced: 2023-01-21 05:57:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: 23 Tod's Green, Crail, KY10 3UU
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 2689
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2023-03-15 05:57:00
+Date Reported Missing: 2023-03-15 14:57:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1558
+When Traced: 2023-03-16 07:55:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: 1 Collinswell Drive, Burntisland, KY3 0AU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 52396
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2023-04-09 07:55:00
+Date Reported Missing: 2023-04-09 12:55:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3162
+When Traced: 2023-04-11 12:37:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: 21 David the First Street, Kinghorn, KY3 9SR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 76821
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2023-10-01 12:37:00
+Date Reported Missing: 2023-10-02 01:37:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2176
+When Traced: 2023-10-03 00:53:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: 21 David the First Street, Kinghorn, KY3 9SR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 91125
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2023-11-14 00:53:00
+Date Reported Missing: 2023-11-14 15:53:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 6441
+When Traced: 2023-11-18 12:14:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: 21 David the First Street, Kinghorn, KY3 9SR
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 49921
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2024-05-03 12:14:00
+Date Reported Missing: 2024-05-04 02:14:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 8314
+When Traced: 2024-05-09 06:48:00
+Missing From Address: 35 Fowler Street, Cellardyke, KY10 3HU (playground)
+Traced at Address: 21 David the First Street, Kinghorn, KY3 9SR
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 38991
+Name: Anne Evans
+Date of Birth: 2015-04-04
+Sex: F
+Place of Birth: Chichester
+Occupation: 
+Missing Since: 2024-05-25 06:48:00
+Date Reported Missing: 2024-05-26 07:48:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2008
+When Traced: 2024-05-26 16:16:00
+Missing From Address: 21 David the First Street, Kinghorn, KY3 9SR (Home)
+Traced at Address: 1 Craig Court, Burntisland, KY3 0AT
+Traced by: Traced by Police
+

@@ -1,0 +1,256 @@
+Disappearance Record:
+Report number: 53032
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2021-06-21 00:00:00
+Date Reported Missing: 2021-06-22 08:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5088
+When Traced: 2021-06-24 12:48:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: 54 Nethergate South, Crail, KY10 3TZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 88090
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2021-07-13 12:48:00
+Date Reported Missing: 2021-07-13 08:48:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 78
+When Traced: 2021-07-13 14:06:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: 3;5 South Feus, Upper Largo, KY8 6EQ
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 51504
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2021-10-22 14:06:00
+Date Reported Missing: 2021-10-23 18:06:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 6913
+When Traced: 2021-10-27 09:19:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: 1 Parkside Square, Rosyth, KY11 2LZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 10645
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2022-01-01 09:19:00
+Date Reported Missing: 2022-01-01 23:19:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2667
+When Traced: 2022-01-03 05:46:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: 54 Nethergate South, Crail, KY10 3TZ
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 31848
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2022-03-12 05:46:00
+Date Reported Missing: 2022-03-13 04:46:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3717
+When Traced: 2022-03-14 19:43:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: Burntisland Road, Kinghorn, KY3 9RZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 87634
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2022-04-16 19:43:00
+Date Reported Missing: 2022-04-17 18:43:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 9556
+When Traced: 2022-04-23 10:59:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: 7 Pitreavie Court, Dunfermline, KY11 8UU
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 69147
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2022-07-30 10:59:00
+Date Reported Missing: 2022-07-30 23:59:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9446
+When Traced: 2022-08-06 00:25:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: 6-9 West Green, Crail, KY10 3RD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 98389
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2022-11-21 00:25:00
+Date Reported Missing: 2022-11-21 14:25:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6348
+When Traced: 2022-11-25 10:13:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: 31-37 Aberlour Street, Rosyth, KY11 2SD
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 19851
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2023-02-22 10:13:00
+Date Reported Missing: 2023-02-23 13:13:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4670
+When Traced: 2023-02-25 16:03:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: 31-37 Aberlour Street, Rosyth, KY11 2SD
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 96859
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2023-04-17 16:03:00
+Date Reported Missing: 2023-04-18 13:03:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9519
+When Traced: 2023-04-24 06:42:00
+Missing From Address: 23 Tod's Green, Crail, KY10 3UU (neighborhood cafe)
+Traced at Address: 1 Parkside Square, Rosyth, KY11 2LZ
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 34655
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2023-08-22 06:42:00
+Date Reported Missing: 2023-08-22 17:42:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4094
+When Traced: 2023-08-25 02:56:00
+Missing From Address: 28 Birch Avenue, Kinghorn, KY3 9YN (regular walking route)
+Traced at Address: 7 Pitreavie Court, Dunfermline, KY11 8UU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 64717
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2024-02-14 02:56:00
+Date Reported Missing: 2024-02-15 16:56:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5378
+When Traced: 2024-02-17 20:34:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: 54 Nethergate South, Crail, KY10 3TZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 75425
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2024-05-13 20:34:00
+Date Reported Missing: 2024-05-13 19:34:00
+Day Reported Missing: Monday
+Length Missing (minutes): 274
+When Traced: 2024-05-14 01:08:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: 54 Nethergate South, Crail, KY10 3TZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 35707
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2024-08-25 01:08:00
+Date Reported Missing: 2024-08-25 01:08:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 9273
+When Traced: 2024-08-31 11:41:00
+Missing From Address: 16 Oxcars Avenue, Burntisland, KY3 0AY (mosque)
+Traced at Address: 1 Parkside Square, Rosyth, KY11 2LZ
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 26957
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2024-12-27 11:41:00
+Date Reported Missing: 2024-12-27 21:41:00
+Day Reported Missing: Friday
+Length Missing (minutes): 938
+When Traced: 2024-12-28 03:19:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: 7 Pitreavie Court, Dunfermline, KY11 8UU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 65005
+Name: Tom Tyler
+Date of Birth: 1943-05-08
+Sex: Male
+Place of Birth: Canterbury
+Occupation: Retired Administrator, local government
+Missing Since: 2025-02-11 03:19:00
+Date Reported Missing: 2025-02-11 06:19:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3431
+When Traced: 2025-02-13 12:30:00
+Missing From Address: 16 Burney Place, Rosyth, KY11 2PN (Home)
+Traced at Address: 7 Pitreavie Court, Dunfermline, KY11 8UU
+Traced by: Traced by family
+

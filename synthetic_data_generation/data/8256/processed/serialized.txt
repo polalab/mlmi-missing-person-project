@@ -1,0 +1,256 @@
+Disappearance Record:
+Report number: 39085
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2020-11-17 00:00:00
+Date Reported Missing: 2020-11-17 07:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 6686
+When Traced: 2020-11-21 15:26:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 33 Craighouse Terrace, Edinburgh, EH10 5LH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 38780
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2021-03-10 15:26:00
+Date Reported Missing: 2021-03-10 18:26:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 6197
+When Traced: 2021-03-14 22:43:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 7 Clifton Terrace, Edinburgh, EH12 5DR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 95293
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2021-08-02 22:43:00
+Date Reported Missing: 2021-08-02 22:43:00
+Day Reported Missing: Monday
+Length Missing (minutes): 4508
+When Traced: 2021-08-06 01:51:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 22 Fernbank, Livingston, EH54 6DT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 85656
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2021-12-12 01:51:00
+Date Reported Missing: 2021-12-12 01:51:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3944
+When Traced: 2021-12-14 19:35:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: Abbotsford Road, North Berwick, EH39 5DB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 9772
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2022-05-02 19:35:00
+Date Reported Missing: 2022-05-02 21:35:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3870
+When Traced: 2022-05-05 12:05:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 7 Clifton Terrace, Edinburgh, EH12 5DR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 72313
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2022-08-28 12:05:00
+Date Reported Missing: 2022-08-28 21:05:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1125
+When Traced: 2022-08-29 06:50:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: Abbotsford Road, North Berwick, EH39 5DB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 24510
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2022-11-09 06:50:00
+Date Reported Missing: 2022-11-10 05:50:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3968
+When Traced: 2022-11-12 00:58:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 2 Freer Gait, Edinburgh, EH3 9FR
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 30302
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2022-12-29 00:58:00
+Date Reported Missing: 2022-12-29 05:58:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 7874
+When Traced: 2023-01-03 12:12:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 33 Morningside Road, Edinburgh, EH10 4DR
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 3970
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2023-01-06 12:12:00
+Date Reported Missing: 2023-01-07 14:12:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 8418
+When Traced: 2023-01-12 08:30:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 7 Clifton Terrace, Edinburgh, EH12 5DR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 20926
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2023-02-20 08:30:00
+Date Reported Missing: 2023-02-20 23:30:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9196
+When Traced: 2023-02-26 17:46:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 33 Morningside Road, Edinburgh, EH10 4DR
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 43926
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2023-07-03 17:46:00
+Date Reported Missing: 2023-07-04 10:46:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 1367
+When Traced: 2023-07-04 16:33:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 33 Morningside Road, Edinburgh, EH10 4DR
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 42625
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2023-10-13 16:33:00
+Date Reported Missing: 2023-10-13 16:33:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2227
+When Traced: 2023-10-15 05:40:00
+Missing From Address: 1 Constitution Place, Leith Docks,, Edinburgh (City of), EH6 7DL (youth center)
+Traced at Address: Abbotsford Road, North Berwick, EH39 5DB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 24594
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2023-12-08 05:40:00
+Date Reported Missing: 2023-12-09 03:40:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 7133
+When Traced: 2023-12-13 04:33:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 22 Fernbank, Livingston, EH54 6DT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 34836
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2024-02-11 04:33:00
+Date Reported Missing: 2024-02-12 00:33:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6059
+When Traced: 2024-02-15 09:32:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 68-73 Queen Street, Edinburgh, EH2 4NA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 49260
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2024-03-23 09:32:00
+Date Reported Missing: 2024-03-23 10:32:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 362
+When Traced: 2024-03-23 15:34:00
+Missing From Address: 50 Lothian Road, Edinburgh, EH3 9BY (fast food restaurant)
+Traced at Address: 22 Fernbank, Livingston, EH54 6DT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 54733
+Name: Carl Hilton
+Date of Birth: 2011-05-13
+Sex: Male
+Place of Birth: Swansea
+Occupation: 
+Missing Since: 2024-08-20 15:34:00
+Date Reported Missing: 2024-08-21 03:34:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3420
+When Traced: 2024-08-23 00:34:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 2 Freer Gait, Edinburgh, EH3 9FR
+Traced by: Traced by Police
+

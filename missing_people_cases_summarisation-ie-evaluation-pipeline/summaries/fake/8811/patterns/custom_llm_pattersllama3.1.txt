@@ -1,0 +1,5 @@
+Disorientation Due to Unfamiliar Surroundings, [95891, 11515, 18780, 4042, 18105]  
+Distracted by Surroundings, [95891, 44060]  
+Mistaken Directions, [11515, 18780]  
+Overwhelming Thoughts, [8625]  
+Temporary Displacement Due to Personal Matters, [6748]

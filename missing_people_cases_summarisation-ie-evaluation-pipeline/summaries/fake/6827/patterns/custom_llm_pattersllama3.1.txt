@@ -1,0 +1,5 @@
+Disappearance from Home,  [44899, 49295, 51738, 53776, 44465, 9032, 35862, 1280, 38997, 76155, 53299, 73570, 49402, 77830]  
+Disappearance from Public Places,  [5823, 19930, 79566, 80519, 51738, 8455, 38997]  
+Disappearance from Areas Associated with Cult Activities,  [44899, 5823, 49295, 51738, 79566, 80519, 76155, 53299]  
+Disappearance from Areas with Snow,  [44899, 51738, 53776, 8455, 44465, 38997, 76155, 53299]  
+Disappearance after Cutting Off Communications,  [19930, 79566, 80519, 51738, 53299, 73570, 49402]

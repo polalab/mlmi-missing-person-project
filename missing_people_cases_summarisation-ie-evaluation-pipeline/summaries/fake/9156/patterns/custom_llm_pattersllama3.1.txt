@@ -1,0 +1,5 @@
+Disappearance during or after a night out, [31622, 69166, 56828, 79402]  
+Disappearance from a home or residence, [74126, 13267, 1891, 1704, 42284, 38824]  
+Disappearance in a snow area, [100873, 13267]  
+Disappearance near a safe house, [48777, 51988, 42284, 100875]  
+Disappearance while wandering off from a known location, [1704, 42284]

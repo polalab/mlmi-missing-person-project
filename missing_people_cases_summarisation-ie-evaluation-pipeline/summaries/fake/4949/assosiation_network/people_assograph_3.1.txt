@@ -1,0 +1,5 @@
+Paul Charlton,Josephine Charlton,sister,21686
+Paul Charlton,Charles Robinson,friend,21686
+Paul Charlton,Josephine Charlton,family member,21686
+Paul Charlton,Josephine Charlton,other,21686 (connection type: family) 
+Paul Charlton,Charles Robinson,other,21686 (connection type: colleague)

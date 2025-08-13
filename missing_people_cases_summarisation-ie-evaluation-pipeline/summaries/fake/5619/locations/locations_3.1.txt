@@ -1,0 +1,22 @@
+airport, 87477
+airport, 35844
+Dunbar Road, East Linton, 18953
+2 Cramond Glebe Road, Edinburgh, 18953
+airport, 53957
+university, 53957
+skate park, 53957
+tutoring center, 96164
+13 Browns Place, East Linton, 9492
+5 Buccleuch Place Lane, Edinburgh, 9492
+Dunbar Road, East Linton, 34996
+33 Craighouse Terrace, Edinburgh, 34996
+101 Ingliston Road, Edinburgh, 34996
+airport, 67653
+playground, 20003
+5 New Street, Edinburgh, 20003
+airport, 20003
+airport, 102345
+airport, 102349
+airport, 102351
+airport, 102354
+airport, 102355

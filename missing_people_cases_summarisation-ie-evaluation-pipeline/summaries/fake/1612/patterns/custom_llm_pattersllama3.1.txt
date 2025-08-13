@@ -1,0 +1,5 @@
+Disappearance at or near a transportation hub, [42873, 101138]  
+Disappearance at or near a location with potential for seclusion, [42873, 101139]  
+Disappearance at or near a location with potential for conflict, [101141]  
+Disappearance at or near a location with potential for illicit activity, [42873, 101138]  
+Disappearance at or near a location with potential for temporary refuge, [32088, 42873]

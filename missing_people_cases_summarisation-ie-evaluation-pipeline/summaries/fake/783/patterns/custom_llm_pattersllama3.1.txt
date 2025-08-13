@@ -1,0 +1,5 @@
+Disappearance during Severe Weather, [84164, 14439, 37310, 78182, 63308, 85303, 26661]  
+Disappearance from a Train Station, [63903, 78338, 17261, 54312, 85303, 41558]  
+Disappearance from a Shopping Mall, [6488, 41569, 60052, 101261, 101262, 101264, 101265, 101266]  
+Disappearance from a Home, [7254, 31470, 26661, 22251, 54312]  
+Disappearance during a Relationship Breakdown, [84164, 17261, 26661, 54312, 41558]

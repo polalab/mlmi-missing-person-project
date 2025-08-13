@@ -1,0 +1,128 @@
+Disappearance Record:
+Report number: 6197
+Name: Harry Green
+Date of Birth: 2009-11-27
+Sex: Male
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2023-06-22 00:00:00
+Date Reported Missing: 2023-06-22 22:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5934
+When Traced: 2023-06-26 02:54:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 5 The Village,  EH39 5HT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 98479
+Name: Harry Green
+Date of Birth: 2009-11-27
+Sex: Male
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2023-10-11 02:54:00
+Date Reported Missing: 2023-10-11 08:54:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 6209
+When Traced: 2023-10-15 10:23:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 16 Williamstone Court,  EH39 4RQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 3877
+Name: Harry Green
+Date of Birth: 2009-11-27
+Sex: Male
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2023-12-03 10:23:00
+Date Reported Missing: 2023-12-04 01:23:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2354
+When Traced: 2023-12-05 01:37:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 16 Williamstone Court,  EH39 4RQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 23520
+Name: Harry Green
+Date of Birth: 2009-11-27
+Sex: Male
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2024-04-20 01:37:00
+Date Reported Missing: 2024-04-20 15:37:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3910
+When Traced: 2024-04-22 18:47:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 68-73 Queen Street, Edinburgh, EH2 4NA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 72375
+Name: Harry Green
+Date of Birth: 2009-11-27
+Sex: Male
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2024-05-27 18:47:00
+Date Reported Missing: 2024-05-27 18:47:00
+Day Reported Missing: Monday
+Length Missing (minutes): 4962
+When Traced: 2024-05-31 05:29:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 5 The Village,  EH39 5HT
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 43953
+Name: Harry Green
+Date of Birth: 2009-11-27
+Sex: Male
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2024-10-12 05:29:00
+Date Reported Missing: 2024-10-12 08:29:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2442
+When Traced: 2024-10-13 22:11:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: Golf Course Road, Livingston, EH54 8AB
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 68556
+Name: Harry Green
+Date of Birth: 2009-11-27
+Sex: Male
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2025-02-20 22:11:00
+Date Reported Missing: 2025-02-21 16:11:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9786
+When Traced: 2025-02-27 17:17:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 30 East Pier Street,  EH51 9AA
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 8807
+Name: Harry Green
+Date of Birth: 2009-11-27
+Sex: Male
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2025-05-17 17:17:00
+Date Reported Missing: 2025-05-18 02:17:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6429
+When Traced: 2025-05-22 04:26:00
+Missing From Address: 10-16 Cluny Drive, Edinburgh, EH10 6DP (Home)
+Traced at Address: 16 Williamstone Court,  EH39 4RQ
+Traced by: Traced by Police
+

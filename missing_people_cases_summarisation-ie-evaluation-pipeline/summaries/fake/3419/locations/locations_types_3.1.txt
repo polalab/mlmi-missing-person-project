@@ -1,0 +1,7 @@
+20874,"Skate park","Public/Recreational Area","His friend spotted him later at the skate park","Impulsive/Thrill Seeking"
+41209,"Highway","Road/Transportation Infrastructure","found safe near a highway","Escape/Flight"
+34527,"March Road, Buckie","Residential/Street","His family, including his father Iain, became worried after Daniel, who has a noted disability, did not return home as expected","Disability-Related Disorientation"
+34527,"Archiestown","Rural/Town/Village","Eventually, Daniel was found by family members safe at an address on North Lane, Archiestown","Isolation Seeking"
+34527,"North Lane, Archiestown","Residential/Street","Eventually, Daniel was found by family members safe at an address on North Lane, Archiestown","Unintentional Displacement"
+41209,"Home on March Road, Buckie","Residential/Street","fled his home on March Road, Buckie","Escape/Flight"
+34527,"Home on March Road, Buckie","Residential/Street","Daniel Jones was last seen at his home on March Road, Buckie","Disability-Related Disorientation"

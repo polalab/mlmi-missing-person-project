@@ -1,0 +1,48 @@
+Disappearance Record:
+Report number: 20066
+Name: James Begum
+Date of Birth: 2009-05-14
+Sex: Male
+Place of Birth: Coventry
+Occupation: 
+Missing Since: 2024-12-19 00:00:00
+Date Reported Missing: 2024-12-20 06:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9309
+When Traced: 2024-12-25 11:09:00
+Missing From Address: Crossgatehead Road, Brightons, FK2 0HW (Home)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 72178
+Name: James Begum
+Date of Birth: 2009-05-14
+Sex: Male
+Place of Birth: Coventry
+Occupation: 
+Missing Since: 2025-02-13 11:09:00
+Date Reported Missing: 2025-02-13 14:09:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 7962
+When Traced: 2025-02-18 23:51:00
+Missing From Address: Crossgatehead Road, Brightons, FK2 0HW (Home)
+Traced at Address: 1 Garrison Place, Falkirk, FK1 1AA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 80012
+Name: James Begum
+Date of Birth: 2009-05-14
+Sex: Male
+Place of Birth: Coventry
+Occupation: 
+Missing Since: 2025-05-06 23:51:00
+Date Reported Missing: 2025-05-07 11:51:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 6157
+When Traced: 2025-05-11 06:28:00
+Missing From Address: Crossgatehead Road, Brightons, FK2 0HW (Home)
+Traced at Address: 35 Kerse Road, Grangemouth, FK3 8HY
+Traced by: Traced by Police
+

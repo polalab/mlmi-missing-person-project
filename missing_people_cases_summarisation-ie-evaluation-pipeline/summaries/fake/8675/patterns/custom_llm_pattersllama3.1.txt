@@ -1,0 +1,5 @@
+Disconnection from Utilities, [9203, 16843, 66532, 43854, 36222]  
+Attic Exploration, [8973, 4903, 55787, 77761, 80141]  
+Social Media Activity, [21191, 98824, 17839]  
+Squatting Behavior, [5221, 9203, 76206, 86300, 43854]  
+Avoidance of Crowded Areas, [36222, 96738, 17839]

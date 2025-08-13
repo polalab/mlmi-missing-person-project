@@ -1,0 +1,5 @@
+Disappearance near or in a cave, [23614, 39697]  
+Disappearance near or in a warehouse, [31762, 23614, 101260]  
+Disappearance during regular commute, [31762, 50982]  
+Disappearance near or in a bathroom, [50982, 23614, 101260]  
+Disappearance after exploring an unfamiliar area, [39697]

@@ -1,0 +1,5 @@
+Disappearance by Travel-Related Location, [60077, 11536, 83270, 29245, 4165, 6343, 53782, 60583, 96249, 71354, 89913, 93527, 75055, 54309, 5974, 90601, 65568, 17694, 27252, 36988, 26905, 87607, 87672, 58770, 81038, 74100, 46058]  
+Disappearance during Inclement Weather, [88415, 87672, 58770, 81038, 74100]  
+Disappearance due to Financial Distress, [71354, 81038, 74100, 87607]  
+Disappearance during Seasonal Work, [83270, 29245, 53782, 60583, 96249, 65568, 75055, 54309, 5974, 90601, 36988, 26905, 87607, 87672, 74100, 46058]  
+Disappearance due to Unfamiliar Surroundings, [89913, 93527, 27252, 58770]

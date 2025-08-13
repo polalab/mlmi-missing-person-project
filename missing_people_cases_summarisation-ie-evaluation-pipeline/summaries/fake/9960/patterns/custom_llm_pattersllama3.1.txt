@@ -1,0 +1,5 @@
+Disappearance via Unplanned Wilderness Exploration, [92487, 58010, 72885, 92567, 45411, 64397, 78388, 83112, 29161, 85793, 66761, 86301, 70669, 95788, 68343, 6719, 30451, 16833, 12450]  
+Disappearance via Rooftop Exploration, [102237, 102241, 102245, 102247, 102255]  
+Disappearance via Solitude Seeking, [102238, 102243, 102248, 102251, 102252, 102254]  
+Disappearance via Evading Authorities, [102242, 102245, 85793]  
+Disappearance via Miscommunication, [45411]

@@ -1,0 +1,32 @@
+Kelly Cooke,Kelly Cooke's grandmother,grandmother,80662
+Kelly Cooke,Kelly Cooke's sister,sister,80662
+Kelly Cooke,Clare Rahman,friend,80662
+Kelly Cooke,Abigail,friend,25472
+Kelly Cooke,Kelly Cooke's sister,sister,25472
+Kelly Cooke,Abigail,friend,25472
+Kelly Cooke,Jenna Hunt,friend,81130
+Kelly Cooke,Ross Boyle,family friend,39111
+Kelly Cooke,Kelly Cooke's grandmother,grandmother,39111
+Kelly Cooke,Clare Rahman,friend,36338
+Kelly Cooke,friend,friend,36338
+Kelly Cooke,Kelly Cooke's grandmother,grandmother,68838
+Kelly Cooke,Kelly Cooke's friends,friends,77479
+Kelly Cooke,Kelly Cooke's sister,sister,69931
+Kelly Cooke,Sandra Cooke,aunt,69931
+Kelly Cooke,Kelly Cooke's friends,friends,69931
+Kelly Cooke,Kelly Cooke's aunt,aunt,96729
+Kelly Cooke,Clare Rahman,friend,96729
+Kelly Cooke,Clare Rahman,friend,26085
+Kelly Cooke,Kelly Cooke's friend,friend,26085
+Kelly Cooke,Kelly Cooke's grandfather,grandfather,76774
+Kelly Cooke,Kelly Cooke's sister,sister,52703
+Kelly Cooke,Kelly Cooke's friend,friend,52703
+Kelly Cooke,Kelly Cooke's sister,sister,100241
+Kelly Cooke,Kelly Cooke's neighbor,neighbor,100241
+Kelly Cooke,Kelly Cooke's friend,friend,100242
+Kelly Cooke,Marion Cooke,relative,100242
+Kelly Cooke,Kelly Cooke's friend,friend,100243
+Kelly Cooke,Patricia,relative,100243
+Kelly Cooke,Kelly Cooke's grandfather,grandfather,100244
+Kelly Cooke,Kelly Cooke's guardian,guardian,100247
+Kelly Cooke,Kelly Cooke's family member,family member,100248

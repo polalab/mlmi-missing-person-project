@@ -1,0 +1,5 @@
+Disappearance through Exploration of Underground Bunkers,  [32708, 42469, 63470, 58520, 102090]  
+Disappearance through Exploration of Swamps,  [12779, 97332, 78912, 63470, 102089]  
+Disappearance through Following or Joining a Group,  [45152, 99231, 2904, 69324, 102092]  
+Disappearance through Involvement in Organized Protests,  [32708, 24069, 48260, 12263, 102090]  
+Disappearance through Wandering or Getting Lost,  [25493, 80598, 48260, 59423, 97332]

@@ -1,0 +1,7 @@
+82267,"Culduthel Park, Inverness","Park/Green Space","went missing after leaving a friend's house near Culduthel Park, Inverness","Isolation Seeking"
+82267,"nearby forest","Forest/Woodland","was last seen entering the nearby forest","Impulsive/Crisis Location"
+94751,"petting zoo near a forest","Petting Zoo/Zoo","went missing after a visit to a petting zoo near a forest with his foster mother","Isolation Seeking"
+94751,"Rosedene Court, Inverness","Residential Building","sought solitude from perceived scrutiny following a potential sighting on Hamilton Drive","Impulsive/Crisis Location"
+94751,"Hamilton Drive","Street/Highway","following a potential sighting on Hamilton Drive","Impulsive/Crisis Location"
+5591,"forest adjoining his part-time job","Forest/Woodland","A close friend reported he expressed paranoia about surveillance and had financial difficulties","Isolation Seeking"
+5591,"Culduthel Park, Inverness","Park/Green Space","Concern grew when he didn't show up at Culduthel Park, Inverness, as expected","Isolation Seeking"

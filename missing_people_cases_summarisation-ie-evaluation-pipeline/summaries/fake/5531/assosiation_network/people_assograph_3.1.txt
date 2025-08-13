@@ -1,0 +1,57 @@
+Stephen Davidson,Stephen's sister,sister,66092
+Stephen Davidson,Stephen's sister,sister,36929
+Stephen Davidson,Stephen's sister,sister,56836
+Stephen Davidson,Stephen's sister,sister,78281
+Stephen Davidson,Reece Miles,other,36929
+Stephen Davidson,Kelly,friend,56836
+Stephen Davidson,Elizabeth,friend,100972
+Stephen Davidson,Linda Cooper,other,100969
+Stephen Davidson,Stephen's sister,family,66092
+Stephen Davidson,Stephen's sister,family,36929
+Stephen Davidson,Stephen's sister,family,56836
+Stephen Davidson,Stephen's sister,family,78281
+Stephen Davidson,Stephen's sister,family,100970
+Stephen Davidson,Stephen's sister,family,100972
+Stephen Davidson,roommate,other,66092
+Stephen Davidson,roommate,other,36929
+Stephen Davidson,roommate,other,56836
+Stephen Davidson,roommate,other,78281
+Stephen Davidson,roommate,other,100970
+Stephen Davidson,roommate,other,100972
+Stephen Davidson,Stephen's sister,mother,66092
+Stephen Davidson,Stephen's sister,mother,36929
+Stephen Davidson,Stephen's sister,mother,56836
+Stephen Davidson,Stephen's sister,mother,78281
+Stephen Davidson,Stephen's sister,mother,100970
+Stephen Davidson,Stephen's sister,mother,100972
+Stephen Davidson,Stephen's sister,father,66092
+Stephen Davidson,Stephen's sister,father,36929
+Stephen Davidson,Stephen's sister,father,56836
+Stephen Davidson,Stephen's sister,father,78281
+Stephen Davidson,Stephen's sister,father,100970
+Stephen Davidson,Stephen's sister,father,100972
+Stephen Davidson,Stephen's sister,spouse,66092
+Stephen Davidson,Stephen's sister,spouse,36929
+Stephen Davidson,Stephen's sister,spouse,56836
+Stephen Davidson,Stephen's sister,spouse,78281
+Stephen Davidson,Stephen's sister,spouse,100970
+Stephen Davidson,Stephen's sister,spouse,100972
+Stephen Davidson,Stephen's sister,neighbor,66092
+Stephen Davidson,Stephen's sister,neighbor,36929
+Stephen Davidson,Stephen's sister,neighbor,56836
+Stephen Davidson,Stephen's sister,neighbor,78281
+Stephen Davidson,Stephen's sister,neighbor,100970
+Stephen Davidson,Stephen's sister,neighbor,100972
+Stephen Davidson,Stephen's sister,other,66092
+Stephen Davidson,Stephen's sister,other,36929
+Stephen Davidson,Stephen's sister,other,56836
+Stephen Davidson,Stephen's sister,other,78281
+Stephen Davidson,Stephen's sister,other,100970
+Stephen Davidson,Stephen's sister,other,100972
+Stephen Davidson,Stephen,other,100967
+Stephen Davidson,Stephen,other,100968
+Stephen Davidson,Stephen,other,100969
+Stephen Davidson,Stephen,other,100970
+Stephen Davidson,Stephen,other,100972
+Stephen Davidson,Stephen,other,100974
+Stephen Davidson,Stephen,other,100975

@@ -1,0 +1,5 @@
+Erratic Behavior, [47704, 73389, 69745]  
+Remote Area Exploration, [58690, 69390, 83633, 23268, 29421, 21537]  
+Disconnection from Routine, [632, 44751, 94010, 69592, 95326, 32951, 42692, 43461]  
+Unplanned Absence, [32951]  
+Unaccounted for After Social Engagement, [63301, 47704]

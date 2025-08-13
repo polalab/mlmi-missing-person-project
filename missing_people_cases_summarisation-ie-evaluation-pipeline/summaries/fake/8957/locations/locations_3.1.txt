@@ -1,0 +1,171 @@
+Hyndford Street, 24803
+Hyndford Street, 70070
+Hyndford Street, 85992
+Hyndford Street, 86462
+Hyndford Street, 92428
+Hyndford Street, 92510
+Hyndford Street, 7966
+Hyndford Street, 90392
+Hyndford Street, 55463
+Hyndford Street, 18453
+Hyndford Street, 102571
+Fort Street, 24803
+Fort Street, 16609
+Fort Street, 38414
+Fort Street, 89370
+Fort Street, 97638
+Fort Street, 4928
+Fort Street, 92510
+King's Cross Road, 64093
+King's Cross Road, 83599
+King's Cross Road, 89753
+East School Road, 16609
+East School Road, 85992
+East School Road, 80685
+East School Road, 58188
+East School Road, 51462
+Pitkerro Road, 25863
+Pitkerro Road, 58188
+Pitkerro Road, 99831
+Pitkerro Road, 79046
+Pitkerro Road, 4999
+Pitkerro Road, 25833
+Pitkerro Road, 102571
+Kirsty Semple Way, 24803
+Kirsty Semple Way, 89370
+Kirsty Semple Way, 70070
+Kirsty Semple Way, 90392
+Kirsty Semple Way, 4999
+Kirsty Semple Way, 79046
+484 Perth Road, 91180
+484 Perth Road, 56133
+484 Perth Road, 92428
+484 Perth Road, 25833
+484 Perth Road, 4999
+484 Perth Road, 79046
+484 Perth Road, 102572
+22 Marine Parade Walk, 89370
+22 Marine Parade Walk, 97638
+22 Marine Parade Walk, 80685
+22 Marine Parade Walk, 51462
+22 Marine Parade Walk, 99831
+Turnberry Avenue, 2806
+Turnberry Avenue, 64093
+Turnberry Avenue, 7966
+Turnberry Avenue, 92510
+Turnberry Avenue, 4999
+Turnberry Avenue, 79046
+Ancrum Road, 16609
+Ancrum Road, 56133
+Ancrum Road, 85992
+Ancrum Road, 86462
+Roseberry Street, 89753
+Roseberry Street, 99831
+Dura Street, 4928
+Dura Street, 92510
+Logie Street, 97638
+Logie Street, 24334
+Cleghorn Street, 60411
+Cleghorn Street, 83599
+Herod Hill Brae, 25863
+Herod Hill Brae, 55463
+Herod Hill Brae, 102571
+Forfar, 58188
+Forfar, 18453
+School, 16609
+School, 85992
+School, 51462
+Train station, 24803
+Train station, 91180
+Train station, 38414
+Train station, 89370
+Train station, 97638
+Train station, 92428
+Train station, 92510
+Train station, 7966
+Train station, 85992
+Train station, 51462
+Train station, 25833
+Train station, 83599
+Train station, 4999
+Train station, 79046
+Alleyway, 24803
+Alleyway, 91180
+Alleyway, 16609
+Alleyway, 89370
+Alleyway, 97638
+Alleyway, 92428
+Alleyway, 92510
+Alleyway, 7966
+Alleyway, 85992
+Alleyway, 51462
+Alleyway, 25833
+Alleyway, 58188
+Alleyway, 55463
+Alleyway, 102571
+Neighborhood cafe, 4999
+Neighborhood cafe, 79046
+Community center, 85992
+Community center, 58188
+Community center, 89753
+Church, 79046
+Synagogue, 58188
+Physical therapy clinic, 24803
+Physical therapy clinic, 51462
+Physical therapy clinic, 79046
+Physical therapy clinic, 102571
+Outdoor festival, 91180
+Outdoor festival, 89370
+Outdoor festival, 97638
+Outdoor festival, 92428
+Outdoor festival, 92510
+Outdoor festival, 7966
+Outdoor festival, 85992
+Outdoor festival, 51462
+Outdoor festival, 58188
+Outdoor festival, 99831
+Outdoor festival, 102571
+Relative's house, 24803
+Relative's house, 91180
+Relative's house, 56133
+Relative's house, 89370
+Relative's house, 97638
+Relative's house, 92428
+Relative's house, 92510
+Relative's house, 7966
+Relative's house, 85992
+Relative's house, 51462
+Relative's house, 58188
+Relative's house, 99831
+Relative's house, 79046
+Relative's house, 102571
+Assisted living facility, 24803
+Nursing home, 16609
+Nursing home, 85992
+Nursing home, 51462
+Nursing home, 25863
+Nursing home, 102571
+Marine Parade Walk, 97638
+Marine Parade Walk, 92510
+Marine Parade Walk, 79046
+Perth Road, 58255
+Perth Road, 51462
+Pitfour Street, 91180
+Pitfour Street, 80685
+Pitfour Street, 79046
+Dura Street, 92510
+Dura Street, 4928
+Dura Street, 79046
+Kings Cross Road, 64093
+Kings Cross Road, 83599
+Kings Cross Road, 89753
+Kings Cross Road, 102571
+East School Road, 80685
+East School Road, 58188
+East School Road, 51462
+East School Road, 79046
+East School Road, 102571
+Hyndford Street, 102571
+Hyndford Street, 102572
+Hyndford Street, 102573
+Hyndford Street, 102574

@@ -1,0 +1,5 @@
+Disappearance at or near a construction site, [83069, 9076, 74403]  
+Disappearance at or near a cemetery, [38417, 74403, 28582]  
+Disappearance at or near a ferry terminal, [86337, 23976, 19035, 101993, 101994]  
+Disappearance at or near a farm, [9076, 48931, 83069, 28582, 101996]  
+Disappearance after visiting a bar or nightclub, [9076, 86337, 60250, 83069]

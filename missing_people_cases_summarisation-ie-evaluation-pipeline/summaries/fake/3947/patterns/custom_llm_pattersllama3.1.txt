@@ -1,0 +1,5 @@
+Disorientation due to unfamiliarity with surroundings,  [86166, 98287, 73619, 66300, 33667, 57273, 85051, 13502, 82163, 25014, 41676, 67394, 51269, 89108, 40439, 66033, 17480, 101296]  
+Displacement due to train travel,  [65086, 13950, 11496, 101289, 101293, 101294]  
+Unintended extension of routine walks,  [69369, 13950, 33667, 85051, 13502, 82163]  
+Search for solitude or escape,  [51269, 67394, 89108, 66033, 17480]  
+Disorientation due to health conditions or stress,  [77957, 69369, 51269, 89108, 66033, 17480, 101296]

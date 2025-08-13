@@ -1,0 +1,40 @@
+Fiona Houghton,Bernard Ball,grandfather,54313
+Fiona Houghton,Bernard Ball,argument,54313
+Fiona Houghton,Sara Houghton,sister,30266
+Fiona Houghton,Sara Houghton,argument,30266
+Fiona Houghton,Colleague,friend,69410
+Fiona Houghton,Colleague,missing,69410
+Fiona Houghton,Friend,friend,89094
+Fiona Houghton,Friend,argument,89094
+Fiona Houghton,Brother,brother,33897
+Fiona Houghton,Brother,argument,33897
+Fiona Houghton,Brother,concern,33897
+Fiona Houghton,Sister,sister,65384
+Fiona Houghton,Sister,friend,65384
+Fiona Houghton,Grandmother,grandmother,3059
+Fiona Houghton,Grandmother,argument,3059
+Fiona Houghton,Sister,sister,61466
+Fiona Houghton,Alexander Johnson,friend,61466
+Fiona Houghton,Friend,friend,10653
+Fiona Houghton,Friend,concern,10653
+Fiona Houghton,Sister,sister,30472
+Fiona Houghton,Sister,argument,30472
+Fiona Houghton,Sister,concern,30472
+Fiona Houghton,Acquaintance,friend,30472
+Fiona Houghton,Bethany Moran,friend,20565
+Fiona Houghton,Bethany Moran,concern,20565
+Fiona Houghton,Brother,brother,4030
+Fiona Houghton,Brother,worried,4030
+Fiona Houghton,Brother,weekly call,4030
+Fiona Houghton,Brother,grandchild,4030
+Fiona Houghton,Lucy Collins,friend,100518
+Fiona Houghton,Lucy Collins,help,100518
+Fiona Houghton,Brother,brother,100519
+Fiona Houghton,Brother,argument,100519
+Fiona Houghton,Grandmother,grandmother,100523
+Fiona Houghton,Grandmother,aid,100523
+Fiona Houghton,Sister,sister,100526
+Fiona Houghton,Sister,worried,100526
+Fiona Houghton,Lewis Riley,friend,100526
+Fiona Houghton,Grandmother,grandmother,100529
+Fiona Houghton,Grandmother,argument,100529

@@ -1,0 +1,5 @@
+Escaping Domestic Violence, [34049, 73776, 19750, 101830, 101833, 101834, 101835, 101836]  
+Fleeing to Familiar Locations, [34049, 19750]  
+Seeking Solitude in Wilderness, [73776, 101830, 101833, 101834, 101835]  
+Using Public Spaces for Refuge, [101832]  
+Escaping to Acquaintances' Homes, [34049, 73776, 19750]

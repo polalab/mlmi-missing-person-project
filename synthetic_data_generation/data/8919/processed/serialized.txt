@@ -1,0 +1,304 @@
+Disappearance Record:
+Report number: 69326
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2018-03-04 00:00:00
+Date Reported Missing: 2018-03-04 00:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1152
+When Traced: 2018-03-04 19:12:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: 1-42 West Lodge Gardens, Alloa, FK10 2HX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 36474
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2018-04-20 19:12:00
+Date Reported Missing: 2018-04-21 21:12:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 5400
+When Traced: 2018-04-24 13:12:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: West Bridge Street, Falkirk, FK1 5AP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 97321
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2018-05-22 13:12:00
+Date Reported Missing: 2018-05-22 15:12:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2632
+When Traced: 2018-05-24 09:04:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: 17 Whitehouse Road, Stirling, FK7 7XX
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 27639
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2018-07-13 09:04:00
+Date Reported Missing: 2018-07-13 21:04:00
+Day Reported Missing: Friday
+Length Missing (minutes): 4495
+When Traced: 2018-07-16 11:59:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: 1-42 West Lodge Gardens, Alloa, FK10 2HX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 65809
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2018-11-22 11:59:00
+Date Reported Missing: 2018-11-23 16:59:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8510
+When Traced: 2018-11-28 09:49:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: 1-42 West Lodge Gardens, Alloa, FK10 2HX
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 42539
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2019-05-16 09:49:00
+Date Reported Missing: 2019-05-16 22:49:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 7022
+When Traced: 2019-05-21 06:51:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: Kirk Entry Bo'ness Road, Falkirk, FK2 0QS
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 49501
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2019-07-07 06:51:00
+Date Reported Missing: 2019-07-08 03:51:00
+Day Reported Missing: Monday
+Length Missing (minutes): 7340
+When Traced: 2019-07-12 09:11:00
+Missing From Address: Earl's Road, Grangemouth, FK3 8UZ (school pickup)
+Traced at Address: Well Place, Dunblane, FK15 9BQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 62996
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2019-12-27 09:11:00
+Date Reported Missing: 2019-12-27 22:11:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1126
+When Traced: 2019-12-28 03:57:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: 1-42 West Lodge Gardens, Alloa, FK10 2HX
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 16819
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2020-01-07 03:57:00
+Date Reported Missing: 2020-01-08 01:57:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 6759
+When Traced: 2020-01-11 20:36:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: Kemper Avenue, Falkirk, FK1 1UF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 24869
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2020-03-14 20:36:00
+Date Reported Missing: 2020-03-15 05:36:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4027
+When Traced: 2020-03-17 15:43:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 91242
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2020-07-27 15:43:00
+Date Reported Missing: 2020-07-28 07:43:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2747
+When Traced: 2020-07-29 13:30:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 11252
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2021-01-21 13:30:00
+Date Reported Missing: 2021-01-22 00:30:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8901
+When Traced: 2021-01-27 17:51:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: West Bridge Street, Falkirk, FK1 5AP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 93273
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2021-06-19 17:51:00
+Date Reported Missing: 2021-06-20 13:51:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3695
+When Traced: 2021-06-22 07:26:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 30631
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2021-11-02 07:26:00
+Date Reported Missing: 2021-11-02 07:26:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 1503
+When Traced: 2021-11-03 08:29:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: 17 Whitehouse Road, Stirling, FK7 7XX
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 74045
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2021-12-05 08:29:00
+Date Reported Missing: 2021-12-05 19:29:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1017
+When Traced: 2021-12-06 01:26:00
+Missing From Address: Nicolton Avenue,  FK2 0TP (community center)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 79625
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2022-01-26 01:26:00
+Date Reported Missing: 2022-01-26 04:26:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9138
+When Traced: 2022-02-01 09:44:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: 35 Kerse Road, Grangemouth, FK3 8HY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 63079
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2022-04-22 09:44:00
+Date Reported Missing: 2022-04-22 10:44:00
+Day Reported Missing: Friday
+Length Missing (minutes): 362
+When Traced: 2022-04-22 15:46:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 62056
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2022-09-28 15:46:00
+Date Reported Missing: 2022-09-29 06:46:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2024
+When Traced: 2022-09-30 01:30:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 51059
+Name: Pauline Butler
+Date of Birth: 1993-01-29
+Sex: F
+Place of Birth: Bath
+Occupation: Scientist, research (physical sciences)
+Missing Since: 2022-11-29 01:30:00
+Date Reported Missing: 2022-11-30 08:30:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7169
+When Traced: 2022-12-04 00:59:00
+Missing From Address: 130 Bo'ness Road, Grangemouth, FK3 9BX (Home)
+Traced at Address: West Bridge Street, Falkirk, FK1 5AP
+Traced by: Traced by Police
+

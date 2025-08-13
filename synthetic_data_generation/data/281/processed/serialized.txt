@@ -1,0 +1,208 @@
+Disappearance Record:
+Report number: 33977
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2019-07-04 00:00:00
+Date Reported Missing: 2019-07-04 12:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3765
+When Traced: 2019-07-06 14:45:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: 25 Slamannan Road, Falkirk, FK1 5NF
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 96421
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2019-07-10 14:45:00
+Date Reported Missing: 2019-07-11 14:45:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2894
+When Traced: 2019-07-12 14:59:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: West Bridge Street, Falkirk, FK1 5AP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 60465
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2019-12-12 14:59:00
+Date Reported Missing: 2019-12-12 19:59:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1799
+When Traced: 2019-12-13 20:58:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 36126
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2020-06-10 20:58:00
+Date Reported Missing: 2020-06-10 20:58:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1775
+When Traced: 2020-06-12 02:33:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 24967
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2020-08-13 02:33:00
+Date Reported Missing: 2020-08-14 15:33:00
+Day Reported Missing: Friday
+Length Missing (minutes): 3996
+When Traced: 2020-08-15 21:09:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: West Bridge Street, Falkirk, FK1 5AP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 1060
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2020-09-04 21:09:00
+Date Reported Missing: 2020-09-05 20:09:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9853
+When Traced: 2020-09-11 17:22:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: 25 Slamannan Road, Falkirk, FK1 5NF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 42178
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2021-01-10 17:22:00
+Date Reported Missing: 2021-01-11 14:22:00
+Day Reported Missing: Monday
+Length Missing (minutes): 7110
+When Traced: 2021-01-15 15:52:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 12106
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2021-05-19 15:52:00
+Date Reported Missing: 2021-05-20 17:52:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8335
+When Traced: 2021-05-25 10:47:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: Ercall Road, Brightons, FK2 0RJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 26420
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2021-10-23 10:47:00
+Date Reported Missing: 2021-10-24 19:47:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 9300
+When Traced: 2021-10-29 21:47:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 88065
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2021-11-30 21:47:00
+Date Reported Missing: 2021-12-01 15:47:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7131
+When Traced: 2021-12-05 20:38:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: 14 The Meadows, Stirling, FK9 5AE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 248
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2022-04-29 20:38:00
+Date Reported Missing: 2022-04-30 12:38:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 6134
+When Traced: 2022-05-04 02:52:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: 25 Slamannan Road, Falkirk, FK1 5NF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 34432
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2022-10-18 02:52:00
+Date Reported Missing: 2022-10-18 13:52:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 10041
+When Traced: 2022-10-25 02:13:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: 35 Kerse Road, Grangemouth, FK3 8HY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 61374
+Name: Jane Black
+Date of Birth: 1933-12-04
+Sex: F
+Place of Birth: Bristol
+Occupation: Retired Designer, graphic
+Missing Since: 2023-01-25 02:13:00
+Date Reported Missing: 2023-01-26 02:13:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2834
+When Traced: 2023-01-27 01:27:00
+Missing From Address: 24 Munro Road, Stirling, FK7 7UU (Home)
+Traced at Address: 25 Slamannan Road, Falkirk, FK1 5NF
+Traced by: Traced by staff
+

@@ -1,0 +1,5 @@
+Separation from Group,  [54568, 93486, 55774]  
+Exploring Unfamiliar or Unknown Areas,  [2427, 77470, 98986]  
+Disregarding Weather Conditions,  [54568, 62893, 77470, 98986]  
+Wandering Off from a Known Location,  [2427, 62893, 55774]  
+Following a Personal Interest or Obsession,  [77470, 98986]

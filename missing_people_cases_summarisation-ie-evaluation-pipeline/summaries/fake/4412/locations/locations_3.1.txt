@@ -1,0 +1,44 @@
+Cunzie Street, 42004
+Langlands Road, 42004
+dock/marina, 42004
+highway, 42004
+Kinghorn, 42004
+9 Kilcruik Road, Kinghorn, 8154
+dock/marina area, 8154
+highway, 8154
+22 Nicol Drive, Burntisland, 8154
+Wood Road, Rosyth, 76621
+KY11 2EA, 76621
+dock/marina, 76621
+highway, 76621
+36-42 Watson Avenue, St Andrews, 53626
+KY16 8JE, 53626
+dock/marina, 53626
+16 Burney Place, Rosyth, 53626
+KY11 2PN, 53626
+137 Park Road West, Rosyth, 7142
+KY11 2TL, 7142
+3 Russell Grove, Burntisland, 7142
+KY3 9HL, 7142
+Anstruther, 75601
+34 Pettycur Bay, Kinghorn, 75601
+KY3 9SB, 75601
+1 Collinswell Drive, Burntisland, 75601
+KY3 0AU, 75601
+28 Cunzie Street, Anstruther, 92786
+47 Geds Mill Close, Burntisland, 92786
+1 Fidra Avenue, Burntisland, 92786
+highway, 101889
+restaurant, 101889
+highway, 101893
+docks, 101893
+highway, 101893
+restaurant, 101894
+dock/marina, 101894
+highway, 101894
+highway, 101895
+marina, 101903
+highway, 101903
+dock, 101904
+restaurant, 101904
+highway, 101904

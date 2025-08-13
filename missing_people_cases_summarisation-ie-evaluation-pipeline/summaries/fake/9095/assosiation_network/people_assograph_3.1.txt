@@ -1,0 +1,46 @@
+Anne Evans,Anne Evans,mother,61771
+Anne Evans,Lewis Edwards,friend,61771
+Anne Evans,foster father,foster father,61771
+Anne Evans,Lewis Edwards,friend,25979
+Anne Evans,foster father,foster father,25979
+Anne Evans,Chelsea Ferguson,possible cult connection,25979
+Anne Evans,foster mother,foster mother,82835
+Anne Evans,foster father,foster father,82835
+Anne Evans,friend,friend,55979
+Anne Evans,Lynne Tucker,possible cult connection,55979
+Anne Evans,friend,friend,84404
+Anne Evans,unknown group,possible cult connection,84404
+Anne Evans,friend,friend,64361
+Anne Evans,family,family,64361
+Anne Evans,older children,possible cult connection,64361
+Anne Evans,family member,family member,64361
+Anne Evans,friend,friend,57256
+Anne Evans,friend,friend,57256
+Anne Evans,possible witness,possible witness,57256
+Anne Evans,Lynne Tucker,friend,82269
+Anne Evans,Barbara Clements,neighbor,82269
+Anne Evans,Lynne Tucker,friend,35502
+Anne Evans,Lewis Edwards,friend,35502
+Anne Evans,possible cult connection,possible cult connection,35502
+Anne Evans,foster father,foster father,22742
+Anne Evans,friend,friend,22742
+Anne Evans,foster father,foster father,48135
+Anne Evans,friend,friend,48135
+Anne Evans,Harriet Robson,friend,52396
+Anne Evans,Harriet Robson,friend,52396
+Anne Evans,possible cult connection,possible cult connection,52396
+Anne Evans,Harriet Robson,friend,49921
+Anne Evans,Sian Waters,foster mother,49921
+Anne Evans,neighbor,neighbor,38991
+Anne Evans,friend,friend,38991
+Anne Evans,foster father,foster father,101382
+Anne Evans,possible cult connection,possible cult connection,101382
+Anne Evans,foster father,foster father,101384
+Anne Evans,self-harm,self-harm,101384
+Anne Evans,Lynne Tucker,Lynne Tucker,101385
+Anne Evans,Melissa Arnold,Melissa Arnold,101386
+Anne Evans,foster father,foster father,101388
+Anne Evans,alleyway,alleyway,101388
+Anne Evans,Barbara Clements,Barbara Clements,101389
+Anne Evans,alleyway,alleyway,101389
+Anne Evans,32 Caledonia Court,32 Caledonia Court,101390

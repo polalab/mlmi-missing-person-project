@@ -1,0 +1,48 @@
+Disappearance Record:
+Report number: 26855
+Name: Gemma Hodgson
+Date of Birth: 1985-07-16
+Sex: F
+Place of Birth: Milton Keynes
+Occupation: Analytical chemist
+Missing Since: 2024-12-04 00:00:00
+Date Reported Missing: 2024-12-04 22:00:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9688
+When Traced: 2024-12-10 17:28:00
+Missing From Address: West Murrayfield, Stirling, FK7 8NB (Home)
+Traced at Address: 33 Spittal Street,  FK8 1DU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 89910
+Name: Gemma Hodgson
+Date of Birth: 1985-07-16
+Sex: F
+Place of Birth: Milton Keynes
+Occupation: Analytical chemist
+Missing Since: 2025-02-25 17:28:00
+Date Reported Missing: 2025-02-26 08:28:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3265
+When Traced: 2025-02-27 23:53:00
+Missing From Address: West Murrayfield, Stirling, FK7 8NB (Home)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 66707
+Name: Gemma Hodgson
+Date of Birth: 1985-07-16
+Sex: F
+Place of Birth: Milton Keynes
+Occupation: Analytical chemist
+Missing Since: 2025-07-21 23:53:00
+Date Reported Missing: 2025-07-21 23:53:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3404
+When Traced: 2025-07-24 08:37:00
+Missing From Address: West Murrayfield, Stirling, FK7 8NB (Home)
+Traced at Address: 33 Spittal Street,  FK8 1DU
+Traced by: Traced by Police
+

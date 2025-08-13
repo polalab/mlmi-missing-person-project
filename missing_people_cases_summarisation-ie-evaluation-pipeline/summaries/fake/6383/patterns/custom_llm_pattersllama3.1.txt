@@ -1,0 +1,5 @@
+Traveling Without Notice, [80185, 24797, 100808]  
+Disappearance Near Secluded Areas, [80185, 24797]  
+Lack of Communication, [80185, 24797, 100808]  
+Solo Activities, [80185, 24797]  
+Unplanned Absence from Scheduled Events, [80185]

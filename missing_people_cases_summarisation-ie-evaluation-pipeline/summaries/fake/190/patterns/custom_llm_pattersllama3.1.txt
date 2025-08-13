@@ -1,0 +1,5 @@
+Disappearance near waterways, [57383, 92378, 14075, 46765, 53976, 5515]  
+Disappearance near isolated areas, [68205, 71364, 16241, 36268, 2053]  
+Disappearance after contacting a stranger, [92378, 26607, 71364, 46765, 53976]  
+Disappearance after neglecting essential tasks, [57383, 51085, 46765, 36268]  
+Disappearance after expressing interest in a specific activity, [94098, 51085, 14075, 53976]

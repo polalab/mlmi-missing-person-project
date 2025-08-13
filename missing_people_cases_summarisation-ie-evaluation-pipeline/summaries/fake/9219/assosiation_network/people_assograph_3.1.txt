@@ -1,0 +1,45 @@
+Dorothy Mason,Paul Murphy,foster father,29982
+Dorothy Mason,Paul Murphy,foster father,51207
+Dorothy Mason,Paul Murphy,foster father,62480
+Dorothy Mason,Paul Murphy,foster father,23342
+Dorothy Mason,Paul Murphy,foster father,55064
+Dorothy Mason,Paul Murphy,foster father,65972
+Dorothy Mason,Paul Murphy,foster father,15551
+Dorothy Mason,Paul Murphy,foster father,37213
+Dorothy Mason,Paul Murphy,foster father,36163
+Dorothy Mason,Paul Murphy,foster father,35134
+Dorothy Mason,Paul Murphy,foster father,61465
+Dorothy Mason,Paul Murphy,foster father,14202
+Dorothy Mason,Paul Murphy,foster father,52412
+Dorothy Mason,Paul Murphy,foster father,90235
+Dorothy Mason,Paul Murphy,foster father,53698
+Dorothy Mason,Paul Murphy,foster father,87872
+Dorothy Mason,Paul Murphy,foster father,56715
+Dorothy Mason,Paul Murphy,foster father,46030
+Dorothy Mason,Paul Murphy,foster father,46576
+Dorothy Mason,Paul Murphy,foster father,12365
+Dorothy Mason,Paul Murphy,foster father,5172
+Dorothy Mason,Paul Murphy,foster father,12303
+Dorothy Mason,Paul Murphy,foster father,1703
+Dorothy Mason,Helen Farmer,friend,65972
+Dorothy Mason,Helen Farmer,friend,15551
+Dorothy Mason,Helen Farmer,friend,37213
+Dorothy Mason,Helen Farmer,friend,52412
+Dorothy Mason,Helen Farmer,friend,90235
+Dorothy Mason,Helen Farmer,friend,53698
+Dorothy Mason,Julia Rose,friend,35134
+Dorothy Mason,Terry,colleague,61465
+Dorothy Mason,Jacqueline,colleague,87872
+Dorothy Mason,Duncan Mills,colleague,46576
+Dorothy Mason,Lindsey Berry,friend,12303
+Dorothy Mason,Donald,colleague,5172
+Dorothy Mason,Lindsey Berry,friend,12303
+Dorothy Mason,Paul Murphy,foster father,101308
+Dorothy Mason,Paul Murphy,foster father,101317
+Dorothy Mason,Paul Murphy,foster father,101318
+Dorothy Mason,Paul Murphy,foster father,101322
+Dorothy Mason,Paul Murphy,foster father,101323
+Dorothy Mason,Paul Murphy,foster father,101317
+Dorothy Mason,Paul Murphy,foster father,101318
+Dorothy Mason,Paul Murphy,foster father,101322
+Dorothy Mason,Paul Murphy,foster father,101323

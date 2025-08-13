@@ -1,0 +1,11 @@
+father
+friend
+grandfather
+grandmother
+friend
+mother
+uncle
+colleague
+grandfather
+aunt
+aunt

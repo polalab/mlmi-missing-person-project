@@ -1,0 +1,20 @@
+Gavin Smith,Chelsea Evans,friend,48521
+Gavin Smith,neighbor,friend,48521
+Gavin Smith,family,family member,48521
+Gavin Smith,Chelsea Evans,friend,4763
+Gavin Smith,family,family member,4763
+Gavin Smith,Carl Curtis,foster parent,96645
+Gavin Smith,Melanie Jenkins,family friend,76267
+Gavin Smith,Carl Curtis,foster parent,96645
+Gavin Smith,Chelsea Evans,friend,8977
+Gavin Smith,Amber Bennett,colleague,19733
+Gavin Smith,Chelsea Evans,friend,84834
+Gavin Smith,Amber Bennett,colleague,75545
+Gavin Smith,Chelsea Evans,friend,4646
+Gavin Smith,Kathleen McDonald,acquaintance,27854
+Gavin Smith,family,family member,101744
+Gavin Smith,family,family member,101749
+Gavin Smith,Chelsea Evans,friend,101751
+Gavin Smith,Leigh Jones,acquaintance,101754
+Gavin Smith,family,family member,101755
+Gavin Smith,family,family member,101757

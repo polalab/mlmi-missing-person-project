@@ -1,0 +1,11 @@
+friend
+uncle
+grandfather
+sister
+son
+daughter
+colleague
+friend
+sister
+colleague
+mother

@@ -1,0 +1,5 @@
+Disappearance via Unplanned Detours, [50123, 12449, 35259, 92376]  
+Disappearance due to Exploration of Restricted or Illegal Sites, [12923, 35603, 53379, 48159]  
+Disappearance after Separation from Group, [51137]  
+Disappearance due to Fatigue or Disorientation, [35603, 48159]  
+Disappearance due to Unforeseen Encounters, [71818]

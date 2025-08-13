@@ -1,0 +1,48 @@
+Disappearance Record:
+Report number: 7609
+Name: Bethany Barton
+Date of Birth: 1933-04-05
+Sex: F
+Place of Birth: Cardiff
+Occupation: Retired Chartered accountant
+Missing Since: 2024-07-16 00:00:00
+Date Reported Missing: 2024-07-16 21:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2632
+When Traced: 2024-07-17 19:52:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Cardross Road,  G82 5DH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 32325
+Name: Bethany Barton
+Date of Birth: 1933-04-05
+Sex: F
+Place of Birth: Cardiff
+Occupation: Retired Chartered accountant
+Missing Since: 2025-01-02 19:52:00
+Date Reported Missing: 2025-01-03 09:52:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7591
+When Traced: 2025-01-08 02:23:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: The Cross,  EH49 7AH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 33821
+Name: Bethany Barton
+Date of Birth: 1933-04-05
+Sex: F
+Place of Birth: Cardiff
+Occupation: Retired Chartered accountant
+Missing Since: 2025-06-20 02:23:00
+Date Reported Missing: 2025-06-20 09:23:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9584
+When Traced: 2025-06-26 18:07:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: Craigieknowes Road, Perth, PH2 0DG
+Traced by: Traced by family
+

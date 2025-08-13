@@ -1,0 +1,57 @@
+{
+    "forenames": "Gavin",
+    "surname": "Smith",
+    "maidenname": "",
+    "nickname": "",
+    "misperid": 1976,
+    "nominalid": 2489,
+    "sex": "Male",
+    "date_of_birth": "2012-07-26",
+    "age": 13,
+    "foster care": true,
+    "child_protection": true,
+    "ethnical_appearance": "Black Caribbean",
+    "person_language": "English",
+    "place_of_birth": "Liverpool",
+    "disability_status": "No",
+    "disability_desc": "",
+    "occupation": "",
+    "reports_starting_from": "2020-02-20",
+    "addresses": [
+        {
+            "address": "6 Bard Avenue, Glasgow, G13 3JA",
+            "type": "Home"
+        },
+        {
+            "address": "85 Bassett Avenue, Glasgow, G13 3JP",
+            "type": "youth center"
+        },
+        {
+            "address": "52a Sinclair Street, Helensburgh, G84 8TQ",
+            "type": "shopping mall"
+        }
+    ],
+    "traced_locations": [
+        "Acre Drive, Glasgow, G20 0TR",
+        "Hall Road, Rhu, G84 8RR",
+        "52a Sinclair Street, Helensburgh, G84 8TQ",
+        "63-65 Truce Road, Glasgow, G13 3JB",
+        "112-117 West Clyde Street, Helensburgh, G84 8ES",
+        "Cardross Road,  G82 5DH",
+        "Fulton Road,  G62 8PG",
+        "Stirling Road, Dumbarton, G82 3RG",
+        "Main Raod,  G84 0AH",
+        "55 Diana Avenue, Glasgow, G13 3JW"
+    ],
+    "people_reporting": [
+        "Carl Curtis",
+        "Leigh Jones",
+        "Caroline Kelly",
+        "Chelsea Evans",
+        "Tony Johnson",
+        "Shirley Matthews",
+        "Melanie Jenkins",
+        "Amber Bennett",
+        "Kathleen McDonald"
+    ]
+}

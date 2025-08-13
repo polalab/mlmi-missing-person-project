@@ -1,0 +1,5 @@
+Disappearance at Night, [92550, 84401]  
+Disappearance from a Public Place, [101475, 101480]  
+Disappearance from a Residential Location, [92550, 101477]  
+Disappearance from a Youth Center, [84401, 92550]  
+Disappearance after a Distressing Event, [92550, 101480]

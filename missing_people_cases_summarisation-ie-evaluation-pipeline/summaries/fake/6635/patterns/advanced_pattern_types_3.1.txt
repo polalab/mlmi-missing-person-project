@@ -1,0 +1,6 @@
+98281,"MP was last seen near a well known to her son",disorientation_near_familiar_location,"The search focused on a well known to her son."
+98281,"MP was located by family members",family_intervention_pattern,"Her low-risk status and familial connections were crucial in her swift recovery."
+98281,"MP failed to appear for a planned visit",no_show_pattern,"After her absence was noted, she was successfully located by family members in Burntisland."
+101338,"MP was discovered near a well",disorientation_near_water_source,"Concerned locals noticed her wandering a bit far from her usual surroundings."
+101338,"MP showed signs of confusion",disorientation_due_to_dementia,"Hollie, who has not been a repeated victim or perpetrator, showed signs of confusion and struggled to communicate."
+101338,"MP preferred solitude",solitude_pattern,"Despite attempts by passersby to assist, she remained unengaged and preferred solitude."

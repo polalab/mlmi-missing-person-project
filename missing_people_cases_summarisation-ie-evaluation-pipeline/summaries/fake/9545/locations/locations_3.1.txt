@@ -1,0 +1,68 @@
+26 Parkgrove Avenue, Edinburgh, 3443
+South Groathill Avenue, Edinburgh, 3443
+5 Pheasant Walk, North Berwick, EH39 5HX, 56516
+Prestonpans, 80860
+Edinburgh, 80860
+18 Queen Anne Drive, Edinburgh, EH28 8PL, 14249
+Hilltown, Dalkeith, EH22 1SG, 14249
+Kings Cairn, EH39 5HQ, 23055
+Rose Street, 23055
+Dunbar, 726
+West Port, 726
+11 Woodhall Bank, Edinburgh, 93261
+5 New Street, Edinburgh, EH8 8BH, 93849
+50 Howden Hall Road, 93849
+90 Haymarket Terrace, Edinburgh, 94884
+1 Kings Court, Dunbar, 94884
+5 Drysdale Road, Edinburgh, 33162
+1a Beech Grove, Livingston, 33162
+East Mains, Ormiston, 33162
+Houston Mains, Livingston, EH52 6PA, 91128
+The Cross, EH49 7AH, 91128
+12 York Road, EH39 4LX, 74447
+East Mains, Ormiston, 74447
+6 Market Street, Edinburgh, 33108
+1G Bank Street, 33108
+3 West End Place, EH39 4AJ, 33108
+Garden Place, Livingston, 56141
+6 Lidgate Shot, Ratho, 56141
+Rose Street, 56141
+79 Lauriston Place, Edinburgh, 57117
+The Cross, EH49 7AH, 57117
+1G Bank Street, 57117
+1a Beech Grove, Livingston, EH54 5JL, 42180
+Dean Road, Bo'ness, EH51 0DH, 42180
+2 Cramond Glebe Road, Edinburgh, 42148
+26 Parkgrove Avenue, Edinburgh, 15493
+central Edinburgh, 15493
+40 Maritime Street, Edinburgh, 15339
+26 Parkgrove Avenue, Edinburgh, 64155
+South Groathill Avenue, Edinburgh, 64155
+5 Pheasant Walk, North Berwick, EH39 5HX, 64155
+Kings Cairn, EH39 5HQ, 64155
+Rose Street, 64155
+Dunbar, 64155
+11 Woodhall Bank, Edinburgh, 64155
+5 New Street, Edinburgh, EH8 8BH, 64155
+50 Howden Hall Road, 64155
+90 Haymarket Terrace, Edinburgh, 64155
+1 Kings Court, Dunbar, 64155
+5 Drysdale Road, Edinburgh, 64155
+1a Beech Grove, Livingston, EH54 5JL, 64155
+East Mains, Ormiston, 64155
+Houston Mains, Livingston, EH52 6PA, 64155
+The Cross, EH49 7AH, 64155
+12 York Road, EH39 4LX, 64155
+2 Cramond Glebe Road, Edinburgh, 64155
+Garden Place, Livingston, 64155
+6 Lidgate Shot, Ratho, 64155
+Rose Street, 64155
+79 Lauriston Place, Edinburgh, 64155
+The Cross, EH49 7AH, 64155
+1G Bank Street, 64155
+3 West End Place, EH39 4AJ, 64155
+local religious site, 100535
+wilderness, 100535
+illegal site, 100535
+illegal site, 100536
+truck stop, 100537

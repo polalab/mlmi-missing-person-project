@@ -1,0 +1,14 @@
+grandfather
+brother
+colleague
+grandfather
+sister
+colleague
+colleague
+brother
+brother
+sister
+friend
+brother
+friend
+colleague

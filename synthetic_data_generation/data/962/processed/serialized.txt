@@ -1,0 +1,256 @@
+Disappearance Record:
+Report number: 55360
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2021-06-15 00:00:00
+Date Reported Missing: 2021-06-15 12:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 6057
+When Traced: 2021-06-19 04:57:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: 1 Newark Street,  PA14 5PE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 70598
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2021-08-07 04:57:00
+Date Reported Missing: 2021-08-07 16:57:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9187
+When Traced: 2021-08-13 14:04:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 43063
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2021-08-25 14:04:00
+Date Reported Missing: 2021-08-26 13:04:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4896
+When Traced: 2021-08-28 23:40:00
+Missing From Address: North Pier, Oban, PA34 5QD (volunteer organization)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 97963
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2021-11-21 23:40:00
+Date Reported Missing: 2021-11-22 04:40:00
+Day Reported Missing: Monday
+Length Missing (minutes): 817
+When Traced: 2021-11-22 13:17:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Railway Pier, Oban, PA34 4LW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 41933
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2022-02-09 13:17:00
+Date Reported Missing: 2022-02-10 06:17:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1350
+When Traced: 2022-02-10 11:47:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Gallanach Road,  PA34 4PE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 77489
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2022-07-25 11:47:00
+Date Reported Missing: 2022-07-26 07:47:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9514
+When Traced: 2022-08-01 02:21:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Craigieknowes Road, Perth, PH2 0DG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 46312
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2023-01-07 02:21:00
+Date Reported Missing: 2023-01-07 21:21:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 7457
+When Traced: 2023-01-12 06:38:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 18502
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2023-02-01 06:38:00
+Date Reported Missing: 2023-02-02 02:38:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8526
+When Traced: 2023-02-07 04:44:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Gallanach Road,  PA34 4PE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 20207
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2023-05-06 04:44:00
+Date Reported Missing: 2023-05-06 01:44:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 152
+When Traced: 2023-05-06 07:16:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 77112
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2023-10-04 07:16:00
+Date Reported Missing: 2023-10-05 04:16:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5630
+When Traced: 2023-10-08 05:06:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 14190
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2024-01-19 05:06:00
+Date Reported Missing: 2024-01-19 18:06:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2041
+When Traced: 2024-01-20 15:07:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Park Mains, Erskine, PA8 7AL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 79169
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2024-05-05 15:07:00
+Date Reported Missing: 2024-05-06 08:07:00
+Day Reported Missing: Monday
+Length Missing (minutes): 7119
+When Traced: 2024-05-10 13:46:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Larkfield Road, Inverclyde, PA16 0XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 72558
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2024-07-13 13:46:00
+Date Reported Missing: 2024-07-14 00:46:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4304
+When Traced: 2024-07-16 13:30:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Railway Pier, Oban, PA34 4LW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 18823
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2024-10-02 13:30:00
+Date Reported Missing: 2024-10-02 13:30:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 4216
+When Traced: 2024-10-05 11:46:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Larkfield Road, Inverclyde, PA16 0XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 48914
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2025-03-01 11:46:00
+Date Reported Missing: 2025-03-02 05:46:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 8388
+When Traced: 2025-03-07 07:34:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: Gallanach Road,  PA34 4PE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 94301
+Name: Damien Brown
+Date of Birth: 2014-05-08
+Sex: Male
+Place of Birth: Portsmouth
+Occupation: 
+Missing Since: 2025-07-11 07:34:00
+Date Reported Missing: 2025-07-11 16:34:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9172
+When Traced: 2025-07-17 16:26:00
+Missing From Address: Railway Pier, Oban, PA34 4LW (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by Police
+

@@ -1,0 +1,5 @@
+Vehicle-related Disappearance, [77113, 93985, 39141, 38126, 81438]  
+Safe House Involvement, [36859, 31653, 39141, 38126, 11636]  
+Exploratory Behavior, [93985, 39141, 349, 5007]  
+Separation from Companions, [38126, 81438, 11636]  
+Unplanned Travel, [38890, 31653]

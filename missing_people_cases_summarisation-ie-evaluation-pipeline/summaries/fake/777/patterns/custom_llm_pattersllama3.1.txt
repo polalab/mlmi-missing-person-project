@@ -1,0 +1,5 @@
+Disappearance via Unplanned Travel, [39069, 54102, 86128, 85599, 57853]  
+Disappearance via Solitude Seeking, [22873, 25357]  
+Disappearance via Identity Reset, [86128, 85599]  
+Disappearance via Exploration of Isolated Areas, [86128, 25357]  
+Disappearance via Withdrawal from Familiar Environments, [22873, 57853]

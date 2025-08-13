@@ -1,0 +1,5 @@
+Disappearance via Unplanned Exploration, [36035, 43970]  
+Disappearance during a Planned Activity, [23352, 98859]  
+Disappearance from a Familiar Location, [43970, 66782]  
+Disappearance after Displaying Personality Changes, [36035, 66782]  
+Disappearance from a Location with Access to Water, [98859, 36035]

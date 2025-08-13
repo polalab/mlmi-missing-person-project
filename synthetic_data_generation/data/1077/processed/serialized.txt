@@ -1,0 +1,96 @@
+Disappearance Record:
+Report number: 72540
+Name: Bernard Perkins
+Date of Birth: 2012-07-10
+Sex: Male
+Place of Birth: Carlisle
+Occupation: 
+Missing Since: 2023-12-24 00:00:00
+Date Reported Missing: 2023-12-24 00:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 972
+When Traced: 2023-12-24 16:12:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: Kirsty Semple Way, Dundee, DD2 4BF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 51733
+Name: Bernard Perkins
+Date of Birth: 2012-07-10
+Sex: Male
+Place of Birth: Carlisle
+Occupation: 
+Missing Since: 2024-02-26 16:12:00
+Date Reported Missing: 2024-02-27 13:12:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7349
+When Traced: 2024-03-02 18:41:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: East School Road, Dundee, DD3 8NX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 93386
+Name: Bernard Perkins
+Date of Birth: 2012-07-10
+Sex: Male
+Place of Birth: Carlisle
+Occupation: 
+Missing Since: 2024-07-19 18:41:00
+Date Reported Missing: 2024-07-20 11:41:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 6773
+When Traced: 2024-07-24 11:34:00
+Missing From Address: 31 Church Road, Dundee, DD2 5NN (library)
+Traced at Address: 31 Church Road, Dundee, DD2 5NN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 6495
+Name: Bernard Perkins
+Date of Birth: 2012-07-10
+Sex: Male
+Place of Birth: Carlisle
+Occupation: 
+Missing Since: 2024-11-12 11:34:00
+Date Reported Missing: 2024-11-12 12:34:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 362
+When Traced: 2024-11-12 17:36:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: Findcastle Street, Dundee, DD4 9EW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 57381
+Name: Bernard Perkins
+Date of Birth: 2012-07-10
+Sex: Male
+Place of Birth: Carlisle
+Occupation: 
+Missing Since: 2025-03-05 17:36:00
+Date Reported Missing: 2025-03-06 08:36:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5091
+When Traced: 2025-03-09 06:27:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: East School Road, Dundee, DD3 8NX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 37389
+Name: Bernard Perkins
+Date of Birth: 2012-07-10
+Sex: Male
+Place of Birth: Carlisle
+Occupation: 
+Missing Since: 2025-05-25 06:27:00
+Date Reported Missing: 2025-05-25 20:27:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5045
+When Traced: 2025-05-28 18:32:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: 23 City Road, Dundee, DD2 2BL
+Traced by: Traced by Police
+

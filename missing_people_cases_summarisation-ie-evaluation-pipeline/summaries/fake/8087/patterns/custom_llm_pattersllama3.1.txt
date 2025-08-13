@@ -1,0 +1,5 @@
+Disorientation due to unfamiliar surroundings,  [41166, 88231, 27343, 98898, 80992, 24717, 14224, 57734]  
+Disregard for routine,  [50658, 1446, 48167, 93236, 31188, 6928, 98502, 1340]  
+Seeking solitude in elevated locations,  [41166, 88231, 27343, 50241, 84995, 25462, 92132, 59995, 87259, 80992, 50658, 93236, 64510, 14224, 57734]  
+Traveling to distant locations,  [6928, 98502, 72148, 14224, 46512]  
+Unplanned detours,  [95005, 54307, 23484, 55024, 90165, 51607, 99442, 31188]

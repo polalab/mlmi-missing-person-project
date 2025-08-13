@@ -1,0 +1,5 @@
+Disconnection from Routine, [97358, 13270]  
+Exploring Unfamiliar Environments, [49059, 46992]  
+Association with Storm Drains, [3219, 102005]  
+Rest Areas and Wells, [19262, 3219]  
+Withdrawal and Emotional Distress, [25848, 102002]

@@ -1,0 +1,5 @@
+Disappearance at Religious Sites, [17690, 3870, 25793, 18923, 94906, 28187, 67560, 18211, 93414]  
+Disappearance after Outdoor Festivals, [41806, 3870, 25793, 13361, 84357, 85362, 101966]  
+Disappearance after Visiting Friends or Family, [18211, 84357, 85362]  
+Disappearance from Unfamiliar Locations, [76024, 28187]  
+Disappearance with Preceding Personality Changes, [41806, 3870, 25793, 13361, 18923, 18211, 84357, 85362]

@@ -1,0 +1,6 @@
+sports arena
+bus
+bathroom
+airplane
+escalator
+campground

@@ -1,0 +1,5 @@
+Disappearance via Unintended Detour, [18533, 68352]  
+Disappearance due to Exploration of Familiar Locations, [63211, 22292]  
+Disappearance due to Involvement with Tour Groups, [68352, 35512]  
+Disappearance due to Confusion related to Travel, [63211, 68352]  
+Disappearance due to Visiting Abandoned or Unfamiliar Places, [94617, 101567]

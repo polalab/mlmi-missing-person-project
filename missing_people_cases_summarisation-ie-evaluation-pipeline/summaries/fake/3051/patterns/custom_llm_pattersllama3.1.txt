@@ -1,0 +1,5 @@
+Disorientation upon discovery, [96137, 50369, 95534, 6759, 29141, 29009, 59410, 36706, 89863, 32658, 37090]  
+Unplanned departure from a familiar location, [71946, 39666, 90474, 99704, 56893, 94597, 61469, 61360, 82068, 96734]  
+Detour from a planned destination, [32658, 37090]  
+Disorientation in a new or unfamiliar environment, [96137, 50369, 6759, 29141, 59410, 36706, 89863]  
+Inadvertent use of public transportation, [37090, 32658]

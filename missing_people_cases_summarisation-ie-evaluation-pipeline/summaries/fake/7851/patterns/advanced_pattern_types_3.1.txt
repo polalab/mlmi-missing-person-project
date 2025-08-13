@@ -1,0 +1,19 @@
+98201,"MP was last seen leaving a casino linked to an organized protest and was later spotted on a hiking trail",organized_protest_linked_disappearance_pattern,"After a sudden religious conversion, he was spotted on a hiking trail near Craigour Road."
+
+42854,"MP was last seen conversing with a friend on Dee Street and was later found safe by his grandfather",friend_conversation_pattern,"He was last seen conversing with a friend on Dee Street, Banchory."
+
+27258,"MP was last seen leaving a casino with his friend and was later found safe by his family",friend_accompanied_disappearance_pattern,"He vanished into the night after losing contact with Dorothy."
+
+1397,"MP was last seen leaving his office and was later found safe but disoriented on Rannes Street",office_departure_pattern,"Colleague Charles Smith noted Garry seemed distracted lately, concerned about obligations at home and issues discussed during parent-teacher meetings."
+
+12589,"MP vanished from 10 Garden Wood after facing romantic rejection and was last seen on a hiking trail near a snow area",romantic_rejection_linked_disappearance_pattern,"Last seen on a hiking trail near a snow area with colleague Charles Smith."
+
+5551,"MP was last seen at a casino near March Road shortly after his mother expressed concerns over his recently outed LGBTQ+ identity",lgbtq_identity_disclosure_linked_disappearance_pattern,"Friends reported he might have headed towards the snow area near Bridgend of Glenlivet for some solitude."
+
+21539,"MP was last seen at a hiking trail near his Home after a romantic rejection and sudden religious conversion",sudden_religious_conversion_linked_disappearance_pattern,"After a romantic rejection and sudden religious conversion, he went missing."
+
+100754,"MP was lost in snow near a casino",snow_area_disorientation_pattern,"Garry lost in snow near casino."
+
+100755,"MP was found disoriented on a hiking trail by a friend",disorientation_on_hiking_trail_pattern,"Garry was found disoriented on a hiking trail by a friend."
+
+100756,"MP feels unsafe repeatedly",repeated_feeling_of_unsafety_pattern,"Garry feels unsafe repeatedly."

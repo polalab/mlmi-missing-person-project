@@ -1,0 +1,5 @@
+Disappearance near or after a social event, [18507, 101555]  
+Disappearance from a home environment, [64654, 79256]  
+Disappearance to a secluded or off-grid location, [64654, 79256]  
+Disappearance near a body of water, [64654, 101555, 101554]  
+Disappearance after meeting someone, [101555, 79256]

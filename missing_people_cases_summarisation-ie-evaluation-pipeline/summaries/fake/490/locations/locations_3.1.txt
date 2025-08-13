@@ -1,0 +1,7 @@
+Walker Drive, South Queensferry, 69908
+highway, 69908
+secluded farm by the river, 100750
+river, 100750
+grandfather's farm, 100750
+bar/nightclub, 100752
+highway, 100752

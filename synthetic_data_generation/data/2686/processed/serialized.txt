@@ -1,0 +1,224 @@
+Disappearance Record:
+Report number: 95343
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2022-08-05 00:00:00
+Date Reported Missing: 2022-08-05 10:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8966
+When Traced: 2022-08-11 05:26:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 312 Greengairs Road, Greengairs, ML6 7TQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 51641
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2022-10-31 05:26:00
+Date Reported Missing: 2022-10-31 10:26:00
+Day Reported Missing: Monday
+Length Missing (minutes): 1293
+When Traced: 2022-11-01 02:59:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 9 Kilcruik Road, Kinghorn, KY3 9XH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 70363
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2022-12-02 02:59:00
+Date Reported Missing: 2022-12-02 02:59:00
+Day Reported Missing: Friday
+Length Missing (minutes): 3198
+When Traced: 2022-12-04 08:17:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 1 Newton Place, Rosyth, KY11 2LX
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 96643
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2023-01-16 08:17:00
+Date Reported Missing: 2023-01-16 08:17:00
+Day Reported Missing: Monday
+Length Missing (minutes): 4743
+When Traced: 2023-01-19 15:20:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 135 Rosebank Street, Dundee, DD3 6PP
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 2060
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2023-05-12 15:20:00
+Date Reported Missing: 2023-05-12 20:20:00
+Day Reported Missing: Friday
+Length Missing (minutes): 5598
+When Traced: 2023-05-16 12:38:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 57 King's Road, Rosyth, KY11 2TW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 71396
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2023-06-11 12:38:00
+Date Reported Missing: 2023-06-13 04:38:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9584
+When Traced: 2023-06-18 04:22:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 2 Glass Crescent, Winchburgh, EH52 6SL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 56522
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2023-09-18 04:22:00
+Date Reported Missing: 2023-09-19 15:22:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5738
+When Traced: 2023-09-22 04:00:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 1 Newton Place, Rosyth, KY11 2LX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 52342
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2023-09-23 04:00:00
+Date Reported Missing: 2023-09-24 07:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6444
+When Traced: 2023-09-27 15:24:00
+Missing From Address: Turret Crescent,  G13 2HG (evening classes)
+Traced at Address: 1 Newton Place, Rosyth, KY11 2LX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 35455
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2024-02-02 15:24:00
+Date Reported Missing: 2024-02-03 04:24:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1137
+When Traced: 2024-02-03 10:21:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 2 Glass Crescent, Winchburgh, EH52 6SL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 38582
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2024-04-13 10:21:00
+Date Reported Missing: 2024-04-13 18:21:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4460
+When Traced: 2024-04-16 12:41:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 312 Greengairs Road, Greengairs, ML6 7TQ
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 34678
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2024-08-20 12:41:00
+Date Reported Missing: 2024-08-20 22:41:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5571
+When Traced: 2024-08-24 09:32:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 1 Newton Place, Rosyth, KY11 2LX
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 33310
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2024-08-25 09:32:00
+Date Reported Missing: 2024-08-25 06:32:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 134
+When Traced: 2024-08-25 11:46:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 312 Greengairs Road, Greengairs, ML6 7TQ
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 85144
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2024-11-30 11:46:00
+Date Reported Missing: 2024-12-01 20:46:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7458
+When Traced: 2024-12-05 16:04:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 1 Newton Place, Rosyth, KY11 2LX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 91487
+Name: Jeremy Harrison
+Date of Birth: 1970-09-12
+Sex: Male
+Place of Birth: Southampton
+Occupation: Communications engineer
+Missing Since: 2025-05-26 16:04:00
+Date Reported Missing: 2025-05-26 16:04:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2175
+When Traced: 2025-05-28 04:19:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 1 Fairview Road, Edinburgh, EH28 8AP
+Traced by: Traced by Police
+

@@ -1,0 +1,4 @@
+bus
+roadhouse
+cruise ship
+vehicle-related

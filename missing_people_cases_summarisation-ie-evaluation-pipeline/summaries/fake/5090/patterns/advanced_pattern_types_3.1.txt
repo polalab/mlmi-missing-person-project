@@ -1,0 +1,7 @@
+18507,"MP vanished post-event",self_harm_escape_pattern,"MP vanished post-festival near Discovery Quay, friend last saw her after event."
+64654,"MP left home after argument with foster father",survivalist_escape_pattern,"Heather, known for her tendency to escape the constraints of routine by living off-grid, left her home."
+64654,"MP was found safe after seeking solace away from usual environment",solace_seeking_pattern,"Heather was found safe by staff at Unit 3 Fowler Road, Dundee, having sought solace away from her usual environment."
+79256,"MP's previous conversations and unusual interests raised concerns",survivalist_mindset_pattern,"Heather had been spending time with Karl Collier, a friend she trusted, and was last seen visiting his house."
+79256,"MP was found safe but disoriented after seeking seclusion",seclusion_response_pattern,"Heather was eventually located by family at 3 Boniface Place, Dundee, safe but disoriented, indicating she might have sought seclusion as a response to her personal struggles."
+101552,"MP stayed alone at the beach",solitude_at_beach_pattern,"Heather stays at beach alone."
+101555,"MP disappeared after meeting colleague at the beach",beach_meeting_pattern,"Heather, last seen near the river, disappeared after meeting colleague Anne Black at the beach."

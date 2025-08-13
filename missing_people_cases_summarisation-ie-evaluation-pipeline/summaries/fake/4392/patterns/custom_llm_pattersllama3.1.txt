@@ -1,0 +1,5 @@
+Disappearance by Solo Expedition, [3603, 33321, 81636, 30577, 69945]  
+Disappearance during Inclement Weather, [49844, 30666, 22844, 60692, 37244]  
+Disappearance from a Public Place, [3859, 7137, 69945, 22844, 101249]  
+Disappearance from a Residential Area, [26095, 33321, 37244, 69945, 60692]  
+Disappearance with No Prior Warning, [25199, 49844, 22844, 60692, 101258]

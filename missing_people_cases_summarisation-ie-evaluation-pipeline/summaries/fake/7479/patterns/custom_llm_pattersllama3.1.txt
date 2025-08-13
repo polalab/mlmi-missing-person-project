@@ -1,0 +1,5 @@
+Disappearance during Unfamiliar Travel, [64254, 100510]  
+Disappearance near Waterways, [64254, 99400]  
+Disappearance during Inclement Weather, [100510]  
+Disappearance in Search of Solace, [99400]  
+Disappearance due to Cognitive Impairment, [100507]

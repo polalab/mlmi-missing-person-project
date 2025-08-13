@@ -1,0 +1,11 @@
+42334,"Craigieknowes Road, Perth","Residential/Home","Circumstances: Samantha Murphy, an 11-year-old living at Craigieknowes Road, Perth, was reported missing",Home Location
+42334,"Moray Street, Blackford","Unfamiliar/Unknown Area","Traces of her presence at Moray Street, Blackford, raised concerns",Impulsive/Crisis Location
+42334,"Boat of Garten","Rural/Isolated Area","She was found physically unharmed at an address in Boat of Garten",Isolation Seeking
+32840,"University (far from home)","Educational/Institutional","Police found Samantha safe at a university far from home",Impulsive/Crisis Location
+72932,"Craigieknowes Road, Perth","Residential/Home","Her disappearance created a sense of urgency due to her young age at her home on Craigieknowes Road, Perth",Home Location
+72932,"Park Road, Ballachulish","Rural/Isolated Area","Samantha was eventually traced by police at Park Road, Ballachulish, safely",Isolation Seeking
+101085,"Craigieknowes Road, Perth","Residential/Home","Samantha left her home without leaving a note",Home Location
+101087,"Airplane","Transportation/Vehicle","Samantha, feeling distressed, was found on an airplane with Roger Parkinson",Impulsive/Crisis Location
+101089,"Airplane","Transportation/Vehicle","Samantha left airplane, no note",Impulsive/Crisis Location
+101091,"Airplane","Transportation/Vehicle","Samantha, supported by friend Jacob Hobbs, is receiving help after recurring victimization incidents on airplane",Impulsive/Crisis Location
+101092,"Airplane","Transportation/Vehicle","Samantha felt unsafe on airplane",Impulsive/Crisis Location

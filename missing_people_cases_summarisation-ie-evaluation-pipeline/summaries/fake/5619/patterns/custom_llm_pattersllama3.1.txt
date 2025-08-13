@@ -1,0 +1,5 @@
+Seeking Solitude, [87477, 18953, 53957, 34996, 67653]  
+Airport Departure, [87477, 35844, 18953, 53957, 96164, 67653]  
+Engrossed in Online Activity, [35844, 53957, 96164, 34996]  
+Estrangement from Relatives, [35844, 96164, 34996]  
+Disorientation or Distress, [34996, 20003, 102349, 102351, 102355]

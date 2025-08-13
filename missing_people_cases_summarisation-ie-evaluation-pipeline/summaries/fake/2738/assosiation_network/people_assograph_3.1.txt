@@ -1,0 +1,24 @@
+Aimee Wright,Aimee Wright,self,12528
+Aimee Wright,friend,Aimee Wright's friend,12528
+Aimee Wright,aunt,Aimee Wright's aunt,12528
+Aimee Wright,local,A person matching her description,12528
+Aimee Wright,self,12528
+Aimee Wright,friend,Sean,78300
+Aimee Wright,unknown partner,Aimee Wright's new romantic partner,78300
+Aimee Wright,sister,Kathleen Wright,97940
+Aimee Wright,Sam Wright,ex-partner,97940
+Aimee Wright,self,97940
+Aimee Wright,concerned passerby,A person who located Aimee's abandoned vehicle,97940
+Aimee Wright,aunt,Aimee Wright's aunt,97940
+Aimee Wright,self,97940
+Aimee Wright,uncle,Aimee Wright's uncle,98051
+Aimee Wright,self,98051
+Aimee Wright,member of the public,A person who found Aimee attempting to locate a misplaced work document,98051
+Aimee Wright,self,98051
+Aimee Wright,daughter,Aimee Wright's daughter,35864
+Aimee Wright,new romantic partner,Aimee Wright's new romantic partner,35864
+Aimee Wright,self,35864
+Aimee Wright,self,35864
+Aimee Wright,member of the public,A person who found Aimee safe,35864
+Aimee Wright,Yvonne,acquaintance,100422
+Aimee Wright,new partner,Aimee Wright's new partner,100424

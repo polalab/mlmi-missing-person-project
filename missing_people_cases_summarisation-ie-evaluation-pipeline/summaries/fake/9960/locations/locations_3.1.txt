@@ -1,0 +1,94 @@
+2 Glass Crescent, Winchburgh, 92487
+rest area, 92487
+rooftops, 92487
+wilderness, 92487
+4 Redheughs Rigg, Edinburgh, 58010
+home, 58010
+nearby trails, 58010
+Woodhall Road, 58010
+97 Oxgangs Road, Edinburgh, 72885
+Elizabeth Drive of Bathgate, 72885
+forest, 72885
+Houston Mains, Livingston, 72885
+14 St Andrew Street, EH22 1AN, 92567
+rooftop, 92567
+forest, 92567
+rest area, 92567
+snow-covered path, 92567
+1a Beech Grove, Livingston, 45411
+rooftop gathering, 45411
+wilderness area, 45411
+church, 45411
+4 Redheughs Rigg, Edinburgh, 64397
+mosque, 64397
+rest area, 64397
+Houston Mains, 64397
+97 Oxgangs Road, Edinburgh, 78388
+forest, 78388
+Houston Mains, Livingston, 78388
+5 Pheasant Walk, North Berwick, 78388
+4 Redheughs Rigg, Edinburgh, 83112
+Dirleton Road, EH39 5DF, 83112
+wilderness, 83112
+Houston Mains, Livingston, 83112
+22 Fernbank, Livingston, 83112
+9 Little France Road, Edinburgh, 29161
+wilderness, 29161
+4 Redheughs Rigg, Edinburgh, 85793
+rest area, 85793
+rooftop, 85793
+Houston Mains, Livingston, 85793
+1 Tanfield, Edinburgh, 85793
+4 Redheughs Rigg, Edinburgh, 66761
+rooftop, 66761
+14 St Andrew Street, 66761
+4 Redheughs Rigg, Edinburgh, 86301
+remote island, 86301
+30 East Pier Street, EH51 9AA, 86301
+forest, 86301
+4 Redheughs Rigg, Edinburgh, 70669
+Rose Street, 70669
+60-84 Rose Street, 70669
+Torphichen Street, 70669
+4 Redheughs Rigg, Edinburgh, 95788
+rest area, 95788
+rooftop, 95788
+Houston Mains, Livingston, 95788
+4 Redheughs Rigg, Edinburgh, 68343
+97 Oxgangs Road, Edinburgh, 68343
+24A Orwell Terrace, 68343
+1 Easter Langside Gardens, Dalkeith, 68343
+5 Pheasant Walk, North Berwick, 68343
+Garden Place, Livingston, 30451
+60-84 Rose Street, Edinburgh, 30451
+166 Fountainbridge, Edinburgh, EH3 9RX, 16833
+rest area, 16833
+97 Oxgangs Road, Edinburgh, EH13 9NG, 16833
+Clovenstone Park, 16833
+166 Fountainbridge, Edinburgh, EH3 9RX, 12450
+2 Glass Crescent, Winchburgh, 102237
+rooftop, 102237
+snow area, 102238
+Lee, 102238
+snow area wilderness, 102239
+forest, 102239
+father, 102241
+rooftop, 102241
+crime, 102242
+rooftop, 102242
+Annette Kirk, 102243
+snow area rooftop, 102243
+forest, 102243
+Elizabeth Drive, Bathgate, EH48 1JB, 102248
+Rachael Moore, 102248
+rooftop, 102247
+snow area, 102247
+Allan, 102251
+wilderness, 102251
+Leslie, 102254
+wilderness area, 102254
+Harriet Todd, 102254
+Annette Kirk, 102254
+rest area rooftop, 102255
+confusion, 102255
+wilderness, 102255

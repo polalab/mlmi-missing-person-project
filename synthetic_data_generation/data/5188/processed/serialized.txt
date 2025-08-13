@@ -1,0 +1,304 @@
+Disappearance Record:
+Report number: 47940
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2021-03-26 00:00:00
+Date Reported Missing: 2021-03-26 19:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8514
+When Traced: 2021-03-31 21:54:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: The Cross,  EH49 7AH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 81913
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2021-05-28 21:54:00
+Date Reported Missing: 2021-05-29 10:54:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 5025
+When Traced: 2021-06-01 09:39:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 77125
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2021-06-11 09:39:00
+Date Reported Missing: 2021-06-12 07:39:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 6338
+When Traced: 2021-06-15 19:17:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: Larkfield Road, Inverclyde, PA16 0XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 33528
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2021-08-19 19:17:00
+Date Reported Missing: 2021-08-20 09:17:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1147
+When Traced: 2021-08-20 14:24:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 84077
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2021-12-03 14:24:00
+Date Reported Missing: 2021-12-04 00:24:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 7452
+When Traced: 2021-12-08 18:36:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 69893
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2022-02-22 18:36:00
+Date Reported Missing: 2022-02-23 18:36:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3406
+When Traced: 2022-02-25 03:22:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: Larkfield Road, Inverclyde, PA16 0XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 13193
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2022-05-10 03:22:00
+Date Reported Missing: 2022-05-10 03:22:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 367
+When Traced: 2022-05-10 09:29:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 79894
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2022-09-19 09:29:00
+Date Reported Missing: 2022-09-19 16:29:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5349
+When Traced: 2022-09-23 02:38:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: The Cross,  EH49 7AH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 87640
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2023-03-17 02:38:00
+Date Reported Missing: 2023-03-17 16:38:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9343
+When Traced: 2023-03-23 14:21:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: 1 Newark Street,  PA14 5PE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 42997
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2023-09-06 14:21:00
+Date Reported Missing: 2023-09-07 06:21:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4323
+When Traced: 2023-09-09 14:24:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: Larkfield Road, Inverclyde, PA16 0XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 92312
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2024-01-25 14:24:00
+Date Reported Missing: 2024-01-26 22:24:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6352
+When Traced: 2024-01-30 00:16:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: Larkfield Road, Inverclyde, PA16 0XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 8594
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2024-03-19 00:16:00
+Date Reported Missing: 2024-03-20 01:16:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9515
+When Traced: 2024-03-25 14:51:00
+Missing From Address: 1 Newark Street,  PA14 5PE (dance studio)
+Traced at Address: Railway Pier, Oban, PA34 4LW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 19083
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2024-05-14 14:51:00
+Date Reported Missing: 2024-05-14 19:51:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2234
+When Traced: 2024-05-16 04:05:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 58333
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2024-10-09 04:05:00
+Date Reported Missing: 2024-10-09 04:05:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9511
+When Traced: 2024-10-15 18:36:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: Railway Pier, Oban, PA34 4LW
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 35936
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2024-12-16 18:36:00
+Date Reported Missing: 2024-12-17 02:36:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5125
+When Traced: 2024-12-20 08:01:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: The Cross,  EH49 7AH
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 675
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2024-12-23 08:01:00
+Date Reported Missing: 2024-12-24 10:01:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4623
+When Traced: 2024-12-26 13:04:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 63620
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2025-01-19 13:04:00
+Date Reported Missing: 2025-01-19 23:04:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6436
+When Traced: 2025-01-24 00:20:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: Larkfield Road, Inverclyde, PA16 0XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 1784
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2025-06-13 00:20:00
+Date Reported Missing: 2025-06-14 10:20:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 7172
+When Traced: 2025-06-17 23:52:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 82809
+Name: Leonard Armstrong
+Date of Birth: 2008-02-19
+Sex: Male
+Place of Birth: Nottingham
+Occupation: 
+Missing Since: 2025-06-21 23:52:00
+Date Reported Missing: 2025-06-21 23:52:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 5092
+When Traced: 2025-06-25 12:44:00
+Missing From Address: An t-Sràid,  PA34 5UG (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by staff
+

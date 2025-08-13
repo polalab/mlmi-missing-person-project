@@ -1,0 +1,26 @@
+Melissa Carr,Patricia Price,foster mother,75272
+Melissa Carr,Mohammad Patel,friend,75272
+Melissa Carr,Andrew,acquaintance,70446
+Melissa Carr,Patricia Price,foster mother,70446
+Melissa Carr,John Jackson,friend,41657
+Melissa Carr,Patricia Price,foster mother,21322
+Melissa Carr,Natasha Saunders,colleague,76827
+Melissa Carr,Hollie,friend,47079
+Melissa Carr,Megan Cooper,friend,47356
+Melissa Carr,friend,other,47356
+Melissa Carr,Andrew,acquaintance,83217
+Melissa Carr,Hollie,friend,65733
+Melissa Carr,Patricia Price,foster mother,65733
+Melissa Carr,Janice Gardner,colleague,63691
+Melissa Carr,Patricia Price,foster mother,13882
+Melissa Carr,friend,other,13882
+Melissa Carr,friend,other,27259
+Melissa Carr,Janice Gardner,colleague,84957
+Melissa Carr,Patricia Price,foster mother,18150
+Melissa Carr,Mohammad Patel,friend,44182
+Melissa Carr,Patricia Price,foster mother,44182
+Melissa Carr,friend,other,12659
+Melissa Carr,friend,other,91145
+Melissa Carr,friend,other,100086
+Melissa Carr,friend,other,100089
+Melissa Carr,friend,other,100092

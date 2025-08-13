@@ -1,0 +1,12 @@
+Aaron Moran,Aaron Moran's foster mother,foster mother,31040
+Aaron Moran,Aaron Moran's friend,friend,31040
+Aaron Moran,Aaron Moran's foster mother,foster mother,99854
+Aaron Moran,Aaron Moran's foster mother,foster mother,55588
+Aaron Moran,Aaron Moran's foster mother,foster mother,8338
+Aaron Moran,Aaron Moran's foster mother,family member,31040
+Aaron Moran,Aaron Moran's foster mother,family member,99854
+Aaron Moran,Aaron Moran's foster mother,family member,55588
+Aaron Moran,Aaron Moran's foster mother,family member,8338
+Aaron Moran,Louis Burgess,other,99854
+Aaron Moran,Aaron Moran's foster mother,other,55588
+Aaron Moran,Aaron Moran's foster mother,other,8338

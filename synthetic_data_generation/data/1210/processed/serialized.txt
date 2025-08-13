@@ -1,0 +1,320 @@
+Disappearance Record:
+Report number: 89706
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2020-09-29 00:00:00
+Date Reported Missing: 2020-09-29 17:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8091
+When Traced: 2020-10-04 14:51:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: 48 Orchard Park, Beauly, IV4 7DX
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 56619
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2021-03-20 14:51:00
+Date Reported Missing: 2021-03-21 15:51:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1926
+When Traced: 2021-03-21 22:57:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: Culduthel Park, Inverness, IV2 4UY
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 63464
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2021-06-06 22:57:00
+Date Reported Missing: 2021-06-07 15:57:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8557
+When Traced: 2021-06-12 21:34:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: 48 Orchard Park, Beauly, IV4 7DX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 48294
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2021-10-13 21:34:00
+Date Reported Missing: 2021-10-14 09:34:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3251
+When Traced: 2021-10-16 03:45:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: Ness Walk, Inverness, IV3 5SF
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 58167
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2022-02-21 03:45:00
+Date Reported Missing: 2022-02-21 14:45:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5678
+When Traced: 2022-02-25 02:23:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: Culduthel Park, Inverness, IV2 4UY
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 69684
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2022-07-03 02:23:00
+Date Reported Missing: 2022-07-03 15:23:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4528
+When Traced: 2022-07-06 05:51:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: Ness Walk, Inverness, IV3 5SF
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 76281
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2022-12-31 05:51:00
+Date Reported Missing: 2023-01-01 01:51:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3168
+When Traced: 2023-01-02 10:39:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: 2 Linkwood Lane, Elgin, IV30 1HX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 60676
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2023-02-06 10:39:00
+Date Reported Missing: 2023-02-06 10:39:00
+Day Reported Missing: Monday
+Length Missing (minutes): 573
+When Traced: 2023-02-06 20:12:00
+Missing From Address: 48 Orchard Park, Beauly, IV4 7DX (fast food restaurant)
+Traced at Address: Black Isle Road, Muir of Ord, IV6 7RR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 43006
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2023-02-10 20:12:00
+Date Reported Missing: 2023-02-11 00:12:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1997
+When Traced: 2023-02-12 05:29:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: 16 Forbes Road, Forres, IV36 1HP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 21115
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2023-08-07 05:29:00
+Date Reported Missing: 2023-08-08 06:29:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8741
+When Traced: 2023-08-13 07:10:00
+Missing From Address: Coxton Park, Elgin, IV30 8AZ (tutoring center)
+Traced at Address: 48 Orchard Park, Beauly, IV4 7DX
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 22453
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2023-12-30 07:10:00
+Date Reported Missing: 2023-12-31 08:10:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 8846
+When Traced: 2024-01-05 10:36:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: Ness Walk, Inverness, IV3 5SF
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 17852
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2024-02-18 10:36:00
+Date Reported Missing: 2024-02-18 19:36:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7373
+When Traced: 2024-02-23 13:29:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: 2 Linkwood Lane, Elgin, IV30 1HX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 7795
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2024-03-30 13:29:00
+Date Reported Missing: 2024-03-31 09:29:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1883
+When Traced: 2024-03-31 20:52:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: Culduthel Park, Inverness, IV2 4UY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 45862
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2024-06-09 20:52:00
+Date Reported Missing: 2024-06-10 23:52:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8015
+When Traced: 2024-06-15 10:27:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: Ness Walk, Inverness, IV3 5SF
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 91295
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2024-08-11 10:27:00
+Date Reported Missing: 2024-08-12 11:27:00
+Day Reported Missing: Monday
+Length Missing (minutes): 1862
+When Traced: 2024-08-12 17:29:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: 16 Forbes Road, Forres, IV36 1HP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 43174
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2024-08-19 17:29:00
+Date Reported Missing: 2024-08-20 04:29:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 995
+When Traced: 2024-08-20 10:04:00
+Missing From Address: 48 Orchard Park, Beauly, IV4 7DX (fast food restaurant)
+Traced at Address: Culduthel Park, Inverness, IV2 4UY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 35388
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2024-11-15 10:04:00
+Date Reported Missing: 2024-11-16 05:04:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4768
+When Traced: 2024-11-18 17:32:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: Ness Walk, Inverness, IV3 5SF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 32344
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2025-01-12 17:32:00
+Date Reported Missing: 2025-01-12 23:32:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5235
+When Traced: 2025-01-16 08:47:00
+Missing From Address: Station Road, Achnasheen, IV22 2EE (cafe)
+Traced at Address: Brumley Brae,  IV30 4NR
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 58682
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2025-03-24 08:47:00
+Date Reported Missing: 2025-03-24 08:47:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6158
+When Traced: 2025-03-28 15:25:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: 48 Orchard Park, Beauly, IV4 7DX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 55722
+Name: Leonard Dawson
+Date of Birth: 2012-08-05
+Sex: Male
+Place of Birth: Dunfermline
+Occupation: 
+Missing Since: 2025-04-06 15:25:00
+Date Reported Missing: 2025-04-07 12:25:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3855
+When Traced: 2025-04-09 07:40:00
+Missing From Address: 9 Charles Cameron Place, Kyleakin, IV41 8AB (Home)
+Traced at Address: Brumley Brae,  IV30 4NR
+Traced by: Traced by member of the public
+

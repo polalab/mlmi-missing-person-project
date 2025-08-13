@@ -1,0 +1,144 @@
+Disappearance Record:
+Report number: 45970
+Name: Emma Griffiths
+Date of Birth: 1930-07-19
+Sex: F
+Place of Birth: Lancaster
+Occupation: Retired Public relations officer
+Missing Since: 2023-07-07 00:00:00
+Date Reported Missing: 2023-07-07 10:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9674
+When Traced: 2023-07-13 17:14:00
+Missing From Address: Riggs Road, Perth, PH1 1PR (Home)
+Traced at Address: Kingussie Road, Newtonmore, PH20 1AY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 44317
+Name: Emma Griffiths
+Date of Birth: 1930-07-19
+Sex: F
+Place of Birth: Lancaster
+Occupation: Retired Public relations officer
+Missing Since: 2023-10-02 17:14:00
+Date Reported Missing: 2023-10-02 17:14:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9309
+When Traced: 2023-10-09 04:23:00
+Missing From Address: Riggs Road, Perth, PH1 1PR (Home)
+Traced at Address: Park Road, Ballachulish, PH49 4JS
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 52519
+Name: Emma Griffiths
+Date of Birth: 1930-07-19
+Sex: F
+Place of Birth: Lancaster
+Occupation: Retired Public relations officer
+Missing Since: 2023-12-09 04:23:00
+Date Reported Missing: 2023-12-10 08:23:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2128
+When Traced: 2023-12-10 15:51:00
+Missing From Address: Riggs Road, Perth, PH1 1PR (Home)
+Traced at Address: Atholl Street, Dunkeld, PH8 0AR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 3404
+Name: Emma Griffiths
+Date of Birth: 1930-07-19
+Sex: F
+Place of Birth: Lancaster
+Occupation: Retired Public relations officer
+Missing Since: 2024-02-29 15:51:00
+Date Reported Missing: 2024-02-29 19:51:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 6622
+When Traced: 2024-03-05 06:13:00
+Missing From Address: Riggs Road, Perth, PH1 1PR (Home)
+Traced at Address: 37-39 York Place, Perth, PH2 8EH
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 13824
+Name: Emma Griffiths
+Date of Birth: 1930-07-19
+Sex: F
+Place of Birth: Lancaster
+Occupation: Retired Public relations officer
+Missing Since: 2024-04-10 06:13:00
+Date Reported Missing: 2024-04-11 04:13:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 9571
+When Traced: 2024-04-16 21:44:00
+Missing From Address: 32 Madoch Road, St Madoes, PH2 7TT (senior center)
+Traced at Address: Newtonmore Road, Kingussie, PH21 1HE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 27677
+Name: Emma Griffiths
+Date of Birth: 1930-07-19
+Sex: F
+Place of Birth: Lancaster
+Occupation: Retired Public relations officer
+Missing Since: 2024-06-21 21:44:00
+Date Reported Missing: 2024-06-22 14:44:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 8640
+When Traced: 2024-06-27 21:44:00
+Missing From Address: Riggs Road, Perth, PH1 1PR (Home)
+Traced at Address: 36 & 38 Sydney Crescent, Auchterarder, PH3 1BB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 50046
+Name: Emma Griffiths
+Date of Birth: 1930-07-19
+Sex: F
+Place of Birth: Lancaster
+Occupation: Retired Public relations officer
+Missing Since: 2024-12-18 21:44:00
+Date Reported Missing: 2024-12-19 04:44:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3711
+When Traced: 2024-12-21 11:35:00
+Missing From Address: Riggs Road, Perth, PH1 1PR (Home)
+Traced at Address: Atholl Street, Dunkeld, PH8 0AR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 45077
+Name: Emma Griffiths
+Date of Birth: 1930-07-19
+Sex: F
+Place of Birth: Lancaster
+Occupation: Retired Public relations officer
+Missing Since: 2025-05-20 11:35:00
+Date Reported Missing: 2025-05-20 17:35:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2246
+When Traced: 2025-05-22 01:01:00
+Missing From Address: Riggs Road, Perth, PH1 1PR (Home)
+Traced at Address: Kingussie Road, Newtonmore, PH20 1AY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 6989
+Name: Emma Griffiths
+Date of Birth: 1930-07-19
+Sex: F
+Place of Birth: Lancaster
+Occupation: Retired Public relations officer
+Missing Since: 2025-06-18 01:01:00
+Date Reported Missing: 2025-06-18 19:01:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3235
+When Traced: 2025-06-20 06:56:00
+Missing From Address: Riggs Road, Perth, PH1 1PR (Home)
+Traced at Address: Atholl Street, Dunkeld, PH8 0AR
+Traced by: Traced by Police
+

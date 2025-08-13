@@ -1,0 +1,33 @@
+Pauline Butler,Phillip Fitzgerald,friend,69326
+Pauline Butler,Damian,father,69326
+Pauline Butler,Phillip Fitzgerald,friend,69326
+Pauline Butler,Lynne Burns,friend,36474
+Pauline Butler,her brother,brother,97321
+Pauline Butler,her sister,sister,27639
+Pauline Butler,her aunt,aunt,65809
+Pauline Butler,her aunt,aunt,42539
+Pauline Butler,Clare Palmer,colleague,49501
+Pauline Butler,her brother,brother,49501
+Pauline Butler,her aunt,aunt,62996
+Pauline Butler,her aunt,aunt,16819
+Pauline Butler,her sister,sister,24869
+Pauline Butler,Louis Gregory,brother,91242
+Pauline Butler,Kate Roberts,colleague,91242
+Pauline Butler,her sister,sister,11252
+Pauline Butler,Bethan Mitchell,colleague,11252
+Pauline Butler,Michelle King,colleague,93273
+Pauline Butler,her brother,brother,93273
+Pauline Butler,her grandmother,grandmother,30631
+Pauline Butler,Phillip Fitzgerald,friend,74045
+Pauline Butler,her son,son,74045
+Pauline Butler,Bethan Mitchell,colleague,79625
+Pauline Butler,Lynne Burns,friend,79625
+Pauline Butler,her brother,brother,63079
+Pauline Butler,Robert Davies,family friend,63079
+Pauline Butler,her grandfather,grandfather,62056
+Pauline Butler,her brother,brother,51059
+Pauline Butler,her father,father,51059
+Pauline Butler,her aunt,aunt,101425
+Pauline Butler,Dawn Butler,aunt,101425
+Pauline Butler,her sister,sister,101430
+Pauline Butler,Reece,other,101430

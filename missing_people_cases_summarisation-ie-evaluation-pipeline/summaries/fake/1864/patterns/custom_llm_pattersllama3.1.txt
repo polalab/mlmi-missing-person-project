@@ -1,0 +1,5 @@
+Disappearance near water bodies, [1824, 31733, 61672, 40658, 10999, 21960, 33454, 50325, 87628, 55374]  
+Disappearance from home, [79157, 44210, 63520, 15450, 13662, 31091, 24302, 3077, 87628]  
+Disappearance from a public place, [5847, 100000, 13119, 82089, 72292, 21960, 24302, 3077, 50325]  
+Disappearance after a heated argument, [79157, 100000, 13662]  
+Disappearance linked to cult activity, [31733, 40658, 71627, 39868, 33454, 50325, 87628, 55374, 100019, 100027]

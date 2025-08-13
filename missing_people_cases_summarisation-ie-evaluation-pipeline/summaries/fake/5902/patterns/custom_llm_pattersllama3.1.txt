@@ -1,0 +1,5 @@
+Sudden Isolation, [20222, 46527, 50452, 65788, 72011, 83924, 98938, 4036, 33771]  
+Unpredictable Behavior, [20222, 46527, 50452, 65788, 72011, 98938, 4036, 33771]  
+Squatting at Unfamiliar Locations, [20222, 46527, 50452, 65788, 72011]  
+Visiting Restricted or Illegal Sites, [50452, 65788, 72011, 100818, 100819, 100820, 100821, 100824]  
+Disappearing from Known Locations, [83924, 98938, 4036, 33771]

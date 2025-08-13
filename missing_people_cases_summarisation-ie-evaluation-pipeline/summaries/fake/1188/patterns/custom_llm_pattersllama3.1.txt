@@ -1,0 +1,5 @@
+Disappearance near a rehab center, [97492, 15069, 97302, 41369, 101657]  
+Disappearance near a skate park, [97302, 13921]  
+Disappearance near a vehicle, [15069, 97302, 101659, 13921]  
+Disappearance near a family residence, [13921, 41369]  
+Disappearance in an urban area, [97492, 97302, 41369, 13921]

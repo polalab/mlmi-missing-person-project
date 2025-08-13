@@ -1,0 +1,23 @@
+Sian Hudson,grandmother,grandmother,44949
+Sian Hudson,grandfather,grandfather,44949
+Sian Hudson,sister,other,44949
+Sian Hudson,commune member,other,44949
+Sian Hudson,acquaintance,other,44949
+Sian Hudson,sister,sister,37899
+Sian Hudson,eyewitness,other,37899
+Sian Hudson,friend,friend,37899
+Sian Hudson,sister,sister,8795
+Sian Hudson,commune member,other,8795
+Sian Hudson,sister,sister,27777
+Sian Hudson,relative,other,27777
+Sian Hudson,friend,friend,16068
+Sian Hudson,sister,sister,97453
+Sian Hudson,commune member,other,97453
+Sian Hudson,sister,sister,76740
+Sian Hudson,commune member,other,76740
+Sian Hudson,Marion Buckley,other,100538
+Sian Hudson,commune member,other,100538
+Sian Hudson,Grace,other,100542
+Sian Hudson,grandfather,grandfather,100543
+Sian Hudson,commune member,other,100543
+Sian Hudson,Timothy,other,100546

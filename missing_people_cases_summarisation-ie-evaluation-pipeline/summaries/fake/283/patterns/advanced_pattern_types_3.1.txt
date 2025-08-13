@@ -1,0 +1,31 @@
+92306,"MP was last seen playing at a location before being spotted at a nearby estate where a stranger was observed",stranger_observation_pattern,"MP was last seen playing at Lundy Gardens, Fort William. Following a visit to nearby Phoines Estate, a colleague, Janice Wilkinson, noted unusual behavior from an unknown individual observing children."
+
+18677,"MP vanished from a cafe after heading towards an arcade",arcade_attraction_pattern,"Victor Roberts vanished from a cafe near 1 Leonard Street, Perth, after a friend saw him heading towards the arcade."
+
+22317,"MP was last seen near a foster care location and was later spotted at a casino",casino_attraction_pattern,"Victor had reportedly been spotted with others near a casino on Atholl Street, Dunkeld."
+
+77334,"MP disappeared from home after a casino visit",casino_visit_pattern,"Victor Roberts disappeared from home with abduction suspicion near 51 Grampian Court after casino visit."
+
+49986,"MP went missing from home and was found at an airport",airport_attraction_pattern,"Victor Roberts went missing from home. Foster father alerted. Found at airport nearby."
+
+68041,"MP was last seen leaving a friend's house and was later found near a casino",casino_attraction_pattern,"Reports indicated that Victor had been recently spotted near a local casino, leading to speculation that he might have been drawn to the bustling activity around the area."
+
+57968,"MP was last seen at home and was later found near an airport and a casino",airport_attraction_pattern,"His foster father reported that Victor frequently expressed a fascination with airports and large buildings."
+
+27201,"MP disappeared from a shopping mall and was later found near a juvenile center",juvenile_center_attraction_pattern,"Victor Roberts disappeared from a shopping mall. He was later located near a juvenile center by his foster father."
+
+94286,"MP was reported missing after failing to return home from school and was later found near an airport",airport_attraction_pattern,"His friend, Eric, mentioned that Victor had talked about exploring a nearby juvenile center, sparking fears he may have wandered towards vulnerable locations."
+
+47106,"MP was last seen in the vicinity of a casino and was later found safe",casino_attraction_pattern,"Victor had expressed an interest in the busy lights and sounds of the casino, which might have drawn him there during a separation from friends."
+
+40139,"MP was last seen in the vicinity of a juvenile center and was later found near an airport",airport_attraction_pattern,"Police expanded their search to the airport, where his colleague, Janice Wilkinson, noted seeing someone matching Victor’s description entering the terminal."
+
+92060,"MP went missing from home and was later found safe near a residential area",residential_area_attraction_pattern,"Victor was eventually traced by police several days later at Craigieknowes Road, safe and unharmed, resolving the mystery surrounding his unexplained absence."
+
+10541,"MP was last seen at his part-time job and was later found safe",job_attraction_pattern,"Joan Baker, shortly after visiting Errichel in Aberfeldy, reported suspicion of abduction. The investigation focused on Victor's movements between known locations."
+
+20882,"MP was last seen at a university event and was later found safe",university_event_attraction_pattern,"A colleague - Janice Wilkinson, who was also present, reported that she saw Victor heading towards a nearby playground but then lost sight of him."
+
+24573,"MP vanished under circumstances that raised immediate concern and was later found safe",abduction_like_behavior_pattern,"His friend, Kelly Jackson, later reported seeing him getting into a car with an unknown individual, which led to abduction suspicions."
+
+2174,"MP went missing from home and was later found safe",home_attraction_pattern,"His foster father reported him missing after Victor failed to return home. The initial search by the foster father and local friends, including Albert Moore, yielded no clues."

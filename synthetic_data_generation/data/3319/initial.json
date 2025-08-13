@@ -1,0 +1,105 @@
+{
+    "forenames": "Paula",
+    "surname": "Foster",
+    "maidenname": "",
+    "nickname": "Kenneth",
+    "misperid": 3319,
+    "nominalid": 7051,
+    "sex": "Female",
+    "date_of_birth": "1957-12-10",
+    "age": 67,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "White Welsh",
+    "person_language": "English",
+    "place_of_birth": "Newcastle-upon-Tyne",
+    "disability_status": "Yes (please specify)",
+    "disability_desc": "Chronic Illness",
+    "occupation": "Technical author",
+    "reports_starting_from": "2020-12-17",
+    "addresses": [
+        {
+            "address": "Bog Road,  AB31 4JU",
+            "type": "Home"
+        },
+        {
+            "address": "North Lane, Archiestown, AB38 7QL",
+            "type": "regular restaurant"
+        },
+        {
+            "address": "Golden Knowes Road, Aberdeenshire, AB45 2JE",
+            "type": "fitness center"
+        },
+        {
+            "address": "3 Kingsford Road, Alford, AB33 8HH",
+            "type": "dog park"
+        },
+        {
+            "address": "Carmelite Street, Banff, AB45 1GF",
+            "type": "church"
+        },
+        {
+            "address": "March Road, Buckie, AB56 1ER",
+            "type": "evening classes"
+        },
+        {
+            "address": "Craigour Road, Torphins, AB31 4UE",
+            "type": "community center"
+        },
+        {
+            "address": "Bridgend of Glenlivet, Ballindalloch, AB37 9BX",
+            "type": "synagogue"
+        },
+        {
+            "address": "Mill Road, Insch, AB52 6JA",
+            "type": "neighborhood association"
+        },
+        {
+            "address": "Beltie Road,  AB31 4JT",
+            "type": "evening classes"
+        },
+        {
+            "address": "Gordon Crescent,  AB34 5HJ",
+            "type": "homeowners association"
+        },
+        {
+            "address": "North Road, Insch, AB52 6XP",
+            "type": "carpool group"
+        },
+        {
+            "address": "14 East Park, Inchmarlo, AB31 4GB",
+            "type": "fitness center"
+        },
+        {
+            "address": "Seafield Circle, Buckie, AB56 5AD",
+            "type": "parent-teacher meetings"
+        },
+        {
+            "address": "Inchmarlo Road, Banchory, AB31 4AB",
+            "type": "hair salon"
+        }
+    ],
+    "traced_locations": [
+        "Beltie Road,  AB31 4JT",
+        "Inchmarlo Road, Banchory, AB31 4AB",
+        "37 North High Street,  AB45 2PA",
+        "14 East Park, Inchmarlo, AB31 4GB",
+        "10 East Cathcart Street,  AB56 1PJ",
+        "Carmelite Street, Banff, AB45 1GF",
+        "10 Garden Wood, Inchmarlo, AB31 4AW",
+        "North Lane, Archiestown, AB38 7QL",
+        "North Road, Insch, AB52 6XP",
+        "Mill Road, Insch, AB52 6JA"
+    ],
+    "people_reporting": [
+        "Susan Foster",
+        "Barry Clarke",
+        "Andrew Wood",
+        "Ronald Foster",
+        "Naomi Iqbal",
+        "Gemma Knight",
+        "Christian Robinson",
+        "Richard Foster",
+        "Joyce Wright"
+    ]
+}

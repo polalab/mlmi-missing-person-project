@@ -1,0 +1,6 @@
+warehouse
+sports arena
+concert venue
+cabin
+religious site
+roadhouse

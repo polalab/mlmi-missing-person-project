@@ -1,0 +1,5 @@
+Disappearance near secluded areas, [21193, 26604, 63086, 83385]  
+Disappearance during or after a visit to a location of interest, [25041, 20567]  
+Disappearance during a period of family stress, [21193, 26604, 63086, 83385, 102378]  
+Disappearance during a solo activity, [20567, 83385, 102378]  
+Disappearance after failing to return from a planned activity, [25041, 20567, 83385]

@@ -1,0 +1,10 @@
+Nicolton Avenue, FK2 0TP, 26855
+airport, 26855
+Milan, 26855
+Spittal Street, 26855
+workplace, 89910
+Stirling, 89910
+Bruce Street, Alloa, FK10 1RX, 89910
+airport, 89910
+Park Avenue, FK2 9LG, 89910
+West Murrayfield, Stirling, 66707

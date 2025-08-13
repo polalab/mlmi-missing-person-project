@@ -1,0 +1,5 @@
+Disappearance from Familiar Locations, [14726, 14429, 67123, 76356, 58385]  
+Disappearance from Unfamiliar Locations, [80115, 97858, 29679, 72978, 10817]  
+Disappearance during Planned Activities, [1120, 34917, 18587, 18587, 101578]  
+Disappearance after Exploring, [14726, 14429, 77662, 58385, 97858]  
+Disappearance in Forested Areas, [80115, 76356, 58385, 72978, 10817]

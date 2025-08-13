@@ -1,0 +1,5 @@
+Sudden Departure, [60679, 30036, 65918, 23928, 59165]  
+Unexpected Location, [88618, 102140, 102141, 102144]  
+Cutting Off Communications, [30036, 88618, 59165, 102139, 102144]  
+Leaving Behind Important Documents, [60679, 30036, 65918, 59165, 102141]  
+Disorientation and Confusion, [88618, 59165, 102141, 102144]

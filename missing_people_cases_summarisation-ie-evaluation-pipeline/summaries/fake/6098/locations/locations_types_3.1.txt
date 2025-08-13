@@ -1,0 +1,5 @@
+94951,"Larkfield Road","Urban/Residential Area","colleagues said she planned to sleep rough at North Pier beach","Transition/Escape Location"
+94951,"North Pier beach","Beach/Coastal Area","colleagues said she planned to sleep rough at North Pier beach","Isolation Seeking"
+101159,"Back road","Rural/Non-Residential Area","requiring immediate assistance","Impulsive/Crisis Location"
+101160,"Back road","Rural/Non-Residential Area","heading toward the back road","Transition/Escape Location"
+101160,"Beach area","Beach/Coastal Area","may have continued to the beach area","Isolation Seeking"

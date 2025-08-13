@@ -1,0 +1,50 @@
+{
+    "forenames": "Bethany",
+    "surname": "Barton",
+    "maidenname": "",
+    "nickname": "Gray",
+    "misperid": 3213,
+    "nominalid": 7101,
+    "sex": "Female",
+    "date_of_birth": "1933-04-05",
+    "age": 92,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "White Scottish",
+    "person_language": "Urdu",
+    "place_of_birth": "Cardiff",
+    "disability_status": "Yes (please specify)",
+    "disability_desc": "Chronic Illness",
+    "occupation": "Retired Chartered accountant",
+    "reports_starting_from": "2024-03-17",
+    "addresses": [
+        {
+            "address": "312 Greengairs Road, Greengairs, ML6 7TQ",
+            "type": "Home"
+        },
+        {
+            "address": "28 Railton Gardens, Arbroath, DD11 3FA",
+            "type": "synagogue"
+        }
+    ],
+    "traced_locations": [
+        "312 Greengairs Road, Greengairs, ML6 7TQ",
+        "Cardross Road,  G82 5DH",
+        "42 South Oswald Road, Edinburgh, EH9 2HH",
+        "Craigieknowes Road, Perth, PH2 0DG",
+        "The Cross,  EH49 7AH",
+        "18 Queen Anne Drive, Edinburgh, EH28 8PL",
+        "52a Sinclair Street, Helensburgh, G84 8TQ",
+        "5 Bow Butts, Crail, KY10 3UR",
+        "1 Constitution Place, Leith Docks,, Edinburgh (City of), EH6 7DL",
+        "Rannes Street, Insch, AB52 6JJ",
+        "17 Houston Mains Holdings, Uphall, EH52 6PA"
+    ],
+    "people_reporting": [
+        "Angela Norman",
+        "Elliot Lawson",
+        "Oliver Nash",
+        "Angela Green",
+        "Alex Cunningham"
+    ]
+}

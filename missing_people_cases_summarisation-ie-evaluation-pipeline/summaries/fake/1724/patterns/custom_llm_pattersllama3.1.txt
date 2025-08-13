@@ -1,0 +1,5 @@
+Disappearance near a vehicle, [34861, 20581, 84970, 9567]  
+Disappearance near a cruise ship, [36936, 30100, 16146, 101740, 101741]  
+Disappearance near a cabin, [34861, 87069, 20581, 9567, 66164, 101742]  
+Disappearance without a note, [30100, 84970, 66164, 89738]  
+Disappearance in a location related to a military base, [87069, 84970]

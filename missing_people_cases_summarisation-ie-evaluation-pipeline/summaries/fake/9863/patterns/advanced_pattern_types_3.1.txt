@@ -1,0 +1,21 @@
+36212,"Aimee had also visited a rural estate near Burntisland, a location not frequently mentioned among her known haunts.",frequent_location_change_pattern,"Aimee had also visited a rural estate near Burntisland, a location not frequently mentioned among her known haunts."
+
+25607,"Her foster mother suspected a link to a nearby safe house.",safe_house_link_pattern,"Her foster mother suspected a link to a nearby safe house."
+
+5889,"Aimee expressed a desire to explore the urban surroundings beyond their usual bounds.",exploratory_behavior_pattern,"Aimee expressed a desire to explore the urban surroundings beyond their usual bounds."
+
+71056,"utilities at their residence had been disconnected just before she left, suggesting premeditated action.",premeditated_departure_pattern,"utilities at their residence had been disconnected just before she left, suggesting premeditated action."
+
+54830,"Aimee didn't return home.",sudden_absence_pattern,"Aimee didn't return home."
+
+5326,"Aimee seemed to wander off toward a desert-like area.",unplanned_direction_change_pattern,"Aimee seemed to wander off toward a desert-like area."
+
+67741,"Aimee was last seen leaving the school premises after a discussion with her colleague.",sudden_absence_from_school_pattern,"Aimee was last seen leaving the school premises after a discussion with her colleague."
+
+65091,"possibly heading to a cave.",seeking_solace_in_isolated_areas_pattern,"possibly heading to a cave."
+
+101467,"Aimee is now safe and supported by school staff.",safe_location_discovered_pattern,"Aimee is now safe and supported by school staff."
+
+101470,"Aimee recently disconnected utilities at home before leaving, raising concerns.",premeditated_departure_pattern,"Aimee recently disconnected utilities at home before leaving, raising concerns."
+
+101471,"Aimee seeks solace in a church, cave, and safe house.",seeking_solace_in_multiple_locations_pattern,"Aimee seeks solace in a church, cave, and safe house."

@@ -1,0 +1,59 @@
+Jeremy Wright,Matthew Tyler,father,43790
+Jeremy Wright,brother,43790
+Jeremy Wright,aunt,Zoe Wright,43790
+Jeremy Wright,daughter,76089
+Jeremy Wright,sister,76089
+Jeremy Wright,relative,76089
+Jeremy Wright,relative,Balmuildy Road,76089
+Jeremy Wright,Matthew Tyler,father,87361
+Jeremy Wright,relative,Acre Drive,87361
+Jeremy Wright,relative,religious site,87361
+Jeremy Wright,sister,93762
+Jeremy Wright,relative,Cardross Road,93762
+Jeremy Wright,Tony,friend,39761
+Jeremy Wright,mosque,39761
+Jeremy Wright,daughter,50370
+Jeremy Wright,friend,Gerald Potter,50370
+Jeremy Wright,relative,Fulton Road,50370
+Jeremy Wright,daughter,98888
+Jeremy Wright,brother,98888
+Jeremy Wright,relative,snow area,98888
+Jeremy Wright,Matthew Tyler,friend,61854
+Jeremy Wright,relative,Castlecary Road,61854
+Jeremy Wright,friend,Aimee Lees,76547
+Jeremy Wright,mosque,76547
+Jeremy Wright,relative,amusement park,76547
+Jeremy Wright,friend,Aimee Lees,8454
+Jeremy Wright,relative,religious site,8454
+Jeremy Wright,Matthew Tyler,friend,72140
+Jeremy Wright,relative,riverside,72140
+Jeremy Wright,friend,Aimee Lees,16079
+Jeremy Wright,relative,Fulton Road,16079
+Jeremy Wright,uncle,Russell Browne,16079
+Jeremy Wright,friend,Bard Avenue,16079
+Jeremy Wright,relative,Cardross Road,87712
+Jeremy Wright,friend,Belsyde Avenue,87712
+Jeremy Wright,Matthew Tyler,friend,68000
+Jeremy Wright,relative,Acre Drive,68000
+Jeremy Wright,friend,mosque,68000
+Jeremy Wright,sister,96548
+Jeremy Wright,relative,church,96548
+Jeremy Wright,friend,Gerald Potter,31731
+Jeremy Wright,relative,riverside,31731
+Jeremy Wright,Matthew Tyler,friend,50050
+Jeremy Wright,uncle,Russell Browne,50050
+Jeremy Wright,friend,Fulton Road,50050
+Jeremy Wright,daughter,90895
+Jeremy Wright,sister,90895
+Jeremy Wright,relative,religious site,90895
+Jeremy Wright,friend,Diana Evans,90895
+Jeremy Wright,brother,7298
+Jeremy Wright,relative,Castlecary Road,7298
+Jeremy Wright,friend,Castlecary Road,25610
+Jeremy Wright,relative,riverside,25610
+Jeremy Wright,daughter,77403
+Jeremy Wright,relative,Castlecary Road,77403
+Jeremy Wright,friend,amusement park,77403
+Jeremy Wright,brother,50447
+Jeremy Wright,relative,riverside,50447
+Jeremy Wright,relative,52a Sinclair Street,50447

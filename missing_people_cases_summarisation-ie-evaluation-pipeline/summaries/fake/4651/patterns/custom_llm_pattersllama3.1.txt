@@ -1,0 +1,5 @@
+Disappearance at or near a familiar location, [14663, 30247, 57337, 59817, 39518]  
+Disappearance at or near a location associated with a hobby or interest, [58792, 20002, 898, 51252, 67502]  
+Disappearance at or near a location associated with a social event or gathering, [14663, 58792, 57337, 898, 38294]  
+Disappearance at or near a location associated with a medical or health-related facility, [87453, 24264, 67502, 101768, 101773]  
+Disappearance at or near a location associated with a place of solitude or seclusion, [18772, 37580, 85049, 58705, 67502]

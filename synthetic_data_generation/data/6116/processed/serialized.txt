@@ -1,0 +1,32 @@
+Disappearance Record:
+Report number: 64930
+Name: Ricky Barlow
+Date of Birth: 2007-09-02
+Sex: Male
+Place of Birth: Armagh
+Occupation: 
+Missing Since: 2025-05-04 00:00:00
+Date Reported Missing: 2025-05-04 13:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4938
+When Traced: 2025-05-07 10:18:00
+Missing From Address: 279 Milngavie Road, Glasgow, G61 3DQ (Home)
+Traced at Address: 63-65 Truce Road, Glasgow, G13 3JB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 98669
+Name: Ricky Barlow
+Date of Birth: 2007-09-02
+Sex: Male
+Place of Birth: Armagh
+Occupation: 
+Missing Since: 2025-06-19 10:18:00
+Date Reported Missing: 2025-06-19 20:18:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1087
+When Traced: 2025-06-20 04:25:00
+Missing From Address: 279 Milngavie Road, Glasgow, G61 3DQ (Home)
+Traced at Address: 6 Bard Avenue, Glasgow, G13 3JA
+Traced by: Traced by Police
+

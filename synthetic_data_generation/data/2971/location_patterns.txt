@@ -1,0 +1,4 @@
+hotel/motel
+airplane
+rest area
+alleyway

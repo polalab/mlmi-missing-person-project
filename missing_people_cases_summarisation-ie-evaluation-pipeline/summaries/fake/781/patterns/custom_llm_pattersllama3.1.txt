@@ -1,0 +1,5 @@
+Disappearance by Unplanned Exploration, [56651, 66141, 46267, 26598, 29155, 26764, 66661, 89196, 12241, 90676, 56694, 99069, 24601, 41373, 12334, 66297, 99733, 23530, 41781, 52178]  
+Disappearance from a Familiar Location, [41781, 52178, 102373]  
+Disappearance due to Disorientation, [12241, 24601, 41373, 23530]  
+Disappearance from a Group or Social Setting, [41781, 52178]  
+Disappearance with a History of Using Aliases, [56651, 66141, 46267, 26598, 29155, 26764, 66661, 89196, 12334, 66297, 99733]

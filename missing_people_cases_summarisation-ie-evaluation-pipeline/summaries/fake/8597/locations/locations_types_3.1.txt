@@ -1,0 +1,17 @@
+14834,"312 Greengairs Road","Residential Area","His brother, Maurice Turner, noticed Frank's absence and reported him missing.",Impulsive/Crisis Location
+12267,"Greengairs Road","Residential Area","His brother, Colin Scott, became concerned when Frank did not return home.",Impulsive/Crisis Location
+12267,"Burnside Avenue","Residential Area","Frank was eventually traced to a location on Burnside Avenue, safely reunited with his family.",Impulsive/Crisis Location
+26944,"312 Greengairs Road","Residential Area","He was last seen at 312 Greengairs Road, Greengairs.",Impulsive/Crisis Location
+26944,"Rosyth","Unknown/Urban Area","police traced him to Rosyth, where he had assumed another name.",Isolation Seeking
+46918,"312 Greengairs Road","Residential Area","Frank Garner, with an illegal employment status, vanished from 312 Greengairs Road, last seen at a grocery store.",Impulsive/Crisis Location
+46918,"Alexander Place","Residential Area","he was later found safe by police at Alexander Place with his friend.",Impulsive/Crisis Location
+82272,"312 Greengairs Road","Residential Area","Frank Garner was last seen at his home on 312 Greengairs Road, Greengairs.",Impulsive/Crisis Location
+82272,"1G Bank Street","Residential Area","Traced at 1G Bank Street, he was found confused but safe and returned home by police.",Impulsive/Crisis Location
+82272,"35 Fowler Street","Residential Area","A colleague expressed concern after Garner failed to meet Justin Payne at 35 Fowler Street, Cellardyke.",Impulsive/Crisis Location
+15100,"312 Greengairs Road","Residential Area","Frank Garner was reported missing from his home at 312 Greengairs Road, Greengairs, ML6 7TQ.",Impulsive/Crisis Location
+15100,"Strathview Gardens","Residential Area","On being traced, Frank was found in Strathview Gardens, Pitlochry, indicating he may have intended a solo retreat without informing family.",Isolation Seeking
+16436,"312 Greengairs Road","Residential Area","Frank has a history of using aliases in the past, and this habit raised concerns when he seemingly vanished without leaving clear information about his whereabouts.",Impulsive/Crisis Location
+16436,"Greengairs Road","Residential Area","His brother, Maurice Turner, noted that Frank had plans to visit a medical clinic following a scheduled appointment at a physical therapy clinic earlier in the day.",Impulsive/Crisis Location
+16436,"Grocery Store","Commercial Area","Frank was reportedly buying essentials at a grocery store.",Impulsive/Crisis Location
+28161,"312 Greengairs Road","Residential Area","He was last seen by his brother at 312 Greengairs Road before wandering off.",Impulsive/Crisis Location
+102420,"Grocery Store","Commercial Area","He appeared lost and confused, requiring assistance to return home, in a grocery store.",Isolation Seeking

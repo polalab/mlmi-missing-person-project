@@ -1,0 +1,5 @@
+Disappearance near or at a beach, [63281, 70186]  
+Disappearance from a home or residence, [83951, 101732]  
+Disappearance at or near a public transportation hub, [83951, 1415]  
+Disappearance at or near a public venue, [70186, 101730]  
+Disappearance after a sudden or intense emotional event, [83951, 101730]

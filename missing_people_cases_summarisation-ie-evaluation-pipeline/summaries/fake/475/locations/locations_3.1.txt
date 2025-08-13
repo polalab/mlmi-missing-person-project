@@ -1,0 +1,21 @@
+Home, 63281
+beach, 63281
+movie theater, 70186
+concert venue, 70186
+beach, 70186
+312 Greengairs Road, 83951
+Greengairs, 83951
+ML6 7TQ, 83951
+ferry terminal, 83951
+9 Caroline Street, 83951
+bathroom, 83951
+ferry, 1415
+beach, 1415
+movie theater, 1415
+concert venue, 101730
+ferry, 101730
+312 Greengairs Road, 101732
+school, 101732
+beach, 101734
+Greengairs, 101734
+ML6 7TQ, 101734

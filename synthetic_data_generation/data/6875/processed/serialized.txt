@@ -1,0 +1,112 @@
+Disappearance Record:
+Report number: 18915
+Name: Oliver Smith
+Date of Birth: 2012-11-12
+Sex: Male
+Place of Birth: London
+Occupation: 
+Missing Since: 2024-02-20 00:00:00
+Date Reported Missing: 2024-02-20 09:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7558
+When Traced: 2024-02-25 05:58:00
+Missing From Address: 31 Step Row, Dundee, DD2 1AH (Home)
+Traced at Address: 150 Strathmartine Road, Dundee, DD3 7SE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 37784
+Name: Oliver Smith
+Date of Birth: 2012-11-12
+Sex: Male
+Place of Birth: London
+Occupation: 
+Missing Since: 2024-05-18 05:58:00
+Date Reported Missing: 2024-05-18 05:58:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2636
+When Traced: 2024-05-20 01:54:00
+Missing From Address: 31 Step Row, Dundee, DD2 1AH (Home)
+Traced at Address: Hyndford Street, Dundee, DD2 1HQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 105
+Name: Oliver Smith
+Date of Birth: 2012-11-12
+Sex: Male
+Place of Birth: London
+Occupation: 
+Missing Since: 2024-09-10 01:54:00
+Date Reported Missing: 2024-09-11 06:54:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 6037
+When Traced: 2024-09-14 06:31:00
+Missing From Address: Ballumbie Road, Dundee, DD4 0PD (university)
+Traced at Address: Hyndford Street, Dundee, DD2 1HQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 30259
+Name: Oliver Smith
+Date of Birth: 2012-11-12
+Sex: Male
+Place of Birth: London
+Occupation: 
+Missing Since: 2024-11-14 06:31:00
+Date Reported Missing: 2024-11-14 02:31:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 79
+When Traced: 2024-11-14 07:50:00
+Missing From Address: 31 Step Row, Dundee, DD2 1AH (Home)
+Traced at Address: Hyndford Street, Dundee, DD2 1HQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 47854
+Name: Oliver Smith
+Date of Birth: 2012-11-12
+Sex: Male
+Place of Birth: London
+Occupation: 
+Missing Since: 2024-12-22 07:50:00
+Date Reported Missing: 2024-12-22 19:50:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1833
+When Traced: 2024-12-23 14:23:00
+Missing From Address: 31 Step Row, Dundee, DD2 1AH (Home)
+Traced at Address: Hyndford Street, Dundee, DD2 1HQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 2796
+Name: Oliver Smith
+Date of Birth: 2012-11-12
+Sex: Male
+Place of Birth: London
+Occupation: 
+Missing Since: 2025-03-04 14:23:00
+Date Reported Missing: 2025-03-05 08:23:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9742
+When Traced: 2025-03-11 08:45:00
+Missing From Address: 31 Step Row, Dundee, DD2 1AH (Home)
+Traced at Address: Hyndford Street, Dundee, DD2 1HQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 14025
+Name: Oliver Smith
+Date of Birth: 2012-11-12
+Sex: Male
+Place of Birth: London
+Occupation: 
+Missing Since: 2025-04-30 08:45:00
+Date Reported Missing: 2025-05-01 05:45:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 9996
+When Traced: 2025-05-07 07:21:00
+Missing From Address: 31 Step Row, Dundee, DD2 1AH (Home)
+Traced at Address: 23 City Road, Dundee, DD2 2BL
+Traced by: Traced by Police
+

@@ -1,0 +1,56 @@
+Edward Street 1 CB30SZ, 1234
+school, 12345
+parking lot on Kenilworth Drive, FK2 9LH, 3671
+Glensburgh Road, 49742
+Park Avenue, 49742
+33 Spittal Street, 91700
+grocery store, 91700
+basement, 91700
+foreign country, 91700
+West Lodge Gardens in Alloa, 62294
+Kenilworth Drive, 62294
+Park Avenue, 62294
+Edward Street 1 CB30SZ, 1234
+school, 12345
+Glensburgh Road, 51900
+illegal site near Glensburgh Road, FK3 8XJ, 51900
+basement area, 51900
+Kenilworth Drive, FK2 9LH, 32132
+foreign country, 32132
+parking lot near 4 Brown Street, FK1 4QF, 79656
+doctor’s office, 79656
+abandoned factory on Dumbarton Road, FK8 2QL, 79656
+Dumbarton Road, FK8 2QL, 66644
+Haypark Road, Denny, FK6 5JZ, 66644
+Kemper Avenue, Falkirk, FK1 1UF, 66644
+Foundry Loan, Larbert, 81782
+mosque, 81782
+Ercall Road, Brightons, 81782
+park near a mosque, 32187
+physical therapy clinic in Falkirk, 32187
+4 Brown Street, FK1 4QF, 79656
+parking lot, 79656
+abandoned factory on Dumbarton Road, FK8 2QL, 79656
+Dumbarton Road, FK8 2QL, 66327
+local mosque, 66327
+illegal site near Dumbarton Road, 66327
+Park Avenue, 66327
+West Murrayfield, Stirling, FK7 8NB, 68863
+café, 68863
+1 Garrison Place, FK1 1AA, 68863
+Craigs Terrace, Rumford, 68863
+Ercall Road, Brightons, 68863
+West Bridge Street, Falkirk, FK1 5AP, 76707
+neighborhood cafe, 76707
+25 Slamannan Road, Falkirk, FK1 5NF, 76707
+Haypark Road, Denny, 74275
+parking lot on Haypark Road, Denny, 74275
+Greenside Street, Alloa, 74275
+33 Spittal Street, 64775
+school, 64775
+Park Avenue, FK2 9LG, 64775
+illegal site, 102338
+parking lot by the factory, 102340
+factory, 102340
+parking lot, 102340
+illegal site, 102343

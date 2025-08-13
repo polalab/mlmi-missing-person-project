@@ -1,0 +1,73 @@
+{
+    "forenames": "Jeremy",
+    "surname": "Wright",
+    "maidenname": "",
+    "nickname": "",
+    "misperid": 5667,
+    "nominalid": 4962,
+    "sex": "Male",
+    "date_of_birth": "1968-10-15",
+    "age": 56,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "White English",
+    "person_language": "German",
+    "place_of_birth": "Swansea",
+    "disability_status": "No",
+    "disability_desc": "",
+    "occupation": "Dance movement psychotherapist",
+    "reports_starting_from": "2019-07-04",
+    "addresses": [
+        {
+            "address": "55 Diana Avenue, Glasgow, G13 3JW",
+            "type": "Home"
+        },
+        {
+            "address": "52a Sinclair Street, Helensburgh, G84 8TQ",
+            "type": "school pickup"
+        },
+        {
+            "address": "Castlecary Road,  G68 0HD",
+            "type": "dentist office"
+        },
+        {
+            "address": "Acre Drive, Glasgow, G20 0TR",
+            "type": "volunteer organization"
+        },
+        {
+            "address": "Cardross Road,  G82 5DH",
+            "type": "mosque"
+        },
+        {
+            "address": "Hall Road, Rhu, G84 8RR",
+            "type": "volunteer organization"
+        },
+        {
+            "address": "Fulton Road,  G62 8PG",
+            "type": "parent-teacher meetings"
+        },
+        {
+            "address": "Balmuildy Road,  G64 3HD",
+            "type": "church"
+        }
+    ],
+    "traced_locations": [
+        "Belsyde Avenue, Glasgow, G15 6AR",
+        "Castlecary Road,  G68 0HD",
+        "55 Diana Avenue, Glasgow, G13 3JW",
+        "Acre Drive, Glasgow, G20 0TR",
+        "Crow Road, Glasgow, G66 7GX",
+        "Cardross Road,  G82 5DH",
+        "85 Bassett Avenue, Glasgow, G13 3JP",
+        "6 Bard Avenue, Glasgow, G13 3JA",
+        "Hall Road, Rhu, G84 8RR",
+        "Turret Crescent,  G13 2HG"
+    ],
+    "people_reporting": [
+        "Geoffrey Wright",
+        "Emma Smith",
+        "Jennifer Jones",
+        "Aimee Lees",
+        "Maurice Hutchinson"
+    ]
+}

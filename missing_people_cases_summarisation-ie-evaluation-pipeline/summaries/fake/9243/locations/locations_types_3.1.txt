@@ -1,0 +1,7 @@
+81301,"25 Southside Road, Inverness","Residential Address","A colleague, Garry Jones, assisted authorities in searching, leading them to 25 Southside Road, Inverness, IV2 3BG, where Ben was safely found","Safe Haven"
+101178,"Ferry","Watercraft","has gone missing before, with Charlie Ward","Impulsive/Escape Route"
+101178,"Ferry","Watercraft","has gone missing before, with Charlie Ward","Impulsive/Escape Route"
+101179,"Ferry","Watercraft","exhibited concerning behavior on the ferry, prompting the report due to his past as a repeated perpetrator","Impulsive/Escape Route"
+101179,"Ferry","Watercraft","exhibited concerning behavior on the ferry, prompting the report due to his past as a repeated perpetrator","Impulsive/Escape Route"
+81301,"Tutoring Center","Educational Institution","where he had been meeting a friend for help with schoolwork","Safe Haven"
+81301,"Tutoring Center","Educational Institution","where he had been meeting a friend for help with schoolwork","Safe Haven"

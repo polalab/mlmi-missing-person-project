@@ -1,0 +1,9 @@
+Sheila Allan,her mother,other,88195
+Sheila Allan,her sister,other,88195
+Sheila Allan,her friend,other,88195
+Sheila Allan,her sister,Lisa,11716
+Sheila Allan,her sister,Judith Howarth,20773
+Sheila Allan,her father,other,90339
+Sheila Allan,her friend,other,90339
+Sheila Allan,her sister,other,101694
+Sheila Allan,her friend,Bethany Payne,101698

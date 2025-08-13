@@ -1,0 +1,72 @@
+{
+    "forenames": "Kyle",
+    "surname": "Kirk",
+    "maidenname": "",
+    "nickname": "Animi",
+    "misperid": 1634,
+    "nominalid": 4528,
+    "sex": "Male",
+    "date_of_birth": "1957-01-03",
+    "age": 68,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "White Welsh",
+    "person_language": "Spanish",
+    "place_of_birth": "Newry",
+    "disability_status": "Not Known",
+    "disability_desc": "",
+    "occupation": "Rural practice surveyor",
+    "reports_starting_from": "2022-02-23",
+    "addresses": [
+        {
+            "address": "Mar Road, Braemar, AB35 5YN",
+            "type": "Home"
+        },
+        {
+            "address": "Golden Knowes Road, Aberdeenshire, AB45 2JE",
+            "type": "evening classes"
+        },
+        {
+            "address": "Beltie Road,  AB31 4JT",
+            "type": "volunteer organization"
+        },
+        {
+            "address": "Craigour Road, Torphins, AB31 4UE",
+            "type": "community center"
+        },
+        {
+            "address": "North Lane, Archiestown, AB38 7QL",
+            "type": "childcare facility"
+        },
+        {
+            "address": "A939, Corgarff, AB36 8YL",
+            "type": "community center"
+        },
+        {
+            "address": "14 East Park, Inchmarlo, AB31 4GB",
+            "type": "mosque"
+        }
+    ],
+    "traced_locations": [
+        "Bridgend of Glenlivet, Ballindalloch, AB37 9BX",
+        "Mar Road, Braemar, AB35 5YN",
+        "37 North High Street,  AB45 2PA",
+        "Beltie Road,  AB31 4JT",
+        "Dee Street, Banchory, AB31 5HS",
+        "Golden Knowes Road, Aberdeenshire, AB45 2JE",
+        "Craigour Road, Torphins, AB31 4UE",
+        "14 East Park, Inchmarlo, AB31 4GB",
+        "Mill Road, Insch, AB52 6JA",
+        "Bog Road,  AB31 4JU"
+    ],
+    "people_reporting": [
+        "Thomas Jackson",
+        "Alan Walton",
+        "Bernard Ball",
+        "Rebecca Kirk",
+        "Denis Murray",
+        "Matthew Davidson",
+        "Frederick Smith",
+        "Graham Phillips"
+    ]
+}

@@ -1,0 +1,5 @@
+Commune or Alternative Lifestyle Involvement, [43108, 67066, 14187, 99761, 76976]  
+Train Boarding, [43108, 77634, 37984, 14187]  
+New Romantic Partner Concerns, [42380, 802, 76976, 14187, 102400]  
+Addiction or Substance Abuse, [42380, 37984, 99761, 102398, 102406]  
+Temporary Refuge or Support Seeking, [37984, 102398, 102400]

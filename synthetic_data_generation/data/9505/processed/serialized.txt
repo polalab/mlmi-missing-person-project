@@ -1,0 +1,96 @@
+Disappearance Record:
+Report number: 65546
+Name: Joanne Patel
+Date of Birth: 1950-01-07
+Sex: F
+Place of Birth: Sunderland
+Occupation: Retired Media buyer
+Missing Since: 2024-04-21 00:00:00
+Date Reported Missing: 2024-04-21 13:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4611
+When Traced: 2024-04-24 04:51:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: Moray Street, Blackford, PH4 1QF
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 86235
+Name: Joanne Patel
+Date of Birth: 1950-01-07
+Sex: F
+Place of Birth: Sunderland
+Occupation: Retired Media buyer
+Missing Since: 2024-10-18 04:51:00
+Date Reported Missing: 2024-10-18 06:51:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2951
+When Traced: 2024-10-20 06:02:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: 60 South William Street, Perth, PH2 8LS
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 24760
+Name: Joanne Patel
+Date of Birth: 1950-01-07
+Sex: F
+Place of Birth: Sunderland
+Occupation: Retired Media buyer
+Missing Since: 2024-11-02 06:02:00
+Date Reported Missing: 2024-11-02 11:02:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 5067
+When Traced: 2024-11-05 18:29:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: 1 Spittal View,  PH10 7QE
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 80236
+Name: Joanne Patel
+Date of Birth: 1950-01-07
+Sex: F
+Place of Birth: Sunderland
+Occupation: Retired Media buyer
+Missing Since: 2025-03-15 18:29:00
+Date Reported Missing: 2025-03-16 05:29:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 983
+When Traced: 2025-03-16 10:52:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: Muirhall Road, Perth, PH2 7BH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 36412
+Name: Joanne Patel
+Date of Birth: 1950-01-07
+Sex: F
+Place of Birth: Sunderland
+Occupation: Retired Media buyer
+Missing Since: 2025-05-29 10:52:00
+Date Reported Missing: 2025-05-29 10:52:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 9462
+When Traced: 2025-06-05 00:34:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: Ferntower Road, Crieff, PH7 3LQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 72471
+Name: Joanne Patel
+Date of Birth: 1950-01-07
+Sex: F
+Place of Birth: Sunderland
+Occupation: Retired Media buyer
+Missing Since: 2025-07-04 00:34:00
+Date Reported Missing: 2025-07-04 09:34:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9192
+When Traced: 2025-07-10 09:46:00
+Missing From Address: Murrayshall, Perth, PH2 7PL (Home)
+Traced at Address: 1 Spittal View,  PH10 7QE
+Traced by: Traced by Police
+

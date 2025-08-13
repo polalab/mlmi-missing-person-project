@@ -1,0 +1,5 @@
+Disappearance via Unplanned Exit, [78528, 8739, 45532, 16910, 3699]  
+Disappearance via Familiar Solitude, [56253, 3699, 16910]  
+Disappearance via Desert-Like Terrain, [78528, 3699, 56253]  
+Disappearance via Suburban Areas, [8739, 45532, 16910, 3699, 56253]  
+Disappearance via Unannounced Departure, [45532, 16910, 3699, 56253, 101413]

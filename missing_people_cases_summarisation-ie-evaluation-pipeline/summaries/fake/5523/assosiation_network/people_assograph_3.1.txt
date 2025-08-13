@@ -1,0 +1,14 @@
+Elliott Williams,Linda Kerr,sister,23218
+Elliott Williams,Linda Kerr,sister,90824
+Elliott Williams,Nathan Robinson,friend,26181
+Elliott Williams,Nathan Robinson,colleague,90824
+Elliott Williams,Nathan Robinson,colleague,98604
+Elliott Williams,Ian Smith,friend,91332
+Elliott Williams,staff,roommate,91332
+Elliott Williams,staff,other,91332
+Elliott Williams,authorities,other,90824
+Elliott Williams,authorities,other,26181
+Elliott Williams,authorities,other,98604
+Elliott Williams,staff,other,98604
+Elliott Williams,staff,other,26181
+Elliott Williams,staff,other,90824

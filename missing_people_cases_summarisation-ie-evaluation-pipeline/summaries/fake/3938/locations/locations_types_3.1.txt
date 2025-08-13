@@ -1,0 +1,29 @@
+5538,"1 Garrison Place, Falkirk, FK1 1AA","Building/Residential","His grandmother and Teresa Kemp were present during his last known sighting.",Isolation Seeking
+20062,"33 Spittal Street","Gas Station","leaving his passport and documents behind.",Impulsive/Crisis Location
+20062,"Bruce Street, Alloa, FK10 1RX","Street/Area","unharmed.",Safe Location
+25422,"43 Union Road, FK1 4PG","Building/Residential","playing hide and seek.",Isolation Seeking
+25422,"130 Bo'ness Road, Grangemouth, FK3 9BX","Street/Area","nearby.",Impulsive/Crisis Location
+25422,"Crossgatehead Road","Gas Station","safe.",Safe Location
+76684,"43 Union Road","Building/Residential","entering the small closet near the living room.",Isolation Seeking
+76684,"Glensburgh Road, FK3 8XJ","Street/Area","fascinated by a story his aunt told.",Impulsive/Crisis Location
+76684,"Greenside Street, Alloa, FK10 1EB","Street/Area","having sought out these stories on his own.",Safe Location
+30747,"43 Union Road","Building/Residential","left behind his passport and important documents.",Impulsive/Crisis Location
+30747,"14 The Meadows, Stirling, FK9 5AE","Building/Residential","safe and unharmed.",Safe Location
+20219,"43 Union Road, Falkirk","Building/Residential","went missing.",Impulsive/Crisis Location
+20219,"Bo'ness Road","Street/Area","sightings were reported.",Impulsive/Crisis Location
+20219,"Greenside Street","Building/Residential","safe in a closet.",Safe Location
+4203,"24 Munro Road, Stirling","Street/Area","near a gas station.",Impulsive/Crisis Location
+12300,"130 Bo'ness Road, Grangemouth, FK3 9BX","Gas Station","left home without his passport and documents.",Impulsive/Crisis Location
+12300,"14 The Meadows, Stirling, FK9 5AE","Building/Residential","an abandoned house.",Impulsive/Crisis Location
+12300,"Glensburgh Road","Street/Area","safe on.",Safe Location
+42376,"43 Union Road, FK1 4PG","Building/Residential","behaving unusually.",Impulsive/Crisis Location
+42376,"14 The Meadows, Stirling, FK9 5AE","Building/Residential","purchasing snacks, seemingly in distress.",Impulsive/Crisis Location
+42376,"West Bridge Street, Falkirk, FK1 5AP","Street/Area","closets in a fast food restaurant.",Impulsive/Crisis Location
+42376,"Grangemouth","Street/Area","found safe at an address in.",Safe Location
+59845,"43 Union Road","Building/Residential","left after visiting a local gas station.",Impulsive/Crisis Location
+59845,"43 Union Road","Building/Residential","safe in a closet at home.",Safe Location
+100133,"Gas Station","Street/Area","currently safe and receiving support.",Safe Location
+100134,"Gas Station","Street/Area","left documents and hid in a closet.",Impulsive/Crisis Location
+100134,"43 Union Road","Building/Residential","hid in a closet.",Safe Location
+100135,"25 Slamannan Road","Street/Area","concerns from.",Impulsive/Crisis Location
+100139,"43 Union Road","Building/Residential","hiding in a closet seeking comfort.",Safe Location

@@ -1,0 +1,4 @@
+34369,"4 Brown Street","Residential/Urban Area","Left during a storm","Impulsive/Crisis Location"
+34369,"Wilderness","Rural/Natural Area","Last seen in the wilderness","Isolation Seeking"
+101037,"Wilderness","Rural/Natural Area","Wandered into the wilderness","Isolation Seeking"
+101038,"Wilderness","Rural/Natural Area","Wandered into the wilderness","Isolation Seeking"

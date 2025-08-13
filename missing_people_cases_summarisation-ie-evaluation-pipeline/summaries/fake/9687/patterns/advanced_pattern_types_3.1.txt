@@ -1,0 +1,8 @@
+25176,"Gerald was traced by police at a farm in Stirling",trauma_related_disappearance_pattern,"Known for a history of trauma, he was traced by police at a farm in Stirling."
+92025,"Gerald was found at a protest-related location",protest_related_disappearance_pattern,"He was safely found, dispelling earlier fears of a protest-related mishap."
+92025,"Gerald was found at a protest-related location",protest_related_disappearance_pattern,"He was safely found, dispelling earlier fears of a protest-related mishap."
+87678,"Gerald was found near a wilderness area",online_game_absorption_pattern,"He was found near a wilderness area by police."
+44415,"Gerald was found at a colleague's home",online_game_absorption_pattern,"It was determined that Gerald had been absorbed in an online gaming event, losing track of time."
+101282,"Gerald expressed thoughts of self harm",self_harm_expression_pattern,"Despite being in good standing, concerns arose after he described thoughts of self harm, prompting this report for his safety and well-being."
+101282,"Gerald expressed thoughts of self harm",self_harm_expression_pattern,"Despite being in good standing, concerns arose after he described thoughts of self harm, prompting this report for his safety and well-being."
+101284,"Gerald discussed stress at work",work_related_stress_pattern,"Gerald discussed stress at work with a colleague, raising concerns for his wellbeing."

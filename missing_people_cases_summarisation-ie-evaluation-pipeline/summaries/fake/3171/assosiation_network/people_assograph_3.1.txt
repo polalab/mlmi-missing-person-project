@@ -1,0 +1,30 @@
+Brenda Brown,William Thomas,foster father,35589
+Brenda Brown,William Thomas,foster father,79048
+Brenda Brown,William Thomas,foster father,67223
+Brenda Brown,William Thomas,foster father,19015
+Brenda Brown,William Thomas,foster father,75977
+Brenda Brown,William Thomas,foster father,11248
+Brenda Brown,William Thomas,foster father,28551
+Brenda Brown,William Thomas,foster father,56904
+Brenda Brown,William Thomas,foster father,2991
+Brenda Brown,William Thomas,foster father,11961
+Brenda Brown,Melissa Martin,friend,35589
+Brenda Brown,Angela Martin,friend,35589
+Brenda Brown,Duncan Palmer,friend,67223
+Brenda Brown,Duncan Palmer,friend,11248
+Brenda Brown,Duncan Palmer,friend,19015
+Brenda Brown,Duncan Palmer,friend,28551
+Brenda Brown,Duncan Palmer,friend,11961
+Brenda Brown,Sally Moore,unknown,79048
+Brenda Brown,Yvonne Holmes,family friend,19015
+Brenda Brown,homeless,other,102489
+Duncan Palmer,Brenda Brown,friend,102490
+Brenda Brown,homeless,other,2991
+Brenda Brown,homeless,other,11961
+Brenda Brown,homeless,other,56904
+Brenda Brown,homeless,other,11248
+Brenda Brown,homeless,other,28551
+Brenda Brown,homeless,other,79048
+Brenda Brown,homeless,other,35589
+Brenda Brown,homeless,other,75977
+Brenda Brown,homeless,other,67223

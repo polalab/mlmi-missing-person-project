@@ -1,0 +1,5 @@
+Disappearance by Solitary Pursuit, [64917, 5596]  
+Disappearance by Unplanned Travel, [11737, 21548]  
+Disappearance by Unplanned Absence, [64917, 21548]  
+Disappearance by Exploration, [5596, 101405]  
+Disappearance by Unintended Wander, [101407, 64917]

@@ -1,0 +1,5 @@
+Detour or Misdirection, [54222, 99319]  
+Exploration of Underground Bunkers, [54737, 61975, 26570, 32979, 96698, 33723, 43081]  
+Frequenting Remote Areas, [29761, 13860, 35217, 33723, 70651, 89689]  
+Squatting or Homelessness, [70651, 35217]  
+Unplanned Departure from Familiar Locations, [29761, 35217]

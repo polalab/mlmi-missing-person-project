@@ -1,0 +1,7 @@
+42873,"Hugh was distracted and checking his phone frequently",distracted_by_phone_pattern,"He appeared somewhat distracted, often checking his phone."
+32088,"Hugh avoided authorities",avoid_authorities_pattern,"Known to avoid authorities,"
+42873,"Hugh was in contact with an unknown online group",misleading_online_group_contact_pattern,"which concerned his family."
+32088,"Hugh was found at a safe house",found_at_safe_house_pattern,"by the police."
+101138,"Hugh was spotted at an illegal site",illegal_site_visit_pattern,"raising concerns after being spotted at an illegal site."
+101141,"Hugh had an altercation with a colleague",physical_confrontation_pattern,"Hugh had an altercation with a colleague near Limekilns Road, Dunfermline."
+42873,"Hugh was found at an abandoned location",found_at_abandoned_location_pattern,"A search led investigators to an abandoned bathroom at 4 Hillwood Terrace, Rosyth, KY11 2DJ,"

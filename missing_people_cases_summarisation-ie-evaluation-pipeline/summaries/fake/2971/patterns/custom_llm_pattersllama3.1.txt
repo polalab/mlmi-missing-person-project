@@ -1,0 +1,5 @@
+Disappearance during travel or layovers, [27677, 52519, 13824]  
+Disappearance from a residence, [45077, 6989, 44317]  
+Disappearance from a public location, [45970, 50046]  
+Disappearance after disconnecting utilities, [3404, 44317]  
+Disappearance after a sudden change in behavior, [45970, 45077, 6989]

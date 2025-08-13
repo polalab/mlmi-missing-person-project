@@ -1,0 +1,5 @@
+Disappearance at or near a transportation hub, [92949, 71768]  
+Disappearance during or after an argument, [71768]  
+Disappearance while engaging in a solo activity, [92949, 71768]  
+Disappearance near a body of water, [71768]  
+Disappearance in a remote or wilderness area, [71768]

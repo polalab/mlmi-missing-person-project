@@ -1,0 +1,6 @@
+Chloe Allen,Hayley Read,friend,39079
+Chloe Allen,Lawrence Fleming,other,39079
+Chloe Allen,foster family,family member,39079
+Chloe Allen,foster mother,family member,39079
+Chloe Allen,foster mother,other,39079
+Chloe Allen,Sylvia Woods,other,101300

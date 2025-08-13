@@ -1,0 +1,288 @@
+Disappearance Record:
+Report number: 45194
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2021-08-05 00:00:00
+Date Reported Missing: 2021-08-05 22:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5819
+When Traced: 2021-08-09 00:59:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: Roy Bridge Road, Spean Bridge, PH34 4EU
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 19274
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2021-10-09 00:59:00
+Date Reported Missing: 2021-10-09 10:59:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3580
+When Traced: 2021-10-11 12:39:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: Lundy Gardens, Fort William, PH33 6PD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 17872
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2021-10-22 12:39:00
+Date Reported Missing: 2021-10-22 12:39:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8793
+When Traced: 2021-10-28 15:12:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: Roy Bridge Road, Spean Bridge, PH34 4EU
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 10460
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2022-02-25 15:12:00
+Date Reported Missing: 2022-02-26 14:12:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 5309
+When Traced: 2022-03-01 07:41:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: Ruthven Road, Kingussie, PH21 1ER
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 26921
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2022-03-18 07:41:00
+Date Reported Missing: 2022-03-18 07:41:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2759
+When Traced: 2022-03-20 05:40:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: 4 Dollerie Terrace, Crieff, PH7 3ED
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 98523
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2022-09-09 05:40:00
+Date Reported Missing: 2022-09-09 17:40:00
+Day Reported Missing: Friday
+Length Missing (minutes): 5901
+When Traced: 2022-09-13 08:01:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: 17,18 Dundurn Walk,  PH6 2NA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 91199
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2022-12-06 08:01:00
+Date Reported Missing: 2022-12-07 08:01:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 4945
+When Traced: 2022-12-09 18:26:00
+Missing From Address: Saint Mary's Road, Birnam, PH8 0BJ (volunteer organization)
+Traced at Address: Balavil Brae, Newtonmore, PH20 1DR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 68637
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2023-02-04 18:26:00
+Date Reported Missing: 2023-02-05 09:26:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4319
+When Traced: 2023-02-07 18:25:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: 200 Dunkeld Road,  PH1 3GH
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 2931
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2023-03-21 18:25:00
+Date Reported Missing: 2023-03-22 08:25:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 4227
+When Traced: 2023-03-24 16:52:00
+Missing From Address: 10 The Stables, Perth, PH1 2TW (regular bar)
+Traced at Address: 17,18 Dundurn Walk,  PH6 2NA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 89915
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2023-04-15 16:52:00
+Date Reported Missing: 2023-04-15 18:52:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1436
+When Traced: 2023-04-16 16:48:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: Saint Mary's Road, Birnam, PH8 0BJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 54338
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2023-08-22 16:48:00
+Date Reported Missing: 2023-08-22 19:48:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7591
+When Traced: 2023-08-27 23:19:00
+Missing From Address: Clunie Bridge Road, Pitlochry, PH16 5JY (grocery store)
+Traced at Address: 200 Dunkeld Road,  PH1 3GH
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 69144
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2023-10-04 23:19:00
+Date Reported Missing: 2023-10-05 11:19:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5595
+When Traced: 2023-10-08 20:34:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: 17,18 Dundurn Walk,  PH6 2NA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 48872
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2024-02-19 20:34:00
+Date Reported Missing: 2024-02-20 19:34:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7978
+When Traced: 2024-02-25 09:32:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: 17,18 Dundurn Walk,  PH6 2NA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 90547
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2024-04-27 09:32:00
+Date Reported Missing: 2024-04-29 04:32:00
+Day Reported Missing: Monday
+Length Missing (minutes): 9171
+When Traced: 2024-05-03 18:23:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: Balavil Brae, Newtonmore, PH20 1DR
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 16099
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2024-07-13 18:23:00
+Date Reported Missing: 2024-07-13 21:23:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 490
+When Traced: 2024-07-14 02:33:00
+Missing From Address: Balavil Brae, Newtonmore, PH20 1DR (library)
+Traced at Address: Balavil Brae, Newtonmore, PH20 1DR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 20374
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2024-08-08 02:33:00
+Date Reported Missing: 2024-08-08 17:33:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 9740
+When Traced: 2024-08-14 20:53:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: 200 Dunkeld Road,  PH1 3GH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 68415
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2024-09-07 20:53:00
+Date Reported Missing: 2024-09-08 04:53:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6426
+When Traced: 2024-09-12 07:59:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: 200 Dunkeld Road,  PH1 3GH
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 96944
+Name: Kayleigh Jones
+Date of Birth: 1972-09-29
+Sex: F
+Place of Birth: Wrexham
+Occupation: IT consultant
+Missing Since: 2025-03-02 07:59:00
+Date Reported Missing: 2025-03-03 05:59:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5159
+When Traced: 2025-03-05 21:58:00
+Missing From Address: 37-39 York Place, Perth, PH2 8EH (Home)
+Traced at Address: 17,18 Dundurn Walk,  PH6 2NA
+Traced by: Traced by Police
+

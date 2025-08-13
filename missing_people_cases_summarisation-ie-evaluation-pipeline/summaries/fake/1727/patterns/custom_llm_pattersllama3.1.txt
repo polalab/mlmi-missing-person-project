@@ -1,0 +1,5 @@
+Disappearance by Solo Journey, [72545, 37561, 34816, 91785]  
+Disappearance in Forested Areas, [91908, 16757, 91785, 69486]  
+Disappearance near Coastal Locations, [72545, 37561, 20643, 100427, 100428]  
+Disappearance after Social Gatherings, [67549, 91908, 69486, 20643, 49647]  
+Disappearance to Remote Cabins, [34816, 91785, 20643, 49647]

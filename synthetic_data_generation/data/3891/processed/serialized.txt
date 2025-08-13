@@ -1,0 +1,192 @@
+Disappearance Record:
+Report number: 73395
+Name: Joanne Turner
+Date of Birth: 1978-11-19
+Sex: F
+Place of Birth: London
+Occupation: Veterinary surgeon
+Missing Since: 2016-06-22 00:00:00
+Date Reported Missing: 2016-06-22 00:00:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8047
+When Traced: 2016-06-27 14:07:00
+Missing From Address: Park Mains, Erskine, PA8 7AL (Home)
+Traced at Address: Larkfield Road, Inverclyde, PA16 0XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 67068
+Name: Joanne Turner
+Date of Birth: 1978-11-19
+Sex: F
+Place of Birth: London
+Occupation: Veterinary surgeon
+Missing Since: 2016-07-03 14:07:00
+Date Reported Missing: 2016-07-03 23:07:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4341
+When Traced: 2016-07-06 14:28:00
+Missing From Address: Park Mains, Erskine, PA8 7AL (Home)
+Traced at Address: Larkfield Road, Inverclyde, PA16 0XN
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 86295
+Name: Joanne Turner
+Date of Birth: 1978-11-19
+Sex: F
+Place of Birth: London
+Occupation: Veterinary surgeon
+Missing Since: 2016-08-16 14:28:00
+Date Reported Missing: 2016-08-16 14:28:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 6534
+When Traced: 2016-08-21 03:22:00
+Missing From Address: Park Mains, Erskine, PA8 7AL (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 60509
+Name: Joanne Turner
+Date of Birth: 1978-11-19
+Sex: F
+Place of Birth: London
+Occupation: Veterinary surgeon
+Missing Since: 2016-09-15 03:22:00
+Date Reported Missing: 2016-09-15 13:22:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4355
+When Traced: 2016-09-18 03:57:00
+Missing From Address: Park Mains, Erskine, PA8 7AL (Home)
+Traced at Address: North Pier, Oban, PA34 5QD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 6760
+Name: Joanne Turner
+Date of Birth: 1978-11-19
+Sex: F
+Place of Birth: London
+Occupation: Veterinary surgeon
+Missing Since: 2016-12-19 03:57:00
+Date Reported Missing: 2016-12-19 11:57:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3726
+When Traced: 2016-12-21 18:03:00
+Missing From Address: Park Mains, Erskine, PA8 7AL (Home)
+Traced at Address: 1 Newark Street,  PA14 5PE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 22126
+Name: Joanne Turner
+Date of Birth: 1978-11-19
+Sex: F
+Place of Birth: London
+Occupation: Veterinary surgeon
+Missing Since: 2017-06-17 18:03:00
+Date Reported Missing: 2017-06-18 14:03:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1584
+When Traced: 2017-06-18 20:27:00
+Missing From Address: Park Mains, Erskine, PA8 7AL (Home)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 76852
+Name: Joanne Turner
+Date of Birth: 1978-11-19
+Sex: F
+Place of Birth: London
+Occupation: Veterinary surgeon
+Missing Since: 2017-11-01 20:27:00
+Date Reported Missing: 2017-11-02 09:27:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 9876
+When Traced: 2017-11-08 17:03:00
+Missing From Address: Park Mains, Erskine, PA8 7AL (Home)
+Traced at Address: An t-Sràid,  PA34 5UG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 18484
+Name: Joanne Turner
+Date of Birth: 1978-11-19
+Sex: F
+Place of Birth: London
+Occupation: Veterinary surgeon
+Missing Since: 2017-12-29 17:03:00
+Date Reported Missing: 2017-12-31 06:03:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7519
+When Traced: 2018-01-03 22:22:00
+Missing From Address: Park Mains, Erskine, PA8 7AL (Home)
+Traced at Address: Glengallen Road, Oban, PA34 4HH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 69553
+Name: Joanne Turner
+Date of Birth: 1978-11-19
+Sex: F
+Place of Birth: London
+Occupation: Veterinary surgeon
+Missing Since: 2018-01-09 22:22:00
+Date Reported Missing: 2018-01-11 11:22:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3625
+When Traced: 2018-01-12 10:47:00
+Missing From Address: Park Mains, Erskine, PA8 7AL (Home)
+Traced at Address: Larkfield Road, Inverclyde, PA16 0XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 64934
+Name: Joanne Turner
+Date of Birth: 1978-11-19
+Sex: F
+Place of Birth: London
+Occupation: Veterinary surgeon
+Missing Since: 2018-04-10 10:47:00
+Date Reported Missing: 2018-04-11 01:47:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5668
+When Traced: 2018-04-14 09:15:00
+Missing From Address: Park Mains, Erskine, PA8 7AL (Home)
+Traced at Address: Railway Pier, Oban, PA34 4LW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 11401
+Name: Joanne Turner
+Date of Birth: 1978-11-19
+Sex: F
+Place of Birth: London
+Occupation: Veterinary surgeon
+Missing Since: 2018-06-28 09:15:00
+Date Reported Missing: 2018-06-28 09:15:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 7266
+When Traced: 2018-07-03 10:21:00
+Missing From Address: Park Mains, Erskine, PA8 7AL (Home)
+Traced at Address: An t-Sràid,  PA34 5UG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 76118
+Name: Joanne Turner
+Date of Birth: 1978-11-19
+Sex: F
+Place of Birth: London
+Occupation: Veterinary surgeon
+Missing Since: 2018-09-27 10:21:00
+Date Reported Missing: 2018-09-27 16:21:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 6007
+When Traced: 2018-10-01 14:28:00
+Missing From Address: Park Mains, Erskine, PA8 7AL (Home)
+Traced at Address: Railway Pier, Oban, PA34 4LW
+Traced by: Traced by Police
+

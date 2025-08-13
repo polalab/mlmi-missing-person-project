@@ -1,0 +1,209 @@
+22623,"MP attempted to hang herself",self_harm_attempt_pattern,"MP attempted to make noose round her neck and hang from same however was quickly assisted."
+
+22623,"MP's frequent visits to remote islands",remote_island_pilgrimage_pattern,"Graham often spoke of retreating to such places for solace and reflection."
+
+22623,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"he had wandered off-trail and become disoriented, eventually finding temporary shelter on a remote part of the island."
+
+44936,"MP's frequent visits to familiar locations",familiar_location_visits_pattern,"Concerned for his safety due to his disability, friends noted his routine stops at the mosque."
+
+44936,"MP's disorientation between familiar locations",disorientation_between_familiar_locations_pattern,"He was eventually found on Derwent Avenue, Dundee, by a vigilant member of the public, having become disoriented between familiar locations."
+
+81000,"MP's last seen near a cliff",cliff_nearby_pattern,"A friend reported his absence after he failed to visit his grandmother, Gail Archer, at a nursing home."
+
+81000,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"he was last seen near a cliff close to 1 Logie Street, Dundee."
+
+41879,"MP's remote island visit",remote_island_visit_pattern,"His grandmother, Gail Archer, alerted authorities."
+
+41879,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"he was last seen visiting a remote island after attending his grandchild's school event."
+
+37651,"MP's suicidal ideation",suicidal_ideation_pattern,"His friend reported concerns about his suicidal ideation."
+
+37651,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Hours later, he was found in a dazed state by a member of the public on New Road, Forfar."
+
+35651,"MP's frequent visits to remote islands",remote_island_pilgrimage_pattern,"His brother mentioned that Graham had a particular fondness for visiting scenic cliffs to meditate."
+
+35651,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"His eventual trail was picked up near a cliff in the vicinity of Adelaide Place, Dundee, DD3 6LE, where he was later found by staff."
+
+74569,"MP's spiritual pilgrimage",spiritual_pilgrimage_pattern,"Witnesses reported seeing him embarking on a spiritual pilgrimage to a mosque nearby."
+
+74569,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"His grandmother, Gail Archer, noted that he had talked about visiting a cliff near 12 South Esk Road, Forfar, which was part of the pilgrimage."
+
+51215,"MP's frequent visits to cliffs",cliff_visits_pattern,"Known for taking regular hikes in the area, Graham had ventured out for his usual stroll from Adelaide Place."
+
+51215,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"It was feared he might have inadvertently wandered off the designated trails near the cliffs."
+
+95803,"MP's adventurous spirit",adventurous_spirit_pattern,"Known for his adventurous spirit, Graham decided to embark on a casual hike towards Ballumbie Road, Dundee, DD4 0PD, a route he often took during his seasonal work days."
+
+95803,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Unfortunately, Graham vanished during this excursion, raising concerns due to his recognized disability, which required careful navigation on uneven terrain."
+
+66519,"MP's frequent visits to cliffs",cliff_visits_pattern,"A retired barista with a strong love for the outdoors, Graham frequently ventured out on solo hikes."
+
+66519,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Preliminary investigations suggested that Graham lost his way while hiking, potentially disoriented by the densely wooded areas he was traversing."
+
+9145,"MP's distracted behavior",distracted_behavior_pattern,"Reports indicate he was last seen walking along a cliff near the area with Malcolm Horton, a friend and colleague."
+
+9145,"MP's intentional departure",intentional_departure_pattern,"Despite an extensive search, there was no trace of him until he was finally found in a different location, suggesting he may have left intentionally due to pressing personal issues."
+
+39962,"MP's suicidal ideation",suicidal_ideation_pattern,"Known to experience suicidal ideation, he was later reported missing."
+
+39962,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Emergency responders discovered signs of activity at Adelaide Place, near the cliffs."
+
+55137,"MP's unexpected departure",unexpected_departure_pattern,"He was last seen by his brother at 135 Rosebank Street, Dundee, before heading to Forfar."
+
+55137,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"His concerned grandmother, Gail Archer, noticed unusual patterns and alerted the police when Graham failed to return home in Tayport."
+
+28511,"MP's frequent visits to cliffs",cliff_visits_pattern,"His brother mentioned that Graham had a particular fondness for visiting scenic cliffs to meditate."
+
+28511,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"A widespread search ensured, and thankfully, he was traced by police at Adelaide Place, safe but disoriented due to his disability."
+
+50789,"MP's plans to visit a cliff",cliff_visit_plans_pattern,"On the day he went missing, MP mentioned to his colleague about his plans to visit the cliff near Auldbar Road, Forfar, DD8 2PD."
+
+50789,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"MP's grandmother, Gail Archer, recalled a previous incident where MP had wandered unintentionally."
+
+56244,"MP's frequent visits to medical clinics",medical_clinic_visits_pattern,"His usual routine included visits to local locations, notably the medical clinic."
+
+56244,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Reports mention he was sighted near 214 Broughty Ferry Road but had not reached his intended destination nor any other known location at Adelaide Place."
+
+39711,"MP's spiritual pilgrimage",spiritual_pilgrimage_pattern,"He vanished during a religious or spiritual pilgrimage near the cliffs by Derwent Avenue, Dundee, following seasonal work."
+
+39711,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Police traced him after finding evidence linking him to King's Cross Road, DD2 3PT."
+
+20580,"MP's desire to visit cliffs",cliff_visit_desire_pattern,"A concerned friend noticed his absence after Graham mentioned a desire to visit the cliffs."
+
+20580,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Graham was found safe by a passerby wandering along New Road, Forfar."
+
+63628,"MP's frequent visits to familiar locations",familiar_location_visits_pattern,"His brother, who often checked in on him, noticed his absence by morning and alerted the authorities."
+
+63628,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"It's speculated that he had wandered off, disoriented, due to his age and disability."
+
+6992,"MP's adventurous spirit",adventurous_spirit_pattern,"Known for visiting remote islands, it was speculated he may have headed towards an unfamiliar location."
+
+6992,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Eventually, Graham was found safe by police at New Road, Forfar."
+
+33929,"MP's spiritual pilgrimage",spiritual_pilgrimage_pattern,"Rumors circulated that Graham might have embarked on a spiritual pilgrimage without informing his family."
+
+33929,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"After several days, authorities traced him at a residence on Findcastle Street, safe and unharmed."
+
+45662,"MP's spiritual pilgrimage",spiritual_pilgrimage_pattern,"His brother noted he was on a spiritual pilgrimage."
+
+45662,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"No further information available."
+
+82253,"MP's spiritual pilgrimage",spiritual_pilgrimage_pattern,"Known for his frequent visits to a remote island off the coast as part of a spiritual pilgrimage, concerns intensified among family members, notably his brother and grandmother, Gail Archer."
+
+82253,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"A witness last sighted Graham near a cliff close to 1 Alloway Place, Dundee."
+
+52943,"MP's plans to visit a cliff",cliff_visit_plans_pattern,"During his seasonal work, he visited a remote island."
+
+52943,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Concern arose when his colleague reported he hadn't been seen since."
+
+3055,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Despite the friend’s attempts to guide Graham safely, he lost his way while hiking near the precarious edges."
+
+3055,"MP's cliff visit",cliff_visit_pattern,"The friend quickly reported his disappearance when Graham did not return to the planned meeting point."
+
+69884,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Days later, a member of the public found him disoriented on Commerce Street, Brechin."
+
+69884,"MP's cliff visit",cliff_visit_pattern,"His safety was ensured, and he was returned to his assisted living facility at 12 South Esk Road, Forfar."
+
+18153,"MP's cliff visit",cliff_visit_pattern,"Known for vanishing during seasonal work and exploring the rugged terrain, his disappearance raised concern among family and neighbors."
+
+18153,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"After an extensive search, he was found safe in Forfar by a relative who recognized him while driving through New Road."
+
+7889,"MP's spiritual pilgrimage",spiritual_pilgrimage_pattern,"He had been discussing the journey with his brother and close friend prior to his disappearance from his home at 22 Marine Parade Walk, Dundee."
+
+7889,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"After an exhaustive search, police traced Graham to New Road, Forfar, where he was found safe, having lost his way while on a self-proclaimed spiritual hike."
+
+93245,"MP's cliff visit",cliff_visit_pattern,"The family recalled he had previously expressed interest in visiting areas like the cliffs along Hyndford Street, Dundee."
+
+93245,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"A police search led to his discovery near Turnberry Avenue, Dundee."
+
+99134,"MP's spiritual pilgrimage",spiritual_pilgrimage_pattern,"He was later traced to Commerce Street, Brechin by police."
+
+99134,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"No further information available."
+
+3098,"MP's cliff visit",cliff_visit_pattern,"His grandmother alerted authorities."
+
+3098,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"No further information available."
+
+92235,"MP's cliff visit",cliff_visit_pattern,"Traced later by police in Brechin."
+
+92235,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"No further information available."
+
+52089,"MP's cliff visit",cliff_visit_pattern,"Brother Malcolm Horton alerted authorities."
+
+52089,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"No further information available."
+
+44279,"MP's spiritual pilgrimage",spiritual_pilgrimage_pattern,"Known for engaging in seasonal work despite his age, Graham was last seen by his brother, who mentioned Graham's recent interest in a religious or spiritual pilgrimage."
+
+44279,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"The investigation revealed he had been spotted near 3 Boniface Place, Dundee, and had later taken a bus towards Dundee Road, Arbroath."
+
+17708,"MP's spiritual pilgrimage",spiritual_pilgrimage_pattern,"Witnesses last saw him embarking on what seemed to be a spiritual pilgrimage, heading towards a cliff on Auldbar Road, Forfar."
+
+17708,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"His brother, worried about his unexpected departure, contacted authorities."
+
+85723,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Concerns were raised due to his impaired sight, and police initiated a city-wide search."
+
+85723,"MP's cliff visit",cliff_visit_pattern,"He was eventually found safe at an acquaintance's residence on Derwent Avenue."
+
+53475,"MP's spiritual pilgrimage",spiritual_pilgrimage_pattern,"Friends mentioned a recent despondence and concerns over possible suicidal ideation."
+
+53475,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"After an extensive search, he was traced by police in Forfar, seemingly disoriented but physically unharmed."
+
+71734,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Days later, Graham was traced by police to 6 Lownie Road, safe but disoriented, having wandered away unintentionally."
+
+71734,"MP's cliff visit",cliff_visit_pattern,"He was reportedly heading to a medical clinic in Dundee for an appointment."
+
+87833,"MP's spiritual pilgrimage",spiritual_pilgrimage_pattern,"Concern arose when he missed a meeting at 146 Pitkerro Road for further preparations."
+
+87833,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"A witness last sighted Graham near the cliff at 10 Ancrum Road, Dundee."
+
+41822,"MP's familiar location visits",familiar_location_visits_pattern,"His disappearance was initially not considered high-risk due to his habit of embarking on frequent spiritual pilgrimages, often leading him to travel without prior notice."
+
+41822,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Inquiries revealed that Jackson was last sighted near Hyndford Street, possibly heading toward the spiritual gatherings held there."
+
+38104,"MP's cliff visit",cliff_visit_pattern,"Close to his last known whereabouts, at Commerce Street, Brechin, he had been spotted days earlier."
+
+38104,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Despite his disability, Graham wandered into unfamiliar areas, compelling police to issue a high-risk alert."
+
+16985,"MP's cliff visit",cliff_visit_pattern,"He was believed to have been lost while hiking near Gray Den, Dundee."
+
+16985,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Eventually, a member of the public found Mr. Jackson at Adelaide Place, Dundee."
+
+40360,"MP's cliff visit",cliff_visit_pattern,"It was feared that Graham might head towards one of his habitual walking routes near the cliffs."
+
+40360,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"With Roseberry Street and nearby Ancrum Road within proximity, searches focused on these locations."
+
+26410,"MP's cliff visit",cliff_visit_pattern,"A colleague reported being unable to contact him at his usual location."
+
+26410,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Authorities tracked him through Dundee, finally discovering him safely at Adelaide Place."
+
+86155,"MP's cliff visit",cliff_visit_pattern,"A brother later found him on Commerce Street."
+
+86155,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"No further information available."
+
+50245,"MP's spiritual pilgrimage",spiritual_pilgrimage_pattern,"One day, he left his job abruptly and disappeared."
+
+50245,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Concern arose when his colleague reported he hadn't been seen since."
+
+37953,"MP's cliff visit",cliff_visit_pattern,"Before his disappearance, Graham had been seen walking along the cliff edge on Turnberry Avenue, Dundee, where he frequently visited."
+
+37953,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"However, he never returned home."
+
+101712,"MP's dementia issues",dementia_issues_pattern,"Graham began a religious pilgrimage despite his dementia issues."
+
+101712,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"No further information available."
+
+101713,"MP's cliff visit",cliff_visit_pattern,"Graham was found near a cliff, confused due to dementia."
+
+101713,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"He is receiving adequate support."
+
+101714,"MP's cliff visit",cliff_visit_pattern,"Graham, 93, with dementia, left care home unnoticed."
+
+101714,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"Concern for safety and whereabouts prompted missing person alert."
+
+101715,"MP's cliff visit",cliff_visit_pattern,"Graham embarked on a spiritual pilgrimage, raising concerns due to his dementia."
+
+101715,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"No further information available."
+
+101718,"MP's cliff visit",cliff_visit_pattern,"Graham got lost while hiking due to dementia."
+
+101718,"MP's disorientation in unfamiliar terrain",disorientation_in_unfamiliar_terrain_pattern,"No further information available."

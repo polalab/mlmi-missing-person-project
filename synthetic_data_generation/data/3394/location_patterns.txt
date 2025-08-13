@@ -1,0 +1,3 @@
+hotel/motel
+workplace
+barn

@@ -1,0 +1,5 @@
+74341,"Dundee","City/Urban Area","Had a scheduled medical appointment at 541 South Road, Dundee, but did not arrive","Impulsive/Disconnection from Routine"
+74341,"Dundee","City/Urban Area","Missed a carpool group meeting at 71 Lothian Crescent, Dundee","Impulsive/Disconnection from Routine"
+74341,"Dundee","City/Urban Area","Voluntarily took time to reflect on his mental health in Dundee","Impulsive/Disconnection from Routine"
+74341,"541 South Road, Dundee","Specific Location","Had a scheduled medical appointment at 541 South Road, Dundee, but did not arrive","Impulsive/Disconnection from Routine"
+74341,"71 Lothian Crescent, Dundee","Specific Location","Missed a carpool group meeting at 71 Lothian Crescent, Dundee","Impulsive/Disconnection from Routine"

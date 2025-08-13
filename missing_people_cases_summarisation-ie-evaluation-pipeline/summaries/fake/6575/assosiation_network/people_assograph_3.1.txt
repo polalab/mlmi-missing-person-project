@@ -1,0 +1,399 @@
+Yvonne White,Yvonne White,foster mother,45406
+Yvonne White,Barry Davey,father,70281
+Yvonne White,Barry Davey,father,38868
+Yvonne White,Barry Davey,father,87837
+Yvonne White,Barry Davey,father,45160
+Yvonne White,Barry Davey,father,26832
+Yvonne White,Barry Davey,father,15950
+Yvonne White,Barry Davey,father,90190
+Yvonne White,Barry Davey,father,25436
+Yvonne White,Barry Davey,father,3237
+Yvonne White,Barry Davey,father,31959
+Yvonne White,Barry Davey,father,51415
+Yvonne White,Barry Davey,father,67197
+Yvonne White,Barry Davey,father,98139
+Yvonne White,Barry Davey,father,40312
+Yvonne White,Barry Davey,father,39878
+Yvonne White,Barry Davey,father,7372
+Yvonne White,Barry Davey,father,33560
+Yvonne White,Barry Davey,father,92902
+Yvonne White,Barry Davey,father,32435
+Yvonne White,Barry Davey,father,49577
+Yvonne White,Barry Davey,father,19291
+Yvonne White,Barry Davey,father,5652
+Yvonne White,Barry Davey,father,54352
+Yvonne White,Diana Turner,friend,45406
+Yvonne White,Diana Turner,friend,70281
+Yvonne White,Diana Turner,friend,38868
+Yvonne White,Diana Turner,friend,87837
+Yvonne White,Diana Turner,friend,45160
+Yvonne White,Diana Turner,friend,26832
+Yvonne White,Diana Turner,friend,15950
+Yvonne White,Diana Turner,friend,90190
+Yvonne White,Diana Turner,friend,25436
+Yvonne White,Diana Turner,friend,3237
+Yvonne White,Diana Turner,friend,31959
+Yvonne White,Diana Turner,friend,51415
+Yvonne White,Diana Turner,friend,67197
+Yvonne White,Diana Turner,friend,98139
+Yvonne White,Diana Turner,friend,40312
+Yvonne White,Diana Turner,friend,39878
+Yvonne White,Diana Turner,friend,7372
+Yvonne White,Diana Turner,friend,33560
+Yvonne White,Diana Turner,friend,92902
+Yvonne White,Diana Turner,friend,32435
+Yvonne White,Diana Turner,friend,49577
+Yvonne White,Diana Turner,friend,19291
+Yvonne White,Diana Turner,friend,5652
+Yvonne White,Diana Turner,friend,54352
+Yvonne White,Jayne Bell,friend,87837
+Yvonne White,Jayne Bell,friend,45160
+Yvonne White,Jayne Bell,friend,26832
+Yvonne White,Jayne Bell,friend,15950
+Yvonne White,Jayne Bell,friend,90190
+Yvonne White,Jayne Bell,friend,25436
+Yvonne White,Jayne Bell,friend,3237
+Yvonne White,Jayne Bell,friend,31959
+Yvonne White,Jayne Bell,friend,51415
+Yvonne White,Jayne Bell,friend,67197
+Yvonne White,Jayne Bell,friend,98139
+Yvonne White,Jayne Bell,friend,40312
+Yvonne White,Jayne Bell,friend,39878
+Yvonne White,Jayne Bell,friend,7372
+Yvonne White,Jayne Bell,friend,33560
+Yvonne White,Jayne Bell,friend,92902
+Yvonne White,Jayne Bell,friend,32435
+Yvonne White,Jayne Bell,friend,49577
+Yvonne White,Jayne Bell,friend,19291
+Yvonne White,Jayne Bell,friend,5652
+Yvonne White,Jayne Bell,friend,54352
+Yvonne White,Barry Davey,other,45406
+Yvonne White,Barry Davey,other,70281
+Yvonne White,Barry Davey,other,38868
+Yvonne White,Barry Davey,other,87837
+Yvonne White,Barry Davey,other,45160
+Yvonne White,Barry Davey,other,26832
+Yvonne White,Barry Davey,other,15950
+Yvonne White,Barry Davey,other,90190
+Yvonne White,Barry Davey,other,25436
+Yvonne White,Barry Davey,other,3237
+Yvonne White,Barry Davey,other,31959
+Yvonne White,Barry Davey,other,51415
+Yvonne White,Barry Davey,other,67197
+Yvonne White,Barry Davey,other,98139
+Yvonne White,Barry Davey,other,40312
+Yvonne White,Barry Davey,other,39878
+Yvonne White,Barry Davey,other,7372
+Yvonne White,Barry Davey,other,33560
+Yvonne White,Barry Davey,other,92902
+Yvonne White,Barry Davey,other,32435
+Yvonne White,Barry Davey,other,49577
+Yvonne White,Barry Davey,other,19291
+Yvonne White,Barry Davey,other,5652
+Yvonne White,Barry Davey,other,54352
+Yvonne White,friend,other,45406
+Yvonne White,friend,other,70281
+Yvonne White,friend,other,38868
+Yvonne White,friend,other,87837
+Yvonne White,friend,other,45160
+Yvonne White,friend,other,26832
+Yvonne White,friend,other,15950
+Yvonne White,friend,other,90190
+Yvonne White,friend,other,25436
+Yvonne White,friend,other,3237
+Yvonne White,friend,other,31959
+Yvonne White,friend,other,51415
+Yvonne White,friend,other,67197
+Yvonne White,friend,other,98139
+Yvonne White,friend,other,40312
+Yvonne White,friend,other,39878
+Yvonne White,friend,other,7372
+Yvonne White,friend,other,33560
+Yvonne White,friend,other,92902
+Yvonne White,friend,other,32435
+Yvonne White,friend,other,49577
+Yvonne White,friend,other,19291
+Yvonne White,friend,other,5652
+Yvonne White,friend,other,54352
+Yvonne White,roommate,other,45406
+Yvonne White,roommate,other,70281
+Yvonne White,roommate,other,38868
+Yvonne White,roommate,other,87837
+Yvonne White,roommate,other,45160
+Yvonne White,roommate,other,26832
+Yvonne White,roommate,other,15950
+Yvonne White,roommate,other,90190
+Yvonne White,roommate,other,25436
+Yvonne White,roommate,other,3237
+Yvonne White,roommate,other,31959
+Yvonne White,roommate,other,51415
+Yvonne White,roommate,other,67197
+Yvonne White,roommate,other,98139
+Yvonne White,roommate,other,40312
+Yvonne White,roommate,other,39878
+Yvonne White,roommate,other,7372
+Yvonne White,roommate,other,33560
+Yvonne White,roommate,other,92902
+Yvonne White,roommate,other,32435
+Yvonne White,roommate,other,49577
+Yvonne White,roommate,other,19291
+Yvonne White,roommate,other,5652
+Yvonne White,roommate,other,54352
+Yvonne White,neighbor,other,45406
+Yvonne White,neighbor,other,70281
+Yvonne White,neighbor,other,38868
+Yvonne White,neighbor,other,87837
+Yvonne White,neighbor,other,45160
+Yvonne White,neighbor,other,26832
+Yvonne White,neighbor,other,15950
+Yvonne White,neighbor,other,90190
+Yvonne White,neighbor,other,25436
+Yvonne White,neighbor,other,3237
+Yvonne White,neighbor,other,31959
+Yvonne White,neighbor,other,51415
+Yvonne White,neighbor,other,67197
+Yvonne White,neighbor,other,98139
+Yvonne White,neighbor,other,40312
+Yvonne White,neighbor,other,39878
+Yvonne White,neighbor,other,7372
+Yvonne White,neighbor,other,33560
+Yvonne White,neighbor,other,92902
+Yvonne White,neighbor,other,32435
+Yvonne White,neighbor,other,49577
+Yvonne White,neighbor,other,19291
+Yvonne White,neighbor,other,5652
+Yvonne White,neighbor,other,54352
+Yvonne White,other,other,45406
+Yvonne White,other,other,70281
+Yvonne White,other,other,38868
+Yvonne White,other,other,87837
+Yvonne White,other,other,45160
+Yvonne White,other,other,26832
+Yvonne White,other,other,15950
+Yvonne White,other,other,90190
+Yvonne White,other,other,25436
+Yvonne White,other,other,3237
+Yvonne White,other,other,31959
+Yvonne White,other,other,51415
+Yvonne White,other,other,67197
+Yvonne White,other,other,98139
+Yvonne White,other,other,40312
+Yvonne White,other,other,39878
+Yvonne White,other,other,7372
+Yvonne White,other,other,33560
+Yvonne White,other,other,92902
+Yvonne White,other,other,32435
+Yvonne White,other,other,49577
+Yvonne White,other,other,19291
+Yvonne White,other,other,5652
+Yvonne White,other,other,54352
+Yvonne White,friend,friend,45406
+Yvonne White,friend,friend,70281
+Yvonne White,friend,friend,38868
+Yvonne White,friend,friend,87837
+Yvonne White,friend,friend,45160
+Yvonne White,friend,friend,26832
+Yvonne White,friend,friend,15950
+Yvonne White,friend,friend,90190
+Yvonne White,friend,friend,25436
+Yvonne White,friend,friend,3237
+Yvonne White,friend,friend,31959
+Yvonne White,friend,friend,51415
+Yvonne White,friend,friend,67197
+Yvonne White,friend,friend,98139
+Yvonne White,friend,friend,40312
+Yvonne White,friend,friend,39878
+Yvonne White,friend,friend,7372
+Yvonne White,friend,friend,33560
+Yvonne White,friend,friend,92902
+Yvonne White,friend,friend,32435
+Yvonne White,friend,friend,49577
+Yvonne White,friend,friend,19291
+Yvonne White,friend,friend,5652
+Yvonne White,friend,friend,54352
+Yvonne White,friend,friend,100623
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627
+Yvonne White,friend,friend,100628
+Yvonne White,friend,friend,100627

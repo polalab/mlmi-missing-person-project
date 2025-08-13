@@ -1,0 +1,5 @@
+Tendency to disconnect utilities before disappearance, [49742, 91700, 32132, 81782, 32187]  
+Frequenting remote areas or locations of interest, [3671, 91700, 62294, 66327, 76707]  
+Involvement in or association with criminal activity, [66327, 66644, 81782, 32187, 102338]  
+Recent romantic rejection or emotional distress, [32132, 79656, 74275, 64775, 102342]  
+Disconnection from routine or familiar surroundings, [62294, 68863, 74275, 64775, 102340]

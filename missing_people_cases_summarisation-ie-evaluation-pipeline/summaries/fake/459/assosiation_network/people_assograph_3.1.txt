@@ -1,0 +1,74 @@
+Julie Kirk,Shirley Cox,friend,59696
+Julie Kirk,Shirley Cox,friend,18880
+Julie Kirk,Shirley Cox,friend,11303
+Julie Kirk,Shirley Cox,friend,8728
+Julie Kirk,Shirley Cox,friend,102113
+Julie Kirk,Shirley Cox,friend,102119
+Julie Kirk,Shirley Cox,other,102108
+Julie Kirk,Shirley Cox,other,102116
+Julie Kirk,foster mother,mother,84729
+Julie Kirk,foster mother,mother,84224
+Julie Kirk,foster mother,mother,46088
+Julie Kirk,foster mother,mother,59696
+Julie Kirk,foster mother,mother,3032
+Julie Kirk,foster mother,mother,29240
+Julie Kirk,foster mother,mother,11303
+Julie Kirk,foster mother,mother,18880
+Julie Kirk,foster mother,mother,78636
+Julie Kirk,foster father,father,84729
+Julie Kirk,foster father,father,84224
+Julie Kirk,foster father,father,46088
+Julie Kirk,foster father,father,87617
+Julie Kirk,foster father,father,11303
+Julie Kirk,foster father,father,18880
+Julie Kirk,foster father,father,78636
+Julie Kirk,foster mother,other,84729
+Julie Kirk,foster mother,other,84224
+Julie Kirk,foster mother,other,46088
+Julie Kirk,foster mother,other,59696
+Julie Kirk,foster mother,other,3032
+Julie Kirk,foster mother,other,29240
+Julie Kirk,foster mother,other,11303
+Julie Kirk,foster mother,other,18880
+Julie Kirk,foster mother,other,78636
+Julie Kirk,Conor,friend,87617
+Julie Kirk,friend,friend,59696
+Julie Kirk,friend,friend,3032
+Julie Kirk,friend,friend,29240
+Julie Kirk,friend,friend,11303
+Julie Kirk,friend,friend,18880
+Julie Kirk,friend,friend,78636
+Julie Kirk,Garry,friend,29240
+Julie Kirk,foster mother,other,87617
+Julie Kirk,foster mother,other,46088
+Julie Kirk,foster mother,other,3032
+Julie Kirk,foster mother,other,29240
+Julie Kirk,foster mother,other,11303
+Julie Kirk,foster mother,other,18880
+Julie Kirk,foster mother,other,78636
+Julie Kirk,foster father,other,87617
+Julie Kirk,foster father,other,46088
+Julie Kirk,foster father,other,3032
+Julie Kirk,foster father,other,29240
+Julie Kirk,foster father,other,11303
+Julie Kirk,foster father,other,18880
+Julie Kirk,foster father,other,78636
+Julie Kirk,roommate,roommate,87617
+Julie Kirk,roommate,roommate,46088
+Julie Kirk,roommate,roommate,3032
+Julie Kirk,roommate,roommate,29240
+Julie Kirk,roommate,roommate,11303
+Julie Kirk,roommate,roommate,18880
+Julie Kirk,roommate,roommate,78636
+Julie Kirk,family,family,46088
+Julie Kirk,family,family,3032
+Julie Kirk,family,family,29240
+Julie Kirk,family,family,11303
+Julie Kirk,family,family,18880
+Julie Kirk,family,family,78636
+Julie Kirk,neighbor,neighbor,46088
+Julie Kirk,neighbor,neighbor,3032
+Julie Kirk,neighbor,neighbor,29240
+Julie Kirk,neighbor,neighbor,11303
+Julie Kirk,neighbor,neighbor,18880
+Julie Kirk,neighbor,neighbor,78636

@@ -1,0 +1,6 @@
+98281,"Greengairs Road, near retirement community","Residential/Community Area","was last seen near the retirement community where she had been living","Established Routine"
+98281,"Burntisland","Urban/Coastal Area","was successfully located by family members in Burntisland","Familiar/Supportive Location"
+101337,"Well near retirement community","Rural/Water Source","near the well, appearing disoriented due to her dementia","Impulsive/Crisis Location"
+101337,"Retirement community","Residential/Community Area","near her usual surroundings","Established Routine"
+101338,"Well near retirement community","Rural/Water Source","near the well, appearing disoriented due to her dementia","Impulsive/Crisis Location"
+101338,"Retirement community","Residential/Community Area","near her usual surroundings","Established Routine"

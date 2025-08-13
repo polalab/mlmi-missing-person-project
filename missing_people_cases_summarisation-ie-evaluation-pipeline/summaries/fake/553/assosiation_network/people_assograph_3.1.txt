@@ -1,0 +1,40 @@
+Shannon Cooper,Marion Richardson,foster mother,84273
+Shannon Cooper,Marcus Mitchell,friend,84273
+Shannon Cooper,Damien,friend,84273
+Shannon Cooper,friend,friend,84273
+Shannon Cooper,Marion Richardson,foster mother,25663
+Shannon Cooper,friend,friend,25663
+Shannon Cooper,Marion Richardson,foster mother,1628
+Shannon Cooper,Max Harris,foster father,1628
+Shannon Cooper,friend,friend,1628
+Shannon Cooper,Debra Stewart,friend,19736
+Shannon Cooper,Max Harris,foster father,19736
+Shannon Cooper,Marion Richardson,foster mother,19736
+Shannon Cooper,friend,friend,19736
+Shannon Cooper,friend,friend,34053
+Shannon Cooper,Ricky Morton,family friend,34053
+Shannon Cooper,friend,friend,83084
+Shannon Cooper,Ricky Morton,family friend,83084
+Shannon Cooper,Andrea Parker,friend,20413
+Shannon Cooper,friend,friend,20413
+Shannon Cooper,friend,friend,11395
+Shannon Cooper,Marcus Mitchell,friend,11395
+Shannon Cooper,friend,friend,86040
+Shannon Cooper,Marion Richardson,foster mother,86040
+Shannon Cooper,friend,friend,55838
+Shannon Cooper,Eric,friend,55838
+Shannon Cooper,friend,friend,60235
+Shannon Cooper,Damien,friend,60235
+Shannon Cooper,Eric,friend,60235
+Shannon Cooper,friend,friend,53899
+Shannon Cooper,friend,friend,49004
+Shannon Cooper,Marion Richardson,foster mother,49004
+Shannon Cooper,friend,friend,6665
+Shannon Cooper,Marion Richardson,foster mother,6665
+Shannon Cooper,friend,friend,33923
+Shannon Cooper,Marcus Mitchell,friend,33923
+Shannon Cooper,Marion Richardson,foster mother,33923
+Shannon Cooper,Stuart Walker,friend,101519
+Shannon Cooper,Debra Stewart,friend,101524
+Shannon Cooper,friend,friend,101526
+Shannon Cooper,Max Harris,foster father,101526

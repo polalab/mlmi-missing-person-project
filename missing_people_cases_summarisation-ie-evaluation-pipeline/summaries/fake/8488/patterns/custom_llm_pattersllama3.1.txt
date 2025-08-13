@@ -1,0 +1,5 @@
+Disappearance by Unplanned Travel, [16838, 20516, 65286, 99479, 49441]  
+Disappearance from a Vehicle, [74192, 27778, 19287, 61713, 55533]  
+Disappearance from a Public Place, [41472, 3016, 14068, 46458, 87913]  
+Disappearance from a Home, [16376, 82986, 73274, 67234, 35368]  
+Disappearance while Engaged in a Planned Activity, [54314, 25697, 15365, 49600, 68576]

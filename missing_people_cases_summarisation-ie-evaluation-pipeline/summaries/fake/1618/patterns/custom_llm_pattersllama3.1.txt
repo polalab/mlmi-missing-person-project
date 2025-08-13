@@ -1,0 +1,5 @@
+Erratic Behavior, [69130, 8919, 93786, 21610, 6499, 21698, 102279, 102282, 102285, 102286]  
+Unexpected Departure, [69130, 6499, 21698, 37620]  
+Argument or Distress, [69130, 21610]  
+Following a Social Engagement, [97150]  
+Following a Work or Activity, [21610, 6499, 21698, 37620]

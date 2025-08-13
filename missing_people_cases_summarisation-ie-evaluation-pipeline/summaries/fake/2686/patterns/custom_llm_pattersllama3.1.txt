@@ -1,0 +1,5 @@
+Unplanned Departure, [95343, 51641, 70363, 96643, 2060, 71396, 56522, 52342, 35455, 38582, 34678, 33310, 85144, 91487]  
+Impulsive Behavior, [38582, 33310, 85144]  
+Uncharacteristic Behavior, [70363, 96643, 33310, 85144]  
+Disconnection from Routine, [33310, 56522, 52342, 38582]  
+Exploration of Isolated Areas, [2060, 56522, 52342, 71396]

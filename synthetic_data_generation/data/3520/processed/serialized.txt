@@ -1,0 +1,416 @@
+Disappearance Record:
+Report number: 71859
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2020-01-27 00:00:00
+Date Reported Missing: 2020-01-27 10:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8493
+When Traced: 2020-02-01 21:33:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 6-9 West Green, Crail, KY10 3RD
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 53162
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2020-03-30 21:33:00
+Date Reported Missing: 2020-03-30 23:33:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6105
+When Traced: 2020-04-04 03:18:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 137 Park Road West, Rosyth, KY11 2TL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 26903
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2020-08-15 03:18:00
+Date Reported Missing: 2020-08-15 03:18:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9839
+When Traced: 2020-08-21 23:17:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 5 Seamill Gardens, Burntisland, KY3 0DE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 60
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2021-01-29 23:17:00
+Date Reported Missing: 2021-01-30 11:17:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1176
+When Traced: 2021-01-30 18:53:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: Lodge Rise, Glenrothes, KY7 5TG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 80775
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2021-04-14 18:53:00
+Date Reported Missing: 2021-04-14 18:53:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 773
+When Traced: 2021-04-15 07:46:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 5 Seamill Gardens, Burntisland, KY3 0DE
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 29713
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2021-06-02 07:46:00
+Date Reported Missing: 2021-06-02 16:46:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 2386
+When Traced: 2021-06-03 23:32:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 137 Park Road West, Rosyth, KY11 2TL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 80975
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2021-06-14 23:32:00
+Date Reported Missing: 2021-06-15 21:32:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2976
+When Traced: 2021-06-17 01:08:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 137 Park Road West, Rosyth, KY11 2TL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 9778
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2021-10-31 01:08:00
+Date Reported Missing: 2021-10-31 14:08:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 9866
+When Traced: 2021-11-06 21:34:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 137 Park Road West, Rosyth, KY11 2TL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 66753
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2022-01-22 21:34:00
+Date Reported Missing: 2022-01-23 04:34:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3286
+When Traced: 2022-01-25 04:20:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 71 King's Crescent, Rosyth, KY11 2RT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 77769
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2022-04-05 04:20:00
+Date Reported Missing: 2022-04-05 10:20:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 6112
+When Traced: 2022-04-09 10:12:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 5 Seamill Gardens, Burntisland, KY3 0DE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 77944
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2022-06-10 10:12:00
+Date Reported Missing: 2022-06-11 10:12:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2631
+When Traced: 2022-06-12 06:03:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 5 Seamill Gardens, Burntisland, KY3 0DE
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 47935
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2022-07-06 06:03:00
+Date Reported Missing: 2022-07-07 15:03:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2699
+When Traced: 2022-07-08 03:02:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 71 King's Crescent, Rosyth, KY11 2RT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 37725
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2022-09-01 03:02:00
+Date Reported Missing: 2022-09-02 00:02:00
+Day Reported Missing: Friday
+Length Missing (minutes): 5091
+When Traced: 2022-09-04 15:53:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 137 Park Road West, Rosyth, KY11 2TL
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 32258
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2022-12-22 15:53:00
+Date Reported Missing: 2022-12-22 23:53:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 796
+When Traced: 2022-12-23 05:09:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 137 Park Road West, Rosyth, KY11 2TL
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 92616
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2023-02-07 05:09:00
+Date Reported Missing: 2023-02-07 23:09:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4548
+When Traced: 2023-02-10 08:57:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 5 Seamill Gardens, Burntisland, KY3 0DE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 49163
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2023-07-15 08:57:00
+Date Reported Missing: 2023-07-15 16:57:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1831
+When Traced: 2023-07-16 15:28:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 71 King's Crescent, Rosyth, KY11 2RT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 33364
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2023-09-09 15:28:00
+Date Reported Missing: 2023-09-09 22:28:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 6762
+When Traced: 2023-09-14 08:10:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 5 Seamill Gardens, Burntisland, KY3 0DE
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 86339
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2023-10-07 08:10:00
+Date Reported Missing: 2023-10-07 08:10:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3770
+When Traced: 2023-10-09 23:00:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 71 King's Crescent, Rosyth, KY11 2RT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 15579
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2023-12-11 23:00:00
+Date Reported Missing: 2023-12-12 16:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 1332
+When Traced: 2023-12-12 21:12:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 137 Park Road West, Rosyth, KY11 2TL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 29618
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2024-02-18 21:12:00
+Date Reported Missing: 2024-02-19 21:12:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8548
+When Traced: 2024-02-24 19:40:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 137 Park Road West, Rosyth, KY11 2TL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 82008
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2024-03-15 19:40:00
+Date Reported Missing: 2024-03-16 06:40:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1031
+When Traced: 2024-03-16 12:51:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 137 Park Road West, Rosyth, KY11 2TL
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 1372
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2024-04-03 12:51:00
+Date Reported Missing: 2024-04-04 07:51:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5543
+When Traced: 2024-04-07 09:14:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 5 Seamill Gardens, Burntisland, KY3 0DE
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 92525
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2024-09-22 09:14:00
+Date Reported Missing: 2024-09-23 04:14:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2835
+When Traced: 2024-09-24 08:29:00
+Missing From Address: Hawkcraig Road, Aberdour, KY3 0TZ (fitness center)
+Traced at Address: 3 Dove Street, Cellardyke, KY10 3AN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 95489
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2024-12-07 08:29:00
+Date Reported Missing: 2024-12-08 00:29:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5520
+When Traced: 2024-12-11 04:29:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 6-9 West Green, Crail, KY10 3RD
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 17123
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2024-12-17 04:29:00
+Date Reported Missing: 2024-12-17 16:29:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4489
+When Traced: 2024-12-20 07:18:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 6-9 West Green, Crail, KY10 3RD
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 26509
+Name: Iain Kennedy
+Date of Birth: 1972-10-27
+Sex: Male
+Place of Birth: Doncaster
+Occupation: Buyer, retail
+Missing Since: 2025-03-14 07:18:00
+Date Reported Missing: 2025-03-14 07:18:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6593
+When Traced: 2025-03-18 21:11:00
+Missing From Address: Limekilns Road, Dunfermline, KY12 7XA (Home)
+Traced at Address: 137 Park Road West, Rosyth, KY11 2TL
+Traced by: Traced by Police
+

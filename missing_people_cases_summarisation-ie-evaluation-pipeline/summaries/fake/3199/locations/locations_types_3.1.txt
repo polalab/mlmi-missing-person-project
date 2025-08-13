@@ -1,0 +1,7 @@
+3901,"63-65 Truce Road, Glasgow","Residential/Foster Home","Known for his interest in survivalist activities and a tendency to seek solitude, Colin was last seen after finishing a meal with a friend at a local restaurant, perhaps preparing for his seasonal work role on a cruise ship","Solitude Seeking"
+3901,"Belsyde Avenue","Residential/Residential Area","Authorities began searching for Colin, eventually tracing him to Belsyde Avenue","Solitude Seeking"
+5232,"Colleagues' residence","Residential/Residential Area","On one occasion, he was heard discussing a visit to an amusement park and planning a meal at a popular restaurant","Impulsive/Crisis Location"
+5232,"Amusement Park","Public/Recreational Area","Colin was found safe by a member of the public at a different address, miles from where he was last seen","Impulsive/Crisis Location"
+5232,"Colleagues' residence","Residential/Residential Area","Colin would often spend weekends with colleagues exploring unknown territories","Solitude Seeking"
+5232,"Different address","Residential/Residential Area","Colin was found safe by a member of the public at a different address, miles from where he was last seen","Solitude Seeking"
+101556,"Amusement Park","Public/Recreational Area","Colin was found wandering alone in an amusement park, appearing disoriented","Impulsive/Crisis Location"

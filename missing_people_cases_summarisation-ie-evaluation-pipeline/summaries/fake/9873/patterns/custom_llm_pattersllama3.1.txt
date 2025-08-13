@@ -1,0 +1,5 @@
+Disappearance during Inclement Weather, [31030, 1426, 57022, 42473]  
+Disappearance related to Boating Activities, [77584, 1426, 57022, 42473]  
+Disappearance from a Group or Social Setting, [31030, 1426, 57022]  
+Disappearance during or after a Social Outing, [31030, 1426, 57022]  
+Disappearance in a Rural or Coastal Area, [31030, 1426, 57022, 42473]

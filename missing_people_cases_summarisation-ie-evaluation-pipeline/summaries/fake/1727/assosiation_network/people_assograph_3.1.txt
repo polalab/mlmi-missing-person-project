@@ -1,0 +1,25 @@
+Lucy Richardson,Lucy Richardson,self,72545
+Lucy Richardson,brother,brother,72545
+Lucy Richardson,brother,brother,67549
+Lucy Richardson,aunt,aunt,67549
+Lucy Richardson,friend,friend,67549
+Lucy Richardson,aunt,aunt,91908
+Lucy Richardson,friend,friend,91908
+Lucy Richardson,colleague,friend,91908
+Lucy Richardson,sister,sister,37561
+Lucy Richardson,sister,sister,34816
+Lucy Richardson,mother,mother,34816
+Lucy Richardson,brother,brother,34816
+Lucy Richardson,brother,brother,16757
+Lucy Richardson,brother,brother,91785
+Lucy Richardson,aunt,aunt,91785
+Lucy Richardson,friend,friend,91785
+Lucy Richardson,aunt,aunt,69486
+Lucy Richardson,aunt,aunt,20643
+Lucy Richardson,colleague,colleague,20643
+Lucy Richardson,sister,sister,24766
+Lucy Richardson,sister,sister,100427
+Lucy Richardson,brother,brother,100428
+Lucy Richardson,self,self,100429
+Lucy Richardson,self,self,100430
+Lucy Richardson,self,self,100435

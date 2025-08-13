@@ -1,0 +1,5 @@
+Disappearance near a border area, [21788, 22549, 68609, 100815]  
+Disappearance near a location with personal significance, [6934, 68495]  
+Disappearance from a location with a history of previous disappearances, [11260, 66239, 29234, 8109]  
+Disappearance from a location with a history of unexplained absences, [21788, 66239]  
+Disappearance from a location with a history of reported concerns, [28853, 68495]

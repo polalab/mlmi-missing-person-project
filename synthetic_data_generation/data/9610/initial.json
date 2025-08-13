@@ -1,0 +1,60 @@
+{
+    "forenames": "Samuel",
+    "surname": "Bishop",
+    "maidenname": "",
+    "nickname": "MidnightBlue",
+    "misperid": 9610,
+    "nominalid": 9527,
+    "sex": "Male",
+    "date_of_birth": "1961-12-28",
+    "age": 63,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "Asian Indian",
+    "person_language": "English",
+    "place_of_birth": "Chester",
+    "disability_status": "Yes (please specify)",
+    "disability_desc": "Other",
+    "occupation": "Pharmacist, hospital",
+    "reports_starting_from": "2021-09-14",
+    "addresses": [
+        {
+            "address": "Chapel Level, Kirkcaldy, KY2 6HF",
+            "type": "Home"
+        },
+        {
+            "address": "16 Albert Street, Rosyth, KY11 2SA",
+            "type": "gym"
+        },
+        {
+            "address": "6-9 West Green, Crail, KY10 3RD",
+            "type": "regular bar"
+        },
+        {
+            "address": "8 Bowling Green Place, Crail, KY10 3TG",
+            "type": "sports league"
+        },
+        {
+            "address": "23 Haddow Grove, Burntisland, KY3 0DA",
+            "type": "coffee shop"
+        }
+    ],
+    "traced_locations": [
+        "28 Fairykirk Road, Rosyth, KY11 2QQ",
+        "1 Burnside Gardens, Burntisland, KY3 0DP",
+        "1 Camdean Crescent, Rosyth, KY11 2TJ",
+        "Abbey Park Avenue, St Andrews, KY16 9LQ",
+        "9 Lowry Place, Rosyth, KY11 2PR",
+        "10 Inch View, Kinghorn, KY3 9SH",
+        "3 Russell Grove, Burntisland, KY3 9HL",
+        "41 West Leven Street, Burntisland, KY3 9DZ",
+        "1 Findlay Crescent, Rosyth, KY11 2RE",
+        "8 Bowling Green Place, Crail, KY10 3TG"
+    ],
+    "people_reporting": [
+        "Frank Wood",
+        "Keith Fletcher",
+        "Michael Miah",
+        "Danny Bishop"
+    ]
+}

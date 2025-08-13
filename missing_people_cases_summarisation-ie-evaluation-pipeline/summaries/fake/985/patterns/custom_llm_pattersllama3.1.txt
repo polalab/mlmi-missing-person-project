@@ -1,0 +1,5 @@
+Disappearance during a storm or extreme weather, [30845, 13565]  
+Disappearance linked to a domestic violence-related situation, [70240, 39314]  
+Disappearance during a spiritual or religious pilgrimage, [14803, 16751, 80013, 57950]  
+Disappearance from a location with personal significance, [14803, 99982]  
+Disappearance from a location with potential for isolation or seclusion, [99982, 865, 58625]

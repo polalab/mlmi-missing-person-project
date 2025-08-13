@@ -1,0 +1,5 @@
+Erratic Behavior, [33977, 96421, 60465, 36126, 1060, 42178, 12106, 88065, 248, 34432]  
+Squatting Behavior, [96421, 1060, 34432, 61374, 100598]  
+Disoriented Ventures, [33977, 60465, 36126, 88065, 248]  
+Unstable Living Conditions, [61374, 100591, 100593, 100596]  
+Rooftop Encounters, [96421, 60465, 36126, 42178, 88065, 100593]

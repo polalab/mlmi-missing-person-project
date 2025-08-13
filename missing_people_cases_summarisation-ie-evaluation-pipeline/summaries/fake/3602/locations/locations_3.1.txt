@@ -1,0 +1,37 @@
+Hall Road, Rhu, 54671
+55 Diana Avenue, Glasgow, G13 3JW, 54671
+library, 54671
+Hall Road, Rhu, 65349
+Rampart Avenue, Glasgow, 65349
+Stirling Road, Dumbarton, 65349
+Belsyde Avenue, Glasgow, 65349
+Castlecary Road, 65349
+Diana Avenue, Glasgow, 65349
+Hall Road, Rhu, 56245
+Belsyde Avenue, Glasgow, 56245
+school, 41377
+Belsyde Avenue, Glasgow, G15 6AR, 41377
+pharmacy, 41377
+Castlecary Road, G68 0HD, 41377
+55 Diana Avenue, Glasgow, G13 3JW, 41377
+Stirling Road, Dumbarton, 8828
+21 Rampart Avenue, Glasgow, 8828
+Hall Road, Rhu, 49905
+school, 49905
+Helensburgh, 49905
+Stirling Road, Dumbarton, G82 3RG, 24577
+school, 24577
+21 Rampart Avenue, Glasgow, G13 3HT, 24577
+Turret Crescent, G13 2HG, 87912
+Diana Avenue, Glasgow, G13 3JW, 55049
+Castlecary Road, G68 0HD, 55049
+Hall Road, Rhu, 94237
+Milngavie Road, Glasgow, 94237
+Stirling Road, Dumbarton, 94237
+Cardross Road, 94237
+rest area, 100786
+stairwell, 100782
+rest area, 100786
+border, 100786
+bus route, 100789
+attic, 100789

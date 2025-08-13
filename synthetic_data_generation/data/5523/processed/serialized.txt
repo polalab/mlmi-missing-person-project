@@ -1,0 +1,80 @@
+Disappearance Record:
+Report number: 90824
+Name: Elliott Williams
+Date of Birth: 1933-11-24
+Sex: Male
+Place of Birth: Bangor
+Occupation: Retired Health visitor
+Missing Since: 2025-01-26 00:00:00
+Date Reported Missing: 2025-01-26 00:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 9573
+When Traced: 2025-02-01 15:33:00
+Missing From Address: 90 Haymarket Terrace, Edinburgh, EH12 5LQ (Home)
+Traced at Address: 61 Old Abbey Road,  EH39 4BP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 26181
+Name: Elliott Williams
+Date of Birth: 1933-11-24
+Sex: Male
+Place of Birth: Bangor
+Occupation: Retired Health visitor
+Missing Since: 2025-03-17 15:33:00
+Date Reported Missing: 2025-03-18 13:33:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 6553
+When Traced: 2025-03-22 04:46:00
+Missing From Address: 90 Haymarket Terrace, Edinburgh, EH12 5LQ (Home)
+Traced at Address: 36 Simpson Loan, Edinburgh, EH3 9GG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 23218
+Name: Elliott Williams
+Date of Birth: 1933-11-24
+Sex: Male
+Place of Birth: Bangor
+Occupation: Retired Health visitor
+Missing Since: 2025-04-01 04:46:00
+Date Reported Missing: 2025-04-01 04:46:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8740
+When Traced: 2025-04-07 06:26:00
+Missing From Address: 90 Haymarket Terrace, Edinburgh, EH12 5LQ (Home)
+Traced at Address: 3 Renaissance View,  EH39 5HL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 91332
+Name: Elliott Williams
+Date of Birth: 1933-11-24
+Sex: Male
+Place of Birth: Bangor
+Occupation: Retired Health visitor
+Missing Since: 2025-05-02 06:26:00
+Date Reported Missing: 2025-05-02 20:26:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1640
+When Traced: 2025-05-03 09:46:00
+Missing From Address: 90 Haymarket Terrace, Edinburgh, EH12 5LQ (Home)
+Traced at Address: 90 Haymarket Terrace, Edinburgh, EH12 5LQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 98604
+Name: Elliott Williams
+Date of Birth: 1933-11-24
+Sex: Male
+Place of Birth: Bangor
+Occupation: Retired Health visitor
+Missing Since: 2025-06-02 09:46:00
+Date Reported Missing: 2025-06-02 09:46:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3854
+When Traced: 2025-06-05 02:00:00
+Missing From Address: 90 Haymarket Terrace, Edinburgh, EH12 5LQ (Home)
+Traced at Address: 61 Old Abbey Road,  EH39 4BP
+Traced by: Traced by Police
+

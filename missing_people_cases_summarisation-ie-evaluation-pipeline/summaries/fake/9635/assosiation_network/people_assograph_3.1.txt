@@ -1,0 +1,41 @@
+Dean Murray,Mathew Cox,colleague,100310
+Dean Murray,Christine Williams,friend,58737
+Dean Murray,Heather Morgan,colleague,58737
+Dean Murray,Stephen,colleague,63739
+Dean Murray,Sara Wilkinson,romantic interest,77143
+Dean Murray,foster father,family member,89270
+Dean Murray,foster father,family member,77143
+Dean Murray,friend,friend,77143
+Dean Murray,friend,friend,89270
+Dean Murray,Mathew Cox,colleague,77143
+Dean Murray,Mathew Cox,colleague,89270
+Dean Murray,Christine Williams,friend,77143
+Dean Murray,Christine Williams,friend,89270
+Dean Murray,Heather Morgan,colleague,89270
+Dean Murray,Heather Morgan,colleague,77143
+Dean Murray,Stephen,colleague,89270
+Dean Murray,Stephen,colleague,77143
+Dean Murray,Sara Wilkinson,romantic interest,89270
+Dean Murray,Sara Wilkinson,romantic interest,63739
+Dean Murray,Sara Wilkinson,romantic interest,58737
+Dean Murray,foster father,family member,63739
+Dean Murray,foster father,family member,58737
+Dean Murray,friend,friend,63739
+Dean Murray,friend,friend,58737
+Dean Murray,Mathew Cox,colleague,63739
+Dean Murray,Mathew Cox,colleague,58737
+Dean Murray,Christine Williams,friend,63739
+Dean Murray,Christine Williams,friend,58737
+Dean Murray,Heather Morgan,colleague,63739
+Dean Murray,Heather Morgan,colleague,58737
+Dean Murray,Stephen,colleague,63739
+Dean Murray,Stephen,colleague,58737
+Dean Murray,Sara Wilkinson,romantic interest,63739
+Dean Murray,Sara Wilkinson,romantic interest,58737
+Dean Murray,foster father,family member,100309
+Dean Murray,friend,friend,100309
+Dean Murray,Mathew Cox,colleague,100309
+Dean Murray,Christine Williams,friend,100309
+Dean Murray,Heather Morgan,colleague,100309
+Dean Murray,Stephen,colleague,100309
+Dean Murray,Sara Wilkinson,romantic interest,100309

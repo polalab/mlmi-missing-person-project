@@ -1,0 +1,5 @@
+Disappearance via Unintentional Detour, [60112, 28680]  
+Disappearance via Solitude Seeking, [91883, 77313]  
+Disappearance via Confusion or Disorientation, [48839, 102452]  
+Disappearance via Abandonment of Vehicle, [77313, 48839]  
+Disappearance via Unplanned Exploration, [55475, 69225]

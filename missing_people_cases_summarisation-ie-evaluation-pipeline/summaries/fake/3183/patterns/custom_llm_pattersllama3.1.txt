@@ -1,0 +1,5 @@
+Disappearance near a tunnel, [43347, 89416, 12036, 20638, 9636, 37311, 21304, 28937, 82117]  
+Disappearance after a hiking trip, [43347, 89416, 12036, 88673, 89330, 96220, 9080, 28937]  
+Disappearance from a resort, [43152, 89416, 96220, 43228, 9636, 21304]  
+Disappearance due to suicidal ideation, [43347, 43152, 89416, 12036, 88673, 9080, 37311, 82117]  
+Disappearance after visiting an aunt, [88673, 21304, 1595]

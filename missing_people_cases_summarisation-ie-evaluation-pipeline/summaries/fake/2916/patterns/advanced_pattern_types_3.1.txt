@@ -1,0 +1,12 @@
+13970,"MP was last seen at a location where she had a brief meeting with a family member",brief_meeting_pattern,"Sarah Field was last seen at a roadhouse located on 16 Cleghorn Street, Dundee, where she met briefly with her aunt for an early breakfast."
+13970,"MP's disappearance occurred after a planned event that she failed to attend",failed_to_attend_event_pattern,"Family members, including her uncle William Field, reported her missing when attempts to contact her went unanswered."
+13970,"Investigation focused on the last confirmed sighting",last_sighting_focused_investigation_pattern,"Investigators focused on the last confirmed sighting at the roadhouse and traced her travel history through the area."
+13970,"Search expanded to nearby locations",expanded_search_pattern,"The search expanded to include nearby locales such as the restaurant on 19 Dalgleish Street, Tayport,"
+
+22623,"MP attempted to harm themselves",self_harm_attempt_pattern,"MP attempted to make noose round her neck and hang from same however was quickly assisted."
+22623,"MP's disappearance occurred after a period of isolation",isolated_before_disappearance_pattern,"MP was last seen in her room, and her family reported that she had been isolating herself for several days before her disappearance."
+22623,"MP's disappearance was reported by a family member",family_member_reported_disappearance_pattern,"MP's mother reported her missing when she failed to answer phone calls and messages."
+
+34567,"MP's disappearance occurred after a conflict with a family member",conflict_before_disappearance_pattern,"MP's sister reported that they had a fight the night before MP's disappearance."
+34567,"MP's disappearance was reported by a third party",third_party_reported_disappearance_pattern,"MP's neighbor reported her missing when she failed to answer the door and her car was still parked outside."
+34567,"MP's disappearance occurred after a period of unusual behavior",unusual_behavior_before_disappearance_pattern,"MP's family reported that she had been acting strangely in the days leading up to her disappearance, including making irrational decisions and becoming increasingly withdrawn."

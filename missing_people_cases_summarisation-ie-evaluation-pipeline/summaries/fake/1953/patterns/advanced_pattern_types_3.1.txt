@@ -1,0 +1,6 @@
+43910,"Helen had spoken of disappearing and hinted at a possible boating incident",self_harm_threat_pattern,"Helen had spoken of disappearing to close friends and hinted at a possible boating incident."
+43910,"Helen's car was found parked outside a doctor's office",abandonment_pattern,"Helen’s car was later found parked outside a doctor's office on Beltie Road, AB31 4JT,"
+43910,"Helen was found safe after a thorough police investigation",false_alarm_pattern,"Eventually, a thorough investigation by police led to her safe recovery."
+102102,"Helen has gone missing from her cabin",sudden_disappearance_pattern,"Helen has gone missing from her cabin."
+102103,"Helen may have been involved in a possible boating incident",self_harm_threat_pattern,"Helen may have been involved in a possible boating incident."
+102103,"Helen's disappearance was reported after a scheduled meeting",abandonment_pattern,"Stewart Martin, a known acquaintance, reported her missing after failing to find her at a scheduled meeting at the grocery store."

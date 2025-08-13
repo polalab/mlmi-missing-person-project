@@ -1,0 +1,5 @@
+Disorientation in Familiar Environments, [20927, 2726, 29303, 78551, 28695]  
+Disorientation in Unfamiliar Environments, [21215, 62540, 52107, 7576, 95193]  
+Involvement with Cult-like Groups, [90508, 24235, 31261, 86364, 27006]  
+Use of Tunnels and Ferries, [20927, 66929, 21215, 2726, 52107]  
+Abandonment of Routine, [66929, 62540, 57897, 82912, 92247]

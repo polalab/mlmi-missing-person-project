@@ -1,0 +1,48 @@
+Disappearance Record:
+Report number: 46118
+Name: Iain Taylor
+Date of Birth: 2011-03-31
+Sex: Male
+Place of Birth: Carlisle
+Occupation: 
+Missing Since: 2025-04-18 00:00:00
+Date Reported Missing: 2025-04-18 23:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6875
+When Traced: 2025-04-22 18:35:00
+Missing From Address: 10 East Cathcart Street,  AB56 1PJ (Home)
+Traced at Address: Golden Knowes Road, Aberdeenshire, AB45 2JE
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 65528
+Name: Iain Taylor
+Date of Birth: 2011-03-31
+Sex: Male
+Place of Birth: Carlisle
+Occupation: 
+Missing Since: 2025-05-10 18:35:00
+Date Reported Missing: 2025-05-11 06:35:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7274
+When Traced: 2025-05-15 19:49:00
+Missing From Address: 10 East Cathcart Street,  AB56 1PJ (Home)
+Traced at Address: Inchmarlo Road, Banchory, AB31 4AB
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 77267
+Name: Iain Taylor
+Date of Birth: 2011-03-31
+Sex: Male
+Place of Birth: Carlisle
+Occupation: 
+Missing Since: 2025-06-17 19:49:00
+Date Reported Missing: 2025-06-17 23:49:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7630
+When Traced: 2025-06-23 02:59:00
+Missing From Address: 10 East Cathcart Street,  AB56 1PJ (Home)
+Traced at Address: 14 East Park, Inchmarlo, AB31 4GB
+Traced by: Traced by Police
+

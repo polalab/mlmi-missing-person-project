@@ -1,0 +1,16 @@
+21193,11 Woodhall Bank, Edinburgh,Residential Area,"In a moment of distress, Peter may have ventured towards a secluded forested area nearby, often visited by locals for spiritual gatherings.",Isolation Seeking
+21193,Clovenstone Park,Public Park,"His absence was deeply concerning, prompting his uncle and other family members to search diligently. Peter was eventually traced by staff to Clovenstone Park, where he had taken refuge, seeking peace and clarity away from the stressors at home.",Impulsive/Crisis Location
+26604,20 Torphin Road, Edinburgh,Shopping Area,"Following the recent loss of his parent's job and the chronic stress caused by his cousin's long-term illness, Peter had reportedly been exploring various locations linked to a small group gathering.",Group Gathering Location
+26604,150 Commercial Street, Edinburgh,Secluded Spot,"Known for their mysterious practices, this collective often met at secluded spots, such as a site at 150 Commercial Street, Edinburgh, EH6 6LB.",Group Gathering Location
+26604,22 Fernbank, Livingston,Residential Area,"Peter was found safely by staff at 22 Fernbank, Livingston, EH54 6DT, having been staying with Teresa Thomas, a family friend who helped him during this stressful period.",Support Network Location
+25041,5 Drysdale Road,Residential Area,"Peter Davies was last seen leaving 5 Drysdale Road to visit a library near 2 Glass Crescent, Winchburgh.",Transition Location
+25041,2 Glass Crescent, Winchburgh,Library,"He reportedly mentioned plans to explore a forest area nearby with his uncles.",Transition Location
+63086,166 Fountainbridge, Edinburgh,Tutoring Center,"Dealing with job loss stress in the family and his own chronic illness stress, he may have sought solace in isolation.",Isolation Seeking
+63086,Old Forest,Secluded Area,"His grandmother indicated that Peter sometimes visited an old forest near a rumored cult location for peace, suggesting possible reasons for his disappearance.",Isolation Seeking
+20567,Summer Camp,Lake Area,"His grandmother reported him missing after he didn't return from a hike.",Transition Location
+83385,Houston Mains, Livingston,Residential Area,"He was last seen near Houston Mains, Livingston, surrounded by woods and mountainous terrain.",Transition Location
+83385,Mountainous Forest Area,Wilderness,"His grandmother, Annette Bailey, raised concerns when Peter failed to return after heading towards the mountainous forest area.",Isolation Seeking
+75261,Parkgrove Ave, Edinburgh,Residential Area,"Peter was found at his uncle's house on Parkgrove Ave, Edinburgh after being missing from home for days.",Support Network Location
+102378,Basement,Residential Area,"Peter, experiencing stress after his father's job loss, retreated to the basement for solitude.",Isolation Seeking
+102378,Mountain,Wilderness,"Seeking solace in hiking, he frequently visits the nearby mountain, finding peace while coping with family stressors.",Isolation Seeking
+102379,Residential Area,Residential Area,"Peter is struggling with job loss stress and has support from his uncle.",Support Network Location

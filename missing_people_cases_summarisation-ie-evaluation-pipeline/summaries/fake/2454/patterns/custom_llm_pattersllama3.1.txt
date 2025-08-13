@@ -1,0 +1,5 @@
+Disappearance from Familiar Routes, [88147, 42761, 29137]  
+Disappearance from Domestic Violence-Related Areas, [88147, 65259, 101026, 101027, 101029]  
+Disappearance from Home, [88147, 3018, 20858, 18750]  
+Disappearance after Contacting a Stranger, [18750, 101013, 101022, 101026, 101027, 101029]  
+Disappearance due to Disorientation, [42761, 20858, 13458, 19802, 29137]

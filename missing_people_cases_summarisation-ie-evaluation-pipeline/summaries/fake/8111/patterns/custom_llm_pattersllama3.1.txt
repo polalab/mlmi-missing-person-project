@@ -1,0 +1,5 @@
+Disappearance by Ferry Boarding, [37684, 39323, 92688, 13397, 75046, 2834, 56530]  
+Disappearance from a National Park, [28959, 85674, 19075, 24424, 888, 25815]  
+Disappearance from a Familiar Location, [21124, 44629, 19075, 24424, 2834, 888]  
+Disappearance with Involvement in Minor Criminal Activity, [39323, 92688, 44629, 13397, 56530, 100253]  
+Disappearance with Unusual Behavior, [21124, 92688, 19075, 24424, 888, 25815]

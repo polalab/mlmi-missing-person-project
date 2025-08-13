@@ -1,0 +1,80 @@
+Disappearance Record:
+Report number: 63352
+Name: Aaron Moran
+Date of Birth: 2015-05-10
+Sex: Male
+Place of Birth: Wakefield
+Occupation: 
+Missing Since: 2024-05-22 00:00:00
+Date Reported Missing: 2024-05-22 20:00:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7588
+When Traced: 2024-05-27 06:28:00
+Missing From Address: Craigour Road, Torphins, AB31 4UE (Home)
+Traced at Address: Beltie Road,  AB31 4JT
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 31040
+Name: Aaron Moran
+Date of Birth: 2015-05-10
+Sex: Male
+Place of Birth: Wakefield
+Occupation: 
+Missing Since: 2024-09-29 06:28:00
+Date Reported Missing: 2024-09-29 16:28:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5424
+When Traced: 2024-10-03 00:52:00
+Missing From Address: Craigour Road, Torphins, AB31 4UE (Home)
+Traced at Address: North Road, Insch, AB52 6XP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 99854
+Name: Aaron Moran
+Date of Birth: 2015-05-10
+Sex: Male
+Place of Birth: Wakefield
+Occupation: 
+Missing Since: 2024-12-28 00:52:00
+Date Reported Missing: 2024-12-29 06:52:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4725
+When Traced: 2024-12-31 07:37:00
+Missing From Address: Craigour Road, Torphins, AB31 4UE (Home)
+Traced at Address: Craigour Road, Torphins, AB31 4UE
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 55588
+Name: Aaron Moran
+Date of Birth: 2015-05-10
+Sex: Male
+Place of Birth: Wakefield
+Occupation: 
+Missing Since: 2025-02-06 07:37:00
+Date Reported Missing: 2025-02-06 12:37:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4956
+When Traced: 2025-02-09 18:13:00
+Missing From Address: Craigour Road, Torphins, AB31 4UE (Home)
+Traced at Address: Beltie Road,  AB31 4JT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 8338
+Name: Aaron Moran
+Date of Birth: 2015-05-10
+Sex: Male
+Place of Birth: Wakefield
+Occupation: 
+Missing Since: 2025-07-08 18:13:00
+Date Reported Missing: 2025-07-08 18:13:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2814
+When Traced: 2025-07-10 17:07:00
+Missing From Address: Craigour Road, Torphins, AB31 4UE (Home)
+Traced at Address: 10 East Cathcart Street,  AB56 1PJ
+Traced by: Traced by staff
+

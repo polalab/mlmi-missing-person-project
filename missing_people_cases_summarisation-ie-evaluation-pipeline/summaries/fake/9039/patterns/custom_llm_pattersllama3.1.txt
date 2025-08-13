@@ -1,0 +1,5 @@
+Disappearance via Unfamiliar Terrain, [49426, 25099, 32954, 86021, 29433]  
+Disappearance via Escalator or Vehicle, [49426, 96560, 47966, 93973, 53485]  
+Disappearance via Hiking Trail, [247, 32954, 96459, 25099, 87889, 58266, 68259, 38511, 21810, 8772, 65422]  
+Disappearance via Warehouse or Unfamiliar Location, [49426, 32954, 96459, 86021, 93973, 87889, 58266, 68259, 38511, 29433]  
+Disappearance via Nighttime Departure, [91789, 43523, 86021, 93973, 10726]

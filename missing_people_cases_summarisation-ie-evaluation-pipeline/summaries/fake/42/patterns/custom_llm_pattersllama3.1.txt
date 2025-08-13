@@ -1,0 +1,5 @@
+Disappearance during or after a planned activity, [22703, 31244]  
+Disappearance near a location of interest, [22703, 31244]  
+Disappearance in a group setting, [31244]  
+Disappearance in a location with outdoor recreational activities, [31244]  
+Disappearance in a location with residential or domestic settings, [22703, 101113]

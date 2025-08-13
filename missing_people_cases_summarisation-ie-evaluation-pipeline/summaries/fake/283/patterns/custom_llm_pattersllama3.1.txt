@@ -1,0 +1,5 @@
+Disappearance from Familiar Locations, [92306, 18677, 49986, 68041, 57968]  
+Disappearance from Public Places, [77334, 47106, 40139, 92060, 10541]  
+Disappearance from Home, [49986, 68041, 57968, 2174, 101607]  
+Disappearance from Work or School, [10541, 24573, 20882, 2174, 101608]  
+Disappearance from Areas of Interest, [92306, 68041, 57968, 40139, 24573]

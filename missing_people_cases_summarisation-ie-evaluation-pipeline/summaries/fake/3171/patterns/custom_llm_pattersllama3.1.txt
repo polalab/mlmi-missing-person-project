@@ -1,0 +1,5 @@
+Disappearance via Unsupervised Travel, [35589, 67223, 19015, 75977, 28551]  
+Disappearance from a Public Place, [79048, 2991, 11961]  
+Disappearance from a Familiar Location, [35589, 67223, 19015, 56904]  
+Disappearance with a Known Associate, [35589, 67223, 79048, 11248]  
+Disappearance with Suspicious Circumstances, [79048, 2991, 11961, 56904, 102494]

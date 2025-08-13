@@ -1,0 +1,6 @@
+elevator
+rehab center
+fishing area
+train
+cruise ship
+forest

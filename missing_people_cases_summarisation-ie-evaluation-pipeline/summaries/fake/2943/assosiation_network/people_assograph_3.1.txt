@@ -1,0 +1,11 @@
+Gemma Hodgson,father,other,26855
+Gemma Hodgson,friends,other,26855
+Gemma Hodgson,family member,other,26855
+Gemma Hodgson,roommate,other,26855
+Gemma Hodgson,sister,other,89910
+Gemma Hodgson,friends,other,89910
+Gemma Hodgson,family member,other,89910
+Gemma Hodgson,other,other,89910
+Gemma Hodgson,aunt,other,66707
+Gemma Hodgson,aunt,other,101936
+Gemma Hodgson,aunt,other,101936

@@ -1,0 +1,6 @@
+elevator
+travel-related
+construction site
+military base
+bridge
+parking lot

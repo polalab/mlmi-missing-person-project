@@ -1,0 +1,5 @@
+storm drain
+shelter
+ocean
+travel-related
+train station

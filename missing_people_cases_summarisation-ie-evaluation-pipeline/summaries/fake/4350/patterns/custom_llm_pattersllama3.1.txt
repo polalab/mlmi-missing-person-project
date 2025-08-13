@@ -1,0 +1,5 @@
+Disappearance near water bodies, [68380, 94755, 6818, 22470]  
+Disappearance near storm drains, [68380, 2887, 84790, 98109]  
+Disappearance after an argument, [6284, 73109, 40032, 40791, 98109]  
+Disappearance after withdrawal from family or social activities, [63255, 39598, 55726, 13916, 101330]  
+Disappearance after visiting or planning to visit a grocery store, [68380, 38980, 50799, 40032, 40791, 98109]

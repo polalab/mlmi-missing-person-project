@@ -1,0 +1,12 @@
+Lorraine Smith,uncle,75267
+Lorraine Smith,friend,75267
+Lorraine Smith,uncle,75130
+Lorraine Smith,friend,75130
+Lorraine Smith,uncle,93930
+Lorraine Smith,friend,93930
+Lorraine Smith,uncle,26039
+Lorraine Smith,friend,26039
+Lorraine Smith,friend,7865
+Lorraine Smith,Tom Blackburn,friend,7865
+Lorraine Smith,Tracy,other,100052
+Lorraine Smith,grandmother,other,100057

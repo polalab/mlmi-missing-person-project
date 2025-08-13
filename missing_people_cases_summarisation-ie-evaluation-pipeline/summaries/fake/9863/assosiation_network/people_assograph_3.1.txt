@@ -1,0 +1,18 @@
+Aimee Whitehead,Aimee Whitehead's mother,other,36212
+Aimee Whitehead,Sophie Walker,friend,36212
+Aimee Whitehead,Anna Atkinson,other,36212
+Aimee Whitehead,Aimee Whitehead's foster mother,mother,25607
+Aimee Whitehead,Sophie Walker,friend,25607
+Aimee Whitehead,Philip Hunt,friend,5889
+Aimee Whitehead,Aimee Whitehead's foster guardian,other,71056
+Aimee Whitehead,Katie Newton,other,71056
+Aimee Whitehead,Philip Hunt,friend,54830
+Aimee Whitehead,Aimee Whitehead's foster mother,mother,54830
+Aimee Whitehead,Aimee Whitehead's foster mother,mother,5326
+Aimee Whitehead,Philip Hunt,friend,5326
+Aimee Whitehead,Aimee Whitehead's foster mother,mother,67741
+Aimee Whitehead,Aimee Whitehead's colleague,other,67741
+Aimee Whitehead,Aimee Whitehead's foster guardian,other,65091
+Aimee Whitehead,Yvonne Patel,other,101467
+Aimee Whitehead,Aimee Whitehead's colleague,other,101470
+Aimee Whitehead,Aimee Whitehead's colleague,other,101472

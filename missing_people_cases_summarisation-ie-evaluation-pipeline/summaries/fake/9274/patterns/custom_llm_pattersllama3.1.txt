@@ -1,0 +1,5 @@
+Disconnection of Utilities, [78568, 82842, 7115, 30463, 52245, 55710, 101055, 101056, 101059]  
+Seeking Solitude, [78568, 82842, 7115, 30463, 52245, 55710, 95058, 101057, 101062]  
+Planning to Sleep Rough, [82842, 7115, 30463, 52245, 55710, 95058, 101060]  
+Unplanned Departure, [7115, 60558, 52245, 55710]  
+Anxious or Apprehensive Behavior, [60558, 101058]

@@ -1,0 +1,5 @@
+Disappearance by Unplanned Exploration, [51588, 6277, 28438, 80408, 22131]  
+Disorientation at Public Places, [24789, 18955, 48306, 57927, 83351]  
+Disappearance from Cruise Ships, [66670, 21265, 51849, 22131, 48306]  
+Disappearance from Known Frequented Places, [7723, 18368, 57927, 40772, 77394]  
+Disappearance due to Confusion or Medical Condition, [77394, 93099, 4070, 82974, 30737]

@@ -1,0 +1,6 @@
+Stanley Hawkins,foster mother,foster mother,94751
+Stanley Hawkins,colleague,friend,94751
+Stanley Hawkins,colleague,other,101905
+Stanley Hawkins,friend,friend,82267
+Stanley Hawkins,friend,other,5591
+Stanley Hawkins,friend,other,101905

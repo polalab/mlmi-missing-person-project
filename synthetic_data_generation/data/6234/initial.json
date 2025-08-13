@@ -1,0 +1,90 @@
+{
+    "forenames": "Clive",
+    "surname": "Roberts",
+    "maidenname": "",
+    "nickname": "",
+    "misperid": 6234,
+    "nominalid": 201,
+    "sex": "Male",
+    "date_of_birth": "1979-01-09",
+    "age": 46,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "White English",
+    "person_language": "English",
+    "place_of_birth": "Truro",
+    "disability_status": "Not Known",
+    "disability_desc": "",
+    "occupation": "Therapist, sports",
+    "reports_starting_from": "2020-07-12",
+    "addresses": [
+        {
+            "address": "Unit 3 Fowler Road, Dundee, DD5 3RU",
+            "type": "Home"
+        },
+        {
+            "address": "484 Perth Road, Dundee, DD2 1LR",
+            "type": "church"
+        },
+        {
+            "address": "135 Rosebank Street, Dundee, DD3 6PP",
+            "type": "synagogue"
+        },
+        {
+            "address": "Discovery Quay, Dundee, DD1 4XA",
+            "type": "book club"
+        },
+        {
+            "address": "Auldbar Road, Forfar, DD8 2PD",
+            "type": "regular bar"
+        },
+        {
+            "address": "33 Blackness Avenue, Dundee, DD2 1EY",
+            "type": "grocery store"
+        },
+        {
+            "address": "10 Ancrum Road, Dundee, DD2 2HZ",
+            "type": "dog park"
+        },
+        {
+            "address": "Minto Place, Dundee, DD2 1BR",
+            "type": "book club"
+        },
+        {
+            "address": "Hyndford Street, Dundee, DD2 1HQ",
+            "type": "carpool group"
+        },
+        {
+            "address": "Derwent Avenue, Dundee, DD3 0AX",
+            "type": "volunteer organization"
+        },
+        {
+            "address": "Gray Den, Dundee, DD2 5LR",
+            "type": "mosque"
+        },
+        {
+            "address": "71 Lothian Crescent, Dundee, DD4 0HU",
+            "type": "book club"
+        },
+        {
+            "address": "150 Strathmartine Road, Dundee, DD3 7SE",
+            "type": "lunch meeting"
+        }
+    ],
+    "traced_locations": [
+        "Unit 3 Fowler Road, Dundee, DD5 3RU",
+        "484 Perth Road, Dundee, DD2 1LR",
+        "28A Dura Street, Dundee, DD4 6RX",
+        "146 Pitkerro Road, Dundee, DD4 8ER",
+        "Tayside Street, Carnoustie, DD7 6AX",
+        "Gray Den, Dundee, DD2 5LR",
+        "King's Cross Road,  DD2 3PT",
+        "150 Strathmartine Road, Dundee, DD3 7SE",
+        "1 Alloway Place, Dundee, DD4 8UA",
+        "Commerce Street, Brechin, DD9 7BD"
+    ],
+    "people_reporting": [
+        "Derek Clarke",
+        "Christopher Walker"
+    ]
+}

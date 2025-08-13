@@ -1,0 +1,5 @@
+hermit lifestyle exploration, [69435, 98468, 35195, 7873, 38608, 35379, 75244, 5825]  
+isolated locations, [20186, 8159, 36158, 70518, 73627, 95452, 68736, 35379]  
+sudden departures, [8159, 98468, 7873, 38608, 35379, 75244, 5825, 101559]  
+argument-related disappearances, [20186, 35195, 35379, 38608]  
+familiarity-seeking behavior, [70518, 35379, 5825]

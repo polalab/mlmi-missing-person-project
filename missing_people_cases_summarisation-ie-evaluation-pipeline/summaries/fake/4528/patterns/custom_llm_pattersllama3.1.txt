@@ -1,0 +1,5 @@
+Disappearance near or along borders, [13146, 68244, 68614]  
+Disappearance from or near home, [13146, 36176, 76393]  
+Disappearance after social engagements, [92457, 85560, 68614]  
+Disappearance after work or leisure activities, [85560, 68614]  
+Disappearance due to personal or financial issues, [76393, 85560]

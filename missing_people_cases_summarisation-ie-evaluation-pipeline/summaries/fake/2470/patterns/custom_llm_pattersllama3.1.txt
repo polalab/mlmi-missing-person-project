@@ -1,0 +1,5 @@
+Intentional Distance Seeking, [20066, 72178, 80012]  
+Urban Disappearance, [20066, 72178, 100083]  
+Disappearance from Familiar Locations, [20066, 72178, 80012]  
+Disappearance during Solo Activities, [72178, 80012, 100083]  
+Unplanned Absence from Routine, [80012, 100083]

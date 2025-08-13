@@ -1,0 +1,5 @@
+Disappearance via Unsupervised Exploration, [72922, 78086, 38937, 76056, 4936]  
+Disappearance via Wandering from a Designated Area, [48576, 86748]  
+Disappearance via Concealment of Location, [72922, 4936]  
+Disappearance via Camping in Isolated Areas, [78086, 38937, 76056, 4936]  
+Disappearance via Involvement in Suspicious Activity, [86748, 101174]

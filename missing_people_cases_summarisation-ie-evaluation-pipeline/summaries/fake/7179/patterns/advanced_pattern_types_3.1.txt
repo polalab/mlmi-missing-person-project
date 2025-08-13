@@ -1,0 +1,5 @@
+25693,"MP had spoken of disappearing, causing concern for her safety",self_harm_threat_pattern,"She had spoken of disappearing, causing concern for her safety."
+34100,"MP had previously expressed curiosity about the local cemetery",cemetery_inquiry_pattern,"MP had previously expressed curiosity about the local cemetery she saw while passing through the area."
+34100,"MP was last seen leaving her grandmother's house",sudden_departure_pattern,"Jodie Smith, known as MP in this report, was last seen leaving her grandmother's house on Lundy Gardens, Fort William, PH33 6PD,"
+34100,"MP was eventually located safe at a friend’s residence",safe_location_discovery_pattern,"After extensive searches and collaboration with friends and family, MP was eventually located safe at a friend’s residence on Caledonian Road, Perth, PH1 5XD."
+102469,"MP wandered alone in the cemetery afterwards",cemetery_visit_pattern,"Jodie was seen at Robin Green's, then wandered alone in the cemetery afterwards."

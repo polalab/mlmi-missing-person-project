@@ -1,0 +1,32 @@
+Disappearance Record:
+Report number: 64254
+Name: Alexandra Thomas
+Date of Birth: 1936-10-31
+Sex: F
+Place of Birth: Westminster
+Occupation: Retired Health visitor
+Missing Since: 2025-05-02 00:00:00
+Date Reported Missing: 2025-05-02 08:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2071
+When Traced: 2025-05-03 10:31:00
+Missing From Address: Main Raod,  G84 0AH (Home)
+Traced at Address: Belsyde Avenue, Glasgow, G15 6AR
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 99400
+Name: Alexandra Thomas
+Date of Birth: 1936-10-31
+Sex: F
+Place of Birth: Westminster
+Occupation: Retired Health visitor
+Missing Since: 2025-06-01 10:31:00
+Date Reported Missing: 2025-06-02 20:31:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8008
+When Traced: 2025-06-06 23:59:00
+Missing From Address: Main Raod,  G84 0AH (Home)
+Traced at Address: Balmuildy Road,  G64 3HD
+Traced by: Traced by Police
+

@@ -1,0 +1,5 @@
+Disappearance near ocean locations, [70993, 54535, 6330, 15769, 49190]  
+Disappearance after contacting a stranger, [15769, 5444, 14692, 67738, 51995]  
+Disappearance after being in touch with an unknown online group, [72944, 29964, 5444, 81020, 14692]  
+Disappearance from a familiar location, [70993, 6330, 51995, 81020, 34303]  
+Disappearance after leaving an abusive household, [72944, 81390, 51995, 14692, 67738]

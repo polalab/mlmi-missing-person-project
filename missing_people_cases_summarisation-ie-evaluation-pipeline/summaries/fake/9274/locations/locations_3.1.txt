@@ -1,0 +1,49 @@
+Turret Crescent, 78568
+Turret Crescent, G13 2HG, 82842
+Turret Crescent, G13 2HG, 30463
+Turret Crescent, 55710
+Turret Crescent, 60558
+Turret Crescent, 6077
+Turret Crescent, 101055
+Turret Crescent, 101056
+Turret Crescent, 101059
+school, 7115
+school, 52245
+Stirling Road, Dumbarton, 7115
+Stirling Road, Dumbarton, 60558
+Stirling Road, Dumbarton, 95058
+Stirling Road, Dumbarton, 6077
+Balmuildy Road, 78568
+swamp, 82842
+swamp, 12492
+youth center at the arena, 7115
+youth center at the arena, 60558
+youth center at 6 Bard Avenue, 60558
+85 Bassett Avenue, Glasgow, 7115
+85 Bassett Avenue, Glasgow, 58281
+85 Bassett Avenue, Glasgow, 52245
+85 Bassett Avenue, Glasgow, 60558
+Belsyde Avenue, G15 6AR, 12492
+Acre Drive, Glasgow, 58281
+Archerhill Road, 6077
+Hall Road, Rhu, 52245
+55 Diana Avenue, 55710
+224-226 Archerhill Road, 6077
+shopping center on Balmuildy Road, 78568
+shopping mall at 224-226 Archerhill Road, 6077
+shopping mall, 101050
+shopping mall, 101056
+shopping mall, 101059
+sports arena, 55710
+sports arena, 101059
+escalator at a shopping center, 78568
+friend’s house at 85 Bassett Avenue, 7115
+friend’s house, 101058
+friend’s house, 101062
+nearby swamp areas, 12492
+nearby neighborhood of 85 Bassett Avenue, 60558
+nearby sports arena, 55710
+nearby shopping mall, 101059
+nearby shopping mall, 101060
+nearby shopping mall, 101059
+nearby sports arena, 101059

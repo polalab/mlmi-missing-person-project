@@ -1,0 +1,64 @@
+Disappearance Record:
+Report number: 66092
+Name: Stephen Davidson
+Date of Birth: 1933-05-23
+Sex: Male
+Place of Birth: Leeds
+Occupation: Retired Chartered public finance accountant
+Missing Since: 2024-05-05 00:00:00
+Date Reported Missing: 2024-05-05 17:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3315
+When Traced: 2024-05-07 07:15:00
+Missing From Address: 85 Bassett Avenue, Glasgow, G13 3JP (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 36929
+Name: Stephen Davidson
+Date of Birth: 1933-05-23
+Sex: Male
+Place of Birth: Leeds
+Occupation: Retired Chartered public finance accountant
+Missing Since: 2024-09-06 07:15:00
+Date Reported Missing: 2024-09-06 20:15:00
+Day Reported Missing: Friday
+Length Missing (minutes): 3044
+When Traced: 2024-09-08 09:59:00
+Missing From Address: 85 Bassett Avenue, Glasgow, G13 3JP (Home)
+Traced at Address: 52a Sinclair Street, Helensburgh, G84 8TQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 56836
+Name: Stephen Davidson
+Date of Birth: 1933-05-23
+Sex: Male
+Place of Birth: Leeds
+Occupation: Retired Chartered public finance accountant
+Missing Since: 2025-01-27 09:59:00
+Date Reported Missing: 2025-01-28 08:59:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5422
+When Traced: 2025-01-31 04:21:00
+Missing From Address: 85 Bassett Avenue, Glasgow, G13 3JP (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 78281
+Name: Stephen Davidson
+Date of Birth: 1933-05-23
+Sex: Male
+Place of Birth: Leeds
+Occupation: Retired Chartered public finance accountant
+Missing Since: 2025-02-21 04:21:00
+Date Reported Missing: 2025-02-21 04:21:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2812
+When Traced: 2025-02-23 03:13:00
+Missing From Address: 85 Bassett Avenue, Glasgow, G13 3JP (Home)
+Traced at Address: Stirling Road, Dumbarton, G82 3RG
+Traced by: Traced by staff
+

@@ -1,0 +1,5 @@
+Disorientation due to Familiarity with Isolated Spaces, [1031, 48286, 47495, 38114, 85100]  
+Disorientation due to Exploration of Unfamiliar Spaces, [94075, 2628, 82582, 98155, 87439]  
+Disorientation due to Escaping Pressures, [26240, 46689, 56081, 91581, 100793]  
+Disorientation due to Mistaken Routes, [86385, 99636, 84733, 43788, 86215]  
+Disorientation due to Age-Related Conditions, [100790, 100791, 100794, 100792, 98155]

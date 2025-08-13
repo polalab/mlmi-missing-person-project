@@ -1,0 +1,4 @@
+airplane
+urban
+farm
+wilderness

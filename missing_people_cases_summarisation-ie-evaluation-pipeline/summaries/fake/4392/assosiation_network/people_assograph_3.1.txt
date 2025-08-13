@@ -1,0 +1,21 @@
+Malcolm Hart,Charlie White,foster father,3603
+Malcolm Hart,Emma Pearson,friend,3859
+Malcolm Hart,Marion Saunders,colleague,26095
+Malcolm Hart,Lauren,friend,33321
+Malcolm Hart,Deborah Barker,colleague,81636
+Malcolm Hart,Alexander Hall,friend,20450
+Malcolm Hart,Marion Saunders,colleague,20450
+Malcolm Hart,Connor Davis,friend,30666
+Malcolm Hart,Annette Adams,friend,25199
+Malcolm Hart,Deborah Barker,colleague,49844
+Malcolm Hart,Marion Saunders,colleague,49844
+Malcolm Hart,Alexander Hall,friend,49844
+Malcolm Hart,Jasmine Hussain,friend,22844
+Malcolm Hart,Luke,friend,37244
+Malcolm Hart,Jasmine Hussain,friend,22844
+Malcolm Hart,Marion Saunders,colleague,60692
+Malcolm Hart,Martin Hurst,colleague,101248
+Malcolm Hart,Hilary Hurst,neighbor,101255
+Malcolm Hart,friend,aggressive behaviors,101256
+Malcolm Hart,community center staff,support program,101257
+Malcolm Hart,unknown,vanished near forest,101258

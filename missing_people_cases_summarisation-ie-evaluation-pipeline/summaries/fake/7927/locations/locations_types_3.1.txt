@@ -1,0 +1,5 @@
+57405,"Amusement Park adjacent to school","Public Place/Event","Known for occasionally veering off-course during outings","Impulsive/Disorientation Location"
+57405,"Alleyway near youth center","Public Place/Event","wandering into an alleyway near the nearby youth center","Impulsive/Disorientation Location"
+57405,"Alleyway near Caledonian Road","Public Place/Event","found him safe in an alleyway not far from Caledonian Road","Impulsive/Disorientation Location"
+102568,"Boat/Body of Water","Waterway","last seen with a colleague nearby","Impulsive/Disorientation Location"
+102569,"University Campus","Public Place/Educational Institution","left university, feeling lost","Impulsive/Disorientation Location"

@@ -1,0 +1,30 @@
+Derek Thomas,Marian White,sister,18566
+Derek Thomas,uncle,18566
+Derek Thomas,sister,38187
+Derek Thomas,grandmother,38187
+Derek Thomas,friend,38187
+Derek Thomas,friend,38187
+Derek Thomas,sister,23008
+Derek Thomas,sister,12920
+Derek Thomas,Neil Dickinson,12920
+Derek Thomas,uncle,42081
+Derek Thomas,grandmother,42081
+Derek Thomas,brother,42081
+Derek Thomas,son,51787
+Derek Thomas,friend,19342
+Derek Thomas,grandmother,19342
+Derek Thomas,son,84210
+Derek Thomas,grandmother,28764
+Derek Thomas,sister,28764
+Derek Thomas,friend,16455
+Derek Thomas,brother,62707
+Derek Thomas,uncle,62707
+Derek Thomas,sister,93195
+Derek Thomas,friend,93195
+Derek Thomas,sister,101434
+Derek Thomas,Keith Parsons,101434
+Derek Thomas,friend,101435
+Derek Thomas,Philip Parry,101440
+Derek Thomas,uncle,101444
+Derek Thomas,friend,101447
+Derek Thomas,Philip Parry,101447

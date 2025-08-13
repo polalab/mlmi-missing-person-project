@@ -1,0 +1,72 @@
+Lundy Gardens, 92306
+Fort William, 92306
+Phoines Estate, 92306
+1 Leonard Street, 18677
+Perth, 18677
+arcade, 18677
+Phoines Estate, 22317
+Newtonmore, 22317
+Atholl Street, 22317
+Dunkeld, 22317
+51 Grampian Court, 77334
+casino, 77334
+home, 49986
+airport, 49986
+Saint Mary's Road, 68041
+Birnam, 68041
+PH8 0BJ, 68041
+local casino, 68041
+Ferntower Road, 68041
+Crieff, 68041
+PH7 3LQ, 68041
+Telford Gardens, 57968
+PH8 0QA, 57968
+shopping mall, 57968
+Ferntower Road, 57968
+Crieff, 57968
+PH7 3LQ, 57968
+36 & 38 Sydney Crescent, 57968
+Auchterarder, 57968
+PH3 1BB, 57968
+school, 94286
+Telford Gardens, 94286
+juvenile center, 94286
+Balmoral Road, 94286
+Blairgowrie, 94286
+casino, 47106
+local sports club, 47106
+Strathview Gardens, 47106
+Pitlochry, 47106
+Muirhall Road, 40139
+Perth, 40139
+PH2 7BH, 40139
+Park Road, 40139
+Ballachulish, 40139
+PH49 4JS, 40139
+airport, 40139
+Newtonmore Road, 40139
+Kingussie, 40139
+PH21 1HE, 40139
+Telford Gardens, 92060
+local library, 92060
+summer camp, 92060
+Edinburgh Road, 92060
+Perth, 92060
+Craigieknowes Road, 92060
+Errichel, 10541
+Aberfeldy, 10541
+university event, 20882
+science workshop, 20882
+10 & 12 Southlands Road, 20882
+Auchterarder, 20882
+Strathview Gardens, 20882
+Pitlochry, 20882
+Newtonmore Road, 24573
+Kingussie, 24573
+local market, 24573
+part-time job, 24573
+Park Road, 24573
+Ballachulish, 24573
+Telford Gardens, 2174
+Craigieknowes Road, 2174
+Perth, 2174

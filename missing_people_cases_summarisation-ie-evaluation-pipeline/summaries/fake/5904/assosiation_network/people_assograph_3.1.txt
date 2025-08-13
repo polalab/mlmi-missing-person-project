@@ -1,0 +1,63 @@
+William Hall,Alan Murray,brother,13278
+William Hall,Alan Murray,brother,38168
+William Hall,Alan Murray,brother,82762
+William Hall,Alan Murray,brother,38615
+William Hall,Alan Murray,brother,46233
+William Hall,Alan Murray,brother,2246
+William Hall,Alan Murray,brother,29766
+William Hall,Alan Murray,brother,90368
+William Hall,Alan Murray,brother,56329
+William Hall,Alan Murray,brother,47739
+William Hall,Alan Murray,brother,60170
+William Hall,Alan Murray,brother,1365
+William Hall,Alan Murray,brother,23663
+William Hall,Alan Murray,brother,100673
+William Hall,Alan Murray,brother,100676
+William Hall,Alan Murray,other,13278
+William Hall,Alan Murray,other,38168
+William Hall,Alan Murray,other,82762
+William Hall,Alan Murray,other,38615
+William Hall,Alan Murray,other,46233
+William Hall,Alan Murray,other,2246
+William Hall,Alan Murray,other,29766
+William Hall,Alan Murray,other,90368
+William Hall,Alan Murray,other,56329
+William Hall,Alan Murray,other,47739
+William Hall,Alan Murray,other,60170
+William Hall,Alan Murray,other,1365
+William Hall,Alan Murray,other,23663
+William Hall,Alan Murray,other,100673
+William Hall,Alan Murray,other,100676
+William Hall,Richard,brother,82762
+William Hall,Richard,brother,46233
+William Hall,Richard,brother,47739
+William Hall,Richard,brother,60170
+William Hall,Richard,brother,1365
+William Hall,Richard,brother,23663
+William Hall,Richard,other,82762
+William Hall,Richard,other,46233
+William Hall,Richard,other,47739
+William Hall,Richard,other,60170
+William Hall,Richard,other,1365
+William Hall,Richard,other,23663
+William Hall,Jennifer Hall,aunt,46233
+William Hall,Jennifer Hall,aunt,23663
+William Hall,Jennifer Hall,other,46233
+William Hall,Jennifer Hall,other,23663
+William Hall,Leon Jones,son,60170
+William Hall,Leon Jones,son,1365
+William Hall,Leon Jones,other,60170
+William Hall,Leon Jones,other,1365
+William Hall,Marilyn Woodward,sister,1365
+William Hall,Marilyn Woodward,sister,46233
+William Hall,Marilyn Woodward,sister,23663
+William Hall,Marilyn Woodward,other,1365
+William Hall,Marilyn Woodward,other,46233
+William Hall,Marilyn Woodward,other,23663
+William Hall,Janice Hall,aunt,23663
+William Hall,Janice Hall,aunt,46233
+William Hall,Janice Hall,other,23663
+William Hall,Janice Hall,other,46233
+William Hall,Carole Reed,other,90368
+William Hall,Colleague,other,56329
+William Hall,Colleague,other,100673

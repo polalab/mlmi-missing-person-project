@@ -1,0 +1,20 @@
+Emma Griffiths,Jasmine Foster,mother,27677
+Emma Griffiths,Phillip Horton,brother,27677
+Emma Griffiths,Emma Griffiths,self,27677
+Emma Griffiths,Jean,other,45970
+Emma Griffiths,Emma Griffiths,self,45970
+Emma Griffiths,Emma Griffiths,self,44317
+Emma Griffiths,Emma Griffiths,self,52519
+Emma Griffiths,Emma Griffiths,self,3404
+Emma Griffiths,Emma Griffiths,self,13824
+Emma Griffiths,Emma Griffiths,self,50046
+Emma Griffiths,Emma Griffiths,self,45077
+Emma Griffiths,Emma Griffiths,self,6989
+Emma Griffiths,Lorraine Vaughan,friend,45077
+Emma Griffiths,Emma Griffiths,self,100795
+Emma Griffiths,Diane,daughter,100796
+Emma Griffiths,Emma Griffiths,self,100796
+Emma Griffiths,Emma Griffiths,self,100798
+Emma Griffiths,Emma Griffiths,self,100799
+Emma Griffiths,Danielle Simpson,other,100799
+Emma Griffiths,Emma Griffiths,self,100800

@@ -1,0 +1,5 @@
+Disappearance via Unplanned Travel, [98700, 69177, 62272, 84499, 24270]  
+Disappearance via Exploration, [59099, 62581, 54838, 29088]  
+Disappearance via Separation from Group, [69177, 62272, 24270, 1803, 46910]  
+Disappearance via Fear of Return, [46910, 36811, 1803]  
+Disappearance via Unintended Detour, [29088, 62581]

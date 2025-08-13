@@ -1,0 +1,14 @@
+Georgina Burke,foster father,father,92550
+Georgina Burke,youth center staff,friend,92550
+Georgina Burke,study group members,family,92550
+Georgina Burke,protest colleagues,friend,84401
+Georgina Burke,youth center staff,friend,84401
+Georgina Burke,public park staff,neighbor,84401
+Georgina Burke,Seggieden Place residents,neighbor,84401
+Georgina Burke,Higher Oakfield residents,neighbor,101475
+Georgina Burke,Higher Oakfield colleague,friend,101475
+Georgina Burke,mental health facility staff,friend,101477
+Georgina Burke,mental health facility staff,friend,101478
+Georgina Burke,abuse victim support staff,friend,101479
+Georgina Burke,abuse victim support staff,friend,101480
+Georgina Burke,Colleague,friend,101480

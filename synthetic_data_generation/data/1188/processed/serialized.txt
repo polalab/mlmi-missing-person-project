@@ -1,0 +1,80 @@
+Disappearance Record:
+Report number: 13921
+Name: Brian Porter
+Date of Birth: 2010-04-01
+Sex: Male
+Place of Birth: Perth
+Occupation: 
+Missing Since: 2022-07-26 00:00:00
+Date Reported Missing: 2022-07-26 23:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3715
+When Traced: 2022-07-28 13:55:00
+Missing From Address: 39;41;43 The Temple, Lower Largo, KY8 6JH (Home)
+Traced at Address: 8 Camdean Lane, Rosyth, KY11 2TA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 97492
+Name: Brian Porter
+Date of Birth: 2010-04-01
+Sex: Male
+Place of Birth: Perth
+Occupation: 
+Missing Since: 2022-10-21 13:55:00
+Date Reported Missing: 2022-10-22 02:55:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9448
+When Traced: 2022-10-28 03:23:00
+Missing From Address: 39;41;43 The Temple, Lower Largo, KY8 6JH (Home)
+Traced at Address: 26 Leslie Road, Rosyth, KY11 2LB
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 15069
+Name: Brian Porter
+Date of Birth: 2010-04-01
+Sex: Male
+Place of Birth: Perth
+Occupation: 
+Missing Since: 2023-01-04 03:23:00
+Date Reported Missing: 2023-01-04 16:23:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 4677
+When Traced: 2023-01-07 09:20:00
+Missing From Address: 39;41;43 The Temple, Lower Largo, KY8 6JH (Home)
+Traced at Address: 1 Dick Place, Rosyth, KY11 2JG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 97302
+Name: Brian Porter
+Date of Birth: 2010-04-01
+Sex: Male
+Place of Birth: Perth
+Occupation: 
+Missing Since: 2023-04-29 09:20:00
+Date Reported Missing: 2023-04-30 19:20:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 8506
+When Traced: 2023-05-05 07:06:00
+Missing From Address: St Margaret's Head, North Queensferry, KY11 1HP (skate park)
+Traced at Address: Castlandhill Road, Rosyth, KY11 2PZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 41369
+Name: Brian Porter
+Date of Birth: 2010-04-01
+Sex: Male
+Place of Birth: Perth
+Occupation: 
+Missing Since: 2023-07-17 07:06:00
+Date Reported Missing: 2023-07-18 12:06:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8208
+When Traced: 2023-07-22 23:54:00
+Missing From Address: 39;41;43 The Temple, Lower Largo, KY8 6JH (Home)
+Traced at Address: 1 Dick Place, Rosyth, KY11 2JG
+Traced by: Traced by member of the public
+

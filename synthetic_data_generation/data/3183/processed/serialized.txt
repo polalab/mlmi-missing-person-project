@@ -1,0 +1,256 @@
+Disappearance Record:
+Report number: 43347
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2021-01-18 00:00:00
+Date Reported Missing: 2021-01-18 03:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2742
+When Traced: 2021-01-19 21:42:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: 2 Barnshot Road, Edinburgh, EH13 0DH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 43152
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2021-06-08 21:42:00
+Date Reported Missing: 2021-06-09 07:42:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 2496
+When Traced: 2021-06-10 15:18:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: Abbotsford Road, North Berwick, EH39 5DB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 89416
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2021-08-08 15:18:00
+Date Reported Missing: 2021-08-09 15:18:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5541
+When Traced: 2021-08-12 11:39:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: 1 Duff Court, North Berwick, EH39 4RH
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 12036
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2021-12-26 11:39:00
+Date Reported Missing: 2021-12-27 09:39:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3369
+When Traced: 2021-12-28 19:48:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: Abbotsford Road, North Berwick, EH39 5DB
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 88673
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2022-05-11 19:48:00
+Date Reported Missing: 2022-05-12 13:48:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1417
+When Traced: 2022-05-12 19:25:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: 32 Marmion Road,  EH39 4NZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 89330
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2022-08-06 19:25:00
+Date Reported Missing: 2022-08-07 14:25:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3616
+When Traced: 2022-08-09 07:41:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: 2 Barnshot Road, Edinburgh, EH13 0DH
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 96220
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2023-01-17 07:41:00
+Date Reported Missing: 2023-01-17 07:41:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7246
+When Traced: 2023-01-22 08:27:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: 8 East Mains Holdings, Newbridge, EH28 8NQ
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 9080
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2023-02-11 08:27:00
+Date Reported Missing: 2023-02-11 08:27:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4261
+When Traced: 2023-02-14 07:28:00
+Missing From Address: 5-7 Drum Street,  EH17 8QQ (school pickup)
+Traced at Address: Abbotsford Road, North Berwick, EH39 5DB
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 20638
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2023-05-09 07:28:00
+Date Reported Missing: 2023-05-09 23:28:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4426
+When Traced: 2023-05-12 09:14:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: Abbotsford Road, North Berwick, EH39 5DB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 43228
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2023-07-26 09:14:00
+Date Reported Missing: 2023-07-26 14:14:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1559
+When Traced: 2023-07-27 11:13:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: 6 Goldeneye Gait, Edinburgh, EH17 8XN
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 9636
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2023-09-13 11:13:00
+Date Reported Missing: 2023-09-13 23:13:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1935
+When Traced: 2023-09-14 19:28:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: 8 East Mains Holdings, Newbridge, EH28 8NQ
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 37311
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2023-10-18 19:28:00
+Date Reported Missing: 2023-10-19 21:28:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3089
+When Traced: 2023-10-20 22:57:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: 2 Barnshot Road, Edinburgh, EH13 0DH
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 21304
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2024-01-01 22:57:00
+Date Reported Missing: 2024-01-02 04:57:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 7803
+When Traced: 2024-01-07 09:00:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: 32 Marmion Road,  EH39 4NZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 28937
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2024-03-17 09:00:00
+Date Reported Missing: 2024-03-18 03:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3399
+When Traced: 2024-03-19 17:39:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: 8 East Mains Holdings, Newbridge, EH28 8NQ
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 1595
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2024-09-14 17:39:00
+Date Reported Missing: 2024-09-15 20:39:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 8605
+When Traced: 2024-09-20 17:04:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: 8 East Mains Holdings, Newbridge, EH28 8NQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 82117
+Name: Glen Dobson
+Date of Birth: 1990-06-25
+Sex: Male
+Place of Birth: Plymouth
+Occupation: Community development worker
+Missing Since: 2025-02-16 17:04:00
+Date Reported Missing: 2025-02-16 22:04:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 8104
+When Traced: 2025-02-22 08:08:00
+Missing From Address: . Dunbar Road, East Linton, EH40 3DE (Home)
+Traced at Address: 8 East Mains Holdings, Newbridge, EH28 8NQ
+Traced by: Traced by family
+

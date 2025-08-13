@@ -1,0 +1,5 @@
+Disappearance by Unplanned Change of Plans, [21640, 80071, 3394, 61860, 95223, 27029, 9758, 61281, 33510, 33098, 73402, 25772, 36319, 4790]  
+Disappearance from a Planned Meeting or Gathering, [10288, 32645, 20241, 33098, 73402, 25772]  
+Disappearance from a Location with a History of Abandonment, [102213, 102216, 102221, 102223, 102224, 10288]  
+Disappearance after Cutting Off Communications, [92804, 10288, 33098, 73402, 25772, 36319, 4790]  
+Disappearance after Leaving a Planned Activity or Event, [21640, 80071, 3394, 61860, 95223, 27029, 9758, 61281, 33510]

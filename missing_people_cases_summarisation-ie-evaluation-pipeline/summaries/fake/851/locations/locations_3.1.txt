@@ -1,0 +1,44 @@
+Dalgleish Road, 99660
+Tayport, 30904
+Minto Place, 89752
+Glamis Road, 90898
+South Esk Road, 51366
+Commerce Street, 64582
+Roseberry Street, 59256
+Finavon Street, 59256
+Arthurstone Terrace, 59256
+Dalgleish Street, 37513
+Arbroath, 37513
+South Road, 38872
+storm drain, 38872
+movie theater, 74130
+Alex King Way, 74130
+Alloway Place, 65362
+Turnberry Avenue, 65362
+Kirsty Semple Way, 65362
+Blackness Avenue, 65362
+Dalgleish Street, 4729
+Panmure Terrace, 4729
+snow area, 4729
+Boniface Place, 49264
+library, 49264
+Arthurstone Terrace, 49264
+Perth Road, 84065
+grocery store, 84065
+Findcastle Street, 77752
+university campus, 77752
+Findcastle Street, 77752
+skate park, 55056
+Ballumbie Road, 55056
+Dalgleish Street, 55056
+Blackness Avenue, 55056
+storm drain, 10934
+Finavon St, 10934
+Dura Street, 100851
+grocery store, 100852
+storm drain, 100852
+mine, 100853
+grocery store, 100853
+storm drain, 100853
+Dura Street, 100851
+mine, 100858

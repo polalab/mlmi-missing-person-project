@@ -1,0 +1,5 @@
+farm
+alleyway
+bar/nightclub
+river
+highway

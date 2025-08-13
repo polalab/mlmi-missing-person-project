@@ -1,0 +1,4 @@
+snow area
+rooftop
+wilderness
+rest area

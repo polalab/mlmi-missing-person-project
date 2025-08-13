@@ -1,0 +1,47 @@
+An t-Sràid, 77125
+An t-Sràid, 87640
+An t-Sràid, 58333
+Gallanach Road, 47940
+Gallanach Road, 8594
+Gallanach Road, 69893
+Glengallen Road, 19083
+Glengallen Road, 675
+Glengallen Road, 92312
+Glengallen Road, 58333
+North Pier, 13193
+North Pier, 35936
+North Pier, 82809
+Oban, 47940
+Oban, 675
+Park Mains, 84077
+Railway Pier, 47940
+Railway Pier, 13193
+Railway Pier, 8594
+Railway Pier, 58333
+Resort, 81913
+Resort, 33528
+Resort, 79894
+Resort, 63620
+Resort, 35936
+Resort, 675
+Resort, 19083
+Resort, 42997
+Resort, 92312
+Resort, 101839
+Storm drain, 77125
+Storm drain, 33528
+Storm drain, 84077
+Storm drain, 63620
+Stairwell, 79894
+Stairwell, 35936
+Stairwell, 63620
+Stairwell, 42997
+Stairwell, 101839
+1 Customhouse Way, 69893
+1 Newark Street, 82809
+1 Newark Street, 87640
+Larkfield Road, 69893
+Larkfield Road, 42997
+Larkfield Road, 92312
+Larkfield Road, 35936
+Edward Street 1 CB30SZ, 1234

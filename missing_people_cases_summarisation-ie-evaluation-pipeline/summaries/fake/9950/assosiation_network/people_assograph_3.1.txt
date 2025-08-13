@@ -1,0 +1,33 @@
+Pauline Morgan,Lynne Ellis,aunt,66086
+Pauline Morgan,Lynne Ellis,aunt,88220
+Pauline Morgan,Lynne Ellis,aunt,6386
+Pauline Morgan,Lynne Ellis,aunt,10123
+Pauline Morgan,Lynne Ellis,aunt,4787
+Pauline Morgan,Lynne Ellis,aunt,52764
+Pauline Morgan,Lynne Ellis,aunt,28741
+Pauline Morgan,Lynne Ellis,aunt,54833
+Pauline Morgan,Lynne Ellis,aunt,26606
+Pauline Morgan,daughter,friend,66086
+Pauline Morgan,daughter,friend,88220
+Pauline Morgan,daughter,friend,6386
+Pauline Morgan,daughter,friend,10123
+Pauline Morgan,daughter,friend,4787
+Pauline Morgan,daughter,friend,52764
+Pauline Morgan,daughter,friend,28741
+Pauline Morgan,daughter,friend,54833
+Pauline Morgan,daughter,friend,26606
+Pauline Morgan,grandfather,other,10123
+Pauline Morgan,grandfather,other,28741
+Pauline Morgan,grandfather,other,26606
+Pauline Morgan,grandmother,other,4787
+Pauline Morgan,Max Begum,grandfather,26606
+Pauline Morgan,Norman,other,54833
+Pauline Morgan,daughter,daughter,66086
+Pauline Morgan,daughter,daughter,88220
+Pauline Morgan,daughter,daughter,6386
+Pauline Morgan,daughter,daughter,10123
+Pauline Morgan,daughter,daughter,4787
+Pauline Morgan,daughter,daughter,52764
+Pauline Morgan,daughter,daughter,28741
+Pauline Morgan,daughter,daughter,54833
+Pauline Morgan,daughter,daughter,26606

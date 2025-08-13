@@ -1,0 +1,48 @@
+Disappearance Record:
+Report number: 53040
+Name: Jeremy Slater
+Date of Birth: 2010-06-10
+Sex: Male
+Place of Birth: Cardiff
+Occupation: 
+Missing Since: 2025-03-25 00:00:00
+Date Reported Missing: 2025-03-25 00:00:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 1514
+When Traced: 2025-03-26 01:14:00
+Missing From Address: Gray Den, Dundee, DD2 5LR (Home)
+Traced at Address: 19 Dalgleish Street, Tayport, DD6 9BB
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 3085
+Name: Jeremy Slater
+Date of Birth: 2010-06-10
+Sex: Male
+Place of Birth: Cardiff
+Occupation: 
+Missing Since: 2025-06-12 01:14:00
+Date Reported Missing: 2025-06-12 15:14:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1717
+When Traced: 2025-06-13 05:51:00
+Missing From Address: Gray Den, Dundee, DD2 5LR (Home)
+Traced at Address: 484 Perth Road, Dundee, DD2 1LR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 496
+Name: Jeremy Slater
+Date of Birth: 2010-06-10
+Sex: Male
+Place of Birth: Cardiff
+Occupation: 
+Missing Since: 2025-06-16 05:51:00
+Date Reported Missing: 2025-06-16 22:51:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8763
+When Traced: 2025-06-22 07:54:00
+Missing From Address: Gray Den, Dundee, DD2 5LR (Home)
+Traced at Address: 19 Dalgleish Street, Tayport, DD6 9BB
+Traced by: Traced by family
+

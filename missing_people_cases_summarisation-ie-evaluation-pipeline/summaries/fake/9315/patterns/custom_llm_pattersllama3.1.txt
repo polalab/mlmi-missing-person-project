@@ -1,0 +1,5 @@
+Disappearance by Unplanned Departure, [reportid1, reportid2,...]  
+Disappearance by Contact with Stranger, [reportid3, reportid4,...]  
+Disappearance by Living Off-Grid, [reportid5, reportid6,...]  
+Disappearance by Withdrawal from Family, [reportid7, reportid8,...]  
+Disappearance by Unforeseen Circumstances, [reportid9, reportid10,...]

@@ -1,0 +1,5 @@
+Disorientation due to unfamiliar surroundings, [14622, 85878, 55092, 35946, 18452, 19819, 30144, 12838]  
+Disorientation due to confusion or memory issues, [36725, 35946, 18452, 19819, 30144, 12838]  
+Unintentional disappearance due to wandering off course, [85878, 35946, 19819, 30144, 12838]  
+Intentional disappearance due to a desire for change or solitude, [63641, 10313, 80294, 51594, 30144]  
+Withdrawal from familiar routines or locations, [85878, 55092, 10313, 51594, 80294]

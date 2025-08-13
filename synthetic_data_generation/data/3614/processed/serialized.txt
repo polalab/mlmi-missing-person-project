@@ -1,0 +1,256 @@
+Disappearance Record:
+Report number: 37003
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2021-10-03 00:00:00
+Date Reported Missing: 2021-10-03 02:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2839
+When Traced: 2021-10-04 23:19:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: 22 Marine Parade Walk, Dundee, DD1 3AU
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 8215
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2021-10-21 23:19:00
+Date Reported Missing: 2021-10-23 06:19:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2167
+When Traced: 2021-10-23 11:26:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: New Road, Forfar, DD8 2AE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 40505
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2022-03-31 11:26:00
+Date Reported Missing: 2022-03-31 11:26:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1818
+When Traced: 2022-04-01 17:44:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: 33 Blackness Avenue, Dundee, DD2 1EY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 84311
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2022-07-06 17:44:00
+Date Reported Missing: 2022-07-06 21:44:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3003
+When Traced: 2022-07-08 19:47:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: 296A Strathmore Avenue, Dundee, DD3 6SH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 3998
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2022-12-18 19:47:00
+Date Reported Missing: 2022-12-19 19:47:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5880
+When Traced: 2022-12-22 21:47:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: Derwent Avenue, Dundee, DD3 0AX
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 69757
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2023-01-24 21:47:00
+Date Reported Missing: 2023-01-25 00:47:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8109
+When Traced: 2023-01-30 12:56:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: 11 Panmure Terrace, Dundee, DD5 2QL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 94461
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2023-05-10 12:56:00
+Date Reported Missing: 2023-05-10 13:56:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 2524
+When Traced: 2023-05-12 07:00:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: Tayside Street, Carnoustie, DD7 6AX
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 18369
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2023-07-21 07:00:00
+Date Reported Missing: 2023-07-22 02:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 1947
+When Traced: 2023-07-22 15:27:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: 33 Blackness Avenue, Dundee, DD2 1EY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 21768
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2023-10-03 15:27:00
+Date Reported Missing: 2023-10-04 07:27:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 2358
+When Traced: 2023-10-05 06:45:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: Adelaide Place, Dundee, DD3 6LE
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 29099
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2023-11-07 06:45:00
+Date Reported Missing: 2023-11-08 09:45:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 7476
+When Traced: 2023-11-12 11:21:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: 38 Forrestal Street, Brechin, DD9 7XG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 45619
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2024-02-08 11:21:00
+Date Reported Missing: 2024-02-08 11:21:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 870
+When Traced: 2024-02-09 01:51:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: 11 Panmure Terrace, Dundee, DD5 2QL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 75670
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2024-06-30 01:51:00
+Date Reported Missing: 2024-06-30 15:51:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7214
+When Traced: 2024-07-05 02:05:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: 296A Strathmore Avenue, Dundee, DD3 6SH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 5980
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2024-08-21 02:05:00
+Date Reported Missing: 2024-08-21 20:05:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 6083
+When Traced: 2024-08-25 07:28:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: 296A Strathmore Avenue, Dundee, DD3 6SH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 12740
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2024-11-19 07:28:00
+Date Reported Missing: 2024-11-19 10:28:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4184
+When Traced: 2024-11-22 05:12:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: 33 Blackness Avenue, Dundee, DD2 1EY
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 13420
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2025-01-29 05:12:00
+Date Reported Missing: 2025-01-29 07:12:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1431
+When Traced: 2025-01-30 05:03:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: Tayside Street, Carnoustie, DD7 6AX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 76930
+Name: Leonard Smith
+Date of Birth: 1999-01-17
+Sex: Male
+Place of Birth: Stirling
+Occupation: Charity fundraiser
+Missing Since: 2025-03-13 05:03:00
+Date Reported Missing: 2025-03-13 06:03:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4444
+When Traced: 2025-03-16 07:07:00
+Missing From Address: Dundee Road, Arbroath, DD11 2NQ (Home)
+Traced at Address: Derwent Avenue, Dundee, DD3 0AX
+Traced by: Traced by Police
+

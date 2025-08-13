@@ -1,0 +1,112 @@
+Disappearance Record:
+Report number: 42004
+Name: Julian Hughes
+Date of Birth: 2014-03-20
+Sex: Male
+Place of Birth: Southampton
+Occupation: 
+Missing Since: 2022-04-24 00:00:00
+Date Reported Missing: 2022-04-24 11:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 1318
+When Traced: 2022-04-24 21:58:00
+Missing From Address: 28 Cunzie Street, Anstruther, KY10 3DF (Home)
+Traced at Address: 28 Birch Avenue, Kinghorn, KY3 9YN
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 8154
+Name: Julian Hughes
+Date of Birth: 2014-03-20
+Sex: Male
+Place of Birth: Southampton
+Occupation: 
+Missing Since: 2022-07-30 21:58:00
+Date Reported Missing: 2022-08-01 08:58:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6855
+When Traced: 2022-08-04 16:13:00
+Missing From Address: 28 Cunzie Street, Anstruther, KY10 3DF (Home)
+Traced at Address: 8 King's Place, Rosyth, KY11 2SB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 76621
+Name: Julian Hughes
+Date of Birth: 2014-03-20
+Sex: Male
+Place of Birth: Southampton
+Occupation: 
+Missing Since: 2022-09-18 16:13:00
+Date Reported Missing: 2022-09-18 22:13:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 688
+When Traced: 2022-09-19 03:41:00
+Missing From Address: 7 Aithernie Drive, Upper Largo, KY8 6EX (skate park)
+Traced at Address: 1 Fidra Avenue, Burntisland, KY3 0BE
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 53626
+Name: Julian Hughes
+Date of Birth: 2014-03-20
+Sex: Male
+Place of Birth: Southampton
+Occupation: 
+Missing Since: 2022-11-27 03:41:00
+Date Reported Missing: 2022-11-27 00:41:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 156
+When Traced: 2022-11-27 06:17:00
+Missing From Address: 28 Cunzie Street, Anstruther, KY10 3DF (Home)
+Traced at Address: 9 Lowry Place, Rosyth, KY11 2PR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 7142
+Name: Julian Hughes
+Date of Birth: 2014-03-20
+Sex: Male
+Place of Birth: Southampton
+Occupation: 
+Missing Since: 2023-01-04 06:17:00
+Date Reported Missing: 2023-01-05 11:17:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4568
+When Traced: 2023-01-07 10:25:00
+Missing From Address: 28 Cunzie Street, Anstruther, KY10 3DF (Home)
+Traced at Address: 3 Russell Grove, Burntisland, KY3 9HL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 75601
+Name: Julian Hughes
+Date of Birth: 2014-03-20
+Sex: Male
+Place of Birth: Southampton
+Occupation: 
+Missing Since: 2023-01-16 10:25:00
+Date Reported Missing: 2023-01-16 20:25:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6952
+When Traced: 2023-01-21 06:17:00
+Missing From Address: 28 Cunzie Street, Anstruther, KY10 3DF (Home)
+Traced at Address: 9 Lowry Place, Rosyth, KY11 2PR
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 92786
+Name: Julian Hughes
+Date of Birth: 2014-03-20
+Sex: Male
+Place of Birth: Southampton
+Occupation: 
+Missing Since: 2023-03-13 06:17:00
+Date Reported Missing: 2023-03-14 17:17:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 9371
+When Traced: 2023-03-19 18:28:00
+Missing From Address: 28 Cunzie Street, Anstruther, KY10 3DF (Home)
+Traced at Address: 1 Fidra Avenue, Burntisland, KY3 0BE
+Traced by: Traced by staff
+

@@ -1,0 +1,7 @@
+Alexandra Thomas,Dennis Brown,friend,64254
+Alexandra Thomas,friend,other,64254
+Alexandra Thomas,family member,other,64254
+Alexandra Thomas,professional,other,99400
+Alexandra Thomas,healthcare provider,other,99400
+Alexandra Thomas,colleague,other,100507
+Alexandra Thomas,unknown,other,100510

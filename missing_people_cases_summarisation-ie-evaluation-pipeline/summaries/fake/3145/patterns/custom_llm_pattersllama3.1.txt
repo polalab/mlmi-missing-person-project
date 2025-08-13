@@ -1,0 +1,5 @@
+Erratic Behavior, [4307, 3538, 35432, 11076, 78888]  
+Disoriented in Familiar Areas, [65905, 32263, 40542, 75940, 99600]  
+Leaving Creative Works, [3538, 35432, 40542, 44107, 50062]  
+Spiritual or Religious Pilgrimage, [62410, 34717, 7761, 64385, 16954]  
+Walking or Exploring, [1676, 13790, 91341, 99600, 89414]

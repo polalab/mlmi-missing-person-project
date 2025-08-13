@@ -1,0 +1,5 @@
+Traveling Without Notification, [83799, 7237, 3984, 58031, 86893, 24122]  
+Disappearance Near Hunting Areas, [10479, 20187, 61654, 24122]  
+Disappearance Near Mines, [83799, 76344, 61654]  
+Disappearance After Sudden Religious Conversion, [83799, 3984, 10479, 1684, 10835, 76344]  
+Disappearance After Leaving Workplace, [7237, 66109, 10835]

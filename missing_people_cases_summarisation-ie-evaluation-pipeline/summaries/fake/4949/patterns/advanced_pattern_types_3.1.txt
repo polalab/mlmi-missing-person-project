@@ -1,0 +1,5 @@
+21686,"Paul Charlton was last seen leaving his residence and visiting safe houses",safe_house_usage_pattern,"Known for occasionally visiting safe houses, concerns arose when he failed to contact his sister, Josephine Charlton, as expected."
+21686,"Paul Charlton was last seen leaving his residence and visiting safe houses",need_for_privacy_pattern,"A colleague Charles Robinson reported having brief discussions with Paul about staying at a specific safe house for privacy."
+21686,"Paul Charlton was last seen leaving his residence and visiting safe houses",overwhelmed_by_circumstances_pattern,"he explained his need for some time alone, and with assistance from the proper channels, he returned home, amicably resolved with family and friends."
+21686,"Paul Charlton was last seen leaving his residence and visiting safe houses",refusal_to_contact_family_pattern,"failed to contact his sister, Josephine Charlton, as expected."
+21686,"Paul Charlton was last seen leaving his residence and visiting safe houses",search_for_refuge_pattern,"A rigorous search traced Paul to 13 Moray Way, where he had taken refuge after feeling overwhelmed by his circumstances at home."

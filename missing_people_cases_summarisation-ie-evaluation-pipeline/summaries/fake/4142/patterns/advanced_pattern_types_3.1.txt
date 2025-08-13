@@ -1,0 +1,8 @@
+51997,"Patrick was later traced by police to 85 Bassett Avenue, Glasgow, G13 3JP, showing signs of disorientation.",disorientation_pattern,"Given his high-risk status and age, family and authorities have been urged to monitor his movements closely to prevent future incidents."
+51997,"Patrick was known for occasionally mistaking routes",route_mistaking_pattern,"Patrick was later traced by police to 85 Bassett Avenue, Glasgow, G13 3JP, showing signs of disorientation."
+101544,"Patrick spoke of disappearing at Belsyde",repeated_disappearance_threat_pattern,"Patrick spoke of disappearing at Belsyde."
+101546,"Patrick appeared disoriented and unable to recall his location",disorientation_pattern,"He is receiving appropriate care, but this incident highlights the need for continued monitoring and support."
+101547,"Patrick with dementia was seen confused on Crow Road, Glasgow, G66 7GX",disorientation_pattern,"Patrick with dementia was seen confused on Crow Road, Glasgow, G66 7GX by Martin."
+101548,"Patrick was last seen near a river after he visited a nearby church",near_water_location_pattern,"Concerns arose due to dementia, compounded by his presence near a tunnel."
+101548,"Patrick was last seen near a tunnel",near_tunnel_location_pattern,"Concerns arose due to dementia, compounded by his presence near a tunnel."
+101549,"Patrick mentioned disappearing at church",repeated_disappearance_threat_pattern,"Patrick mentioned disappearing at church."

@@ -1,0 +1,5 @@
+Disappearance at Wilderness Edge, [58653, 13520, 56738]  
+Disappearance from Home, [56595]  
+Disappearance from Known Location, [56595]  
+Disappearance with Prior Planning, [13520, 56738, 56595]  
+Disappearance with Unplanned Departure, [58653]

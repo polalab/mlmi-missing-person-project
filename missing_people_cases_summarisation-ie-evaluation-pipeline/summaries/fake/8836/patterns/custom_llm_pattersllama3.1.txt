@@ -1,0 +1,5 @@
+Disappearance from a bathroom, [9944, 27681, 66231, 22908]  
+Disappearance from a public park, [77155, 14659, 69717, 54800]  
+Disappearance from home after a court appearance, [17695, 31941, 93541, 85041, 87586, 38670, 66231, 32320, 99611]  
+Disappearance after a court appearance with a subsequent search in a nearby well or water feature, [31941, 27681, 32320, 99611]  
+Disappearance after a court appearance with a subsequent search in a nearby boat or pier, [44535, 2546, 22908, 54800]

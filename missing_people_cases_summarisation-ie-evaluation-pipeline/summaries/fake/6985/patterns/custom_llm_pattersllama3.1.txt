@@ -1,0 +1,5 @@
+Disappearance near water bodies, [97420, 32790, 16909, 23836, 15059]  
+Disappearance near highways or roads, [97754, 85533, 67526]  
+Disappearance near popular entertainment venues, [97420, 97754, 15059]  
+Disappearance near residential areas, [97420, 32790, 23836, 46400, 85533]  
+Disappearance after being estranged from relatives, [32790, 23836, 46400, 85533, 67526]

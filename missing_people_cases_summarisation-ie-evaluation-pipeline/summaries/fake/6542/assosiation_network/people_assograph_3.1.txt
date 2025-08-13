@@ -1,0 +1,34 @@
+Sheila Stewart,daughter,Laura Wright,mother,12154
+Sheila Stewart,daughter,Sylvia Stewart,mother,12154
+Sheila Stewart,son,Geoffrey Taylor,son,3810
+Sheila Stewart,son,Geoffrey Taylor,son,21039
+Sheila Stewart,son,Geoffrey Taylor,son,69501
+Sheila Stewart,son,Geoffrey Taylor,son,32422
+Sheila Stewart,son,Geoffrey Taylor,son,49874
+Sheila Stewart,son,Geoffrey Taylor,son,34565
+Sheila Stewart,son,Geoffrey Taylor,son,7583
+Sheila Stewart,son,Geoffrey Taylor,son,4223
+Sheila Stewart,son,Geoffrey Taylor,son,85376
+Sheila Stewart,son,Geoffrey Taylor,son,53726
+Sheila Stewart,son,Geoffrey Taylor,son,35321
+Sheila Stewart,son,Geoffrey Taylor,son,25525
+Sheila Stewart,son,Geoffrey Taylor,son,79063
+Sheila Stewart,son,Geoffrey Taylor,son,109
+Sheila Stewart,son,Geoffrey Taylor,son,72268
+Sheila Stewart,son,Geoffrey Taylor,son,57
+Sheila Stewart,brother,Gregory Thompson,brother,69501
+Sheila Stewart,brother,Gregory Thompson,brother,34565
+Sheila Stewart,brother,Gregory Thompson,brother,25525
+Sheila Stewart,brother,Gregory Thompson,brother,72268
+Sheila Stewart,daughter,Jodie Wilson,daughter,69501
+Sheila Stewart,daughter,Jodie Wilson,daughter,53726
+Sheila Stewart,daughter,Jodie Wilson,daughter,85376
+Sheila Stewart,daughter,Jodie Wilson,daughter,4223
+Sheila Stewart,son,Kenneth Jenkins,son,7583
+Sheila Stewart,son,Kenneth Jenkins,son,72268
+Sheila Stewart,son,Clifford Thompson,son,57
+Sheila Stewart,friend,Melanie,friend,85376
+Sheila Stewart,friend,Geoffrey Marsh,friend,53726
+Sheila Stewart,friend,Kayleigh Oliver,friend,35321
+Sheila Stewart,friend,Rosemary,friend,100840
+Sheila Stewart,unknown person,unknown,other,100829

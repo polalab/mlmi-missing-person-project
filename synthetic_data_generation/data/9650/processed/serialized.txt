@@ -1,0 +1,272 @@
+Disappearance Record:
+Report number: 21195
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2019-03-11 00:00:00
+Date Reported Missing: 2019-03-11 06:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5628
+When Traced: 2019-03-14 21:48:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: 1 Canmore Street, Kinghorn, KY3 9RH
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 29412
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2019-07-31 21:48:00
+Date Reported Missing: 2019-08-01 06:48:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1033
+When Traced: 2019-08-01 15:01:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: Lochies Road, Burntisland, KY3 9JX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 16290
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2019-12-01 15:01:00
+Date Reported Missing: 2019-12-02 19:01:00
+Day Reported Missing: Monday
+Length Missing (minutes): 7035
+When Traced: 2019-12-06 12:16:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: 1 Craig Court, Burntisland, KY3 0AT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 30559
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2020-03-18 12:16:00
+Date Reported Missing: 2020-03-19 11:16:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8287
+When Traced: 2020-03-24 06:23:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: 1 Craig Court, Burntisland, KY3 0AT
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 8207
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2020-04-18 06:23:00
+Date Reported Missing: 2020-04-18 06:23:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 3536
+When Traced: 2020-04-20 17:19:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: 5 Bow Butts, Crail, KY10 3UR
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 63881
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2020-09-19 17:19:00
+Date Reported Missing: 2020-09-20 03:19:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6356
+When Traced: 2020-09-24 03:15:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: Abbey Park Avenue, St Andrews, KY16 9LQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 11644
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2021-02-08 03:15:00
+Date Reported Missing: 2021-02-08 03:15:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5237
+When Traced: 2021-02-11 18:32:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: Wood Road, Rosyth, KY11 2EA
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 15799
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2021-07-27 18:32:00
+Date Reported Missing: 2021-07-29 01:32:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 9130
+When Traced: 2021-08-03 02:42:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: 5 Bow Butts, Crail, KY10 3UR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 82616
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2022-01-30 02:42:00
+Date Reported Missing: 2022-01-30 03:42:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5318
+When Traced: 2022-02-02 19:20:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: 5 Bow Butts, Crail, KY10 3UR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 31125
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2022-07-23 19:20:00
+Date Reported Missing: 2022-07-24 16:20:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6602
+When Traced: 2022-07-28 09:22:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: Wood Road, Rosyth, KY11 2EA
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 59930
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2022-12-27 09:22:00
+Date Reported Missing: 2022-12-27 21:22:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 1332
+When Traced: 2022-12-28 07:34:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: 1 Canmore Street, Kinghorn, KY3 9RH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 3440
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2023-04-05 07:34:00
+Date Reported Missing: 2023-04-05 15:34:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3197
+When Traced: 2023-04-07 12:51:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: Lochies Road, Burntisland, KY3 9JX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 64627
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2023-08-19 12:51:00
+Date Reported Missing: 2023-08-20 13:51:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5840
+When Traced: 2023-08-23 14:11:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: Lochies Road, Burntisland, KY3 9JX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 94216
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2023-10-29 14:11:00
+Date Reported Missing: 2023-10-30 03:11:00
+Day Reported Missing: Monday
+Length Missing (minutes): 1774
+When Traced: 2023-10-30 19:45:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: Lochies Road, Burntisland, KY3 9JX
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 87954
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2024-03-25 19:45:00
+Date Reported Missing: 2024-03-26 02:45:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 1794
+When Traced: 2024-03-27 01:39:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: 1 Canmore Street, Kinghorn, KY3 9RH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 38190
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2024-08-15 01:39:00
+Date Reported Missing: 2024-08-15 13:39:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 6729
+When Traced: 2024-08-19 17:48:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: Wood Road, Rosyth, KY11 2EA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 93570
+Name: Ricky Smith
+Date of Birth: 1992-01-26
+Sex: Male
+Place of Birth: Brighton & Hove
+Occupation: Aid worker
+Missing Since: 2024-12-01 17:48:00
+Date Reported Missing: 2024-12-02 22:48:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2067
+When Traced: 2024-12-03 04:15:00
+Missing From Address: 54 Nethergate South, Crail, KY10 3TZ (Home)
+Traced at Address: 10-16 Wood Place, Rosyth, KY11 2SU
+Traced by: Traced by Police
+

@@ -1,0 +1,48 @@
+Jayne Baker,her grandmother,grandmother,72922
+Jayne Baker,her sister,sister,78086
+Jayne Baker,her sister,sister,38937
+Jayne Baker,her sister,sister,76056
+Jayne Baker,her sister,sister,4936
+Jayne Baker,her sister,sister,48576
+Jayne Baker,her sister,sister,86748
+Jayne Baker,her sister,sister,32010
+Jayne Baker,her mother,mother,78086
+Jayne Baker,her mother,mother,38937
+Jayne Baker,her mother,mother,4936
+Jayne Baker,her mother,mother,48576
+Jayne Baker,her mother,mother,86748
+Jayne Baker,her father,father,4936
+Jayne Baker,her father,father,48576
+Jayne Baker,her friend,friend,72922
+Jayne Baker,her friend,friend,78086
+Jayne Baker,her friend,friend,76056
+Jayne Baker,her friend,friend,4936
+Jayne Baker,her friend,friend,48576
+Jayne Baker,her friend,friend,86748
+Jayne Baker,her colleague,family member,72922
+Jayne Baker,her colleague,family member,4936
+Jayne Baker,her grandmother,grandmother,4936
+Jayne Baker,her grandmother,grandmother,86748
+Jayne Baker,her grandmother,grandmother,32010
+Jayne Baker,her family,family member,72922
+Jayne Baker,her family,family member,78086
+Jayne Baker,her family,family member,76056
+Jayne Baker,her family,family member,4936
+Jayne Baker,her family,family member,48576
+Jayne Baker,her family,family member,86748
+Jayne Baker,her family,family member,32010
+Jayne Baker,her roommate,roommate,4936
+Jayne Baker,her friend,friend,86748
+Jayne Baker,Ruth Bevan,friend,76056
+Jayne Baker,Ruth Bevan,friend,4936
+Jayne Baker,Ruth Bevan,friend,48576
+Jayne Baker,Raymond Martin,friend,4936
+Jayne Baker,Raymond Martin,friend,48576
+Jayne Baker,Lisa Pritchard,family member,78086
+Jayne Baker,Luke Baker,father,4936
+Jayne Baker,Luke Baker,father,48576
+Jayne Baker,Ruth Baker,mother,78086
+Jayne Baker,Ruth Baker,mother,4936
+Jayne Baker,Ruth Baker,mother,48576
+Jayne Baker,friend,friend,86748
+Jayne Baker,friend,friend,32010

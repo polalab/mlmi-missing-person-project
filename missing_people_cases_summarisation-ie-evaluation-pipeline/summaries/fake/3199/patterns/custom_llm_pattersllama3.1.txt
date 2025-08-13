@@ -1,0 +1,5 @@
+Disappearance during Seasonal Work, [3901, 5232]  
+Disappearance from a Public Place, [5232, 101556]  
+Disappearance during or after a Social Engagement, [3901, 5232]  
+Disappearance from a Residential Area, [3901, 5232]  
+Disappearance into a Wilderness or Unfamiliar Territory, [3901, 5232]

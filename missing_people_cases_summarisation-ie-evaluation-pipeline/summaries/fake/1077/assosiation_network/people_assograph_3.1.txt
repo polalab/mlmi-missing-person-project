@@ -1,0 +1,11 @@
+Bernard Perkins,Donna Thomas,friend,72540
+Bernard Perkins,Alexandra Myers,friend,51733
+Bernard Perkins,Donna Thomas,friend,51733
+Bernard Perkins,Diana Adams,friend,93386
+Bernard Perkins,Jay Anderson,friend,6495
+Bernard Perkins,friend,other,57381
+Bernard Perkins,friend,other,37389
+Bernard Perkins,friend,other,102425
+Bernard Perkins,friend,other,102426
+Bernard Perkins,friend,other,102427
+Bernard Perkins,Clive,other,102431

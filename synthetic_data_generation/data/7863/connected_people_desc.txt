@@ -1,0 +1,5 @@
+mother
+friend
+friend
+father
+colleague

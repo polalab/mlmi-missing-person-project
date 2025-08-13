@@ -1,0 +1,5 @@
+Impulsive Departure, [54671, 65349, 56245, 41377, 8828, 49905, 24577, 87912, 55049, 94237]  
+Unplanned Exploration, [100777, 100778, 100786]  
+Disorientation, [65349, 24577, 100782]  
+Unusual Behavior, [54671, 41377, 49905, 55049, 94237]  
+Solitary Wander, [65349, 8828, 24577, 87912]

@@ -1,0 +1,9 @@
+Sian Smith,Deborah Freeman,friend,101037
+Sian Smith,Deborah Freeman,accompanying,101037
+Sian Smith,Deborah Freeman,other,101037
+Sian Smith,Deborah Freeman,other,101038
+Sian Smith,Deborah Freeman,accompanying,101038
+Sian Smith,Deborah Freeman,other,101038
+Sian Smith,Deborah Freeman,accompanying,34369
+Sian Smith,Deborah Freeman,other,34369
+Sian Smith,Deborah Freeman,other,34369

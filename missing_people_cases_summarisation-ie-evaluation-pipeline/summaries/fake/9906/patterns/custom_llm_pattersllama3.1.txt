@@ -1,0 +1,5 @@
+Disorientation due to travel confusion, [65011, 40403]  
+Disorientation due to emotional distress, [74271, 47573]  
+Disorientation due to unfamiliar surroundings, [35632, 62725]  
+Disorientation due to alias usage, [62725, 42295]  
+Disorientation due to age-related mobility issues, [40403, 35632]

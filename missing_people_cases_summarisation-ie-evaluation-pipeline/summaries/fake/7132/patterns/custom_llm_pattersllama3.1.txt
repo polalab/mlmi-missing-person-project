@@ -1,0 +1,5 @@
+Disappearance via Unnoticed Distractions, [104, 98982, 51113, 46052, 97721, 59578, 86760, 72657, 22833, 52305, 19118, 26589]  
+Disappearance via Exploration of Familiar Locations, [104, 98982, 51113, 46052, 97721, 59578, 62183, 77638, 52305, 19118, 86760, 72657]  
+Disappearance via Unknown Medical Condition, [98982, 51113, 59578, 62183, 77638, 1574, 25499, 26589, 100274]  
+Disappearance via Study Group or Social Setting, [51113, 97721, 59578, 72657, 22833, 52305, 19118, 86760]  
+Disappearance via Shopping Mall or Commercial Area, [104, 98982, 51113, 46052, 97721, 59578, 86760, 52305, 19118, 26589]

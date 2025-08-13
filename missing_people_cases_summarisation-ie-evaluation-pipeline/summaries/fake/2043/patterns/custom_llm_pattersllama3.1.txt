@@ -1,0 +1,5 @@
+Disappearance during travel or potential travel plans, [89986, 52838]  
+Disappearance while assisting someone in need, [52838, 101457]  
+Disappearance due to confusion or disorientation, [101456, 101462]  
+Disappearance in relation to a crime or potential crime, [89986, 101455]  
+Disappearance in a remote or isolated area, [101457, 101462]

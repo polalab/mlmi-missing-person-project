@@ -1,0 +1,5 @@
+Temporary Separation from Familiar Places, [73957, 59390, 22296, 428]  
+Unplanned Travel to New Locations, [73957, 59390, 22296, 428, 76407]  
+Disappearance Following Social Events, [73957, 25956, 59390, 22296, 428]  
+Disappearance After Visiting Mental Health Services, [25956, 76407]  
+Disappearance After Visiting Amusement Parks, [59390, 22296, 428, 100129, 100131]

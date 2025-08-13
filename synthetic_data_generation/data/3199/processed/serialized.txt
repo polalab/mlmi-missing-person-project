@@ -1,0 +1,32 @@
+Disappearance Record:
+Report number: 3901
+Name: Colin Hall
+Date of Birth: 2011-09-26
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2025-05-11 00:00:00
+Date Reported Missing: 2025-05-11 13:00:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4872
+When Traced: 2025-05-14 09:12:00
+Missing From Address: 63-65 Truce Road, Glasgow, G13 3JB (Home)
+Traced at Address: Belsyde Avenue, Glasgow, G15 6AR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 5232
+Name: Colin Hall
+Date of Birth: 2011-09-26
+Sex: Male
+Place of Birth: Exeter
+Occupation: 
+Missing Since: 2025-07-25 09:12:00
+Date Reported Missing: 2025-07-25 19:12:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6225
+When Traced: 2025-07-29 16:57:00
+Missing From Address: 63-65 Truce Road, Glasgow, G13 3JB (Home)
+Traced at Address: 6 Bard Avenue, Glasgow, G13 3JA
+Traced by: Traced by member of the public
+

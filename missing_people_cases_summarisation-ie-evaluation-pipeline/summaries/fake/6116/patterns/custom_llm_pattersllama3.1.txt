@@ -1,0 +1,5 @@
+Disappearance at or near a designated meeting spot, [64930]  
+Disappearance near a location of recent activity, [64930, 98669]  
+Disappearance near a playground or recreational area, [64930, 98669, 100651]  
+Disappearance near a location with a history of concerts or events, [64930, 98669]  
+Disappearance near a location with a history of youth activity, [64930, 98669, 100651]

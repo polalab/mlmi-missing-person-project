@@ -1,0 +1,25 @@
+Arthurstone Terrace, Dundee, 81679, 67121, 14, 36515, 31290, 72704, 49789, 67348, 46570, 44406, 70712, 74200, 72713, 17201, 10818, 72662, 80485, 54381, 67876, 66963, 26749, 44090
+Adelaide Place, Dundee, 81679, 74200
+Ballumbie Road, Dundee, 31290, 72713, 72662
+Broughty Ferry Road, Dundee, 44406
+Brechin, Commerce Street, 10818
+Brechin, Forrestal Street, 46570, 54381, 80485
+Carnoustie, 31290
+Cemetery, 72704
+Construction site, Finavon Street, Dundee, 49789, 70712
+Construction site, 71 Lothian Crescent, Dundee, 72704
+Cult location, desert, 44406, 72713, 26749
+Dock Street, Dundee, 66963, 26749
+Discovery Quay, Dundee, 67348, 26749
+East School Road, Dundee, 36515
+Finavon Street, Dundee, 70712
+Forrestal Street, Brechin, 46570
+Kirsty Semple Way, 72662
+Lothian Crescent, Dundee, 31290
+Newport-on-Tay, St Mary's Lane, 66963
+School, 36515
+Strathmartine Road, Dundee, 46570
+Strathmore Avenue, Dundee, 74200, 67876
+Synagogue, Adelaide Place, Dundee, 81679, 72662
+Synagogue, 54381
+Turnberry Avenue, Dundee, 67876

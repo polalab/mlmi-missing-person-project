@@ -1,0 +1,5 @@
+Disappearance via Communal Involvement, [37003, 40505, 84311, 3998, 94461, 18369, 29099, 45619, 5980, 13420, 76930, 101687]  
+Disappearance from Public Places, [8215, 69757, 75670, 12740, 13420]  
+Disappearance near Storm Drains, [29099, 45619]  
+Disappearance near Attics, [18369, 21768, 13420]  
+Disappearance near Forested Areas, [37003, 29099, 5980, 13420, 76930]

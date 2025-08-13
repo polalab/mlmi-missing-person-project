@@ -1,0 +1,5 @@
+highway
+rooftop
+hotel/motel
+bar/nightclub
+restaurant

@@ -1,0 +1,114 @@
+Edward Street 1 CB30SZ, 1234
+school, 12345
+sports arena, 18826
+Craigs Terrace, 51731
+Rumford, 18826
+Blackston Road, 18826
+Avonbridge, 18826
+Foundry Loan, 18826
+Larbert, 18826
+1 Arnothill, 89564
+Falkirk, 89564
+hunting area, 89564
+1 Garrison Place, 97264
+Falkirk, 97264
+FK1 1AA, 97264
+24 Munro Road, 97264
+Stirling, 97264
+FK7 7UU, 97264
+17 Whitehouse Road, 97264
+FK7 7XX, 97264
+Greenside Street, 8391
+Alloa, 8391
+FK10 1EB, 8391
+storm drain, 8391
+Kemper Avenue, 8391
+Bruce Street, 25996
+Alloa, 25996
+sports arena, 25996
+1 Arnothill, 54999
+Falkirk, 54999
+Arnothill, 54999
+Burns Crescent, 56324
+FK2 9LJ, 56324
+4 Brown Street, 36670
+FK1 4QF, 36670
+Dunhalin, 36670
+Rumford, 36670
+FK2 0SE, 36670
+hunting area, 36670
+1 Garrison Place, 69869
+Falkirk, 69869
+Crossgatehead Road, 69869
+Brightons, 69869
+grocery store, 69869
+Kenilworth Drive, 76890
+FK2 9LH, 76890
+Glensburgh Road, 45100
+FK3 8XJ, 45100
+storm drain, 45100
+Glensburgh Road, 57559
+FK3 8XJ, 57559
+Burns Crescent, 57559
+FK2 9LJ, 57559
+West Murrayfield, 59824
+Stirling, 59824
+FK7 8NB, 59824
+school area, 59824
+Blackston Road, 59824
+Avonbridge, 59824
+FK1 2NB, 59824
+Kenilworth Drive, 76890
+FK2 9LH, 76890
+Glensburgh Road, 45100
+FK3 8XJ, 45100
+storm drain, 45100
+Earl's Road, 89791
+Grangemouth, 89791
+Blackston Road, 89791
+Avonbridge, 89791
+Burns Crescent, 89791
+FK2 9LJ, 89791
+hiking trail, 47219
+Garrison Place, 47219
+Falkirk, 47219
+Bruce Street, 85413
+Alloa, 85413
+storm drain, 85413
+Stirling, 85413
+1 Garrison Place, 85568
+Falkirk, 85568
+Glensburgh Road, 75171
+FK3 8XJ, 75171
+17 Whitehouse Road, 75171
+Stirling, 75171
+FK7 7XX, 75171
+Blackston Road, 56084
+Avonbridge, 56084
+Burns Crescent, 56084
+FK2 9LJ, 56084
+storm drain, 56084
+4 Brown Street, 42945
+FK1 4QF, 42945
+Foundry Loan, 746
+Larbert, 746
+FK5 4AW, 746
+sports arena, 746
+Bruce Street, 16419
+Alloa, 16419
+17 Whitehouse Road, 16419
+Stirling, 16419
+FK7 7XX, 16419
+Craigs Terrace, 76673
+Rumford, 76673
+FK2 0SD, 76673
+hunting area, 76673
+1 Burnbank Road, 32143
+Falkirk, 32143
+FK2 7PE, 32143
+Kenilworth Drive, 32143
+FK2 9LH, 32143
+school, 101649
+hiking trail, 101649
+storm drain, 101651
+hiking trail, 101651

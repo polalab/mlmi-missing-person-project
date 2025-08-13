@@ -1,0 +1,22 @@
+Amber Smith,Alice Smith,sister,96137
+Amber Smith,Jordan Carter,son,96137
+Amber Smith,Beverley Thompson,friend,71946
+Amber Smith,Alice Smith,sister,71946
+Amber Smith,Joe Simmons,colleague,3148
+Amber Smith,Alice Smith,sister,190
+Amber Smith,Joe Simmons,colleague,190
+Amber Smith,Carole,friend,78589
+Amber Smith,Ellie,friend,4723
+Amber Smith,Beverley Thompson,friend,98585
+Amber Smith,Alice Smith,sister,94597
+Amber Smith,Elaine Gilbert,colleague,61469
+Amber Smith,Alice Smith,sister,6759
+Amber Smith,John Edwards,son,36706
+Amber Smith,Alice Smith,sister,82068
+Amber Smith,Alice Smith,sister,96734
+Amber Smith,William Parkin,colleague,37090
+Amber Smith,Alice Smith,sister,89863
+Amber Smith,Alice Smith,sister,32658
+Amber Smith,William Parkin,colleague,37090
+Amber Smith,Alice Smith,sister,82068
+Amber Smith,Kathryn,distant acquaintance,96734

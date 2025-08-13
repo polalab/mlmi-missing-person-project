@@ -1,0 +1,160 @@
+Disappearance Record:
+Report number: 35589
+Name: Brenda Brown
+Date of Birth: 2012-09-26
+Sex: F
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2022-05-21 00:00:00
+Date Reported Missing: 2022-05-21 00:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2032
+When Traced: 2022-05-22 09:52:00
+Missing From Address: Gordon Crescent,  AB34 5HJ (Home)
+Traced at Address: Dee Street, Banchory, AB31 5HS
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 79048
+Name: Brenda Brown
+Date of Birth: 2012-09-26
+Sex: F
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2022-10-17 09:52:00
+Date Reported Missing: 2022-10-17 16:52:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6204
+When Traced: 2022-10-21 17:16:00
+Missing From Address: 10 Garden Wood, Inchmarlo, AB31 4AW (sports club)
+Traced at Address: Beltie Road,  AB31 4JT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 67223
+Name: Brenda Brown
+Date of Birth: 2012-09-26
+Sex: F
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2023-02-10 17:16:00
+Date Reported Missing: 2023-02-11 04:16:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4506
+When Traced: 2023-02-13 20:22:00
+Missing From Address: Gordon Crescent,  AB34 5HJ (Home)
+Traced at Address: Seafield Circle, Buckie, AB56 5AD
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 19015
+Name: Brenda Brown
+Date of Birth: 2012-09-26
+Sex: F
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2023-03-19 20:22:00
+Date Reported Missing: 2023-03-19 22:22:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2554
+When Traced: 2023-03-21 14:56:00
+Missing From Address: Gordon Crescent,  AB34 5HJ (Home)
+Traced at Address: Rannes Street, Insch, AB52 6JJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 75977
+Name: Brenda Brown
+Date of Birth: 2012-09-26
+Sex: F
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2023-08-10 14:56:00
+Date Reported Missing: 2023-08-11 05:56:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1255
+When Traced: 2023-08-11 11:51:00
+Missing From Address: Gordon Crescent,  AB34 5HJ (Home)
+Traced at Address: Rannes Street, Insch, AB52 6JJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 11248
+Name: Brenda Brown
+Date of Birth: 2012-09-26
+Sex: F
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2024-01-14 11:51:00
+Date Reported Missing: 2024-01-14 23:51:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6705
+When Traced: 2024-01-19 03:36:00
+Missing From Address: Gordon Crescent,  AB34 5HJ (Home)
+Traced at Address: Dee Street, Banchory, AB31 5HS
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 28551
+Name: Brenda Brown
+Date of Birth: 2012-09-26
+Sex: F
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2024-06-11 03:36:00
+Date Reported Missing: 2024-06-11 05:36:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 468
+When Traced: 2024-06-11 11:24:00
+Missing From Address: Gordon Crescent,  AB34 5HJ (Home)
+Traced at Address: Seafield Circle, Buckie, AB56 5AD
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 56904
+Name: Brenda Brown
+Date of Birth: 2012-09-26
+Sex: F
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2024-07-07 11:24:00
+Date Reported Missing: 2024-07-07 18:24:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 744
+When Traced: 2024-07-07 23:48:00
+Missing From Address: Gordon Crescent,  AB34 5HJ (Home)
+Traced at Address: Rannes Street, Insch, AB52 6JJ
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 2991
+Name: Brenda Brown
+Date of Birth: 2012-09-26
+Sex: F
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2024-09-25 23:48:00
+Date Reported Missing: 2024-09-26 04:48:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 9099
+When Traced: 2024-10-02 07:27:00
+Missing From Address: Gordon Crescent,  AB34 5HJ (Home)
+Traced at Address: Seafield Circle, Buckie, AB56 5AD
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 11961
+Name: Brenda Brown
+Date of Birth: 2012-09-26
+Sex: F
+Place of Birth: Ely
+Occupation: 
+Missing Since: 2025-03-03 07:27:00
+Date Reported Missing: 2025-03-03 21:27:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6859
+When Traced: 2025-03-08 01:46:00
+Missing From Address: Gordon Crescent,  AB34 5HJ (Home)
+Traced at Address: Dee Street, Banchory, AB31 5HS
+Traced by: Traced by Police
+

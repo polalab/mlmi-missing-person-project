@@ -1,0 +1,22 @@
+Stewart Hammond,Mark White,friend,67755
+Stewart Hammond,neighbor,neighbor,67755
+Stewart Hammond,Mark White,friend,73094
+Stewart Hammond,Jean Hammond,family,73094
+Stewart Hammond,Mark White,friend,98505
+Stewart Hammond,brother,brother,98505
+Stewart Hammond,Mark White,friend,61010
+Stewart Hammond,son,son,61010
+Stewart Hammond,Mark White,friend,95119
+Stewart Hammond,Tracey Parkinson,daughter,82205
+Stewart Hammond,Tracey Parkinson,daughter,82205
+Stewart Hammond,friend,friend,22405
+Stewart Hammond,Joseph,brother,22405
+Stewart Hammond,friend,friend,95000
+Stewart Hammond,brother,brother,95000
+Stewart Hammond,Mark White,friend,6561
+Stewart Hammond,son,son,6561
+Stewart Hammond,Mark White,friend,56795
+Stewart Hammond,brother,brother,56795
+Stewart Hammond,friend,friend,64460
+Stewart Hammond,neighbor,neighbor,102022
+Stewart Hammond,Joseph,brother,102022

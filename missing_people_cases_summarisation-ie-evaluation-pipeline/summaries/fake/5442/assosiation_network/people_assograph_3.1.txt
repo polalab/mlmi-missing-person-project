@@ -1,0 +1,90 @@
+Diana Taylor,Barbara Parker,sister,80123
+Diana Taylor,Barbara Parker,sister,27827
+Diana Taylor,Barbara Parker,sister,73173
+Diana Taylor,Barbara Parker,sister,83501
+Diana Taylor,Barbara Parker,sister,28933
+Diana Taylor,Barbara Parker,sister,92091
+Diana Taylor,Barbara Parker,sister,28462
+Diana Taylor,Barbara Parker,sister,92297
+Diana Taylor,Barbara Parker,sister,67279
+Diana Taylor,Barbara Parker,sister,46433
+Diana Taylor,Barbara Parker,sister,523
+Diana Taylor,Barbara Parker,sister,40241
+Diana Taylor,Barbara Parker,sister,276
+Diana Taylor,Barbara Parker,sister,99220
+Diana Taylor,Barbara Parker,sister,53643
+Diana Taylor,Barbara Parker,sister,556
+Diana Taylor,Barbara Parker,sister,5256
+Diana Taylor,Barbara Parker,sister,57369
+Diana Taylor,Barbara Parker,sister,15990
+Diana Taylor,Barbara Parker,sister,86643
+Diana Taylor,Barbara Parker,sister,23446
+Diana Taylor,Barbara Parker,sister,42068
+Diana Taylor,Barbara Parker,sister,75028
+
+Diana Taylor,Wendy Taylor,aunt,3495
+Diana Taylor,Wendy Taylor,aunt,27827
+Diana Taylor,Wendy Taylor,aunt,92091
+Diana Taylor,Wendy Taylor,aunt,46433
+
+Diana Taylor,Joel Martin,uncle,67279
+Diana Taylor,Joel Martin,uncle,28933
+Diana Taylor,Joel Martin,uncle,28462
+Diana Taylor,Joel Martin,uncle,99220
+Diana Taylor,Joel Martin,uncle,86643
+
+Diana Taylor,Victoria Chadwick,colleague,99220
+Diana Taylor,Victoria Chadwick,colleague,53643
+
+Diana Taylor,Nigel Walsh,colleague,40241
+Diana Taylor,Nigel Walsh,colleague,276
+Diana Taylor,Nigel Walsh,colleague,57369
+
+Diana Taylor,Carolyn Taylor,sister,15990
+
+Diana Taylor,Paula Robinson,friend,28462
+Diana Taylor,Paula Robinson,friend,46433
+Diana Taylor,Paula Robinson,friend,42068
+
+Diana Taylor,Vincent,friend,28462
+
+Diana Taylor,Jennifer Connor,colleague,28933
+
+Diana Taylor,son,27827
+Diana Taylor,son,73173
+Diana Taylor,son,83501
+Diana Taylor,son,92091
+Diana Taylor,son,28462
+Diana Taylor,son,53643
+Diana Taylor,son,57369
+Diana Taylor,son,15990
+Diana Taylor,son,86643
+
+Diana Taylor,father,83501
+Diana Taylor,father,92091
+Diana Taylor,father,67279
+
+Diana Taylor,mother,67279
+
+Diana Taylor,grandfather,73173
+
+Diana Taylor,friend,3495
+Diana Taylor,friend,27827
+Diana Taylor,friend,92091
+Diana Taylor,friend,46433
+Diana Taylor,friend,40241
+Diana Taylor,friend,276
+Diana Taylor,friend,99220
+Diana Taylor,friend,53643
+Diana Taylor,friend,556
+Diana Taylor,friend,5256
+Diana Taylor,friend,57369
+Diana Taylor,friend,15990
+Diana Taylor,friend,86643
+Diana Taylor,friend,23446
+Diana Taylor,friend,42068
+Diana Taylor,friend,75028
+
+Diana Taylor,roommate,28462
+
+Diana Taylor,other,101228

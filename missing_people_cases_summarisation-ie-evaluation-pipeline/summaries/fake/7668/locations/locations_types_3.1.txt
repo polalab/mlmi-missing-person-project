@@ -1,0 +1,12 @@
+95128,"10 East Cathcart Street, AB56 1PJ","Residential/Home","Her brother, Nathan Owens, reported that Sian planned to take the train toward a nearby forested area but never returned.",Isolation Seeking
+63156,"Train heading towards a park adjacent to a dense forest","Public Transportation","However, she did not reach her intended destination on the train and was subsequently spotted near a cruise ship docked at a nearby port.",Impulsive/Crisis Location
+58513,"Train with colleague Leon White","Public Transportation","She was later traced by police.",No Pattern
+57169,"Seafield Circle in Buckie","Residential/Home","Beverley Davidson alerted authorities who later located her at Seafield Circle in Buckie.",No Pattern
+90028,"Fishing area within a local forest","Rural/Farm Area","Her daughter became concerned when she couldn't reach Sian and contacted her brother, Nathan Owens.",Isolation Seeking
+18416,"Craigour Road, Torphins","Residential/Home","When police traced her to Craigour Road, Torphins, it seemed she had been exploring the area around a popular fishing spot.",Impulsive/Crisis Location
+1250,"Bridgend of Glenlivet, Ballindalloch, AB37 9BX","Rural/Farm Area","Her colleague, Gerard Blake, mentioned that Sian had intentions to head toward Bridgend of Glenlivet, Ballindalloch, but she never arrived.",Impulsive/Crisis Location
+48655,"14 East Park, Inchmarlo","Residential/Home","She was found safe after family traced her to 14 East Park, Inchmarlo.",No Pattern
+17951,"Cruise ship traveling between Norway and Scotland","Maritime/Vessel","The vessel made a brief stop, and Sian did not return to the designated meeting point.",Impulsive/Crisis Location
+30697,"Park near a forest","Public Park","Her daughter reported her missing when she didn't return after taking a train from Bridgend.",Isolation Seeking
+100699,"Elevator","Public/Elevator","Missing person report initiated.",Impulsive/Crisis Location
+100705,"Forest","Rural/Farm Area","Her daughter mentioned she seemed confused after a train ride but is now safe and receiving support.",Isolation Seeking

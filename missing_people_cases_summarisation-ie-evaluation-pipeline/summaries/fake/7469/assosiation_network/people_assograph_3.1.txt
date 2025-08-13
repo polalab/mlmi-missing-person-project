@@ -1,0 +1,75 @@
+Maureen Anderson,Charlie Taylor,son,9061
+Maureen Anderson,unknown partner,romantic partner,9061
+Maureen Anderson,Sylvia Kaur,colleague,38409
+Maureen Anderson,Charlie Taylor,son,44298
+Maureen Anderson,Charlie Taylor,son,14060
+Maureen Anderson,Charlie Taylor,son,40731
+Maureen Anderson,Charlie Taylor,son,81137
+Maureen Anderson,Charlie Taylor,son,85298
+Maureen Anderson,Charlie Taylor,son,33621
+Maureen Anderson,Charlie Taylor,son,52312
+Maureen Anderson,Charlie Taylor,son,79174
+Maureen Anderson,Charlie Taylor,son,90045
+Maureen Anderson,Charlie Taylor,son,19064
+Maureen Anderson,Charlie Taylor,son,16003
+Maureen Anderson,Charlie Taylor,son,24539
+Maureen Anderson,Charlie Taylor,son,71952
+Maureen Anderson,Charlie Taylor,son,75673
+Maureen Anderson,Charlie Taylor,son,25401
+Maureen Anderson,Charlie Taylor,son,69728
+Maureen Anderson,Charlie Taylor,son,19022
+Maureen Anderson,Charlie Taylor,son,93537
+Maureen Anderson,Charlie Taylor,son,56331
+Maureen Anderson,Charlie Taylor,son,12678
+Maureen Anderson,Charlie Taylor,son,43817
+Maureen Anderson,Charlie Taylor,son,74484
+Maureen Anderson,Charlie Taylor,son,24660
+Maureen Anderson,Charlie Taylor,son,9372
+Maureen Anderson,Charlie Taylor,son,85391
+Maureen Anderson,Charlie Taylor,son,35407
+Maureen Anderson,Charlie Taylor,son,36486
+Maureen Anderson,Charlie Taylor,son,71413
+Maureen Anderson,Charlie Taylor,son,9447
+Maureen Anderson,Fiona Anderson,sister,81137
+Maureen Anderson,Fiona Anderson,sister,85298
+Maureen Anderson,Fiona Anderson,sister,33621
+Maureen Anderson,Fiona Anderson,sister,24539
+Maureen Anderson,Fiona Anderson,sister,71952
+Maureen Anderson,Fiona Anderson,sister,75673
+Maureen Anderson,Fiona Anderson,sister,25401
+Maureen Anderson,Fiona Anderson,sister,36486
+Maureen Anderson,Fiona Anderson,sister,35407
+Maureen Anderson,Kathryn Anderson,sister,40731
+Maureen Anderson,Kathryn Anderson,sister,43817
+Maureen Anderson,Liam Anderson,uncle,52312
+Maureen Anderson,Liam Anderson,uncle,19022
+Maureen Anderson,Liam Anderson,uncle,36486
+Maureen Anderson,Liam Anderson,uncle,9447
+Maureen Anderson,unknown partner,romantic partner,14060
+Maureen Anderson,unknown partner,romantic partner,79174
+Maureen Anderson,unknown partner,romantic partner,90045
+Maureen Anderson,unknown partner,romantic partner,56331
+Maureen Anderson,unknown partner,romantic partner,93537
+Maureen Anderson,unknown partner,romantic partner,85391
+Maureen Anderson,Jordan Day,colleague,44298
+Maureen Anderson,Jordan Day,colleague,71413
+Maureen Anderson,Sylvia Kaur,colleague,14060
+Maureen Anderson,Sylvia Kaur,colleague,79174
+Maureen Anderson,Jenna O'Neill,colleague,52312
+Maureen Anderson,Ronald Thompson,fellow volunteer,43817
+Maureen Anderson,Dawn Carr,friend,16003
+Maureen Anderson,Yvonne Moore,family friend,16003
+Maureen Anderson,friend,friend,12678
+Maureen Anderson,friend,friend,9372
+Maureen Anderson,friend,friend,9447
+Maureen Anderson,roommate,roommate,36486
+Maureen Anderson,roommate,roommate,69728
+Maureen Anderson,roommate,roommate,19022
+Maureen Anderson,roommate,roommate,93537
+Maureen Anderson,roommate,roommate,85391
+Maureen Anderson,roommate,roommate,35407
+Maureen Anderson,roommate,roommate,24660
+Maureen Anderson,roommate,roommate,9372
+Maureen Anderson,roommate,roommate,9447
+Maureen Anderson,other,other,102232
+Maureen Anderson,other,other,102236

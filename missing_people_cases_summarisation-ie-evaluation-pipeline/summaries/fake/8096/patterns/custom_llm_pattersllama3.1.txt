@@ -1,0 +1,5 @@
+Disappearance near cliffs, [50906, 11788, 72959, 14095, 36648]  
+Disappearance near rest areas, [50906, 10003, 41699, 11788, 36648]  
+Disappearance after visiting shelters, [50906, 1048, 41699, 100609, 36648]  
+Disappearance due to identity crisis, [80703, 58666, 53375, 62306, 64967]  
+Disappearance due to chronic illness stress, [10003, 14095, 99465, 61631, 100608]

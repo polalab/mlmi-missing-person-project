@@ -1,0 +1,4 @@
+farm
+campground
+church
+rehab center

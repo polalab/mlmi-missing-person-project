@@ -1,0 +1,5 @@
+94951,self_harm_attempt_pattern,self_harm_attempt_pattern,"Kelly Goodwin, recently outed, went missing from Larkfield Road; colleagues said she planned to sleep rough at North Pier beach."
+101159,attempt_to_escape_pattern,attempt_to_escape_pattern,"Kelly, 87, with mobility impairment, went missing after she was last seen near a back road, requiring immediate assistance."
+101160,attempt_to_escape_pattern,attempt_to_escape_pattern,"Kelly, 87, with mobility impairments, was last seen by colleague Keith Manning heading toward the back road. Kelly planned to sleep rough and may have continued to the beach area."
+101160,planned_to_sleep_rough_pattern,planned_to_sleep_rough_pattern,"Kelly, 87, with mobility impairments, was last seen by colleague Keith Manning heading toward the back road. Kelly planned to sleep rough and may have continued to the beach area."
+94951,planned_to_sleep_rough_pattern,planned_to_sleep_rough_pattern,"Kelly Goodwin, recently outed, went missing from Larkfield Road; colleagues said she planned to sleep rough at North Pier beach."

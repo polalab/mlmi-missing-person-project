@@ -1,0 +1,5 @@
+Squatting Patterns, [65014, 5409, 24329, 44349, 45226, 26295, 91126, 98903, 17990]  
+Remote Cabin Visits, [35509, 98903, 17990]  
+Train Boarding, [5409, 24329, 45757, 35509, 26295]  
+Medication Missed, [44349, 45226, 26295, 16316, 85460]  
+Avoiding Contact, [35509, 85460]

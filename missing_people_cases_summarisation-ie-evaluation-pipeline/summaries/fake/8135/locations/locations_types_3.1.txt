@@ -1,0 +1,46 @@
+22117,10 Inch View,Kinghorn,Home,Concerns rose when he failed to appear as planned,Disorientation due to disability
+10815,137 Admiralty Road,Rosyth,Book Club,Failed to show up at the book club,Disorientation due to disability
+12118,21 David the First Street,Kinghorn,Petting Zoo,Failed to return,Disorientation due to disability
+23528,10 Inch View,Kinghorn,Home,Failed to arrive at bingo hall,Disorientation due to disability
+36847,21 David the First Street,Kinghorn,Petting Zoo,Found safe at Lodge Rise,Disorientation due to disability
+19360,10 Inch View,Kinghorn,Home,Failed to arrive at aunt's house,Disorientation due to disability
+24451,137 Park Road West,Rosyth,Community Center,Failed to return,Disorientation due to disability
+8191,53 Newton Crescent,Rosyth,Home,Failed to return,Disorientation due to disability
+32956,21 David the First Street,Kinghorn,Petting Zoo,Found safe at Lodge Rise,Disorientation due to disability
+62241,28 Cunzie Street,Kinghorn,Sister's House,Failed to return,Disorientation due to disability
+97283,15 Woodside Avenue,Rosyth,Unknown,Failed to return,Disorientation due to disability
+52753,137 Park Road West,Rosyth,Community Center,Failed to return,Disorientation due to disability
+46982,13 Jutland Street,Rosyth,Unknown,Failed to return,Disorientation due to disability
+14112,10 Inch View,Kinghorn,Home,Failed to return,Disorientation due to disability
+84627,1 Craig Court,Burntisland,Unknown,Failed to return,Disorientation due to disability
+67957,34 Pettycur Bay,Kinghorn,Assisted Living Facility,Failed to return,Disorientation due to disability
+62603,47 Geds Mill Close,Burntisland,Unknown,Failed to return,Disorientation due to disability
+97242,10 Inch View,Kinghorn,Home,Failed to return,Disorientation due to disability
+4816,10 Inch View,Kinghorn,Home,Failed to return,Disorientation due to disability
+65485,Amusement Park,Unknown,Failed to return,Disorientation due to disability
+6889,Chapel Level,Kirkcaldy,Petting Zoo,Failed to return,Disorientation due to disability
+10109,137 Park Road West,Rosyth,Community Center,Failed to return,Disorientation due to disability
+25990,36-42 Watson Avenue,St Andrews,Amusement Park,Failed to return,Disorientation due to disability
+12271,10 Inch View,Kinghorn,Home,Failed to return,Disorientation due to disability
+85548,42 Mid Shore,Crail,Unknown,Failed to return,Disorientation due to disability
+1715,10 Inch View,Kinghorn,Home,Failed to return,Disorientation due to disability
+49028,36-42 Watson Avenue,St Andrews,Amusement Park,Failed to return,Disorientation due to disability
+34026,1 Findlay Crescent,Rosyth,Unknown,Failed to return,Disorientation due to disability
+73616,137 Park Road West,Rosyth,Community Center,Failed to return,Disorientation due to disability
+26492,10 Inch View,Kinghorn,Home,Failed to return,Disorientation due to disability
+76397,10 Inch View,Kinghorn,Home,Failed to return,Disorientation due to disability
+30896,Langlands Road,St Andrews,Amusement Park,Failed to return,Disorientation due to disability
+99584,Limekilns Road,Dunfermline,Unknown,Failed to return,Disorientation due to disability
+83766,13 Jutland Street,Rosyth,Unknown,Failed to return,Disorientation due to disability
+62045,21 David the First Street,Kinghorn,Petting Zoo,Failed to return,Disorientation due to disability
+70136,1 Primrose Avenue,Rosyth,Amusement Park,Failed to return,Disorientation due to disability
+65056,Lammerlaws,Burntisland,Unknown,Failed to return,Disorientation due to disability
+40652,10 Inch View,Kinghorn,Home,Failed to return,Disorientation due to disability
+56559,Neighborhood Cafe,Unknown,Failed to return,Disorientation due to disability
+7706,Amusement Park,Unknown,Failed to return,Disorientation due to disability
+90473,6-9 West Green,Crail,Pharmacy,Failed to return,Disorientation due to disability
+16661,34 Kirkton Drive,Burntisland,Adult Day Care,Failed to return,Disorientation due to disability
+42121,137 Park Road West,Rosyth,Amusement Park,Failed to return,Disorientation due to disability
+85443,71 King's Crescent,Rosyth,Unknown,Failed to return,Disorientation due to disability
+64160,Neighborhood Cafe,Unknown,Failed to return,Disorientation due to disability
+2923,Lammerlaws,Burntisland,Amusement Park,Failed to return,Disorientation due to disability

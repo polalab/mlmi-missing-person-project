@@ -1,0 +1,48 @@
+Disappearance Record:
+Report number: 18507
+Name: Heather Hamilton
+Date of Birth: 2014-11-03
+Sex: F
+Place of Birth: York
+Occupation: 
+Missing Since: 2024-08-01 00:00:00
+Date Reported Missing: 2024-08-01 00:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 6697
+When Traced: 2024-08-05 15:37:00
+Missing From Address: East School Road, Dundee, DD3 8NX (Home)
+Traced at Address: Unit 3 Fowler Road, Dundee, DD5 3RU
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 64654
+Name: Heather Hamilton
+Date of Birth: 2014-11-03
+Sex: F
+Place of Birth: York
+Occupation: 
+Missing Since: 2024-12-31 15:37:00
+Date Reported Missing: 2024-12-31 15:37:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2975
+When Traced: 2025-01-02 17:12:00
+Missing From Address: East School Road, Dundee, DD3 8NX (Home)
+Traced at Address: Unit 3 Fowler Road, Dundee, DD5 3RU
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 79256
+Name: Heather Hamilton
+Date of Birth: 2014-11-03
+Sex: F
+Place of Birth: York
+Occupation: 
+Missing Since: 2025-05-31 17:12:00
+Date Reported Missing: 2025-06-01 05:12:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2650
+When Traced: 2025-06-02 13:22:00
+Missing From Address: East School Road, Dundee, DD3 8NX (Home)
+Traced at Address: 3 Boniface Place, Dundee, DD2 5DR
+Traced by: Traced by family
+

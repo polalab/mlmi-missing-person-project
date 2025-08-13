@@ -1,0 +1,4 @@
+46309,"85 Bassett Avenue, Glasgow, G13 3JP","Residential Address","Known for taking periodic trips to unwind, Clive had informed his colleague about the getaway, promising to return by the weekend","Escape/Unwind Location"
+46309,"Main Road, G84 0AH","Road/Highway","Clive explained he had extended his camping trip unexpectedly due to new trail routes, unaware of the concern he had caused","Impulsive/Crisis Location"
+46309,"Campground","Rural/Farm Area","Despite extensive searches in the vicinity of known campgrounds, there were no initial signs of Clive","Isolation Seeking"
+100647,"Campground","Rural/Farm Area","Clive was found at the campground appearing distressed and overwhelmed","Impulsive/Crisis Location"

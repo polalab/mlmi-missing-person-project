@@ -1,0 +1,32 @@
+Disappearance Record:
+Report number: 80185
+Name: Jay Johnson
+Date of Birth: 1977-03-08
+Sex: Male
+Place of Birth: Cambridge
+Occupation: Programmer, applications
+Missing Since: 2025-04-11 00:00:00
+Date Reported Missing: 2025-04-11 18:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2775
+When Traced: 2025-04-12 22:15:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 10 The Stables, Perth, PH1 2TW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 24797
+Name: Jay Johnson
+Date of Birth: 1977-03-08
+Sex: Male
+Place of Birth: Cambridge
+Occupation: Programmer, applications
+Missing Since: 2025-05-01 22:15:00
+Date Reported Missing: 2025-05-02 11:15:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9402
+When Traced: 2025-05-08 10:57:00
+Missing From Address: 312 Greengairs Road, Greengairs, ML6 7TQ (Home)
+Traced at Address: 5 Pheasant Walk, North Berwick, EH39 5HX
+Traced by: Traced by Police
+

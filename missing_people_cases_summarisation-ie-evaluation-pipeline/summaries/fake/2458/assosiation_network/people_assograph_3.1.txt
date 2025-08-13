@@ -1,0 +1,48 @@
+Daniel Cooper,Keith James,colleague,63044
+Daniel Cooper,Claire Davies,associate,63044
+Daniel Cooper,Keith James,friend,54726
+Daniel Cooper,foster father,father,54726
+Daniel Cooper,Mohammad Davidson,family friend,54726
+Daniel Cooper,Rebecca Williams,friend,54726
+Daniel Cooper,Sheila Elliott,friend,54726
+Daniel Cooper,Claire Davies,friend,99106
+Daniel Cooper,friend,friend,99106
+Daniel Cooper,Claire Davies,friend,4983
+Daniel Cooper,Mohammad Davidson,family friend,4983
+Daniel Cooper,foster father,father,19890
+Daniel Cooper,stranger,unknown,19890
+Daniel Cooper,Claire Davies,friend,43658
+Daniel Cooper,foster father,father,43658
+Daniel Cooper,Sheila Elliott,friend,43658
+Daniel Cooper,Claire Davies,friend,67124
+Daniel Cooper,family member,family member,67124
+Daniel Cooper,friend,friend,23911
+Daniel Cooper,friend,friend,81537
+Daniel Cooper,sheila Elliott,friend,81537
+Daniel Cooper,Claire Davies,friend,24110
+Daniel Cooper,stranger,unknown,24110
+Daniel Cooper,foster father,father,71112
+Daniel Cooper,friend,friend,71112
+Daniel Cooper,Claire Davies,friend,56491
+Daniel Cooper,friend,friend,56491
+Daniel Cooper,Megan Murray,friend,56491
+Daniel Cooper,foster father,father,95450
+Daniel Cooper,friend,friend,95450
+Daniel Cooper,Claire Davies,friend,25053
+Daniel Cooper,foster father,father,25053
+Daniel Cooper,Lynda Ferguson,neighbor,25053
+Daniel Cooper,foster father,father,24309
+Daniel Cooper,Joe Pritchard,friend,24309
+Daniel Cooper,stranger,unknown,24309
+Daniel Cooper,foster father,father,76869
+Daniel Cooper,friend,friend,76869
+Daniel Cooper,stranger,unknown,76869
+Daniel Cooper,foster father,father,77471
+Daniel Cooper,Anna Bryant,colleague,77471
+Daniel Cooper,Mohammad Davidson,family friend,77471
+Daniel Cooper,friend,friend,17344
+Daniel Cooper,friend,friend,17344
+Daniel Cooper,stranger,unknown,17344
+Daniel Cooper,friend,friend,70065
+Daniel Cooper,friend,friend,70065
+Daniel Cooper,Jacob Powell,disagreement,102520

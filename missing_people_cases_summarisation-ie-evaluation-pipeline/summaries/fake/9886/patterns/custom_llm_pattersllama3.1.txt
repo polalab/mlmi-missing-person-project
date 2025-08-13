@@ -1,0 +1,5 @@
+Disappearance near gang territory, [14266, 44469, 101181, 101188, 101191]  
+Disappearance near a ski resort, [99853, 62021, 101182, 101184]  
+Disappearance near a sewer, [62021, 64317, 101189]  
+Disappearance due to living off-grid, [8893, 99853]  
+Disappearance due to memory issues, [64317]

@@ -1,0 +1,38 @@
+Dennis Burns,Valerie Turner,previous foster arrangement,36198
+Dennis Burns,Family,family member,36198
+Dennis Burns,Friends,friends,36198
+Dennis Burns,Valerie Turner,previous foster arrangement,56754
+Dennis Burns,Friends,friends,56754
+Dennis Burns,Holly Reed,friend,56754
+Dennis Burns,Friends,friends,82071
+Dennis Burns,Sian Day,friends,43434
+Dennis Burns,Friends,friends,43434
+Dennis Burns,Sian Day,friends,43434
+Dennis Burns,Foster Family,family member,43434
+Dennis Burns,Friends,friends,15805
+Dennis Burns,Friends,friends,15805
+Dennis Burns,Friends,friends,15805
+Dennis Burns,Friends,friends,15805
+Dennis Burns,Friend,friends,15805
+Dennis Burns,Foster Family,family member,15805
+Dennis Burns,Friends,friends,83346
+Dennis Burns,Friends,friends,83346
+Dennis Burns,Foster Family,family member,83346
+Dennis Burns,Roy Clark,friends,18217
+Dennis Burns,Friends,friends,18217
+Dennis Burns,Friends,friends,18217
+Dennis Burns,Elaine Stevens,fellow protester,5029
+Dennis Burns,Elaine Stevens,fellow protester,5029
+Dennis Burns,Jay Johnson,friends,60737
+Dennis Burns,Jay Johnson,friends,60737
+Dennis Burns,Foster Family,family member,60737
+Dennis Burns,Grace,friends,86033
+Dennis Burns,Grace,friends,86033
+Dennis Burns,Jacqueline Field,colleague,101344
+Dennis Burns,Jacqueline Field,colleague,101344
+Dennis Burns,Jacqueline Field,friend,101344
+Dennis Burns,Jacqueline Field,friend,101344
+Dennis Burns,Jacqueline Field,friend,101349
+Dennis Burns,Jacqueline Field,friend,101349
+Dennis Burns,Friend,friends,101351
+Dennis Burns,Friend,friends,101351

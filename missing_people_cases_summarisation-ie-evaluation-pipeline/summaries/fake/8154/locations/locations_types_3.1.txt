@@ -1,0 +1,7 @@
+47374,312 Greengairs Road,Residence,"Mark had been discussing feeling overwhelmed due to work pressures","Overwhelmed/Work-Related Location"
+47374,Gallanach Road,Public Road,"Mark was traced to Gallanach Road, safe and cooperative with the officers","Escape/Alternative Location"
+47374,Greengairs,Neighborhood/Area,"Mark's brother, Toby Abbott, last saw him at the residence before leaving for a meeting","Familiar/Local Location"
+47374,312 Greengairs Road,Residence,"Mark's close friend, Clive, expressed concerns as Mark had been discussing feeling overwhelmed due to work pressures","Overwhelmed/Work-Related Location"
+47374,Greengairs,Neighborhood/Area,"Mark was known to go for long walks to clear his mind","Escape/Alternative Location"
+47374,Greengairs,Neighborhood/Area,"Mark did not attend a planned outing with his son, Allan Warren","Familiar/Local Location"
+47374,Greengairs,Neighborhood/Area,"Police were notified and after a search, Mark was traced to Gallanach Road, safe and cooperative with the officers","Familiar/Local Location"

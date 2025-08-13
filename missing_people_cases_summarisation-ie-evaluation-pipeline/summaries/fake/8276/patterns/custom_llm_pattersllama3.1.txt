@@ -1,0 +1,5 @@
+Disappearance by Transportation, [2601, 92394, 102021]  
+Disappearance near Cruise Ships, [2601, 1712, 102014]  
+Disappearance near Vehicle-Related Areas, [75394, 102016, 102021]  
+Disappearance after Erratic Behavior, [1712, 17825, 19185, 102014]  
+Disappearance after Release from Institution, [64194, 92394, 19185, 75394]

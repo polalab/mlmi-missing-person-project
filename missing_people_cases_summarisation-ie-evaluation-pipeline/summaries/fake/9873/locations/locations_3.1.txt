@@ -1,0 +1,21 @@
+1a Beech Grove, Livingston, EH54 5JL, 31030
+bus station, 31030
+barn, 31030
+ocean, 31030
+Countess Crescent, 77584
+local sports club, 77584
+docks, 77584
+acquaintance's address, 77584
+69-71 Whitehill Street, Musselburgh, 1426
+shoreline, 1426
+abandoned structure, 1426
+Torphin Road, Edinburgh, 57022
+summer camp, 57022
+33 Morningside Road, 57022
+Elizabeth Drive, Bathgate, 57022
+14 Links Road, 57022
+5 Drysdale Road, Edinburgh, 57022
+115-125 Walker Drive, South Queensferry, 42473
+bus station, 101040
+barn, 101040
+ocean, 101040

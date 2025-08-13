@@ -1,0 +1,19 @@
+campground, 18915
+Strathmartine Road, 18915
+campground, 37784
+22 Marine Parade Walk, Dundee, 37784
+campground, 105
+Fort Street, Dundee, 105
+31 Step Row, Dundee, 30259
+Hyndford Street, 30259
+31 Step Row, Dundee, 47854
+summer camp, 47854
+Fort Street, 47854
+Ballumbie Road, 47854
+Hyndford Street, 47854
+31 Step Row, Dundee, 2796
+summer camp, 2796
+campground, 2796
+shopping mall, 14025
+airplane, 14025
+Hyndford Street, 14025

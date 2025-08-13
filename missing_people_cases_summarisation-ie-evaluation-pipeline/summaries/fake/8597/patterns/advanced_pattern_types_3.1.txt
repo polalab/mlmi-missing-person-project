@@ -1,0 +1,24 @@
+14834,"Frank had spoken of disappearing and used aliases in the past",self_declared_disappearance_pattern,"Frank Garner, who had spoken of disappearing and used aliases in the past, was last seen at a grocery store near 312 Greengairs Road."
+14834,"Frank was later traced by police, following concerns about his whereabouts given his illegal employment status",police_intervention_pattern,"Frank was later traced by police, following concerns about his whereabouts given his illegal employment status."
+
+12267,"Frank might have also planned to visit a physical therapy clinic",unintentional_wandering_pattern,"An inquiry revealed Frank might have also planned to visit a physical therapy clinic."
+12267,"police were notified and a search was initiated",police_intervention_pattern,"Despite the low initial risk level, police were notified and a search was initiated."
+
+26944,"Frank expressed a desire to disappear",self_declared_disappearance_pattern,"Frank Garner, known for using aliases and having once been a mental health facility patient, expressed a desire to disappear."
+26944,"police traced him to Rosyth, where he had assumed another name",police_intervention_pattern,"Eventually, police traced him to Rosyth, where he had assumed another name."
+
+46918,"Frank was later found safe by police at Alexander Place with his friend",police_intervention_pattern,"Despite having spoken of disappearing, he was later found safe by police at Alexander Place with his friend."
+
+82272,"Traced at 1G Bank Street, he was found confused but safe and returned home by police",police_intervention_pattern,"Traced at 1G Bank Street, he was found confused but safe and returned home by police."
+
+15100,"On being traced, Frank was found in Strathview Gardens, Pitlochry, indicating he may have intended a solo retreat without informing family",self_imposed_isolation_pattern,"On being traced, Frank was found in Strathview Gardens, Pitlochry, indicating he may have intended a solo retreat without informing family."
+
+16436,"Frank has a history of using aliases in the past, and this habit raised concerns when he seemingly vanished without leaving clear information about his whereabouts",self_declared_disappearance_pattern,"Frank has a history of using aliases in the past, and this habit raised concerns when he seemingly vanished without leaving clear information about his whereabouts."
+
+28161,"He was later found safe at home",police_intervention_pattern,"He was later found safe at home."
+
+102419,"nan",no_pattern,"nan"
+
+102420,"He appeared lost and confused, requiring assistance to return home",unintentional_wandering_pattern,"He appeared lost and confused, requiring assistance to return home."
+
+102423,"prompting concern from a colleague about his current state and need for support",self_declared_disappearance_pattern,"Frank, a 90-year-old with dementia, has been using aliases in the past, prompting concern from a colleague about his current state and need for support."

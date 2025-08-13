@@ -1,0 +1,5 @@
+Disappearance at Unfamiliar Locations, [51733, 6495]  
+Disappearance from Home, [72540, 57381, 37389]  
+Disappearance from Public Places, [93386, 102425, 102426, 102427]  
+Disappearance after Meeting Friends, [72540, 51733]  
+Disappearance after Engaging in Unusual Behavior, [93386, 57381, 102431]

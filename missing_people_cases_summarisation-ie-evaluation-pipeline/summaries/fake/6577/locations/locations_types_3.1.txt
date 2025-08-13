@@ -1,0 +1,5 @@
+53040,"Minto Place, Dundee","Public Square/Street","left his job unexpectedly and was last seen at Minto Place, Dundee","Impulsive/Workplace Crisis Location"
+53040,"16 Cleghorn Street, Dundee","Residential/Home","reported him missing from 16 Cleghorn Street, Dundee","Home/Comfort Zone"
+3085,"Ballumbie Road, Dundee","Public Square/Street","headed toward Ballumbie Road, Dundee","Impulsive/Transition Location"
+3085,"16 Cleghorn Street, Dundee","Residential/Home","leaving 16 Cleghorn Street, Dundee","Home/Comfort Zone"
+3085,"Dundee","Public Square/Street","found at a different location in the city","Impulsive/Transition Location"

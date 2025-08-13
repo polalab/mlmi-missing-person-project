@@ -1,0 +1,5 @@
+Disappearance by Following a Person, [39832, 70446, 83217, 27259, 20594]  
+Disappearance at or Near a River, [41657, 21322, 47079, 486, 38485, 84957]  
+Disappearance at or Near an Amusement Park, [44182, 63691, 91145]  
+Disappearance After Leaving a Known Location, [75272, 13882, 18150, 12659]  
+Disappearance After Leaving a Mental Health Facility, [39832, 12659, 27259, 20594]

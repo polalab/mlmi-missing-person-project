@@ -1,0 +1,5 @@
+Disappearance near cliffs, [39079, 101299, 101300]  
+Unusual travel to isolated areas, [39079]  
+Late night or evening disappearance, []  
+Disappearance during or after engaging in unusual activities, [39079]  
+Disappearance near areas of interest, [39079]

@@ -1,0 +1,7 @@
+51997,"Crow Road, Glasgow","Park/Open Space","Known for occasionally mistaking routes, Patrick was later traced by police to 85 Bassett Avenue, Glasgow, G13 3JP, showing signs of disorientation","Disorientation/Route Mistake"
+51997,"Belsyde Avenue, Glasgow","Street/Urban Area","Known for occasionally mistaking routes, Patrick was later traced by police to 85 Bassett Avenue, Glasgow, G13 3JP, showing signs of disorientation","Disorientation/Route Mistake"
+101546,"Belsyde Avenue, Glasgow","Street/Urban Area","He is receiving appropriate care, but this incident highlights the need for continued monitoring and support","Disorientation/Route Mistake"
+101547,"Crow Road, Glasgow","Street/Urban Area","Patrick with dementia was seen confused on Crow Road, Glasgow, G66 7GX by Martin","Disorientation/Route Mistake"
+101548,"River/Church Area","River/Water Body","Patrick, aged 91, was reported vulnerable following an incident where he was last seen near a river after he visited a nearby church","Isolation Seeking/Disorientation"
+101548,"Tunnel Area","Tunnel/Underpass","Patrick, aged 91, was reported vulnerable following an incident where he was last seen near a river after he visited a nearby church","Isolation Seeking/Disorientation"
+101549,"Church Area","Place of Worship","Patrick mentioned disappearing at church","Isolation Seeking/Disorientation"

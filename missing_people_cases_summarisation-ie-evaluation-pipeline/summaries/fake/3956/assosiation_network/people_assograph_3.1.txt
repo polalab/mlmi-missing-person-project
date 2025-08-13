@@ -1,0 +1,403 @@
+Maria Allan,Maria Allan,foster father,31705
+Maria Allan,Marie,friend,31705
+Maria Allan,Olivia Evans,found by,31705
+Maria Allan,Owen Bryant,friend,19192
+Maria Allan,Duncan Bird,friend,19192
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Danielle Harris,friend,71192
+Maria Allan,Danielle Harris,meeting,71192
+Maria Allan,Danielle Harris,foster father,71192
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,65385
+Maria Allan,Colin Gordon,notified,65385
+Maria Allan,Colin Gordon,initiated,65385
+Maria Allan,Louise,friend,60209
+Maria Allan,Louise,foster father's residence,60209
+Maria Allan,Louise,heading,60209
+Maria Allan,Russell Atkins,searcher,60209
+Maria Allan,Colin Gordon,friend,

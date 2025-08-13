@@ -1,0 +1,4 @@
+sports arena
+elevator
+boat
+cabin

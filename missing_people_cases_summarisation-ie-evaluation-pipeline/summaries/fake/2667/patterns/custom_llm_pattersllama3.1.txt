@@ -1,0 +1,5 @@
+Disorientation upon discovery, [31477, 59485, 49950, 74009, 40722]  
+Unplanned departure with personal items left behind, [41304, 49950, 34539, 19519, 74009]  
+Frequent visits to mental health-related locations, [41304, 49950, 40722, 101223, 101227]  
+Last seen in a public area, [10275, 19519, 101221, 101225, 101227]  
+Destination indicated by personal items or maps, [41304, 49950, 19519, 74009, 101226]

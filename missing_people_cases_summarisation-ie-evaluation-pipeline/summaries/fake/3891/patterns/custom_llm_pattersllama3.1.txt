@@ -1,0 +1,5 @@
+Tendency to Frequent Remote Areas, [73395, 67068, 86295, 60509, 6760]  
+Pattern of Leaving Personal Belongings Behind, [60509, 64934, 69553]  
+Tendency to Seek Solitude in Secluded Locations, [67068, 11401, 76118]  
+Involvement with Communes or Alternative Communities, [73395, 76852, 18484]  
+Disorientation or Need for Support in Unfamiliar Environments, [101944, 101946, 101948]

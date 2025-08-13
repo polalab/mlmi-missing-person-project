@@ -1,0 +1,5 @@
+Disappearance near a rehab center, [7503, 58148, 31553, 44299, 12060, 66259]  
+Disappearance near a factory, [19646, 83772, 55116, 72794]  
+Disappearance near a location of personal significance, [37472, 42628, 19646, 55116, 72794]  
+Disappearance after an identity crisis, [37472, 83772, 66259, 72794]  
+Disappearance after a heated exchange, [72794]

@@ -1,0 +1,160 @@
+Disappearance Record:
+Report number: 69025
+Name: Amanda Lyons
+Date of Birth: 2010-12-07
+Sex: F
+Place of Birth: Lancaster
+Occupation: 
+Missing Since: 2023-03-15 00:00:00
+Date Reported Missing: 2023-03-15 22:00:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9916
+When Traced: 2023-03-21 21:16:00
+Missing From Address: Earl's Road, Grangemouth, FK3 8UZ (Home)
+Traced at Address: Kenilworth Drive,  FK2 9LH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 71476
+Name: Amanda Lyons
+Date of Birth: 2010-12-07
+Sex: F
+Place of Birth: Lancaster
+Occupation: 
+Missing Since: 2023-08-06 21:16:00
+Date Reported Missing: 2023-08-07 09:16:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6651
+When Traced: 2023-08-11 12:07:00
+Missing From Address: Earl's Road, Grangemouth, FK3 8UZ (Home)
+Traced at Address: Kirk Entry Bo'ness Road, Falkirk, FK2 0QS
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 94998
+Name: Amanda Lyons
+Date of Birth: 2010-12-07
+Sex: F
+Place of Birth: Lancaster
+Occupation: 
+Missing Since: 2023-12-21 12:07:00
+Date Reported Missing: 2023-12-22 07:07:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9645
+When Traced: 2023-12-28 04:52:00
+Missing From Address: Earl's Road, Grangemouth, FK3 8UZ (Home)
+Traced at Address: West Murrayfield, Stirling, FK7 8NB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 37846
+Name: Amanda Lyons
+Date of Birth: 2010-12-07
+Sex: F
+Place of Birth: Lancaster
+Occupation: 
+Missing Since: 2024-01-19 04:52:00
+Date Reported Missing: 2024-01-19 04:52:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1558
+When Traced: 2024-01-20 06:50:00
+Missing From Address: Earl's Road, Grangemouth, FK3 8UZ (Home)
+Traced at Address: Kenilworth Drive,  FK2 9LH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 11274
+Name: Amanda Lyons
+Date of Birth: 2010-12-07
+Sex: F
+Place of Birth: Lancaster
+Occupation: 
+Missing Since: 2024-07-16 06:50:00
+Date Reported Missing: 2024-07-17 03:50:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3378
+When Traced: 2024-07-18 15:08:00
+Missing From Address: Earl's Road, Grangemouth, FK3 8UZ (Home)
+Traced at Address: Earl's Road, Grangemouth, FK3 8UZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 70125
+Name: Amanda Lyons
+Date of Birth: 2010-12-07
+Sex: F
+Place of Birth: Lancaster
+Occupation: 
+Missing Since: 2024-08-06 15:08:00
+Date Reported Missing: 2024-08-07 03:08:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 6349
+When Traced: 2024-08-11 00:57:00
+Missing From Address: Earl's Road, Grangemouth, FK3 8UZ (Home)
+Traced at Address: Ercall Road, Brightons, FK2 0RJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 86995
+Name: Amanda Lyons
+Date of Birth: 2010-12-07
+Sex: F
+Place of Birth: Lancaster
+Occupation: 
+Missing Since: 2024-08-20 00:57:00
+Date Reported Missing: 2024-08-21 05:57:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 6825
+When Traced: 2024-08-24 18:42:00
+Missing From Address: Earl's Road, Grangemouth, FK3 8UZ (Home)
+Traced at Address: West Murrayfield, Stirling, FK7 8NB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 93709
+Name: Amanda Lyons
+Date of Birth: 2010-12-07
+Sex: F
+Place of Birth: Lancaster
+Occupation: 
+Missing Since: 2024-11-18 18:42:00
+Date Reported Missing: 2024-11-19 11:42:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3621
+When Traced: 2024-11-21 07:03:00
+Missing From Address: Earl's Road, Grangemouth, FK3 8UZ (Home)
+Traced at Address: Dunhalin, Rumford, FK2 0SE
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 23298
+Name: Amanda Lyons
+Date of Birth: 2010-12-07
+Sex: F
+Place of Birth: Lancaster
+Occupation: 
+Missing Since: 2025-01-28 07:03:00
+Date Reported Missing: 2025-01-28 19:03:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2422
+When Traced: 2025-01-29 23:25:00
+Missing From Address: Earl's Road, Grangemouth, FK3 8UZ (Home)
+Traced at Address: Earl's Road, Grangemouth, FK3 8UZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 59029
+Name: Amanda Lyons
+Date of Birth: 2010-12-07
+Sex: F
+Place of Birth: Lancaster
+Occupation: 
+Missing Since: 2025-04-23 23:25:00
+Date Reported Missing: 2025-04-24 04:25:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8805
+When Traced: 2025-04-30 02:10:00
+Missing From Address: Earl's Road, Grangemouth, FK3 8UZ (Home)
+Traced at Address: Ercall Road, Brightons, FK2 0RJ
+Traced by: Traced by Police
+

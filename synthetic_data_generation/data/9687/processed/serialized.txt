@@ -1,0 +1,64 @@
+Disappearance Record:
+Report number: 25176
+Name: Gerald Steele
+Date of Birth: 2004-01-18
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Prison officer
+Missing Since: 2024-09-19 00:00:00
+Date Reported Missing: 2024-09-19 00:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4178
+When Traced: 2024-09-21 21:38:00
+Missing From Address: Dumbarton Road,  FK8 2QL (Home)
+Traced at Address: Kirk Entry Bo'ness Road, Falkirk, FK2 0QS
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 92025
+Name: Gerald Steele
+Date of Birth: 2004-01-18
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Prison officer
+Missing Since: 2025-01-15 21:38:00
+Date Reported Missing: 2025-01-16 18:38:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5890
+When Traced: 2025-01-19 23:48:00
+Missing From Address: Dumbarton Road,  FK8 2QL (Home)
+Traced at Address: Glensburgh Road,  FK3 8XJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 87678
+Name: Gerald Steele
+Date of Birth: 2004-01-18
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Prison officer
+Missing Since: 2025-03-08 23:48:00
+Date Reported Missing: 2025-03-08 19:48:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 105
+When Traced: 2025-03-09 01:33:00
+Missing From Address: Dumbarton Road,  FK8 2QL (Home)
+Traced at Address: Glensburgh Road,  FK3 8XJ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 44415
+Name: Gerald Steele
+Date of Birth: 2004-01-18
+Sex: Male
+Place of Birth: Aberdeen
+Occupation: Prison officer
+Missing Since: 2025-03-13 01:33:00
+Date Reported Missing: 2025-03-13 10:33:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4003
+When Traced: 2025-03-15 20:16:00
+Missing From Address: Well Place, Dunblane, FK15 9BQ (grocery store)
+Traced at Address: 33 Spittal Street,  FK8 1DU
+Traced by: Traced by Police
+

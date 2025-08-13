@@ -1,0 +1,13 @@
+18915,"Oliver left the campsite in the middle of the night, consistent with his previous behavior of wandering off.",wandering_off_pattern,"Witnesses recall Oliver leaving the campsite in the middle of the night, which was consistent with his previous behavior of wandering off."
+
+37784,"Oliver disappeared from the campground after an airplane sighting, consistent with his previous behavior of avoiding social services.",avoiding_authorities_after_airplane_sighting_pattern,"A friend reported concerns after Oliver went missing following an airplane sighting."
+
+105,"Oliver disappeared during a supervised visit related to child custody arrangements, consistent with his previous behavior of avoiding social services.",avoiding_custody_arrangements_pattern,"His friend, Sally Stephens, notified authorities after failing to contact him."
+
+30259,"Oliver disappeared from his home due to concerns over addiction, consistent with his previous behavior of avoiding social services.",avoiding_social_services_due_to_addiction_pattern,"Concerns over addiction led friends to search nearby campgrounds."
+
+47854,"Oliver left his foster home with concerns surrounding his well-being due to addiction issues and a tendency to avoid social services, consistent with his previous behavior of avoiding social services.",avoiding_social_services_with_addiction_issues_pattern,"His foster father, Brandon Fox, reported that Oliver had mentioned meeting a friend at a summer camp located nearby."
+
+2796,"Oliver was reported missing from his home due to concerns for his safety, heightened due to his previous behavioral patterns and whispers within his circle about addiction issues, consistent with his previous behavior of avoiding social services.",avoiding_social_services_with_addiction_issues_and_airplane_sighting_pattern,"Additionally, there were unverified reports suggesting he might attempt to stow away on an airplane, hinting at possible plans to leave the area clandestinely."
+
+14025,"Oliver boarded an airplane without notifying anyone, consistent with his previous behavior of avoiding social services.",boarding_airplane_without_notification_pattern,"He reportedly boarded an airplane without notifying anyone."

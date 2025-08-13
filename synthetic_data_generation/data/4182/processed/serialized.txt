@@ -1,0 +1,80 @@
+Disappearance Record:
+Report number: 75267
+Name: Lorraine Smith
+Date of Birth: 2008-08-04
+Sex: F
+Place of Birth: Lichfield
+Occupation: 
+Missing Since: 2023-10-27 00:00:00
+Date Reported Missing: 2023-10-27 06:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9343
+When Traced: 2023-11-02 11:43:00
+Missing From Address: 28 Cunzie Street, Anstruther, KY10 3DF (Home)
+Traced at Address: 18-21 Mellor Court, Rosyth, KY11 2RB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 75130
+Name: Lorraine Smith
+Date of Birth: 2008-08-04
+Sex: F
+Place of Birth: Lichfield
+Occupation: 
+Missing Since: 2024-01-10 11:43:00
+Date Reported Missing: 2024-01-10 17:43:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 5494
+When Traced: 2024-01-14 07:17:00
+Missing From Address: 28 Cunzie Street, Anstruther, KY10 3DF (Home)
+Traced at Address: 42 Mid Shore,  KY10 2NW
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 93930
+Name: Lorraine Smith
+Date of Birth: 2008-08-04
+Sex: F
+Place of Birth: Lichfield
+Occupation: 
+Missing Since: 2024-05-15 07:17:00
+Date Reported Missing: 2024-05-17 00:17:00
+Day Reported Missing: Friday
+Length Missing (minutes): 7767
+When Traced: 2024-05-20 16:44:00
+Missing From Address: 28 Cunzie Street, Anstruther, KY10 3DF (Home)
+Traced at Address: 18-21 Mellor Court, Rosyth, KY11 2RB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 26039
+Name: Lorraine Smith
+Date of Birth: 2008-08-04
+Sex: F
+Place of Birth: Lichfield
+Occupation: 
+Missing Since: 2024-09-10 16:44:00
+Date Reported Missing: 2024-09-11 05:44:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 8174
+When Traced: 2024-09-16 08:58:00
+Missing From Address: 28 Cunzie Street, Anstruther, KY10 3DF (Home)
+Traced at Address: 43 Findlay Street, Rosyth, KY11 2RF
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 7865
+Name: Lorraine Smith
+Date of Birth: 2008-08-04
+Sex: F
+Place of Birth: Lichfield
+Occupation: 
+Missing Since: 2025-01-29 08:58:00
+Date Reported Missing: 2025-01-29 16:58:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 3489
+When Traced: 2025-01-31 19:07:00
+Missing From Address: 28 Cunzie Street, Anstruther, KY10 3DF (Home)
+Traced at Address: 18-21 Mellor Court, Rosyth, KY11 2RB
+Traced by: Traced by staff
+

@@ -1,0 +1,5 @@
+Disappearance near water, [51333, 61834, 102182]  
+Disappearance in a parking lot, [10509, 99351, 102175, 102176]  
+Disappearance in a snowy area, [37572, 102170, 102172, 102182]  
+Disappearance linked to online activity, [61834, 102172, 102176]  
+Disappearance linked to a known walking route, [10509]

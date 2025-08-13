@@ -1,0 +1,6 @@
+island
+restaurant
+ocean
+sewer
+parking lot
+cliff

@@ -1,0 +1,176 @@
+Disappearance Record:
+Report number: 27313
+Name: Jacob West
+Date of Birth: 1997-10-28
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Market researcher
+Missing Since: 2019-11-30 00:00:00
+Date Reported Missing: 2019-11-30 21:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9222
+When Traced: 2019-12-06 09:42:00
+Missing From Address: 43 Union Road,  FK1 4PG (Home)
+Traced at Address: West Bridge Street, Falkirk, FK1 5AP
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 72666
+Name: Jacob West
+Date of Birth: 1997-10-28
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Market researcher
+Missing Since: 2019-12-09 09:42:00
+Date Reported Missing: 2019-12-09 10:42:00
+Day Reported Missing: Monday
+Length Missing (minutes): 3817
+When Traced: 2019-12-12 01:19:00
+Missing From Address: 43 Union Road,  FK1 4PG (Home)
+Traced at Address: 1 Arnothill, Falkirk, FK1 5RY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 53022
+Name: Jacob West
+Date of Birth: 1997-10-28
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Market researcher
+Missing Since: 2019-12-14 01:19:00
+Date Reported Missing: 2019-12-14 02:19:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 4734
+When Traced: 2019-12-17 08:13:00
+Missing From Address: 43 Union Road,  FK1 4PG (Home)
+Traced at Address: West Bridge Street, Falkirk, FK1 5AP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 8411
+Name: Jacob West
+Date of Birth: 1997-10-28
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Market researcher
+Missing Since: 2020-04-13 08:13:00
+Date Reported Missing: 2020-04-13 17:13:00
+Day Reported Missing: Monday
+Length Missing (minutes): 6525
+When Traced: 2020-04-17 20:58:00
+Missing From Address: 43 Union Road,  FK1 4PG (Home)
+Traced at Address: 1 Arnothill, Falkirk, FK1 5RY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 39717
+Name: Jacob West
+Date of Birth: 1997-10-28
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Market researcher
+Missing Since: 2020-05-05 20:58:00
+Date Reported Missing: 2020-05-06 15:58:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 1451
+When Traced: 2020-05-06 21:09:00
+Missing From Address: 43 Union Road,  FK1 4PG (Home)
+Traced at Address: 4 Brown Street,  FK1 4QF
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 45492
+Name: Jacob West
+Date of Birth: 1997-10-28
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Market researcher
+Missing Since: 2020-07-26 21:09:00
+Date Reported Missing: 2020-07-27 21:09:00
+Day Reported Missing: Monday
+Length Missing (minutes): 4757
+When Traced: 2020-07-30 04:26:00
+Missing From Address: 43 Union Road,  FK1 4PG (Home)
+Traced at Address: Bruce Street, Alloa, FK10 1RX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 877
+Name: Jacob West
+Date of Birth: 1997-10-28
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Market researcher
+Missing Since: 2020-09-07 04:26:00
+Date Reported Missing: 2020-09-07 07:26:00
+Day Reported Missing: Monday
+Length Missing (minutes): 518
+When Traced: 2020-09-07 13:04:00
+Missing From Address: 43 Union Road,  FK1 4PG (Home)
+Traced at Address: 1 Arnothill, Falkirk, FK1 5RY
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 34404
+Name: Jacob West
+Date of Birth: 1997-10-28
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Market researcher
+Missing Since: 2020-11-27 13:04:00
+Date Reported Missing: 2020-11-28 11:04:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 8430
+When Traced: 2020-12-03 09:34:00
+Missing From Address: 43 Union Road,  FK1 4PG (Home)
+Traced at Address: Kirk Entry Bo'ness Road, Falkirk, FK2 0QS
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 18715
+Name: Jacob West
+Date of Birth: 1997-10-28
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Market researcher
+Missing Since: 2021-01-30 09:34:00
+Date Reported Missing: 2021-01-31 06:34:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 7567
+When Traced: 2021-02-04 15:41:00
+Missing From Address: 43 Union Road,  FK1 4PG (Home)
+Traced at Address: Foundry Loan, Larbert, FK5 4AW
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 6050
+Name: Jacob West
+Date of Birth: 1997-10-28
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Market researcher
+Missing Since: 2021-07-01 15:41:00
+Date Reported Missing: 2021-07-02 05:41:00
+Day Reported Missing: Friday
+Length Missing (minutes): 3633
+When Traced: 2021-07-04 04:14:00
+Missing From Address: 43 Union Road,  FK1 4PG (Home)
+Traced at Address: 4 Brown Street,  FK1 4QF
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 54940
+Name: Jacob West
+Date of Birth: 1997-10-28
+Sex: Male
+Place of Birth: Lancaster
+Occupation: Market researcher
+Missing Since: 2021-10-31 04:14:00
+Date Reported Missing: 2021-10-31 20:14:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 5813
+When Traced: 2021-11-04 05:07:00
+Missing From Address: 43 Union Road,  FK1 4PG (Home)
+Traced at Address: 4 Brown Street,  FK1 4QF
+Traced by: Traced by Police
+

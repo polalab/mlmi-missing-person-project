@@ -1,0 +1,71 @@
+{
+    "forenames": "Leonard",
+    "surname": "Smith",
+    "maidenname": "",
+    "nickname": "Karl",
+    "misperid": 3614,
+    "nominalid": 7345,
+    "sex": "Male",
+    "date_of_birth": "1999-01-17",
+    "age": 26,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "White other",
+    "person_language": "English",
+    "place_of_birth": "Stirling",
+    "disability_status": "No",
+    "disability_desc": "",
+    "occupation": "Charity fundraiser",
+    "reports_starting_from": "2021-07-29",
+    "addresses": [
+        {
+            "address": "Dundee Road, Arbroath, DD11 2NQ",
+            "type": "Home"
+        },
+        {
+            "address": "Derwent Avenue, Dundee, DD3 0AX",
+            "type": "evening classes"
+        },
+        {
+            "address": "71 Lothian Crescent, Dundee, DD4 0HU",
+            "type": "workplace"
+        },
+        {
+            "address": "31 Step Row, Dundee, DD2 1AH",
+            "type": "sports league"
+        },
+        {
+            "address": "Discovery Quay, Dundee, DD1 4XA",
+            "type": "gym"
+        },
+        {
+            "address": "146 Pitkerro Road, Dundee, DD4 8ER",
+            "type": "regular commute"
+        },
+        {
+            "address": "Fort Street, Dundee, DD2 1BS",
+            "type": "fitness center"
+        }
+    ],
+    "traced_locations": [
+        "33 Blackness Avenue, Dundee, DD2 1EY",
+        "38 Forrestal Street, Brechin, DD9 7XG",
+        "22 Marine Parade Walk, Dundee, DD1 3AU",
+        "New Road, Forfar, DD8 2AE",
+        "Minto Place, Dundee, DD2 1BR",
+        "Tayside Street, Carnoustie, DD7 6AX",
+        "296A Strathmore Avenue, Dundee, DD3 6SH",
+        "Adelaide Place, Dundee, DD3 6LE",
+        "Derwent Avenue, Dundee, DD3 0AX",
+        "11 Panmure Terrace, Dundee, DD5 2QL"
+    ],
+    "people_reporting": [
+        "Owen Greenwood",
+        "Gerard Atkins",
+        "Lorraine Barrett",
+        "Harriet Barlow",
+        "Simon Smith",
+        "Anne McKenzie",
+        "Marcus Graham"
+    ]
+}

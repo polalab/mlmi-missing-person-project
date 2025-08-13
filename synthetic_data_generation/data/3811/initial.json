@@ -1,0 +1,60 @@
+{
+    "forenames": "Hollie",
+    "surname": "Dodd",
+    "maidenname": "",
+    "nickname": "Voluptas",
+    "misperid": 3811,
+    "nominalid": 8757,
+    "sex": "Female",
+    "date_of_birth": "1990-06-12",
+    "age": 35,
+    "foster care": false,
+    "child_protection": false,
+    "ethnical_appearance": "Black African",
+    "person_language": "French",
+    "place_of_birth": "Bristol",
+    "disability_status": "No",
+    "disability_desc": "",
+    "occupation": "Planning and development surveyor",
+    "reports_starting_from": "2020-06-22",
+    "addresses": [
+        {
+            "address": "Glengallen Road, Oban, PA34 4HH",
+            "type": "Home"
+        },
+        {
+            "address": "Park Mains, Erskine, PA8 7AL",
+            "type": "lunch meeting"
+        },
+        {
+            "address": "An t-Sr\u00e0id,  PA34 5UG",
+            "type": "coffee shop"
+        },
+        {
+            "address": "North Pier, Oban, PA34 5QD",
+            "type": "neighborhood association"
+        }
+    ],
+    "traced_locations": [
+        "Glengallen Road, Oban, PA34 4HH",
+        "Larkfield Road, Inverclyde, PA16 0XN",
+        "North Pier, Oban, PA34 5QD",
+        "Railway Pier, Oban, PA34 4LW",
+        "1 Customhouse Way,  PA15 1EG",
+        "1 Newark Street,  PA14 5PE",
+        "An t-Sr\u00e0id,  PA34 5UG",
+        "Gallanach Road,  PA34 4PE",
+        "Park Mains, Erskine, PA8 7AL",
+        "4 Hillwood Terrace, Rosyth, KY11 2DJ",
+        "Torphichen Road, Bathgate, EH48 4LA"
+    ],
+    "people_reporting": [
+        "Roy Coleman",
+        "Marc Hammond",
+        "Cheryl Lee",
+        "Patricia Dodd",
+        "Leonard Turner",
+        "Louis Scott",
+        "Roy Parkes"
+    ]
+}

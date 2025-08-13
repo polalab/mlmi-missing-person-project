@@ -1,0 +1,5 @@
+Disappearance at Night, [47374]  
+Disappearance During or After a Social Engagement, []  
+Disappearance in a Familiar or Residential Area, [47374]  
+Disappearance in a Public or Open Space, []  
+Disappearance with a Planned or Scheduled Activity, [47374]

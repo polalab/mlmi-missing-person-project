@@ -1,0 +1,39 @@
+Louise King,Jake Smith,friend,37472
+Louise King,Colleague,other,37472
+Louise King,Rosie Williamson,friend,12060
+Louise King,Jake Smith,friend,7503
+Louise King,Colleague,other,7503
+Louise King,Jake Smith,friend,58148
+Louise King,Colleague,other,58148
+Louise King,Jake Smith,friend,31553
+Louise King,Colleague,other,31553
+Louise King,Jake Smith,friend,42628
+Louise King,Family member,other,42628
+Louise King,Jake Smith,friend,19646
+Louise King,Colleague,other,19646
+Louise King,Jake Smith,friend,83772
+Louise King,Colleague,other,83772
+Louise King,Kirsty,friend,44299
+Louise King,Colleague,other,44299
+Louise King,Jake Smith,friend,84822
+Louise King,Colleague,other,84822
+Louise King,Jake Smith,friend,55116
+Louise King,Colleague,other,55116
+Louise King,Jake Smith,friend,66259
+Louise King,Colleague,other,66259
+Louise King,Jake Smith,friend,72794
+Louise King,Colleague,other,72794
+Jake Smith,Louise King,friend,37472
+Jake Smith,Louise King,friend,7503
+Jake Smith,Louise King,friend,58148
+Jake Smith,Louise King,friend,31553
+Jake Smith,Louise King,friend,42628
+Jake Smith,Louise King,friend,19646
+Jake Smith,Louise King,friend,83772
+Jake Smith,Louise King,friend,44299
+Jake Smith,Louise King,friend,84822
+Jake Smith,Louise King,friend,55116
+Jake Smith,Louise King,friend,66259
+Jake Smith,Louise King,friend,72794
+Rosie Williamson,Louise King,friend,12060
+Kirsty,Louise King,friend,44299

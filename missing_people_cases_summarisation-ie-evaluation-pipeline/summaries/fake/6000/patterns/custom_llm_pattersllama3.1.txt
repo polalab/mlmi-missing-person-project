@@ -1,0 +1,5 @@
+Disappearance near Military Bases, [16127, 30543, 94715, 14417, 6436]  
+Disappearance near Airplane Hangars, [30543, 78985, 14417, 66665]  
+Disappearance near Safe Houses, [85278, 72892, 78985, 54034]  
+Disappearance near Unfamiliar Locations, [86742, 66665, 54034]  
+Disappearance from Gym or Locker Room, [30543, 78985, 54034]

@@ -1,0 +1,42 @@
+Amanda Lyons,Aunt Jane Lloyd,other,102309
+Amanda Lyons,Colleague,other,102314
+Amanda Lyons,Grandfather,other,93709
+Amanda Lyons,Grandmother,other,93709
+Amanda Lyons,Grandmother,other,23298
+Amanda Lyons,Grandmother,other,11274
+Amanda Lyons,Grandmother,other,70125
+Amanda Lyons,Grandmother,other,59029
+Amanda Lyons,Brother,other,86995
+Amanda Lyons,Brother,other,11274
+Amanda Lyons,Colleague,other,37846
+Amanda Lyons,Colleague,other,93709
+Amanda Lyons,Colleague,other,70125
+Amanda Lyons,Colleague,other,59029
+Amanda Lyons,Colleague,other,23298
+Amanda Lyons,Colleague,other,11274
+Amanda Lyons,Friend,other,71476
+Amanda Lyons,Friend,other,94998
+Amanda Lyons,Friend,other,37846
+Amanda Lyons,Friend,other,70125
+Amanda Lyons,Family member,other,94998
+Amanda Lyons,Family member,other,93709
+Amanda Lyons,Family member,other,11274
+Amanda Lyons,Family member,other,59029
+Amanda Lyons,Family member,other,23298
+Amanda Lyons,Roommate,other,94998
+Amanda Lyons,Neighbor,other,94998
+Amanda Lyons,Uncle,other,69025
+Amanda Lyons,Uncle,other,23298
+Amanda Lyons,Uncle,other,59029
+Amanda Lyons,Mother,other,69025
+Amanda Lyons,Mother,other,93709
+Amanda Lyons,Mother,other,11274
+Amanda Lyons,Mother,other,70125
+Amanda Lyons,Mother,other,59029
+Amanda Lyons,Other,other,69025
+Amanda Lyons,Other,other,71476
+Amanda Lyons,Other,other,94998
+Amanda Lyons,Other,other,37846
+Amanda Lyons,Other,other,70125
+Amanda Lyons,Other,other,23298
+Amanda Lyons,Other,other,59029

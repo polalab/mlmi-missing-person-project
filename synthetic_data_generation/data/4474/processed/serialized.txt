@@ -1,0 +1,272 @@
+Disappearance Record:
+Report number: 71148
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2021-01-15 00:00:00
+Date Reported Missing: 2021-01-15 08:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8026
+When Traced: 2021-01-20 13:46:00
+Missing From Address: Riggs Road, Perth, PH1 1PR (mosque)
+Traced at Address: 10 The Stables, Perth, PH1 2TW
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 19649
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2021-01-29 13:46:00
+Date Reported Missing: 2021-01-30 03:46:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 6509
+When Traced: 2021-02-03 02:15:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: 200 Dunkeld Road,  PH1 3GH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 72315
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2021-07-15 02:15:00
+Date Reported Missing: 2021-07-16 09:15:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8971
+When Traced: 2021-07-21 07:46:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: 200 Dunkeld Road,  PH1 3GH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 77696
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2021-11-15 07:46:00
+Date Reported Missing: 2021-11-16 07:46:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 8358
+When Traced: 2021-11-21 03:04:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: 10 The Stables, Perth, PH1 2TW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 69507
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2021-12-21 03:04:00
+Date Reported Missing: 2021-12-21 18:04:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 5231
+When Traced: 2021-12-24 18:15:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: 200 Dunkeld Road,  PH1 3GH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 63299
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2022-01-22 18:15:00
+Date Reported Missing: 2022-01-23 10:15:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 2089
+When Traced: 2022-01-24 05:04:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: 32 Madoch Road, St Madoes, PH2 7TT
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 9398
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2022-05-17 05:04:00
+Date Reported Missing: 2022-05-18 01:04:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 4834
+When Traced: 2022-05-20 13:38:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: Broxden Avenue, Perth, PH2 0PX
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 45827
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2022-10-06 13:38:00
+Date Reported Missing: 2022-10-06 21:38:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1214
+When Traced: 2022-10-07 09:52:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: 200 Dunkeld Road,  PH1 3GH
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 77670
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2022-11-25 09:52:00
+Date Reported Missing: 2022-11-25 19:52:00
+Day Reported Missing: Friday
+Length Missing (minutes): 4580
+When Traced: 2022-11-28 14:12:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: Muirhall Road, Perth, PH2 7BH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 69846
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2022-12-28 14:12:00
+Date Reported Missing: 2022-12-29 11:12:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 3454
+When Traced: 2022-12-30 23:46:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: Broxden Avenue, Perth, PH2 0PX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 62952
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2023-05-29 23:46:00
+Date Reported Missing: 2023-05-29 23:46:00
+Day Reported Missing: Monday
+Length Missing (minutes): 8753
+When Traced: 2023-06-05 01:39:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: Muirhall Road, Perth, PH2 7BH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 42794
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2023-10-01 01:39:00
+Date Reported Missing: 2023-10-01 10:39:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 4000
+When Traced: 2023-10-03 20:19:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: 10 The Stables, Perth, PH1 2TW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 54828
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2023-12-15 20:19:00
+Date Reported Missing: 2023-12-16 04:19:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 2978
+When Traced: 2023-12-17 21:57:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: 200 Dunkeld Road,  PH1 3GH
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 50767
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2024-03-03 21:57:00
+Date Reported Missing: 2024-03-05 03:57:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4970
+When Traced: 2024-03-07 08:47:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: 10 The Stables, Perth, PH1 2TW
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 10885
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2024-07-16 08:47:00
+Date Reported Missing: 2024-07-16 08:47:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 1121
+When Traced: 2024-07-17 03:28:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: 200 Dunkeld Road,  PH1 3GH
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 36382
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2024-09-24 03:28:00
+Date Reported Missing: 2024-09-24 16:28:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 1139
+When Traced: 2024-09-24 22:27:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: Broxden Avenue, Perth, PH2 0PX
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 35831
+Name: Alice Rogers
+Date of Birth: 2005-03-11
+Sex: F
+Place of Birth: Lisburn
+Occupation: Programmer, systems
+Missing Since: 2024-10-15 22:27:00
+Date Reported Missing: 2024-10-17 08:27:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5931
+When Traced: 2024-10-20 01:18:00
+Missing From Address: Edinburgh Road, Perth, PH2 8DX (Home)
+Traced at Address: 10 The Stables, Perth, PH1 2TW
+Traced by: Traced by Police
+

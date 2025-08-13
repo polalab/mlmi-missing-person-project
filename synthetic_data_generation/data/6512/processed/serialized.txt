@@ -1,0 +1,96 @@
+Disappearance Record:
+Report number: 60679
+Name: Mohammed Kent
+Date of Birth: 2002-03-19
+Sex: Male
+Place of Birth: Cambridge
+Occupation: Engineer, agricultural
+Missing Since: 2023-09-17 00:00:00
+Date Reported Missing: 2023-09-18 05:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2611
+When Traced: 2023-09-18 19:31:00
+Missing From Address: 12 Fyne Brae,  KY11 8XG (Home)
+Traced at Address: 15 Woodside Avenue, Rosyth, KY11 2JS
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 30036
+Name: Mohammed Kent
+Date of Birth: 2002-03-19
+Sex: Male
+Place of Birth: Cambridge
+Occupation: Engineer, agricultural
+Missing Since: 2023-11-19 19:31:00
+Date Reported Missing: 2023-11-19 22:31:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 3350
+When Traced: 2023-11-22 03:21:00
+Missing From Address: 12 Fyne Brae,  KY11 8XG (Home)
+Traced at Address: Kinghorn Road, Burntisland, KY3 9LL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 65918
+Name: Mohammed Kent
+Date of Birth: 2002-03-19
+Sex: Male
+Place of Birth: Cambridge
+Occupation: Engineer, agricultural
+Missing Since: 2024-03-07 03:21:00
+Date Reported Missing: 2024-03-08 01:21:00
+Day Reported Missing: Friday
+Length Missing (minutes): 8479
+When Traced: 2024-03-13 00:40:00
+Missing From Address: 12 Fyne Brae,  KY11 8XG (Home)
+Traced at Address: 18-21 Mellor Court, Rosyth, KY11 2RB
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 23928
+Name: Mohammed Kent
+Date of Birth: 2002-03-19
+Sex: Male
+Place of Birth: Cambridge
+Occupation: Engineer, agricultural
+Missing Since: 2024-08-06 00:40:00
+Date Reported Missing: 2024-08-06 05:40:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4726
+When Traced: 2024-08-09 07:26:00
+Missing From Address: 12 Fyne Brae,  KY11 8XG (Home)
+Traced at Address: Kinghorn Road, Burntisland, KY3 9LL
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 88618
+Name: Mohammed Kent
+Date of Birth: 2002-03-19
+Sex: Male
+Place of Birth: Cambridge
+Occupation: Engineer, agricultural
+Missing Since: 2025-01-15 07:26:00
+Date Reported Missing: 2025-01-16 05:26:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4466
+When Traced: 2025-01-18 09:52:00
+Missing From Address: 12 Fyne Brae,  KY11 8XG (Home)
+Traced at Address: Kinghorn Road, Burntisland, KY3 9LL
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 59165
+Name: Mohammed Kent
+Date of Birth: 2002-03-19
+Sex: Male
+Place of Birth: Cambridge
+Occupation: Engineer, agricultural
+Missing Since: 2025-07-12 09:52:00
+Date Reported Missing: 2025-07-12 09:52:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 9017
+When Traced: 2025-07-18 16:09:00
+Missing From Address: 12 Fyne Brae,  KY11 8XG (Home)
+Traced at Address: 18-21 Mellor Court, Rosyth, KY11 2RB
+Traced by: Traced by Police
+

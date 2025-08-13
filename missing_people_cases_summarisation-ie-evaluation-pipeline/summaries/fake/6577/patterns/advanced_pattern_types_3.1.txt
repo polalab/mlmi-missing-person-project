@@ -1,0 +1,5 @@
+53040,self_harm_attempt_pattern,self_harm_attempt_pattern,"Jeremy Slater left his job unexpectedly"
+3085,self_harm_attempt_pattern,self_harm_attempt_pattern,"Jeremy Slater was last seen leaving 16 Cleghorn Street, Dundee with friend Louis"
+53040,abrupt_leaving_pattern,abrupt_leaving_pattern,"Jeremy Slater left his job unexpectedly"
+3085,abrupt_leaving_pattern,abrupt_leaving_pattern,"Jeremy Slater was last seen leaving 16 Cleghorn Street, Dundee with friend Louis"
+3085,search_operations_pattern,search_operations_pattern,"After intensive search operations by police, he was safely found at a different location in the city"

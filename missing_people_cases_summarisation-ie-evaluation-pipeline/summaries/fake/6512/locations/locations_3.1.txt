@@ -1,0 +1,26 @@
+12 Fyne Brae, KY11 8XG, 60679
+137 Admiralty Road, 60679
+137 Park Road West, 60679
+Woodside Avenue, 60679
+12 Fyne Brae, 30036
+Kinghorn Road, Burntisland, KY3 9LL, 30036
+12 Fyne Brae, 65918
+ocean, 65918
+Edward Street 1 CB30SZ, 65918
+12 Fyne Brae, 23928
+36-42 Watson Avenue, St Andrews, 23928
+137 Park Road West, Rosyth, 23928
+ocean stretch near Burntisland, 23928
+12 Fyne Brae, 88618
+Kinghorn Road, Burntisland, 88618
+41 West Leven Street, Burntisland, KY3 9DZ, 59165
+137 Park Road West, Rosyth, KY11 2TL, 59165
+Edward Street 1 CB30SZ, 59165
+12 Fyne Brae, 59165
+ocean, 102140
+alleyway, 102140
+national park, 102141
+stairwell, 102141
+alleyway, 102143
+ocean, 102144
+stairwell, national park, 102145

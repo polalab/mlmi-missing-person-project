@@ -1,0 +1,5 @@
+Vehicle-related disappearance, [46854, 848, 44264, 38953, 29588, 7281, 18191, 40046, 97563, 77482, 46069, 56535, 17378]  
+Disorientation due to disability or pre-existing condition, [57345, 58592, 26623, 69388, 31631, 18191, 52812, 57241, 77482, 61868, 46069, 56535]  
+Fear of deportation leading to isolation, [14924, 27957, 45538, 52340, 62773, 6105, 47253, 57345, 87441, 31631, 97563, 2237, 56535, 17378]  
+Uncharacteristic behavior leading to disappearance, [8189, 77807, 72065, 30461, 7281, 2237, 77482, 61868, 46069, 56535, 17378]  
+Abandonment of familiar routes or destinations, [20113, 69388, 38953, 52812, 56535, 17378]

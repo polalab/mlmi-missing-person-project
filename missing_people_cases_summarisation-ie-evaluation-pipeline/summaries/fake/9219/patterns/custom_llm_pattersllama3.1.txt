@@ -1,0 +1,5 @@
+Disappearance Near Storm Drains, [29982, 51207, 62480, 23342, 55064, 53698, 56715, 101316, 12303]  
+Disappearance in or Near Abandoned Mines, [37213, 14202, 56715, 46576, 12365, 101317]  
+Disappearance in or Near Elevators, [23342, 62480, 61465, 52412, 87872, 5172, 12303, 101323]  
+Disappearance in or Near Quiet or Isolated Areas, [29982, 51207, 62480, 23342, 35134, 61465, 87872, 5172, 12303]  
+Disappearance After Leaving a Familiar Location, [55064, 65972, 15551, 37213, 46030, 46576, 12365, 5172]

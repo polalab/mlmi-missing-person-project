@@ -1,0 +1,20 @@
+Danny Hughes,Danny Hughes,father,97358
+Danny Hughes,Danny Hughes,mother,97358
+Danny Hughes,Danny Hughes,self,97358
+Danny Hughes,Barbara Day,colleague,97358
+Danny Hughes,Youth Center staff,youth center staff,97358
+Danny Hughes,Police,police,97358
+Danny Hughes,Danny Hughes,self,27720
+Danny Hughes,Danny Hughes,self,25848
+Danny Hughes,Danny Hughes,self,13270
+Danny Hughes,Danny Hughes,self,19262
+Danny Hughes,Danny Hughes,self,49059
+Danny Hughes,Danny Hughes,self,3219
+Danny Hughes,Danny Hughes,self,46992
+Danny Hughes,Danny Hughes,self,102001
+Danny Hughes,Danny Hughes,self,102003
+Danny Hughes,Tracey Watkins,friend,102001
+Danny Hughes,Colleague,friend,102003
+Danny Hughes,Danny Hughes,self,102002
+Danny Hughes,Danny Hughes,self,102005
+Danny Hughes,Colleague,friend,102005

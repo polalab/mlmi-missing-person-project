@@ -1,0 +1,32 @@
+Disappearance Record:
+Report number: 89986
+Name: Joseph Thomas
+Date of Birth: 1962-08-07
+Sex: Male
+Place of Birth: Winchester
+Occupation: Agricultural consultant
+Missing Since: 2025-01-04 00:00:00
+Date Reported Missing: 2025-01-04 23:00:00
+Day Reported Missing: Saturday
+Length Missing (minutes): 7171
+When Traced: 2025-01-08 23:31:00
+Missing From Address: 51 Grampian Court, Perth, PH1 2ST (Home)
+Traced at Address: Balavil Brae, Newtonmore, PH20 1DR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 52838
+Name: Joseph Thomas
+Date of Birth: 1962-08-07
+Sex: Male
+Place of Birth: Winchester
+Occupation: Agricultural consultant
+Missing Since: 2025-06-16 23:31:00
+Date Reported Missing: 2025-06-17 10:31:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 960
+When Traced: 2025-06-17 15:31:00
+Missing From Address: 51 Grampian Court, Perth, PH1 2ST (Home)
+Traced at Address: 83 Burnside Avenue,  PH22 1SE
+Traced by: Traced by family
+

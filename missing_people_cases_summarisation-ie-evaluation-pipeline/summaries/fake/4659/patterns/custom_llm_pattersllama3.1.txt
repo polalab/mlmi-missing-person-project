@@ -1,0 +1,5 @@
+Disappearance via Familiar Routes, [99663, 38472, 10290, 57742]  
+Disappearance via Public Transportation, [38472, 10290]  
+Disappearance via Walking or Biking, [12074, 30, 70586]  
+Disappearance via Train, [38472, 10290, 57742]  
+Disappearance via Unplanned Journey, [10290, 57742]

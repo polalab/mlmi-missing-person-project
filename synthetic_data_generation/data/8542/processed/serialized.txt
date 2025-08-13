@@ -1,0 +1,256 @@
+Disappearance Record:
+Report number: 67425
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2014-10-13 00:00:00
+Date Reported Missing: 2014-10-13 11:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 5744
+When Traced: 2014-10-16 23:44:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Fulton Road,  G62 8PG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 27894
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2015-01-14 23:44:00
+Date Reported Missing: 2015-01-16 01:44:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2895
+When Traced: 2015-01-16 23:59:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 6 Bard Avenue, Glasgow, G13 3JA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 99205
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2015-01-22 23:59:00
+Date Reported Missing: 2015-01-23 02:59:00
+Day Reported Missing: Friday
+Length Missing (minutes): 1321
+When Traced: 2015-01-23 22:00:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 6 Bard Avenue, Glasgow, G13 3JA
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 46504
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2015-04-21 22:00:00
+Date Reported Missing: 2015-04-23 07:00:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4289
+When Traced: 2015-04-24 21:29:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Hall Road, Rhu, G84 8RR
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 82192
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2015-07-05 21:29:00
+Date Reported Missing: 2015-07-07 05:29:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 4926
+When Traced: 2015-07-09 07:35:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Crow Road, Glasgow, G66 7GX
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 5976
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2015-12-21 07:35:00
+Date Reported Missing: 2015-12-21 07:35:00
+Day Reported Missing: Monday
+Length Missing (minutes): 321
+When Traced: 2015-12-21 12:56:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 6 Bard Avenue, Glasgow, G13 3JA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 75416
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2016-05-03 12:56:00
+Date Reported Missing: 2016-05-03 18:56:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 2362
+When Traced: 2016-05-05 04:18:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Crow Road, Glasgow, G66 7GX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 88037
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2016-09-16 04:18:00
+Date Reported Missing: 2016-09-16 13:18:00
+Day Reported Missing: Friday
+Length Missing (minutes): 853
+When Traced: 2016-09-16 18:31:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Crow Road, Glasgow, G66 7GX
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 62657
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2017-03-15 18:31:00
+Date Reported Missing: 2017-03-16 09:31:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 8260
+When Traced: 2017-03-21 12:11:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 279 Milngavie Road, Glasgow, G61 3DQ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 82925
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2017-08-27 12:11:00
+Date Reported Missing: 2017-08-27 21:11:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6516
+When Traced: 2017-09-01 00:47:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Crow Road, Glasgow, G66 7GX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 41663
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2018-02-02 00:47:00
+Date Reported Missing: 2018-02-02 15:47:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6417
+When Traced: 2018-02-06 11:44:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Hall Road, Rhu, G84 8RR
+Traced by: Traced by family
+
+Disappearance Record:
+Report number: 4310
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2018-03-21 11:44:00
+Date Reported Missing: 2018-03-21 11:44:00
+Day Reported Missing: Wednesday
+Length Missing (minutes): 9125
+When Traced: 2018-03-27 19:49:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 6 Bard Avenue, Glasgow, G13 3JA
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 82317
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2018-05-09 19:49:00
+Date Reported Missing: 2018-05-10 04:49:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 2571
+When Traced: 2018-05-11 14:40:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 279 Milngavie Road, Glasgow, G61 3DQ
+Traced by: Traced by member of the public
+
+Disappearance Record:
+Report number: 76770
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2018-10-29 14:40:00
+Date Reported Missing: 2018-10-30 14:40:00
+Day Reported Missing: Tuesday
+Length Missing (minutes): 3723
+When Traced: 2018-11-01 04:43:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Castlecary Road,  G68 0HD
+Traced by: Traced by staff
+
+Disappearance Record:
+Report number: 9841
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2019-01-10 04:43:00
+Date Reported Missing: 2019-01-11 02:43:00
+Day Reported Missing: Friday
+Length Missing (minutes): 2745
+When Traced: 2019-01-12 02:28:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: Acre Drive, Glasgow, G20 0TR
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 44301
+Name: Lewis Birch
+Date of Birth: 1946-02-12
+Sex: Male
+Place of Birth: Chichester
+Occupation: Retired Secondary school teacher
+Missing Since: 2019-02-07 02:28:00
+Date Reported Missing: 2019-02-07 18:28:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 5511
+When Traced: 2019-02-10 22:19:00
+Missing From Address: Hall Road, Rhu, G84 8RR (Home)
+Traced at Address: 55 Diana Avenue, Glasgow, G13 3JW
+Traced by: Traced by staff
+

@@ -1,0 +1,5 @@
+Disappearance via Unstable Housing, [37073, 98613, 75355, 696, 38590]  
+Disappearance via Active Social Media Presence, [98613, 86113, 75355, 696, 17687]  
+Disappearance via Mental Health Issues, [37073, 38129, 89375, 17687, 696]  
+Disappearance via Leaving a Familiar Location, [37073, 98613, 75355, 696, 89375]  
+Disappearance via Heading Towards a Nearby Location, [75355, 38590, 17687]

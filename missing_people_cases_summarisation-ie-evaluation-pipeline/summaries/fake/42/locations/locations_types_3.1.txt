@@ -1,0 +1,8 @@
+22703,"Carmelite Street, Banff","Street/Urban Area","Phoned family saying she was high above water, found sitting wrong side of bridge barriers, fell 20-25 feet","Impulsive/Crisis Location"
+22703,"Seafield Circle, Buckie","Street/Urban Area","Phoned family saying she was high above water, found sitting wrong side of bridge barriers, fell 20-25 feet","Impulsive/Crisis Location"
+22703,"Craigour Road, Torphins","Street/Urban Area","Phoned family saying she was high above water, found sitting wrong side of bridge barriers, fell 20-25 feet","Impulsive/Crisis Location"
+31244,"Garden Wood, Inchmarlo","Camping/Outdoor Area","Full scale search in gorge area, found safe and well","Isolation Seeking"
+31244,"Cemetery, Torphins","Cemetery/Isolated Area","Full scale search in gorge area, found safe and well","Isolation Seeking"
+31244,"Craigour Road, Torphins","Street/Urban Area","Full scale search in gorge area, found safe and well","Isolation Seeking"
+22703,"Inchmarlo Road, Banchory","Street/Urban Area","Phoned family saying she was high above water, found sitting wrong side of bridge barriers, fell 20-25 feet","Impulsive/Crisis Location"
+22703,"East Park, Inchmarlo","Street/Urban Area","Phoned family saying she was high above water, found sitting wrong side of bridge barriers, fell 20-25 feet","Impulsive/Crisis Location"

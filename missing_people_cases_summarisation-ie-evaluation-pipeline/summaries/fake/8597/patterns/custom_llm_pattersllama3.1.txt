@@ -1,0 +1,5 @@
+Disappearance by Unintentional Wandering, [12267, 82272]  
+Disappearance by Solo Retreat, [15100, 16436]  
+Disappearance by Assumed Identity, [14834, 26944, 46918]  
+Disappearance from a Familiar Location, [14834, 26944, 46918, 82272]  
+Disappearance with Confusion or Disorientation, [102419, 16436]

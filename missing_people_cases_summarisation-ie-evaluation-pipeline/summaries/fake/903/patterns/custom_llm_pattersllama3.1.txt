@@ -1,0 +1,5 @@
+Disappearance via Familiar Routes, [18566, 38187, 23008, 51787, 19342]  
+Disappearance via Shopping Malls, [12920, 16455, 19342, 28764, 62707]  
+Disappearance via Cemeteries, [23008, 28764, 16455, 101435, 101440]  
+Disappearance via Abandoned or Unoccupied Buildings, [38187, 42081, 101440]  
+Disappearance via Unplanned or Unannounced Departures, [18566, 38187, 42081, 51787, 84210]

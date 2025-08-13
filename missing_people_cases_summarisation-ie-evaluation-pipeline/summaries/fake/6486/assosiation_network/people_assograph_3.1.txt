@@ -1,0 +1,17 @@
+Laura Evans,Laura Evans,self,31495
+Laura Evans,friend,other,31495
+Laura Evans,uncle,other,31495
+Laura Evans,aunt,other,61276
+Laura Evans,sister,other,61276
+Laura Evans,father,other,101375
+Laura Evans,sister,other,101381
+Laura Evans,sister,mother,31495
+Laura Evans,sister,family,61276
+Laura Evans,sister,family,101381
+Laura Evans,father,family,61276
+Laura Evans,father,family,101381
+Laura Evans,friend,family,31495
+Laura Evans,uncle,family,61276
+Laura Evans,aunt,family,61276
+Laura Evans,uncle,family,61276
+Laura Evans,friend,family,101381

@@ -1,0 +1,17 @@
+28 Cunzie Street, Anstruther, 75267
+7 Pitreavie Court, Dunfermline, 75267
+28 Birch Avenue, Kinghorn, 75267
+18-21 Mellor Court, Rosyth, 75267
+Willow Crescent, Rosyth, 75130
+16 Albert Street, 75130
+Mid Shore, 75130
+Anstruther, 93930
+Mellor Court, Rosyth, 93930
+54 Nethergate South, Crail, 26039
+22 Nicol Drive, Burntisland, 26039
+Nicol Drive, Burntisland, 7865
+Cunzie Street, Anstruther, 7865
+22 Nicol Drive, Burntisland, 7865
+highway, 100056
+highway, 100057
+highway, 100059

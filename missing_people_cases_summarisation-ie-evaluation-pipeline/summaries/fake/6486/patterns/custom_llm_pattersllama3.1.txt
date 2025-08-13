@@ -1,0 +1,5 @@
+Disappearance via Exploration of Isolated Areas, [31495, 61276, 101381]  
+Disappearance from Home, [29762, 101375]  
+Disappearance in a Locker Room, [31495, 29762, 61276, 101375, 101381]  
+Disappearance after Expressing Curiosity, [31495, 61276]  
+Disappearance after Expressing Desire for Independence, [31495, 61276]

@@ -1,0 +1,5 @@
+Elevator Disappearance, [13278, 38168, 38615, 46233, 29766, 90368, 56329, 60170]  
+Elevator Withdrawal, [13278, 46233, 56329, 47739]  
+Storm-Related Disappearance, [38168, 82762, 38615, 23663]  
+Withdrawal from Family, [1365, 47739, 23663]  
+Unplanned Absence, [90368, 60170, 56329]

@@ -1,0 +1,32 @@
+Disappearance Record:
+Report number: 25693
+Name: Jodie Smith
+Date of Birth: 2015-04-09
+Sex: F
+Place of Birth: Colchester
+Occupation: 
+Missing Since: 2025-04-07 00:00:00
+Date Reported Missing: 2025-04-07 19:00:00
+Day Reported Missing: Monday
+Length Missing (minutes): 2996
+When Traced: 2025-04-09 01:56:00
+Missing From Address: Clunie Bridge Road, Pitlochry, PH16 5JY (Home)
+Traced at Address: Edinburgh Road, Perth, PH2 8DX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 34100
+Name: Jodie Smith
+Date of Birth: 2015-04-09
+Sex: F
+Place of Birth: Colchester
+Occupation: 
+Missing Since: 2025-07-04 01:56:00
+Date Reported Missing: 2025-07-04 18:56:00
+Day Reported Missing: Friday
+Length Missing (minutes): 5753
+When Traced: 2025-07-08 01:49:00
+Missing From Address: Oak Road, Birnam, Dunkeld, PH8 0BL (playground)
+Traced at Address: Caledonian Road, Perth, PH1 5XD
+Traced by: Traced by Police
+

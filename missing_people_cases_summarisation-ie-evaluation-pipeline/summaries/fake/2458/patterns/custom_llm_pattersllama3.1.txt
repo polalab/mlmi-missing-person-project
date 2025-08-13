@@ -1,0 +1,5 @@
+Disappearance at Amusement Parks, [63044, 54726, 99106, 4983, 19890, 43658, 23911, 81537, 24110, 71112, 56491, 95450, 25053, 24309, 76869, 77471, 17344]  
+Disappearance from Familiar Routes, [67124, 23911, 24309]  
+Disappearance after Contacting Strangers, [99106, 19890, 43658, 24110, 24309, 76869, 17344]  
+Disappearance due to Undiagnosed Mental Illness, [4983, 43658, 56491, 95450, 81537, 71112]  
+Disappearance after Brief Encounters, [99106, 43658, 24309, 76869, 77471]

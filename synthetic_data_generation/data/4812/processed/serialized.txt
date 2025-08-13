@@ -1,0 +1,80 @@
+Disappearance Record:
+Report number: 43970
+Name: Sharon Wilson
+Date of Birth: 2015-02-14
+Sex: F
+Place of Birth: Chester
+Occupation: 
+Missing Since: 2022-01-28 00:00:00
+Date Reported Missing: 2022-01-28 18:00:00
+Day Reported Missing: Friday
+Length Missing (minutes): 6630
+When Traced: 2022-02-01 14:30:00
+Missing From Address: Nicolton Avenue,  FK2 0TP (Home)
+Traced at Address: 88 High Station Road, Falkirk, FK1 5QX
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 66782
+Name: Sharon Wilson
+Date of Birth: 2015-02-14
+Sex: F
+Place of Birth: Chester
+Occupation: 
+Missing Since: 2022-05-19 14:30:00
+Date Reported Missing: 2022-05-19 14:30:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 1848
+When Traced: 2022-05-20 21:18:00
+Missing From Address: Nicolton Avenue,  FK2 0TP (Home)
+Traced at Address: West Bridge Street, Falkirk, FK1 5AP
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 36035
+Name: Sharon Wilson
+Date of Birth: 2015-02-14
+Sex: F
+Place of Birth: Chester
+Occupation: 
+Missing Since: 2022-07-16 21:18:00
+Date Reported Missing: 2022-07-17 06:18:00
+Day Reported Missing: Sunday
+Length Missing (minutes): 6622
+When Traced: 2022-07-21 11:40:00
+Missing From Address: Nicolton Avenue,  FK2 0TP (Home)
+Traced at Address: Earl's Road, Grangemouth, FK3 8UZ
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 98859
+Name: Sharon Wilson
+Date of Birth: 2015-02-14
+Sex: F
+Place of Birth: Chester
+Occupation: 
+Missing Since: 2022-11-09 11:40:00
+Date Reported Missing: 2022-11-10 02:40:00
+Day Reported Missing: Thursday
+Length Missing (minutes): 4514
+When Traced: 2022-11-12 14:54:00
+Missing From Address: Nicolton Avenue,  FK2 0TP (Home)
+Traced at Address: Park Avenue,  FK2 9LG
+Traced by: Traced by Police
+
+Disappearance Record:
+Report number: 23352
+Name: Sharon Wilson
+Date of Birth: 2015-02-14
+Sex: F
+Place of Birth: Chester
+Occupation: 
+Missing Since: 2023-03-02 14:54:00
+Date Reported Missing: 2023-03-03 18:54:00
+Day Reported Missing: Friday
+Length Missing (minutes): 9997
+When Traced: 2023-03-09 13:31:00
+Missing From Address: Nicolton Avenue,  FK2 0TP (Home)
+Traced at Address: Earl's Road, Grangemouth, FK3 8UZ
+Traced by: Traced by Police
+

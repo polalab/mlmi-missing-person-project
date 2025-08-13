@@ -1,0 +1,5 @@
+Disorientation due to unfamiliar environments, [67425, 27894, 99205, 82192, 62657, 82925, 41663]  
+Disorientation due to navigation challenges, [99205, 82192, 62657, 82925, 41663]  
+Taking unintended routes, [99205, 82192, 62657, 82925, 41663]  
+Accidental separation from familiar locations, [75416, 88037, 76770, 9841, 44301]  
+Getting lost in public spaces, [100031, 100032, 100035, 100041]

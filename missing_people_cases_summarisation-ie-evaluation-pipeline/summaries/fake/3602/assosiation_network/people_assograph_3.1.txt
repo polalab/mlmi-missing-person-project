@@ -1,0 +1,39 @@
+Tracey Lawrence,Tom Hawkins,son,54671
+Tracey Lawrence,Sarah Davis,friend,54671
+Tracey Lawrence,Tracey Lawrence,self,54671
+Tracey Lawrence,Tracey Lawrence,self,65349
+Tracey Lawrence,Gerard Sharpe,friend,65349
+Tracey Lawrence,Tracey Lawrence,self,65349
+Tracey Lawrence,Rosie Martin,colleague,65349
+Tracey Lawrence,Tracey Lawrence,self,56245
+Tracey Lawrence,Tracey Lawrence,self,56245
+Tracey Lawrence,Tom Hawkins,son,56245
+Tracey Lawrence,Tracey Lawrence,self,41377
+Tracey Lawrence,Tom Hawkins,son,41377
+Tracey Lawrence,Tracey Lawrence,self,41377
+Tracey Lawrence,Rosie Martin,colleague,41377
+Tracey Lawrence,Tracey Lawrence,self,8828
+Tracey Lawrence,Jayne Barnes,daughter,8828
+Tracey Lawrence,Tracey Lawrence,self,8828
+Tracey Lawrence,Tracey Lawrence,self,49905
+Tracey Lawrence,Jayne Barnes,daughter,49905
+Tracey Lawrence,Sarah Davis,friend,49905
+Tracey Lawrence,Tracey Lawrence,self,24577
+Tracey Lawrence,Jayne Barnes,daughter,24577
+Tracey Lawrence,Tracey Lawrence,self,24577
+Tracey Lawrence,Tracey Lawrence,self,87912
+Tracey Lawrence,Teresa Collins,daughter,87912
+Tracey Lawrence,Tracey Lawrence,self,55049
+Tracey Lawrence,Tom Hawkins,son,55049
+Tracey Lawrence,Gail Richards,colleague,55049
+Tracey Lawrence,Tracey Lawrence,self,94237
+Tracey Lawrence,Tracey Lawrence,self,94237
+Tracey Lawrence,Rosie Martin,friend,94237
+Tracey Lawrence,Tracey Lawrence,self,100782
+Tracey Lawrence,Tracey Lawrence,self,100782
+Tracey Lawrence,son,son,100782
+Tracey Lawrence,Tracey Lawrence,self,100782
+Tracey Lawrence,Tracey Lawrence,self,100786
+Tracey Lawrence,son,son,100786
+Tracey Lawrence,daughter,daughter,100786
+Tracey Lawrence,Tracey Lawrence,self,100786

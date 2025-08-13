@@ -1,0 +1,88 @@
+Denis Stone,Clifford,friend,41166
+Denis Stone,Margaret Jordan,mother,41166
+Denis Stone,Clifford,friend,88231
+Denis Stone,son,friend,88231
+Denis Stone,friend,friend,88231
+Denis Stone,Clifford,friend,27343
+Denis Stone,friend,friend,27343
+Denis Stone,grandchild,grandchild,15483
+Denis Stone,Clifford,friend,37678
+Denis Stone,Brenda Vaughan,daughter,37678
+Denis Stone,friend,friend,25585
+Denis Stone,Rachel Burke,friend,25585
+Denis Stone,Clifford,friend,50241
+Denis Stone,Brenda Vaughan,daughter,50241
+Denis Stone,Clifford,friend,84995
+Denis Stone,Clifford,friend,25462
+Denis Stone,Raymond,friend,92132
+Denis Stone,Margaret Jordan,mother,92132
+Denis Stone,Brenda Vaughan,daughter,92132
+Denis Stone,Rachel Burke,friend,98898
+Denis Stone,Brenda Vaughan,daughter,98898
+Denis Stone,Clifford,friend,59995
+Denis Stone,friend,friend,59995
+Denis Stone,Clifford,friend,99938
+Denis Stone,Margaret Jordan,mother,99938
+Denis Stone,son,friend,99938
+Denis Stone,Clifford,friend,87259
+Denis Stone,Raymond,friend,87259
+Denis Stone,Clifford,friend,80992
+Denis Stone,Graeme Watkins,son,80992
+Denis Stone,Clifford,friend,50658
+Denis Stone,Margaret Jordan,mother,50658
+Denis Stone,Clifford,friend,1446
+Denis Stone,son,friend,1446
+Denis Stone,Clifford,friend,48167
+Denis Stone,Margaret Jordan,mother,48167
+Denis Stone,Clifford,friend,15483
+Denis Stone,Clifford,friend,93236
+Denis Stone,Margaret Jordan,mother,93236
+Denis Stone,Clifford,friend,62614
+Denis Stone,Clifford,friend,15666
+Denis Stone,Margaret Jordan,mother,15666
+Denis Stone,Clifford,friend,87849
+Denis Stone,Margaret Jordan,mother,87849
+Denis Stone,Clifford,friend,95005
+Denis Stone,Graeme Watkins,son,95005
+Denis Stone,Clifford,friend,54307
+Denis Stone,Brenda Vaughan,daughter,54307
+Denis Stone,Clifford,friend,61359
+Denis Stone,Margaret Jordan,mother,61359
+Denis Stone,Clifford,friend,23484
+Denis Stone,Clifford,friend,55024
+Denis Stone,Margaret Jordan,mother,55024
+Denis Stone,Clifford,friend,90165
+Denis Stone,Graeme Watkins,son,90165
+Denis Stone,Clifford,friend,51607
+Denis Stone,Brenda Vaughan,daughter,51607
+Denis Stone,Clifford,friend,99442
+Denis Stone,Graeme Watkins,son,99442
+Denis Stone,Clifford,friend,31188
+Denis Stone,Brenda Vaughan,daughter,31188
+Denis Stone,Clifford,friend,6928
+Denis Stone,Clifford,friend,98502
+Denis Stone,Clifford,friend,8274
+Denis Stone,Margaret Jordan,mother,8274
+Denis Stone,Clifford,friend,24717
+Denis Stone,Brenda Vaughan,daughter,24717
+Denis Stone,Clifford,friend,56797
+Denis Stone,Margaret Jordan,mother,56797
+Denis Stone,Clifford,friend,80547
+Denis Stone,Clifford,friend,72148
+Denis Stone,Raymond,friend,72148
+Denis Stone,Clifford,friend,1340
+Denis Stone,Brenda Vaughan,daughter,1340
+Denis Stone,Clifford,friend,64510
+Denis Stone,Clifford,friend,14224
+Denis Stone,Graeme Watkins,son,14224
+Denis Stone,Raymond,friend,14224
+Denis Stone,Clifford,friend,46512
+Denis Stone,Graeme Watkins,son,46512
+Denis Stone,Raymond,friend,46512
+Denis Stone,Clifford,friend,25059
+Denis Stone,Clifford,friend,57734
+Denis Stone,Clifford,friend,102163
+Denis Stone,Clifford,friend,102164
+Denis Stone,Margaret Jordan,mother,102164
+Denis Stone,Graeme Watkins,son,102165
+Denis Stone,Clifford,friend,102165

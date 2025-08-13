@@ -1,0 +1,5 @@
+Disappearance at or near a protest site, [19689]  
+Disappearance in a public area with a known last seen location, [34835]  
+Disappearance in a location with a known search location, [34835]  
+Disappearance in a location with a known safe location, [34835]  
+Disappearance in a location with a known vehicle, [19689]

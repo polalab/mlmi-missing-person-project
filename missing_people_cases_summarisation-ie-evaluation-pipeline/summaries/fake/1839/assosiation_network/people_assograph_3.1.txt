@@ -1,0 +1,13 @@
+Guy Gray,Guy's daughter,daughter,73957
+Guy Gray,estranged relatives,estranged relatives,73957
+Guy Gray,colleagues,colleague,73957
+Guy Gray,estranged relatives,estranged relatives,25956
+Guy Gray,Patrick Birch,colleague,25956
+Guy Gray,estranged relatives,estranged relatives,59390
+Guy Gray,brother,brother,59390
+Guy Gray,estranged relatives,estranged relatives,22296
+Guy Gray,estranged relatives,estranged relatives,428
+Guy Gray,Carly Short,acquaintance,428
+Guy Gray,estranged relatives,estranged relatives,76407
+Guy Gray,brother,brother,76407
+Guy Gray,Karen Lane,acquaintance,100129

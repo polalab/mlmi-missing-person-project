@@ -1,0 +1,9 @@
+father
+grandmother
+grandfather
+son
+brother
+daughter
+son
+aunt
+sister

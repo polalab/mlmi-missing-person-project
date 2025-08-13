@@ -1,0 +1,5 @@
+Disappearance via Solitary Travel, [42590, 32129, 77319, 59032, 50116]  
+Disappearance via Familiar Routes, [27902, 42645, 57089]  
+Disappearance via Unplanned Departure, [42590, 77319, 50116]  
+Disappearance via Temporary Shelter, [42590, 57089, 50116]  
+Disappearance via Escaping Domestic Violence, [32129, 77319, 50116, 92663]

@@ -1,0 +1,5 @@
+Disappearance from Familiar Locations, [63352, 31040, 55588, 8338]  
+Unplanned Wilderness Exploration, [63352, 99854]  
+Leaving Behind Important Documents, [63352, 55588, 8338]  
+Disappearance During Family Outings, [31040, 99854]  
+Impulsive Departure from a Known Location, [31040, 8338]

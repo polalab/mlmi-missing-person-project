@@ -1,0 +1,61 @@
+22623,"MP attempted to hang herself",self_harm_attempt_pattern,"MP attempted to make noose round her neck and hang from same however was quickly assisted."
+
+22623,"MP expressed interest in alternative lifestyles",hermit_lifestyle_interest_pattern,"Nicola had previously expressed interest in alternative lifestyles."
+
+22623,"MP joined a commune",commune_joining_pattern,"Colleagues believe she joined a commune due to unknown medical conditions and may be in another city."
+
+77578,"MP expressed interest in a hermit lifestyle",hermit_lifestyle_interest_pattern,"Believed to have headed to Culduthel Park, Inverness, she possibly joined a commune."
+
+77578,"MP joined a commune",commune_joining_pattern,"Believed to have headed to Culduthel Park, Inverness, she possibly joined a commune."
+
+83144,"MP expressed interest in a hermit lifestyle",hermit_lifestyle_interest_pattern,"Known for her interest in a hermit lifestyle, her foster mother reported that Nicola had expressed ideas about possibly joining a commune."
+
+83144,"MP joined a commune",commune_joining_pattern,"Concern grew when Nicola was not found at her usual spots around 35 Cranmore Drive, Inverness. After a brief search, Nicola was traced by her foster family to a secluded address at Lawers Way, a location aligned with the behavior patterns noted."
+
+55893,"MP left after disagreement",disagreement_leading_to_absence_pattern,"After a disagreement with a colleague, she left and was later traced at an address in Culduthel Road, Inverness."
+
+55893,"MP expressed interest in a hermit lifestyle",hermit_lifestyle_interest_pattern,"She was safely located and returned home by the staff."
+
+86092,"MP expressed interest in a hermit lifestyle",hermit_lifestyle_interest_pattern,"Her foster mother reported that Nicola had expressed an interest in a hermit lifestyle and possibly joining a commune."
+
+86092,"MP joined a commune",commune_joining_pattern,"Her foster mother reported that Nicola had expressed an interest in a hermit lifestyle and possibly joining a commune."
+
+7267,"MP expressed interest in alternative lifestyles",hermit_lifestyle_interest_pattern,"Loved ones became increasingly concerned due to Nicola's high-risk status. Investigations led authorities to believe that Nicola may have joined a nearby commune, as she had previously expressed interest in alternative lifestyles."
+
+7267,"MP joined a commune",commune_joining_pattern,"Loved ones became increasingly concerned due to Nicola's high-risk status. Investigations led authorities to believe that Nicola may have joined a nearby commune, as she had previously expressed interest in alternative lifestyles."
+
+20553,"MP experienced dissociative fugue episode",dissociative_fugue_episode_pattern,"Nicola Dale was last seen on Morriston Road, likely experiencing a dissociative fugue episode while expressing interest in a hermit lifestyle."
+
+20553,"MP expressed interest in a hermit lifestyle",hermit_lifestyle_interest_pattern,"Nicola Dale was last seen on Morriston Road, likely experiencing a dissociative fugue episode while expressing interest in a hermit lifestyle."
+
+62825,"MP expressed interest in alternative lifestyles",hermit_lifestyle_interest_pattern,"However, further investigations revealed Nicola was last known to be heading towards Morriston Road, suspecting she might be sheltering with acquaintances in the area."
+
+62825,"MP joined a commune",commune_joining_pattern,"However, further investigations revealed Nicola was last known to be heading towards Morriston Road, suspecting she might be sheltering with acquaintances in the area."
+
+24153,"MP experienced dissociative fugue episode",dissociative_fugue_episode_pattern,"Her foster mother, who noticed the symptoms of an unknown medical condition, became concerned when Nicola failed to arrive at their agreed meeting point at the skate park."
+
+24153,"MP expressed interest in alternative lifestyles",hermit_lifestyle_interest_pattern,"Another friend, Guy Ahmed, reported that Nicola had mentioned wanting to explore Culduthel Park in Inverness."
+
+91311,"MP experienced temporary crisis",temporary_crisis_pattern,"Reports suggest Nicola left the airport on her own and was later traced by police to an address at Blarmore Avenue."
+
+91311,"MP expressed interest in alternative lifestyles",hermit_lifestyle_interest_pattern,"Reports suggest Nicola left the airport on her own and was later traced by police to an address at Blarmore Avenue."
+
+80452,"MP expressed interest in alternative lifestyles",hermit_lifestyle_interest_pattern,"Witnesses last saw her leaving with a friend, seemingly distressed, which raised immediate concern given her unknown medical condition."
+
+80452,"MP joined a commune",commune_joining_pattern,"Witnesses last saw her leaving with a friend, seemingly distressed, which raised immediate concern given her unknown medical condition."
+
+90275,"MP expressed interest in alternative lifestyles",hermit_lifestyle_interest_pattern,"Barry mentioned that she seemed disoriented and intent on reaching the airport for undisclosed reasons."
+
+90275,"MP joined a commune",commune_joining_pattern,"Barry mentioned that she seemed disoriented and intent on reaching the airport for undisclosed reasons."
+
+100941,"MP experienced anxiety",anxiety_pattern,"Nicola, visually impaired, anxiously called Gordon Ellis at the airport for support amid confusion and needed assistance."
+
+100941,"MP expressed interest in alternative lifestyles",hermit_lifestyle_interest_pattern,"Nicola, visually impaired, anxiously called Gordon Ellis at the airport for support amid confusion and needed assistance."
+
+100942,"MP expressed interest in alternative lifestyles",hermit_lifestyle_interest_pattern,"Nicola was found alone at the airport, called by Chloe."
+
+100942,"MP joined a commune",commune_joining_pattern,"Nicola was found alone at the airport, called by Chloe."
+
+100943,"MP expressed interest in alternative lifestyles",hermit_lifestyle_interest_pattern,"Friend Guy Ahmed is concerned about the potential risks involved."
+
+100943,"MP joined a commune",commune_joining_pattern,"Friend Guy Ahmed is concerned about the potential risks involved."
